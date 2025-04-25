@@ -1,0 +1,154 @@
+# File: framework-definition.yaml
+
+depth_first_life_planning:
+  version: "April 23, 2025"
+  overview: >
+    A structured system to support high-intensity, depth-first engagement while protecting long-term sustainability.
+    It manages self-regulation (SR), emotional regulation (ER), and executive function (EF) through structured planning, recovery, and execution.
+
+  core_drives:
+    - Skill Progression
+    - Narrative Immersion
+    - Intellectual Beauty
+    - Relational Purpose
+
+  key_components:
+    dives:
+      description: >
+        Focused work or engagement sessions aligned with one or more core drives.
+      structure:
+        - Purpose and scope
+        - Entry conditions
+        - Exit triggers or recovery plan
+        - Optional companion rituals (music, location, attire)
+
+    recovery_blocks:
+      description: >
+        Low-structure time used to restore SR/ER after dives or high-load activities.
+      typical_activities:
+        - Solitude
+        - Music
+        - Walks
+        - Meditation
+        - Naps
+        - Low-stimulus media
+
+    stabilization_tasks:
+      description: >
+        Tasks that contribute to long-term system stability, often low urgency but high impact.
+      examples:
+        - Cleaning room
+        - Fixing gaming rig
+        - Organizing workspace or digital tools
+        - Improving recovery infrastructure
+
+    sustain_breaks:
+      description: >
+        Intentional low-aversion pauses to preserve momentum across extended dive cycles.
+      purpose: >
+        Not meant to fully recharge, but to delay depletion and preserve pacing.
+      examples:
+        - Sugary drink
+        - Music
+        - Light physical reset (robe change, hygiene)
+        - Ambient content
+      principle: "Recovery is for recharging. Sustain is for pacing."
+
+    post_sleep_protocol:
+      description: >
+        A protocol for recalibrating readiness and stabilizing after waking.
+      actions:
+        - Hydration
+        - Clothing change
+        - Basic hygiene (e.g., shaving, combing)
+        - Exposure to natural light or gentle movement
+        - Delay planning/decision-making until protocol completion
+      insight: >
+        Initial emotional state post-sleep is often inaccurate; post-sleep ritual corrects for that.
+
+  named_protocols:
+    wind_down_protocol_v1_1:
+      purpose: >
+        Consistent, screen-minimized transition into core sleep.
+      structure:
+        - T–2 hrs: Dimmed TV screen allowed, no phone screen, reduce room lighting
+        - T–1 hr: Full darkness except essential light; brief phone use (alarms only)
+        - Sleep onset: Poe playlist + 5mg dissolvable melatonin
+      validation:
+        - Validated as effective on April 22–23
+
+  formal_principles:
+    - name: Wind Down Protocol Effectiveness
+      description: >
+        Structured wind-down improves sleep onset and should be preserved and tracked.
+
+    - name: Missed Meds Disruption Arc
+      description: >
+        Missing meds causes predictable multiday destabilization (3+ days). Scope and emotional load should be reduced during this window.
+
+    - name: Solitude & Movement Recovery
+      description: >
+        Short recovery using solitude and movement (e.g., walks, robe changes, meditation) reliably restores SR/ER and should be prioritized post-dive or during instability.
+
+    - name: Cognitive-Social Load Requires Scaling Recovery
+      description: >
+        Short, high-intensity tasks (e.g., meetings, collaboration) demand recovery based on intensity—not just duration.
+
+  tracking_initiatives:
+    - Wind Down Protocol v1.1 effectiveness
+    - Sleep disruptions: bladder status, dreams, nap timing
+    - Confirming/disconfirming evidence for formal principles
+    - T–2 hr low-stimulus menu development
+
+  terms_and_concepts:
+    - 6-Day Edge Rule: >
+        Limit on how long full-structure optimization is sustainable while already unstable (~6 days with current system).
+    - SR Protected Work Dive (SPWD): >
+        Stabilization-first protocol for working in low-SR conditions.
+    - Wake-Up Protocol: >
+        Structured post-sleep routine for hydration, hygiene, and state recalibration before making decisions.
+
+  state_management:
+    core_framework_definition:
+      storage: framework-definition.yaml
+      location: Depth First Life Planning Framework
+      description: >
+        Includes core drives, key components, named protocols, formal principles, and terms.
+        All structural updates are reflected here.
+
+    daily_logs:
+      storage: daily-logs.yaml
+      location: Daily Logs
+      description: >
+        Daily tracking of sleep, mood, recovery, and dives; stored separately from framework definition.
+
+    work_task_backlog:
+      storage: conversational_context
+      exportable: true
+      format_options: [yaml, markdown, json]
+      description: >
+        Stored in-session for agility; can be exported on request for prioritization or archiving.
+
+    live_day_tracking:
+      storage: conversational_context
+      persistence: ephemeral_by_default
+      description: >
+        Used for in-the-moment notes (e.g. dive intentions, nap timing, energy shifts).
+        Only stored in canvas/memory upon request.
+
+    hypothesis_tracking:
+      memory_entry:
+        purpose: >
+          Tracks the fact that a hypothesis is being evaluated, including brief confirming or disconfirming notes.
+      canvas_log:
+        location: hypothesis-tracking.yaml
+        purpose: >
+          Full hypothesis details, including claim, evidence, and structured tracking data.
+
+    terms_and_concepts:
+      storage: framework-definition.yaml
+      location: terms_and_concepts
+      description: >
+        Definitions like 6-Day Edge Rule or SPWD; updated with framework changes.
+
+

@@ -1,0 +1,35 @@
+  hypothesis_tracking:
+    - name: Wind Down Protocol v1.1 is Effective
+      claim: >
+        Updated protocol reliably improves sleep onset without overstimulation.
+      confirming_evidence:
+        - Validated April 22–23
+        - Dimmed TV and Poe playlist did not interfere
+      disconfirming_evidence: []
+
+    - name: Missed Medication Causes Multiday Disruption
+      claim: >
+        Missing meds causes lowered SR/ER/EF for 3+ days.
+      confirming_evidence:
+        - Observed April 19–21 after missed dose
+      disconfirming_evidence: []
+
+    - name: Solitude + Movement are Reliable Recovery Interventions
+      claim: >
+        These consistently improve SR/ER post-dive or during fog.
+      confirming_evidence:
+        - Walks, robe changes restored state on April 16 and 23
+      disconfirming_evidence: []
+
+    - name: Cognitive/Social Load Requires Scaled Recovery
+      claim: >
+        Even short bursts of high-load tasks require proportional recovery.
+      confirming_evidence:
+        - April 16: 2-hour call needed recovery block
+      disconfirming_evidence: []
+
+    - name: Bladder May Contribute to Early Waking
+      claim: >
+        Full bladder may be causal in waking early.
+      confirming_evidence: []
+      disconfirming_evidence: []

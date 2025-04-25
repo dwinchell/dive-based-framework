@@ -1,0 +1,119 @@
+# File: daily-log.yaml
+
+daily_log:
+  april_22_2025:
+    wake_time: 07:30
+    mood_am: Stable, post-fragmented sleep
+    key_activities:
+      - Psychiatrist appointment (Klonopin approved 2x/week)
+      - Recovery-focused morning
+      - NCTA Customer Meeting (13:00–15:00)
+      - 15:15–16:15 nap
+      - Low-structure evening (relaxation, robe, self-limiting WoW session)
+      - Wind Down Protocol v1.1 at 00:15
+    sleep:
+      sleep_onset: 01:45
+      wake_time_core: 05:15
+      additional_sleep: 05:45–08:00
+      total_sleep_estimate: ~6h
+      notes: Woke from bad dream
+
+  april_23_2025:
+    wake_time: 08:00
+    mood_am: Foggy, low motivation
+    nap:
+      time: 11:00–12:00
+      duration: 1 hour
+    midday:
+      activities:
+        - Lunch
+        - Light administrative work
+      notes: Pre-dive ramp-up period
+    dives:
+      - time: 14:00
+        type: Work
+        description: Meeting with manager
+        mode: SR Protected Work Dive (SPWD)
+        outcome: Completed
+      - time: 14:45
+        type: Meeting
+        description: Additional unplanned meeting
+        outcome: Ongoing apathy, both general and work-specific
+      - time: 01:15 (April 24)
+        type: Emotional Stimulation
+        description: High-stimulus anime dive
+        outcome: Emotionally intense, may have delayed sleep onset
+    wind_down:
+      start_time: 01:15
+      protocol: Wind Down Protocol v1.1 (late)
+      medication: 0.4 mg Klonopin
+      in_bed: 02:15
+    sleep:
+      sleep_onset: 03:00
+      wake_time_core: 08:30
+      total_sleep_estimate: 5.5h
+      notes: Woke tired but functional
+
+  april_24_2025:
+    wake_time: 08:30
+    mood_am: Tired but functional
+    dives:
+      - type: Work
+        time: 09:00–10:30
+        description: Morning work dive
+        outcome: Completed
+      - type: Work
+        time: 17:30–21:30
+        description: Evening work dive (Mail system milestone)
+        outcome: Partial milestone achieved (MailHog test); Postgres check pending
+      - type: Exercise
+        time: 21:30–22:45
+        description: Strenuous exercise dive
+        outcome: Completed
+    recovery_blocks:
+      - time: 10:30–14:00
+        type: Unstructured
+        notes: Very tired, low effectiveness
+      - time: 22:45–23:40
+        type: Post-exercise recovery
+        notes: Helped decompress before wind down
+    nap:
+      time: 14:00–16:00
+      duration: 2 hours
+      notes: Ineffective lounging after; grogginess persisted
+    interventions:
+      - trigger: Wife arrived and spoke with me
+        result: Spurred to action
+      - activity: Meditation
+        result: Regained mental clarity
+      - activity: Short walk + aggressive music
+        result: Fully alert for evening work dive
+    wind_down:
+      start_time: 23:40
+      protocol: Wind Down Protocol v1.1 (with deviations)
+      medication:
+        - 1 mg Klonopin at 23:40
+        - 0.5 mg Melatonin at 01:30
+      in_bed: 01:20
+      media: Beyond All Reason (BAR)
+      media_effects:
+        intellectual_beauty: High
+        narrative_immersion: Low–Moderate
+        disengagement: Successful (stopped mid-match)
+      environment:
+        lights: Dimmed
+        tv_settings: Night mode
+      reflections:
+        - Wind down exceeded target (1h → ~1h 40m) due to hygiene, wife convo, and BAR
+        - BAR may have gone long but effectively interrupted work rumination
+        - Entered bed quite sleepy; may offset duration drift
+    sleep:
+      sleep_onset: 01:45
+      wake_time_core: 07:00 (bladder)
+      additional_sleep: 07:45–09:45 (~1.5h)
+      total_sleep_estimate: ~6h 45m
+      reflections:
+        - Felt more rested than recent days but still physically tired
+        - Fragmented sleep helped but wasn't as restorative as uninterrupted core sleep
+        - Overall improvement validates stacked protocol and sleep pressure strategy
+
