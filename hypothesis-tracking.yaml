@@ -5,39 +5,39 @@ hypothesis_tracking:
     claim: >
       Updated protocol reliably improves sleep onset without overstimulation.
     confirming_evidence:
-      1. 4/22: Wind down successful, validated effectiveness
-      2. 4/22–4/23: Dimmed TV and Poe playlist did not interfere
-      3. 4/25: Slept 7h, woke fully rested after WDP v1.1
+      - 1. 4/22: Wind down successful, validated effectiveness
+      - 2. 4/22–4/23: Dimmed TV and Poe playlist did not interfere
+      - 3. 4/25: Slept 7h, woke fully rested after WDP v1.1
     disconfirming_evidence: []
 
   - name: Missed Medication Causes Multiday Disruption
     claim: >
       Missing meds causes lowered SR/ER/EF for 3+ days.
     confirming_evidence:
-      1. 4/19–4/21: Observed lowered SR/ER/EF after missed dose
+      - 1. 4/19–4/21: Observed lowered SR/ER/EF after missed dose
     disconfirming_evidence: []
 
   - name: Solitude + Movement are Reliable Recovery Interventions
     claim: >
       These consistently improve SR/ER post-dive or during fog.
     confirming_evidence:
-      1. 4/16: Walk and robe change restored state
-      2. 4/23: Walk and meditation restored state
+      - 1. 4/16: Walk and robe change restored state
+      - 2. 4/23: Walk and meditation restored state
     disconfirming_evidence: []
 
   - name: Cognitive/Social Load Requires Scaled Recovery
     claim: >
       Even short bursts of high-load tasks require proportional recovery.
     confirming_evidence:
-      1. 4/16: 2-hour call required recovery block
+      - 1. 4/16: 2-hour call required recovery block
     disconfirming_evidence: []
 
-  - name: Bladder Contributes to Early Waking
+  - name: Bladder May Contribute to Early Waking
     claim: >
       Full bladder may be causal in waking early.
     confirming_evidence: []
     disconfirming_evidence:
-      1. 4/25: Woke naturally after 7h, no bladder trigger
+      - 1. 4/25: Woke naturally after 7h, no bladder trigger
 
   - name: Napping with Partner Improves Sleep Onset and Depth
     claim: >
