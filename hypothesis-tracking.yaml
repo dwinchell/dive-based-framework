@@ -32,7 +32,7 @@ hypothesis_tracking:
       - 1. 4/16: 2-hour call required recovery block
     disconfirming_evidence: []
 
-  - name: Bladder May Contribute to Early Waking
+  - name: Bladder Contributes to Early Waking
     claim: >
       Full bladder may be causal in waking early.
     confirming_evidence: []
