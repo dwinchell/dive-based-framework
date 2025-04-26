@@ -107,16 +107,19 @@ daily_log:
         - Wind down exceeded target (1h → ~1h 40m) due to hygiene, wife convo, and BAR
         - BAR may have gone long but effectively interrupted work rumination
         - Entered bed quite sleepy; may offset duration drift
-    sleep:
-      sleep_onset: 01:45
-      wake_time_core: 07:00 (bladder)
-      additional_sleep: 07:45–09:45 (~1.5h)
-      total_sleep_estimate: ~6h 45m
+    core_sleep:
+      parts:
+        - start: 01:45
+          end: 07:00
+          woke_because: bladder
+        - start: 07:45
+          end: 9:45
+          woke_because: alarm
+      total_sleep: 6h 45m
       reflections:
         - Felt more rested than recent days but still physically tired
         - Fragmented sleep helped but wasn't as restorative as uninterrupted core sleep
         - Overall improvement validates stacked protocol and sleep pressure strategy
-
 
   april_25_2025:
     day_start:
@@ -653,3 +656,5 @@ daily_log:
 
           The misstep was not in running the errand, but in underestimating its systemic cost and overestimating my ability to recover from it mid-day.
 
+=======
+>>>>>>> 513e61e (log 4/25/2025)
