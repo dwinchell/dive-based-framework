@@ -1,35 +1,72 @@
-  hypothesis_tracking:
-    - name: Wind Down Protocol v1.1 is Effective
-      claim: >
-        Updated protocol reliably improves sleep onset without overstimulation.
-      confirming_evidence:
-        - Validated April 22–23
-        - Dimmed TV and Poe playlist did not interfere
-      disconfirming_evidence: []
+# File: hypothesis-tracking.yaml
+# Note: Dates use MM/DD format. Year is 2025.
+hypothesis_tracking:
+  - name: Wind Down Protocol v1.1 is Effective
+    claim: >
+      Updated protocol reliably improves sleep onset without overstimulation.
+    confirming_evidence:
+      1. 4/22: Wind down successful, validated effectiveness
+      2. 4/22–4/23: Dimmed TV and Poe playlist did not interfere
+      3. 4/25: Slept 7h, woke fully rested after WDP v1.1
+    disconfirming_evidence: []
 
-    - name: Missed Medication Causes Multiday Disruption
-      claim: >
-        Missing meds causes lowered SR/ER/EF for 3+ days.
-      confirming_evidence:
-        - Observed April 19–21 after missed dose
-      disconfirming_evidence: []
+  - name: Missed Medication Causes Multiday Disruption
+    claim: >
+      Missing meds causes lowered SR/ER/EF for 3+ days.
+    confirming_evidence:
+      1. 4/19–4/21: Observed lowered SR/ER/EF after missed dose
+    disconfirming_evidence: []
 
-    - name: Solitude + Movement are Reliable Recovery Interventions
-      claim: >
-        These consistently improve SR/ER post-dive or during fog.
-      confirming_evidence:
-        - Walks, robe changes restored state on April 16 and 23
-      disconfirming_evidence: []
+  - name: Solitude + Movement are Reliable Recovery Interventions
+    claim: >
+      These consistently improve SR/ER post-dive or during fog.
+    confirming_evidence:
+      1. 4/16: Walk and robe change restored state
+      2. 4/23: Walk and meditation restored state
+    disconfirming_evidence: []
 
-    - name: Cognitive/Social Load Requires Scaled Recovery
-      claim: >
-        Even short bursts of high-load tasks require proportional recovery.
-      confirming_evidence:
-        - April 16: 2-hour call needed recovery block
-      disconfirming_evidence: []
+  - name: Cognitive/Social Load Requires Scaled Recovery
+    claim: >
+      Even short bursts of high-load tasks require proportional recovery.
+    confirming_evidence:
+      1. 4/16: 2-hour call required recovery block
+    disconfirming_evidence: []
 
-    - name: Bladder May Contribute to Early Waking
-      claim: >
-        Full bladder may be causal in waking early.
-      confirming_evidence: []
-      disconfirming_evidence: []
+  - name: Bladder Contributes to Early Waking
+    claim: >
+      Full bladder may be causal in waking early.
+    confirming_evidence: []
+    disconfirming_evidence:
+      1. 4/25: Woke naturally after 7h, no bladder trigger
+
+  - name: Napping with Partner Improves Sleep Onset and Depth
+    claim: >
+      Presence of partner during naps may facilitate faster sleep onset and deeper sleep quality.
+    confirming_evidence:
+      1. 4/25: Napped with wife, fell deeply asleep quickly
+      2. 4/26: Short nap next to partner; fell asleep quickly despite short sleep need. Failed to continue nap alone afterward, reinforcing emotional comfort effect.
+    disconfirming_evidence: []
+
+  - name: Strenuous Exercise Accelerates Sleep Debt Recovery
+    claim: >
+      Periods of strenuous exercise improve sleep that day and up to two days afterward. Day-of fatigue may be a factor. The body's response to DOMS may be a factor.
+    confirming_evidence:
+      1. 4/24: Strenuous workout (1h 45m, bpm peaked at 175, included significant calisthenics). That night slept before target at 01:45. Slept 6.75h. Felt more rested despite fragmented sleep.
+      2. 4/25: 1 day after strenuous workout. Slept before target at 01:45, woke before target at 08:45. 7h duration, felt unusually well rested, rose early despite it being a weekend.
+    mixed_evidence:
+      1. 4/14: Experienced significant DOMS from prior day workout. Higher napping behavior (possibly confirming), increased grogginess after naps (possibly disconfirming).
+
+  - name: Emotionally Comforting Experiences Accelerate Sleep Onset
+    claim: >
+      Emotional comfort (e.g., partner presence) independently accelerates falling asleep, even when other sleep conditions are suboptimal.
+    confirming_evidence:
+      1. 4/26: Short nap post-lunch and post-exercise succeeded quickly next to partner; attempt to continue napping alone failed despite similar conditions.
+    disconfirming_evidence: []
+
+  - name: Skipping WDP Does Not Always Severely Harm Sleep
+    claim: >
+      Skipping the structured Wind Down Protocol (WDP) does not always lead to poor sleep, especially if other factors (e.g., exercise fatigue, emotional relaxation) support sleep onset and depth.
+    confirming_evidence:
+      1. 4/26: Skipped WDP. Slept 6h from 03:00–09:00 after high-stimulus evening. Felt rested on waking, with vivid dreaming and minimal grogginess. Other positive factors included exercise and emotional relaxation during the day.
+    disconfirming_evidence: []
+

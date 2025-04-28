@@ -117,3 +117,262 @@ daily_log:
         - Fragmented sleep helped but wasn't as restorative as uninterrupted core sleep
         - Overall improvement validates stacked protocol and sleep pressure strategy
 
+
+  april_25_2025:
+    day_start:
+      sleep_last_night: 6h 45m
+      time: 09:45
+      energy: Tired but not exhausted
+
+    meds: taken at 9:45
+
+    activities:
+      - type: Work Dive
+        time: 09:00–12:30
+        description: Highly social, moderate cognition
+        outcome: Completed
+        SR_after: moderate
+
+      - type: Unstructured
+        time: 12:30–13:15
+        activities:
+          - Lunch
+          - Framework development
+          - Work residuals
+
+      - type: Recovery Block
+        time: 13:15–14:15
+        notes: Intentional block following unstructured lunch/work overlap
+
+      - type: Nap
+        time: 13:30–14:15
+        notes: Fell deeply asleep quickly; napped with wife, may have contributed to rapid onset and depth
+
+      - type: Work Dive
+        time: 14:30–15:30
+        description: Weekly team meeting
+        outcome: Completed
+
+      - type: Unstructured Work
+        time: 15:30–16:30
+        notes: Residual work and framework development continuation
+
+      - type: Unstructured Recovery
+        time: 16:30–00:00
+        notes: Recovery block — no structured work
+
+    core_sleep:
+      planning:
+        wind_down_target: "00:00"
+        in_bed_target: "01:00"
+        sleep_start_target: "02:00"
+        sleep_end_target: "11:00"
+        notes: "Aiming for ~9 hours of core sleep"
+      wind_down:
+        at: "00:20"
+        notes: "WDP v1.1 with BAR"
+      in_bed:
+        at: "01:20"
+        notes: "Poe playlist"
+        medication: "melatonin 5mg"
+        breathe_right_strip: no
+      core_sleep_sessions:
+        - start: "01:45"
+          end: "08:45"
+      total_core_sleep: "7h"
+      wake_reason: "natural"
+      am_energy: "fully rested"
+      note: "Finally, a good night's sleep! 7h core feels like enough today. Not working Fri eve and planning to not work all weekend may have contributed."
+
+  april_26_2025:
+    day_start:
+      sleep_last_night: 7h
+      time: 08:45
+      energy: Fully rested
+
+    meds: taken at 8:45
+
+    activities:
+      - type: Work Dive
+        time: 09:00–10:30
+        description: Framework development (Depth-First Life Planning updates)
+        stimulation: High
+
+      - type: Exercise Dive
+        time: 10:30–11:30
+        description: Strenuous exercise including prep and cooldown
+        total_exercise_time: 45 minutes
+        heart_rate_zones:
+          vigorous: 32 minutes
+          peak: 1 minute
+        goal: Maintain HR > 140 bpm for at least 20 minutes
+        outcome: Goal achieved
+        zone_classification: Vigorous
+
+      - type: Gaming Dive
+        time: Afternoon–02:00
+        description: Open-ended gaming session for hobby enjoyment and stress relief
+        outcome: Successful; played until 02:00 and considered the experience worth it
+        notes: >
+          No external obligations conflicted. Fulfilled emotional goal of decompressing, reconnecting with hobby enjoyment. Acceptable tradeoff of late sleep.
+
+    mood_notes:
+      - time: Morning
+        mood: High
+        notes: Mild cyclothymia feeling; energized and elevated mood
+
+    naps:
+      - time: 14:00–14:10
+        duration: 10 minutes
+        context: >
+          Post-lunch, post-exercise, napped next to partner.
+          Emotional comfort likely key to falling asleep quickly; post-exercise fatigue and postprandial relaxation may have contributed.
+        outcome: Fell asleep quickly and naturally.
+        post_attempt: >
+          Attempted to continue napping alone afterward, but unable to return to sleep due to wandering thoughts.
+        hypothesis_links:
+          - Napping with Partner Improves Sleep Onset and Depth (confirming)
+          - Strenuous Exercise Accelerates Sleep Debt Recovery (supporting, minor)
+
+    to_do:
+      - Refill meds: Completed
+
+    wind_down:
+      protocol_used: None (WDP skipped)
+      activities:
+        - Refilled meds
+        - Basic hygiene (brushed teeth)
+        - Poe playlist (started after getting in bed)
+      total_wind_down_time: 15 minutes (prior to bed) + passive audio during sleep onset
+      pre_wind_down_context: >
+        - High-stimulus gaming dive. Full brightness TV, lit room, mentally active state.
+        - Vigorous exercise earlier in the day (45 minutes, 32 min in vigorous HR zone).
+        - Predominantly relaxed, low-stress emotional state throughout the day due to gaming dive.
+      notes: >
+        Intentionally skipping WDP tonight to observe effects.
+        Contextual factors (exercise, gaming relaxation) may positively or negatively influence sleep onset and quality.
+        Passive Poe playlist may provide minor calming influence.
+        Valuable for hypothesis testing on necessity of structured wind-down versus cumulative day effects.
+      in_bed_time: 02:30
+
+    core_sleep:
+      start: 03:00
+      end: 09:00
+      total_sleep: 6h
+      wake_reason: Bladder likely contributed to waking
+      reflections: >
+        - Felt rested on waking; slept well despite short duration.
+        - Could have used a bit more sleep, but overall functional.
+        - Experienced long, vivid dreams, suggesting deeper sleep cycles were achieved.
+        - Overall, a pretty good result for 6 hours of sleep, especially considering skipped WDP.
+
+  april_27_2025:
+    day_start:
+      sleep_last_night: 6h
+      time: 09:00
+      energy: Rested, could have used a bit more sleep
+
+    meds: taken
+
+    activities:
+      - type: Exercise Dive
+        start_time: 09:35
+        end_time: 10:45
+        total_exercise_time: 52 minutes
+        heart_rate_zones:
+          vigorous: 26 minutes
+          peak: 8 minutes
+        description: Morning workout session
+        notes: >
+          Uncharacteristic burst of morning energy.
+          Main heart rate zone was vigorous, with a notable period in peak zone.
+          No external pressure; internally motivated. Positive anomaly.
+
+      - type: Relational Dive
+        time: Afternoon
+        participants: Mom (plus siblings, unexpectedly)
+        goals: 
+          - Enjoy relationship
+          - Support emotional wellbeing
+          - Exchange items
+          - Help with projects
+          - Identify trees together
+        outcome: >
+          Dive went great. Emotional goals were fully met.
+          Unexpectedly planted trees with mom and her siblings — created a memory that will be long-lasting.
+          Significant additional physical exertion contributed to post-dive tiredness.
+        reflections:
+          - Felt good emotionally afterward; positive bonding and support achieved.
+          - Physical fatigue from double exercise (morning workout + afternoon planting).
+          - Planting trees together was an especially meaningful and memorable experience.
+          - Presence of extended family made the dive more emotionally significant than planned.
+
+      - type: Nap
+        time: 19:30–19:45
+        duration: 15 minutes
+        context: >
+          Short nap in the car after relational dive and cumulative physical exertion.
+          Likely triggered by combination of physical fatigue and emotional decompression.
+        outcome: Brief but restorative nap.
+
+      - type: Gaming Dive
+        time: 22:00–00:00
+        description: High-stimulus gaming session
+        intent: Decompression, entertainment
+        stimulation_level: High
+        notes: >
+          Evening gaming dive focused on high-stimulus content.
+          Purpose was decompression after physically and emotionally full day.
+          Timing may affect sleep onset; monitoring outcome.
+
+    mood_notes:
+      - time: Morning
+        mood: High
+        notes: >
+          Woke with slightly elevated mood.
+          Exercise dive further increased mood and emotional energy.
+
+    physical_condition_notes:
+      - time: Morning
+        physical_state: Significant DOMS
+        notes: >
+          Experiencing noticeable delayed onset muscle soreness from previous exercise.
+          Present before today's dive; may influence later energy levels.
+
+    wind_down:
+      start_time: 00:30
+      initial_content: DUST sci-fi shorts
+      initial_outcome: >
+        Ineffective — too stimulating.
+        Each short was individually engaging and encouraged continued watching, making it hard to step down.
+      adjustment: Switched to Beyond All Reason (BAR)
+      final_content: Beyond All Reason (BAR)
+      final_outcome: >
+        More effective — familiar and less stimulating than DUST shorts.
+        Helped create the emotional and cognitive step-down needed for sleep preparation.
+      in_bed_time: 02:00
+      pre_sleep_routine:
+        - 5mg dissolvable melatonin
+        - Poe playlist started
+      notes: >
+        Executed final sleep cues (melatonin + Poe) after winding down with BAR.
+        Completed adjusted wind-down strategy after initially rocky start.
+
+    core_sleep:
+      main_sleep:
+        start: 02:30
+        end: 08:30
+        duration: 6h
+        wake_reason: Circadian pulse (natural alertness)
+      additional_sleep:
+        start: 08:30
+        end: 09:00
+        duration: 30m
+        quality: Fragmented
+      total_sleep: ~6.5h
+      reflections: >
+        Main sleep was solid despite late sleep onset.
+        Woke naturally due to circadian pulse at 8:30, consistent with past rhythm patterns.
+        Additional 30 minutes of fragmented dozing added marginal rest but not full sleep cycles.
+        Woke feeling tired this morning, likely cumulative physical load.
+
