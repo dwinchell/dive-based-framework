@@ -152,3 +152,5 @@ depth_first_life_planning:
         Definitions like 6-Day Edge Rule or SPWD; updated with framework changes.
 
 
+  user_to_ai_directives:
+    - Whenever user indicates a new day has started (e.g., starting a new daily log, reporting a new dive after sleep, mentioning that it is morning), trigger a LOUD meds reminder with every prompt until they confirm taking them. Once user confirms meds are taken, stop reminding and update the daily log accordingly. User prefers that reminders are loud and persistent but stop immediately upon confirmation.

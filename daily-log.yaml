@@ -376,3 +376,134 @@ daily_log:
         Additional 30 minutes of fragmented dozing added marginal rest but not full sleep cycles.
         Woke feeling tired this morning, likely cumulative physical load.
 
+  april_28_2025:
+    day_start:
+      sleep_last_night: ~6h 30m
+      time: 09:00
+      energy: Tired
+
+    meds: taken
+
+    activities:
+      - type: Work Dive
+        time: 09:30–11:00
+        description: First work session of the day
+        notes: >
+          Moderate intensity. Executed despite baseline physical tiredness and DOMS.
+
+      - type: Unstructured Block
+        time: 11:00–12:00
+        activities:
+          - Planning
+          - Lunch
+          - AI experimentation
+          - Dive Framework thinking
+        notes: >
+          Light cognitive work combined with meal.
+          In retrospect, activities during this block were too analytical and creative, preventing true recovery between work dives.
+
+      - type: Work Dive
+        time: 12:00–14:00
+        description: Second work session
+        notes: >
+          Dive executed post-lunch. Cognitive load accumulated heavily by the end.
+          Brain engaged continuously for ~4.5 hours total across both dives and planning.
+          Experienced significant depletion at end of second dive.
+
+      - type: Nap
+        time: 17:30–19:00
+        duration: 1h 30m
+        context: >
+          Post-dinner nap following significant cognitive exertion.
+          Deliberate or natural recovery response to accumulated brain fatigue and DOMS.
+        outcome: Good nap; helped restore physical and cognitive energy.
+
+      - type: Recovery Block
+        time: 19:00–19:10
+        activities:
+          - Cold water on head/face
+          - Upbeat music
+          - Short walk
+        outcome: >
+          Successfully countered post-nap grogginess.
+          Full alertness restored within 10 minutes.
+
+      - type: Recovery Block
+        time: ~19:20–19:25
+        activities:
+          - Breathing exercises
+          - Light stretching
+          - Meditation in sunlight
+        outcome: >
+          Further elevated readiness beyond initial recovery.
+          Created an optimal baseline for evening work dive.
+
+      - type: Work Dive
+        time: 19:30–22:00
+        description: Evening work session
+        activities:
+          - Reacting to coworker's comments
+          - Performing calculations
+          - Pair working session with a familiar and compatible coworker
+        outcome: >
+          Long but productive dive (~2.5h).
+          Positive collaboration contributed to sustained focus.
+
+      - type: Relational Dive
+        time: 22:00–00:30
+        participants: Family
+        activities:
+          - Watching a stimulating medical drama together
+        outcome: >
+          Emotional connection achieved. 
+          High-stimulus content may have impacted sleep onset.
+
+    mood_notes:
+      - time: Morning
+        mood: Slightly High
+        notes: >
+          Woke with slightly elevated mood.
+          Emotional state positive despite physical tiredness.
+
+    physical_condition_notes:
+      - time: Morning
+        physical_state: Significant DOMS
+        notes: >
+          Ongoing delayed onset muscle soreness from prior days' exercise and tree planting.
+      - time: Night
+        condition: Right elbow pain onset
+        notes: >
+          Unclear if related to earlier physical exertion, sleep position, or cumulative strain.
+    wind_down:
+      start_time: 00:30
+      intended_strategy: >
+        Initiate standard wind-down after relational dive.
+        Goal was gradual cognitive and emotional deceleration toward sleep.
+      actual_outcome: >
+        Got stuck watching YouTube videos on phone between 00:30–01:30.
+        High-stimulus content prolonged cognitive activation.
+        Wind-down was largely ineffective during this window.
+      adjustment: >
+        After initial disruption, initiated a second wind-down effort: a 30-minute minimal bedtime routine (brushing teeth, basic hygiene).
+        Helped partially reset cognitive state and support transition into bed.
+      notes: >
+        Failure to shift environment or reduce stimulus cues likely contributed.
+        Remaining in a stimulation-associated environment (phone use, bright screen) encouraged continued input-seeking behavior rather than disengagement.
+      target_in_bed_time: 01:00
+      in_bed_time: 02:00
+      pre_sleep_routine:
+        - Started Poe playlist
+        - Took 5mg dissolvable melatonin
+
+    sleep:
+      target_sleep_onset: 02:00
+      sleep_onset: 02:15
+      wake_time_core: 09:45 (natural waking, no bladder or alarm)
+      additional_sleep: 09:45–10:15 (Sleep Inertia Phase)
+      total_sleep_estimate: ~7h 30m
+      reflections:
+        - Sleep onset delayed by disrupted wind-down but not catastrophically.  Lack of winddown and high stimulus and light levels within 30 min of target sleep time pushed onset time back by 15 min but did not disrupt sleep quality. Suggests that I can get away with these things under certain conditions (no other sleep-impairing situations, and no required target wakeup time). Negative evidence for any related ongoing hypotheses. Want to avoid risking it in the future.
+        - Main sleep was adequate in total duration due to no need to wake up early.
+        - Woke naturally without bladder or alarm trigger.
+        - Final 30 minutes characterized by Sleep Inertia Phase: conscious but not fully alert, body still felt heavy and comfortable, pleasant.
+
