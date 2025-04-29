@@ -33,15 +33,6 @@ depth_first_life_planning:
         - Naps
         - Low-stimulus media
 
-    stabilization_tasks:
-      description: >
-        Tasks that contribute to long-term system stability, often low urgency but high impact.
-      examples:
-        - Cleaning room
-        - Fixing gaming rig
-        - Organizing workspace or digital tools
-        - Improving recovery infrastructure
-
     sustain_breaks:
       description: >
         Intentional low-aversion pauses to preserve momentum across extended dive cycles.
@@ -53,6 +44,26 @@ depth_first_life_planning:
         - Light physical reset (robe change, hygiene)
         - Ambient content
       principle: "Recovery is for recharging. Sustain is for pacing."
+
+    stabilization_tasks:
+      description: >
+        Tasks that contribute to long-term system stability, often low urgency but high impact.
+      examples:
+        - Cleaning room
+        - Fixing gaming rig
+        - Organizing workspace or digital tools
+        - Improving recovery infrastructure
+
+  named_protocols:
+    wind_down_protocol_v1_1:
+      purpose: >
+        Consistent, screen-minimized transition into core sleep.
+      structure:
+        - T–2 hrs: Dimmed TV screen allowed, no phone screen, reduce room lighting
+        - T–1 hr: Full darkness except essential light; brief phone use (alarms only)
+        - Sleep onset: Poe playlist + 5mg dissolvable melatonin
+      validation:
+        - Validated as effective on April 22–23
 
     post_sleep_protocol:
       description: >
@@ -66,16 +77,44 @@ depth_first_life_planning:
       insight: >
         Initial emotional state post-sleep is often inaccurate; post-sleep ritual corrects for that.
 
-  named_protocols:
-    wind_down_protocol_v1_1:
+    report_writing_protocol:
+      description: >
+        Structured approach for writing reports efficiently while managing executive function, emotional regulation, and momentum.
+    
+      phases:
+        - phase: Pre-Dive Planning
+          steps:
+            - Plan two main dives for the report task.
+            - Define "good enough" criteria to consider the report complete.
+            - Establish clear milestones to create logical stopping points.
+    
+        - phase: First Dive
+          purpose: >
+            Reduce anxiety, build momentum, and set up easier second dive.
+          activities:
+            - Create an outline.
+            - Triage key sections.
+            - Begin easiest sections of writing first.
+    
+        - phase: Second Dive
+          purpose: >
+            Fill in core content based on the structure and momentum created in the first dive.
+          activities:
+            - Expand on outline sections.
+            - Complete primary body text.
+    
+        - phase: Additional Dives (if needed)
+          notes: >
+            Only add additional dives if necessary to polish, revise, or complete remaining sections.
+    
+      guidelines:
+        - Take opportunities to write sections when they feel easy, even if out of order.
+        - Avoid spending excessive time perfecting any single section.
+        - Plan significant recovery breaks between writing dives.
+        - Use sustain breaks proactively during long writing dives to preserve pacing and prevent burnout.
+    
       purpose: >
-        Consistent, screen-minimized transition into core sleep.
-      structure:
-        - T–2 hrs: Dimmed TV screen allowed, no phone screen, reduce room lighting
-        - T–1 hr: Full darkness except essential light; brief phone use (alarms only)
-        - Sleep onset: Poe playlist + 5mg dissolvable melatonin
-      validation:
-        - Validated as effective on April 22–23
+        Maintain emotional momentum, reduce aversion, optimize flow, and ensure high-quality output without unnecessary executive function depletion.
 
   formal_principles:
     - name: Wind Down Protocol Effectiveness
