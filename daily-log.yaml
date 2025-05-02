@@ -507,3 +507,149 @@ daily_log:
         - Woke naturally without bladder or alarm trigger.
         - Final 30 minutes characterized by Sleep Inertia Phase: conscious but not fully alert, body still felt heavy and comfortable, pleasant.
 
+  april_30_2025:
+    day_start:
+      core_sleep_last_night: ~5h 30m
+      sleep_last_night: ~6h 30m
+      time: 08:35
+      energy: Tired
+
+    meds: taken at 08:30
+
+    activities:
+      - type: Unstructured Block
+        time: 11:00–(ongoing)
+        description: Lunch preparation
+        notes: >
+          Transitioning out of high-stimulation gaming session.
+          Preparing lunch may serve as a gentle pivot toward recovery or eventual nap attempt.
+
+      - type: Recovery Block
+        time: Late morning
+        description: Walk
+        outcome: >
+          Anxiety reduced noticeably during walk.
+          Emotional regulation improved.
+
+      - type: Work Dive
+        time: 11:00–16:00
+        description: Extended presales-focused work session
+        segments:
+          - duration: 1h
+            focus: Capturing ideas for Pre-Sales Tiger Team
+            notes: Stimulated post-walk; used writing to capture ideation burst.
+          - duration: 3h (12:00–15:00)
+            focus: Ardian presales meetings and analysis
+            notes: Sustained cognitive effort preparing for and following up on Ardian-related presales work.
+          - duration: 1h (15:00–16:00)
+            focus: Pre-Sales Tiger Team follow-up
+            notes: Returned to strategic planning and idea refinement. Creative energy still present but SR/EF now notably depleted.
+
+      - type: Nap
+        time: 17:30–20:00
+        duration: 2h 30m
+        context: >
+          Followed an extended 5-hour work dive without structured recovery.
+          Likely triggered by accumulated SR/EF depletion.
+        outcome: >
+          Substantial nap duration suggests significant recovery need.
+          May impact sleep onset timing tonight.
+          Important to monitor mood, SR/ER restoration, and wind-down effectiveness later.
+
+      - type: Work Touch Ritual
+        time: 22:30-23:00
+        description: CER Touch Protocol
+        protocol_details:
+          - Set 2-minute timer
+          - Open CER document
+          - Write at least one word
+          - Observe contents for full duration
+          - No obligation to continue
+        intent: >
+          Reduce anxiety and avoidance.
+          Re-establish cognitive familiarity with the document.
+          Prime the nervous system for deeper engagement later.
+        outcome: >
+          Protocol succeeded in reducing anxiety and avoidance.
+          Continued briefly past 2-minute timer and created a structured outline with inline to-dos.
+          This will lower the activation energy for the next dive.
+
+      - type: Gaming Dive
+        time: 23:30–01:30
+        game: EVE Online
+        stimulation_level: Moderate
+        description: Intentional low-EF, high-agency dive
+        outcome: >
+          Matched intended criteria: active participation without significant creative or executive load.
+          Numbers went up. Rocks were shot. Eventually disengaged naturally.
+          Served as gentle deceleration dive before sleep.
+
+    in_bed:
+      time: 01:30
+      notes: >
+        Transitioned directly to bed after gaming session.
+        No high-stimulus residue reported.
+
+    sleep:
+      sleep_onset: ~02:30
+      pre_sleep_audio: Beyond All Reason (BAR)
+      wake_time_core: 08:00 (woke from bad dream, fighting theme)
+      additional_sleep: 08:00–09:00 (fragmented, ended due to full bladder)
+      total_sleep_estimate: ~6h 30m
+      reflections: >
+        Long delay to sleep onset despite relaxing content (BAR).
+        Core sleep disrupted by emotionally intense dream.
+        Final hour was fragmented; full rest not achieved.
+        Sleep pressure likely reduced but not fully reset.
+        Morning SR may be compromised; recovery pacing advised.
+
+    mood_notes:
+      - time: 11:00
+        mood: Low
+        emotional_state: Anxious
+        medication_context: >
+          0.5mg Klonopin taken at 09:00.
+          Still feeling physiological effects, but anxiety and low mood persisted.
+        notes: >
+          Mood not significantly improved despite partial chemical dampening.
+          Suggests underlying emotional/neurological load not fully resolved by medication alone.
+
+    physical_condition_notes:
+      - time: Morning
+        update_type: Recovery
+        condition: DOMS
+        notes: DOMS no longer present.
+
+      - time: Evening
+        update_type: Resolution
+        condition: Right elbow
+        notes: Elbow injury from earlier this week has fully healed.
+
+    reflections:
+      - time: Evening
+        notes: >
+          Attempted a light jog but had to abort due to minor foot injury.
+          The issue wasn't inability to push through — it was that this level of activity used to be harmless.
+          Realization: my body is now more vulnerable to minor injury from things that once felt like warmups.
+          Grieving that change — it's not about effort or toughness, but about recognizing shifting physiological limits.
+
+      - time: Retrospective on April 30
+        notes: >
+          Tuesday (4/29) was a perfect opportunity for writing: I was well rested, the calendar was clear, and I had strong intention.
+          I knew in advance that the DAS CER needed attention and that this window was critical in the context of the week’s workload.
+
+          An unexpected errand emerged that morning.
+          I did attempt to minimize disruption by preserving a contiguous block in the evening, but I underestimated the emotional regulation (ER) cost of the errand.
+          The errand had social friction and uncertainty, which drained SR more than I expected.
+
+          In retrospect, I could have deferred the errand to the following morning.
+          That would have required:
+            - Recognizing how critical the day was in context
+            - Spending EF to coordinate with my partner and the vendor
+            - Managing my emotions about my partner’s recovery needs
+            - Possibly accepting minor financial cost
+
+          It was doable — but I didn’t give myself permission to make that tradeoff or pause long enough to see it as a justifiable move.
+
+          The misstep was not in running the errand, but in underestimating its systemic cost and overestimating my ability to recover from it mid-day.
+

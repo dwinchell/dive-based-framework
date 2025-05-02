@@ -132,6 +132,13 @@ depth_first_life_planning:
     - name: Cognitive-Social Load Requires Scaling Recovery
       description: >
         Short, high-intensity tasks (e.g., meetings, collaboration) demand recovery based on intensity—not just duration.
+    - name: Protect Critical Days From Optional Interference
+      description: >
+        When a day is especially valuable for high-priority work, proactively defend it from emotionally or logistically expensive tasks, even if those tasks seem manageable.
+        This includes errands, social obligations, and emotionally charged coordination.
+        Critical day protection may require additional planning, emotional labor, or modest costs—but the benefit to core task momentum is worth the trade.
+        Pause to evaluate whether a proposed task undermines the day’s potential, especially when planning around high-stakes projects.
+
 
   tracking_initiatives:
     - Wind Down Protocol v1.1 effectiveness
@@ -192,4 +199,7 @@ depth_first_life_planning:
 
 
   user_to_ai_directives:
-    - Whenever user indicates a new day has started (e.g., starting a new daily log, reporting a new dive after sleep, mentioning that it is morning), trigger a LOUD meds reminder with every prompt until they confirm taking them. Once user confirms meds are taken, stop reminding and update the daily log accordingly. User prefers that reminders are loud and persistent but stop immediately upon confirmation.
+    ai_directives:
+  - Whenever you start or encounter a daily log for the current day, remind me loudly with every prompt to take my meds until I have done so.
+  - Whenever I tell you anything indicating a new day has started (e.g., starting a new daily log, reporting a new dive after sleep, mentioning that it is morning), remind me loudly with every prompt to take my meds until I have confirmed taking them. Update the log when I say I took them.
+
