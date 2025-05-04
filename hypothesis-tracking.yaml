@@ -5,31 +5,31 @@ hypothesis_tracking:
     claim: >
       Updated protocol reliably improves sleep onset without overstimulation.
     confirming_evidence:
-      - 1. 4/22: Wind down successful, validated effectiveness
-      - 2. 4/22–4/23: Dimmed TV and Poe playlist did not interfere
-      - 3. 4/25: Slept 7h, woke fully rested after WDP v1.1
+      1. 4/22: Wind down successful, validated effectiveness
+      2. 4/22–4/23: Dimmed TV and Poe playlist did not interfere
+      3. 4/25: Slept 7h, woke fully rested after WDP v1.1
     disconfirming_evidence: []
 
   - name: Missed Medication Causes Multiday Disruption
     claim: >
       Missing meds causes lowered SR/ER/EF for 3+ days.
     confirming_evidence:
-      - 1. 4/19–4/21: Observed lowered SR/ER/EF after missed dose
+      1. 4/19–4/21: Observed lowered SR/ER/EF after missed dose
     disconfirming_evidence: []
 
   - name: Solitude + Movement are Reliable Recovery Interventions
     claim: >
       These consistently improve SR/ER post-dive or during fog.
     confirming_evidence:
-      - 1. 4/16: Walk and robe change restored state
-      - 2. 4/23: Walk and meditation restored state
+      1. 4/16: Walk and robe change restored state
+      2. 4/23: Walk and meditation restored state
     disconfirming_evidence: []
 
   - name: Cognitive/Social Load Requires Scaled Recovery
     claim: >
       Even short bursts of high-load tasks require proportional recovery.
     confirming_evidence:
-      - 1. 4/16: 2-hour call required recovery block
+      1. 4/16: 2-hour call required recovery block
     disconfirming_evidence: []
 
   - name: Bladder Contributes to Early Waking
@@ -37,7 +37,7 @@ hypothesis_tracking:
       Full bladder may be causal in waking early.
     confirming_evidence: []
     disconfirming_evidence:
-      - 1. 4/25: Woke naturally after 7h, no bladder trigger
+      1. 4/25: Woke naturally after 7h, no bladder trigger
 
   - name: Napping with Partner Improves Sleep Onset and Depth
     claim: >
@@ -69,4 +69,13 @@ hypothesis_tracking:
     confirming_evidence:
       1. 4/26: Skipped WDP. Slept 6h from 03:00–09:00 after high-stimulus evening. Felt rested on waking, with vivid dreaming and minimal grogginess. Other positive factors included exercise and emotional relaxation during the day.
     disconfirming_evidence: []
+
+  - name: Strenuous Exercise Accelerates Sleep Debt Recovery
+    claim: >
+      Periods of strenuous exercise improve sleep that day and up to two days afterward. Day-of fatigue may be a factor. The body's response to DOMS may be a factor.
+    confirming_evidence:
+      1. 4/24: Strenuous workout (1h 45m, bpm peaked at 175, included significant caltesthenics). That night I slept before target at 01:45. Slept 6.75h. Relt more rested than recently despite fragmented sleep (partially due to duration.
+      2. 4/25: 1 day after after strenuous workout. Slept before target at 1:45. Woke before target at 8:45. 7h duration is higher than recent. Felt unusually well rested afterward. Rose early despite it being a weekend morning. Woke experiencing moderate DOMS. Mood is high.
+    mixed_evidence:
+      1. 4/14: Experienced significant DOMS from prior day workout. Higher napping behavior (possibly confirming). jncreased grogginess after naps (possibly disconfirming). Perceived need for longer sleep or passive recovery behavior. (could be good or bad).
 

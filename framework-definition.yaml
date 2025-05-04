@@ -156,6 +156,9 @@ depth_first_life_planning:
     - Wake-Up Protocol: >
         Structured post-sleep routine for hydration, hygiene, and state recalibration before making decisions.
 
+  ai_directives:
+    - Whenever you start or encounter a daily log for the current day, remind me loudly with every prompt to take my meds until I have done so.
+
   state_management:
     core_framework_definition:
       storage: framework-definition.yaml
