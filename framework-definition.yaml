@@ -57,6 +57,7 @@ depth_first_life_planning:
   named_protocols:
 
     post_sleep_protocol:
+      version: v2
       abbreviation: PSP
       description: >
         A protocol for recalibrating readiness and stabilizing after waking.
@@ -116,7 +117,7 @@ depth_first_life_planning:
         Maintain emotional momentum, reduce aversion, optimize flow, and ensure high-quality output without unnecessary executive function depletion.
 
     wind_down_protocol:
-      version: 1.2
+      version: v2
       abbreviation: WDP
       description: >
         Structured wind-down improves sleep onset and should be preserved and tracked.
