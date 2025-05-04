@@ -65,15 +65,17 @@ depth_first_life_planning:
         Can be shortened to partial if there is a pressing task.
         Probably takes between 5-30 min depending on number of actions taken.
       actions:
+        - Delay planning/decision-making until protocol completion
         - Hydration
         - Food if hungry
         - Clothing change to next activity if needed
         - Wet head and face
         - Basic hygiene (e.g., combing, shaving)
         - Exposure to natural light
-        - Short walk or other physical activity
-        - Meditate if there is time
-        - Delay planning/decision-making until protocol completion
+        - Breathing exercises
+        - Physical movement - stretching, short walk, etc.
+        - Music
+        - Meditate
       insight: >
         Initial emotional state post-sleep is often inaccurate; post-sleep ritual corrects for that.
 
