@@ -55,25 +55,23 @@ depth_first_life_planning:
         - Improving recovery infrastructure
 
   named_protocols:
-    wind_down_protocol_v1_1:
-      purpose: >
-        Consistent, screen-minimized transition into core sleep.
-      structure:
-        - T–2 hrs: Dimmed TV screen allowed, no phone screen, reduce room lighting
-        - T–1 hr: Full darkness except essential light; brief phone use (alarms only)
-        - Sleep onset: Poe playlist + 5mg dissolvable melatonin
-      validation:
-        - Validated as effective on April 22–23
 
     post_sleep_protocol:
       abbreviation: PSP
       description: >
         A protocol for recalibrating readiness and stabilizing after waking.
+        Can be used after a nap, or as a wake-up routine after core sleep.
+        Can be shortened to partial if there is a pressing task.
+        Probably takes between 5-30 min depending on number of actions taken.
       actions:
         - Hydration
-        - Clothing change
-        - Basic hygiene (e.g., shaving, combing)
-        - Exposure to natural light or gentle movement
+        - Food if hungry
+        - Clothing change to next activity if needed
+        - Wet head and face
+        - Basic hygiene (e.g., combing, shaving)
+        - Exposure to natural light
+        - Short walk or other physical activity
+        - Meditate if there is time
         - Delay planning/decision-making until protocol completion
       insight: >
         Initial emotional state post-sleep is often inaccurate; post-sleep ritual corrects for that.
@@ -117,17 +115,34 @@ depth_first_life_planning:
       purpose: >
         Maintain emotional momentum, reduce aversion, optimize flow, and ensure high-quality output without unnecessary executive function depletion.
 
-    wind_down_protocol_v1_1:
-      abbreviation: WDP v1.1
+    wind_down_protocol:
+      version: 1.2
+      abbreviation: WDP
       description: >
         Structured wind-down improves sleep onset and should be preserved and tracked.
       strategy: >
-        Consistent, screen-minimized transition into core sleep.
-      structure:
-        - T–2 hrs: Dimmed TV screen allowed, no phone screen, reduce room lighting
-        - T–1 hr: Full darkness except essential light; brief phone use (alarms only)
-        - Sleep onset: Poe playlist + 5mg dissolvable melatonin
-
+        Consistent, screen-minimized transition into core sleep with phased step-down of stimulus.
+      phases:
+        initial_winddown:
+          - Begins 2h before target sleep onset.
+          - Dim screens only. TV with lowered brightness is ok. Phone and monitor screens are not except for very brief periods (i.e. set alarm.
+          - Reduce ambient light
+          - Limit water consumption
+          - Lower stimulus activities. Step down from prior stimulating activities (high to medium or medium to low).
+          - Perform bedtime routine tasks (brush teeth, shower, etc.)
+        bedtime:
+          - Begins 1h before target sleep onset.
+          - Full darkness except essential light; very brief phone use ony (alarms and tracking)
+          - Close bedroom door
+          - Wear FitBit for tracking
+          - Short stretch and breathing
+          - Remember one positive thing about the day to reduce any anxiety
+          - Get in bed
+          - Melatonin
+          - Sleep mask
+          - Breathe Right strip
+          - Soothing background sounds that are low to very-low stimulus (playlists, isochronic tones, whitenoise, etc.)
+          
   formal_principles:
     - name: Missed Meds Disruption Arc
       description: >

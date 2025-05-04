@@ -1,0 +1,134 @@
+kind: Daily Log
+date: 5/3/2025
+
+day_start:
+  core_sleep_last_night: 7h
+  sleep_last_night: 9h 15m
+  time: 12:45
+  energy: Fully rested
+
+meds: taken at 12:50
+
+activities:
+  - type: Post-Sleep Protocol
+    time: 12:50–~13:30
+    description: >
+      Groggy on waking despite full rest.
+      Deferring assessments and decisions until completing Post-Sleep Protocol (PSP) to recalibrate emotional and cognitive state.
+
+  - type: Planning
+    time: 13:00
+    description: Updated daily log and defined todo list      
+
+  - type: State Check-In
+    time: Post-PSP (~13:30)
+    energy: Alert
+    mood: Motivated and determined
+    emotional_state:
+      - Slight anxiety about running out of SR
+      - Concern about missing time-sensitive non-work items due to prior SR depletion
+    notes: >
+      Post-PSP recalibration successful — significant improvement in energy and mood.
+      Determination to engage is present, but undercut slightly by awareness of limited SR reserves and pressure to recover lost time.
+
+  - type: Work Dive
+    time: 14:00–16:00
+    description: >
+      Focused writing session (~2h). Significant progress made on work task.
+      Dive was productive and well-paced, contributing to both output and confidence.
+    reflections: >
+      Emotional state improved post-dive.
+      Positive momentum helped ease earlier anxiety about lost time and SR scarcity.
+
+  - type: Exercise Dive
+    time: 16:00–17:00
+    description: >
+      1-hour physical training session. Initiated as a proactive SR recovery strategy.
+      Intention was to support cognitive and emotional restoration post-work dive.
+    reflections: >
+      Physical activity was sustained and deliberate.
+      Aimed to shift internal state toward greater long-term resilience.
+
+  - type: Meal
+    time: 17:00
+    context: Lunch out
+    description: >
+      Chose to go out for lunch instead of defaulting to delivery.
+      Viewed as a positive deviation from usual pattern, with potential benefits for mood, environment, and executive function.
+
+  - type: State Check-In
+    time: ~17:30
+    mood: High
+    energy: Creative
+    notes: >
+      Feeling uplifted and creatively energized post-exercise and lunch out.
+      Strong drive to engage — risk of misdirected hyperfocus is present.
+      Intentional focus is needed to channel energy toward high-priority report work instead of burning EF on lower-impact tasks.
+
+  - type: Physical State
+    time: ~17:30
+    notes: >
+      Noticed knee discomfort post-run.
+      Likely due to quad tightness or impact-related strain.
+      May require immediate attention to prevent compounding fatigue or interference with sleep.
+    symptoms:
+      - Knee pain (post-run)
+    intended_actions:
+      - Use roller on quads
+
+  - type: Work Dive
+    time: 17:30–19:30
+    description: >
+      Extended writing dive focused on report.
+      Maintained momentum and focus throughout.
+      Effectively channeled high-energy state into meaningful output.
+
+  - type: Work Dive
+    time: 20:00–22:45
+    description: >
+      Final push to complete report.
+      Finished writing, sent out deliverable, and created summary slides.
+      Strong execution block with high focus and closure.
+    reflections: >
+      Successfully met major work objective for the day.
+      Dive wrapped up on a note of accomplishment and follow-through.
+
+  - type: Gaming Dive
+    time: 23:00–02:45
+    game: EVE Online
+    description: >
+      Intended as a gentle wind-down, but evolved into a full dive.
+      Gameplay remained low-stimulus and relaxing in a dim environment.
+      Strong engagement driven by AI-based tutorial progression and steady learning loop.
+      Dive was enjoyable but extended later than ideal for sleep timing.
+
+in_bed:
+  time: 03:15
+  wind_down:
+    time: 02:45–03:15
+    description: >
+      Basic bedtime routine executed after extended gaming dive.
+      No additional structured wind-down protocol; minimal prep before sleep onset.
+    medication: 5mg melatonin
+    breathe_right_strip: Yes
+    hydration_status: Slightly low (no significant intake in last few hours)
+    audio_environment: BetterSleep app (replacing Poe playlist)
+
+pre_sleep_boosters:
+  actions:
+    - Light lower body stretching (quads, hamstrings, calves)
+    - Deep breathing / short body scan
+    - Brief positive recall (1–2 good things from the day)
+  notes: >
+    Implemented simple recovery strategies to offset screen exposure, late timing, and mild dehydration.
+    Aimed at promoting physical relaxation, parasympathetic activation, and emotional calm before sleep.
+
+sleep:
+  core_sleep:
+    start: 03:30
+    end: 09:00
+    duration: 5h 30m
+    wake_reason: Natural wake-up
+    reflections: >
+      Woke naturally at 09:00 sharp.
+      Felt physically rested when woke in bed. After getting up, foggy and slight headache
