@@ -1,0 +1,123 @@
+kind: Daily Log
+date: 5/4/2025
+
+day_start:
+  time: 09:00
+  core_sleep_last_night: 5h30m
+  sleep_last_night: 5h30m
+  energy: Physically rested but mentally foggy with slight headache
+
+meds: taken at 09:15
+
+activities:
+  - type: Sustain Block
+    time: 09:00–09:15
+    description: >
+      Refilled weekly medicine organizer.
+      Contributes to long-term stability and reduces risk of missed doses.
+
+  - type: Planning Block
+    time: 09:15–10:15
+    description: >
+      Updated framework definition and version-controlled the daily log.
+      Strengthens consistency, reflection, and self-regulation infrastructure for the day ahead.
+
+  - type: Post-Sleep Protocol
+    time: 10:15–11:00
+    description: >
+      Completed PSP v2. Included hydration, clothing change, wetting face, hygiene, and light movement.
+      Functioned as a full recovery block — helped stabilize mood and cognitive state.
+
+  - type: Environmental Maintenance
+    time: 11:05–11:45
+    description: >
+      Completed cat litter and trash tasks, and made partial progress on cardboard recycling and laundry.
+      Session triggered noticeable SR crash within 5 minutes. Became irritable and experienced hunger.
+      Light breakfast (small yogurt drink) likely insufficient; drank an Ensure to compensate.
+      Lack of sleep also contributed to reduced resilience and heightened sensitivity.
+    outcome: >
+      Despite physical and emotional resistance, completed high-aversion tasks by pushing through discomfort.
+      OCD-related stress (dust exposure, brushing surfaces) compounded load but was managed through planned shower.
+
+  - type: Recovery Block
+    time: 11:45–12:10
+    description: >
+      Full shower to reset physical and emotional state after stressful environmental maintenance block.
+      Aimed at relieving sensory discomfort, OCD tension, and SR depletion.
+      Served as effective transition into a more stable and regulated internal state.
+
+  - type: State Check-In
+    time: 11:00
+    energy: Refreshed but foggy
+    mood: Relaxed
+    physical_state: >
+      Slight headache, likely from limited sleep.
+    notes: >
+      PSP was effective in stabilizing state. Emotional and physical systems feel rebalanced,
+      but cognitive clarity still lagging — probable result of 5.5h sleep duration.
+
+  - type: Call
+    time: ~12:15
+    description: >
+      Called Mom. Brief check-in. Provided minor emotional boost and sense of follow-through.
+      No major stressors or updates.
+
+  - type: Nap
+    time: 13:00–15:00
+    sleep_duration: 1h 30m
+    hypnagogia: 30m
+    description: >
+      Initiated nap to recover from physical exertion and SR depletion after morning chores and emotional strain.
+      Slept soundly for ~1.5 hours, followed by a 30-minute hypnagogic state — conscious but not alert.
+      Hypnagogic period did not feel like true sleep but likely provided partial restoration through rest and sensory disengagement.
+
+  - type: Post-Sleep Protocol
+    time: 15:30
+    description: >
+      Partial execution of PSP v2 following nap and hypnagogic rest period.
+      Included: hydration, deep breathing, wetting head and face, light stretching, and a short walk.
+      Omitted other components (meditation, etc.).
+      Helped reestablish basic physical and cognitive readiness.
+      Plan to revise PSP in future version (v3) to distinguish core vs optional elements.
+
+  - type: Substance Log
+    time: 15:45
+    substance: Caffeine
+    amount: 25mg
+    source: Energy bar (unintentional)
+    description: >
+      Accidentally consumed ~25mg of caffeine via an energy bar without realizing it contained stimulants.
+      Intake was unintentional and occurred post-nap during recovery window.
+      May impact sleep onset or interact with current SR state depending on timing and sensitivity.
+
+  - type: Relational Dive
+    time: 15:45–17:30
+    description: >
+      Went to dinner at a new restaurant with wife.
+      Served as both quality time and decompression after earlier SR challenges.
+      Environment was novel but not overwhelming; contributed positively to emotional connection and mood regulation.
+
+  - type: Gaming Dive
+    time: 18:20–02:00
+    game: EVE Online
+    milestone: Find a shiny and sell it
+    description: >
+      Long-duration gaming session with moderate engagement. 
+      Wind-down began passively toward the end of the session as stimulation tapered.
+      Pushed sleep back 30m from nominal target onset of 2:00
+
+  - type: Wind Down
+    time: ~01:30–02:00
+    description: >
+      Passive wind-down mixed into final gaming stretch. Didn't completely follow WDP for the first phase, but completed all phase 2 (bed time) tasks.
+      Transitioned directly to bed without overstimulation, maintaining low-light environment.
+
+in_bed: 02:00
+
+core_sleep:
+  start: 02:30
+  end: 09:00
+  duration: 6h 30m
+  wake_reason: Bladder
+  energy_on_wake: Tired
+
