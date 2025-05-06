@@ -134,16 +134,19 @@ depth_first_life_planning:
           - Lower stimulus activities. Step down from prior stimulating activities (high to medium or medium to low).
           - Perform bedtime routine tasks (brush teeth, shower, etc.)
         bedtime:
-          - Begins 1h before target sleep onset.
-          - Full darkness except essential light; very brief phone use ony (alarms and tracking)
-          - Close bedroom door
+          - Begins 1h before target sleep onset
+          - Brief screen use only for essential bedtime tasks (like setting alarms)
           - Wear FitBit for tracking
+          - Turn off lights except bedroom
           - Short stretch and breathing
+          - Close bedroom doordoor
+          - Plug in phone
+          - Melatonin
+          - Breathe Right Strip
+          - Sleep mask
+          - Turn off bedroom light
           - Remember one positive thing about the day to reduce any anxiety
           - Get in bed
-          - Melatonin
-          - Sleep mask
-          - Breathe Right strip
           - Soothing background sounds that are low to very-low stimulus (playlists, isochronic tones, whitenoise, etc.)
           
   formal_principles:
