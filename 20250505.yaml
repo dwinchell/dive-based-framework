@@ -1,0 +1,80 @@
+kind: Daily Log  
+date: 5/5/2025
+
+day_start:
+  time: 09:00  
+  core_sleep_last_night: 6h 30m  
+  sleep_last_night: 6h 30m  
+  energy: Tired
+
+meds: taken at 14:00
+
+activities:
+  - type: Planning Block  
+    time: 09:00–09:30  
+    description: >
+      Started the day with a short planning session.  
+      Reviewed framework alignment and clarified intentions for morning work dive.
+
+  - type: Work Dive  
+    time: 09:50–14:30  
+    description: >
+      Deep, sustained work dive on high-priority task.  
+      Required consistent focus and emotional regulation.  
+      Moderate executive function load; supported by prior planning.
+
+  - type: Recovery Block  
+    time: 14:30–15:00  
+    description: >
+      Intentional post-dive recovery. Included hydration and brief disengagement.  
+      Aimed at resetting state and preserving SR for remainder of day.
+
+  - type: Work Dive  
+    time: 15:00–16:00  
+    description: >
+      Short, intense work dive with high social and cognitive load.  
+      Required deep, careful analysis, live coordination, and active decision-making.  
+    tags:
+      - high_social  
+      - high_cognitive
+
+  - type: Recovery Block  
+    time: 15:30–16:30  
+    description: >
+      Long recovery block following high-load dive.  
+      Prioritized solitude, low-stimulus environment, and gentle pacing to restore SR.
+
+  - type: Work Dive  
+    time: 16:30–17:00  
+    description: >
+      Light dive to wrap up loose ends.  
+      Focused on low-effort tasks with clear boundaries to avoid overextension.
+
+  - type: Unstructured time
+    time: 17:00–Bed  
+    description: >
+      Gamed for hours (EVE) spent too much EF on it. Had fun.
+      Also celebrated with wife
+
+in_bed: 03:10
+
+core_sleep:
+  start: 03:10  
+  end: 10:00  
+  duration: 6h 50m  
+  wake_reason: Alarm  
+  energy_on_wake: Groggy
+
+notes:
+  - time: 09:30  
+    type: Incident  
+    description: >
+      Nearly missed morning medication due to getting pulled into planning immediately after waking.  
+      Reinforced importance of taking meds *before* any morning logging or task engagement.
+
+  - time: 16:00  
+    type: Recovery Strategy Note  
+    description: >
+      Per Cognitive-Social Load principle, a long recovery block is now required to recalibrate.  
+      Will prioritize solitude and sensory downshift in next block.
+
