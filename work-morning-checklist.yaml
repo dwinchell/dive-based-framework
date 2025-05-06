@@ -1,0 +1,17 @@
+type: Checklist
+use-case: Work Morning
+duration: 30m
+list:
+  - Restroom
+  - Meds
+  - Hydrate
+  - Check Slack, Calendar, Mail
+  - Remove retainer
+  - Wash face
+  - Comb hair
+  - Shave
+  - Put on work clothes
+  - Plug in laptop, mouse
+  - Turn on work mode on phone
+  - Start daily log
+  - Check todo list
