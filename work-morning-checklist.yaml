@@ -1,17 +1,30 @@
 type: Checklist
 use-case: Work Morning
 duration: 30m
-list:
-  - Restroom
-  - Meds
-  - Hydrate
-  - Check Slack, Calendar, Mail
-  - Remove retainer
-  - Wash face
-  - Comb hair
-  - Shave
-  - Put on work clothes
-  - Plug in laptop, mouse
-  - Turn on work mode on phone
-  - Start daily log
-  - Check todo list
+phases:
+  - phase: Mandatory Startup
+    list:
+      - Restroom
+      - Meds
+      - Hydrate
+      - Eat
+  - phase: Urgent recon
+    list:
+      - Turn on work mode on phone
+      - Check Slack, Calendar, Mail
+  - phase: Optional Prep
+    list:
+      - Remove retainer
+      - Wash face
+      - Comb hair
+      - Shave
+      - Change to work clothes
+  - phase: Start Desk Work
+      - Plug in laptop, mouse
+      - Check todo list
+      - Start daily log
+  - phase: Optional Sustain Break
+      - Breathe
+      - Stretch
+      - Walk
+      - Meditate
