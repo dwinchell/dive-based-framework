@@ -135,6 +135,7 @@ depth_first_life_planning:
           - Perform bedtime routine tasks (brush teeth, shower, etc.)
         bedtime:
           - Begins 1h before target sleep onset
+          - Stop drinking water
           - Brief screen use only for essential bedtime tasks (like setting alarms)
           - Wear FitBit for tracking
           - Short stretch and breathing
@@ -142,6 +143,7 @@ depth_first_life_planning:
           - Turn off lights except bedroom
           - Close bedroom doordoor
           - Plug in phone
+          - Verify meds location and water
           - Melatonin
           - Breathe Right Strip
           - Sleep mask
