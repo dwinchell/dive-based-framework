@@ -1,0 +1,70 @@
+kind: Daily Log
+date: 5/6/2025
+
+day_start:
+  time: 10:00
+  core_sleep_last_night: 6h 50m
+  sleep_last_night: 6h 50m
+  energy: Groggy
+
+meds: taken at 10:00
+
+activities:
+  - type: Stabilization Task
+    time: 10:00–10:45
+    description: >
+      Completed full morning routine and created a morning routine checklist to formalize and support future execution.
+
+  - type: Recovery Block
+    time: 10:45–12:00
+    description: >
+      Intended as a standard recovery block, but was disrupted by a major OCD trigger.  
+      Responded to the trigger strongly, resulting in emotional overload and compulsive mental processing.  
+      Executive function was significantly degraded afterward.
+
+  - type: Unstructured Work
+    time: 12:00–16:00
+    description: >
+      Low-EF period following OCD disruption.  
+      Completed miscellaneous tasks without structured planning or clear dive framing.  
+      Productivity was mixed; pacing driven more by inertia than intentional effort.
+
+  - type: Nap
+    time: 18:00–19:45
+    description: >
+      Slept from 18:00–19:00.  
+      Hypnagogic limbo from 19:00–19:45, interrupted by mother-in-law yammering on speakerphone.  
+      Not fully restorative; external disruption prevented deeper return to sleep.
+
+  - type: Unstructured Time
+    time: 19:45–03:50
+    description: >
+      Played EVE too late — gamed until ~03:00.  
+      Noticed compulsive engagement patterns; game dominated mental state.  
+      Wind-down routine included a long shower, but thoughts remained stuck on game.  
+      Entry into sleep mode was delayed and fragmented.
+
+in_bed: 03:50
+
+core_sleep:
+  start: 03:50
+  end: 09:00
+  duration: 5h 10m
+  wake_reason: Work ping
+  energy_on_wake: Tired
+
+notes:
+  - time: 12:00
+    type: Medication
+    description: >
+      Took 0.5mg Klonopin to reduce OCD-induced anxiety following major trigger.  
+      Intended to stabilize mood and reduce intrusive looping.  
+      Will monitor for sedation or rebound effects later in the day.
+
+  - time: 12:00
+    type: EF Disruption Analysis
+    description: >
+      Strong OCD response during recovery block caused acute emotional load, rumination, and likely cortisol spike.  
+      Resulted in temporary executive function collapse.  
+      Mechanism: amygdala-driven distress impairs prefrontal cortex operations, compounding EF depletion via cognitive loops.
+
