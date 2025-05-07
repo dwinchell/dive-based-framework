@@ -1,0 +1,39 @@
+kind: Protocol
+version: v1
+name: Review Only Dive
+
+description: >
+  A strategy to reduce anxiety and lower executive function activation by beginning a work dive with low-expectation review.
+  Especially useful for high-aversion tasks (e.g., writing, slide creation, report analysis) where initial resistance is high.
+  The goal is to gently enter the task environment without pressure to produce. This makes the next dive, aimed at productivity, easier.
+  As an added benefit, it sometimes often triggers flow and productivity during the Review Only Dive.
+
+phases:
+  - phase: Setup
+    actions:
+      - Identify target task or artifact (e.g., report, slides, spreadsheet).
+      - Commit to "review only" posture — no productivity required.
+      - Minimize pressure: remind self that the goal is orientation, not output.
+
+  - phase: Engagement
+    actions:
+      - Open the document or workspace.
+      - Read or scan without editing or taking action unless it feels easy.
+      - Identify the easiest tasks to start later
+      - Follow curiosity lightly—highlighting or minor notes allowed if organic.
+      - Optional: jot down thoughts or questions, but avoid task planning.
+
+  - phase: Optional Transition
+    criteria: >
+      If natural momentum arises (e.g., an urge to write, edit, solve), allow shift into a productive state.
+    note: >
+      If no momentum arises, still count the dive as successful for anxiety reduction and setup.
+
+use_cases:
+  - Writing dives (e.g., reports)
+  - Presentation prep (e.g., slides, narrative framing)
+  - Technical reviews (e.g., code, architectures, analysis)
+
+insight: >
+  Review-first dives help bypass avoidance circuits by creating a safe, low-judgment entry into task space. Repeated use builds trust in the approach and increases odds of flow-state entry.
+

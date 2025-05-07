@@ -55,6 +55,12 @@ depth_first_life_planning:
         - Improving recovery infrastructure
 
   named_protocols:
+    review_only_dive:
+      - A low-pressure entry strategy that reduces task aversion by starting with passive review instead of productivity.
+      - Reduces anxiety about the overall task.
+      - Makes planned future dives easier by building momentum and reducing anxiety.
+      - Sometimes triggers natural momentum into focused work during the dive.
+      - See protocol-review-only-dive.yaml
 
     post_sleep_protocol:
       version: v2
