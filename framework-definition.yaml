@@ -158,6 +158,8 @@ depth_first_life_planning:
           - Get in bed
           - Soothing background sounds that are low to very-low stimulus (playlists, isochronic tones, whitenoise, etc.)
           
+    BSW:
+      description: Breathe, Stretch, Walk. Used as a sustain break, or part of a recovery block or wakeup routine.
   formal_principles:
     - name: Missed Meds Disruption Arc
       description: >
@@ -225,13 +227,6 @@ depth_first_life_planning:
         location: hypothesis-tracking.yaml
         purpose: >
           Full hypothesis details, including claim, evidence, and structured tracking data.
-
-    terms_and_concepts:
-      storage: framework-definition.yaml
-      location: terms_and_concepts
-      description: >
-        Definitions like 6-Day Edge Rule or SPWD; updated with framework changes.
-
 
   user_to_ai_directives:
     ai_directives:
