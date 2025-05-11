@@ -11,9 +11,11 @@ sleep_tonight:
   plan: 0300-1000
 activities:
   - 1000-1010: Planning, using GitHub app
-  - 1010-1020: PSP mandatory startup minus meds
+  - 1010-1020: PSP mandatory startup minus
+ meds
   - 1020-1030: Refill meds
   - 1055-1110: Breathe, Stretch, Walk (BSW)
+  - 1645- : Relational Dive - Unibrain
 todo:
   - litter
   - .laundry..
