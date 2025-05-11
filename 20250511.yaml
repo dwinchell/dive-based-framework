@@ -1,0 +1,14 @@
+type: Daily log
+date: 5/11/25
+day_start: 10:00
+sleep_last_night:
+  time: 0400-1000
+  core: 6
+  total: 6
+  notes: Mask slipped down at 8, back to sleep quickly, woke naturally at 10
+meds: not taken as of 1000. need refill. yesterday took at 1730
+sleep_tonight:
+  plan: 0300-1000
+activities:
+  - 1000-1010: Planning, using GitHub app
+  - 1010- : start PSP
