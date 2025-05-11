@@ -11,4 +11,4 @@ sleep_tonight:
   plan: 0300-1000
 activities:
   - 1000-1010: Planning, using GitHub app
-  - 1010- : start PSP
+  - 1010-1020 : PSP mandatory startup minus meds
