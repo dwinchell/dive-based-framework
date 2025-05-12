@@ -1,0 +1,11 @@
+type: DailyLog
+date: 5/12/25
+
+morning:
+  day_start:
+    time: 9:30
+    energy: Body feels rested but brain tired.
+
+meds: Taken at 9:30
+activities:
+  - 10:00-?: Worday Morning Checklist - mandatory, recon
