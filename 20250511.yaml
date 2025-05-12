@@ -16,9 +16,12 @@ activities:
   - 1020-1030: Refill meds
   - 1055-1110: Breathe, Stretch, Walk (BSW)
   - 1645-2245: Relational Dive - Unibrain
+sleep:
+  time: 0300-0930
+  notes: Woke at 7:30 because of light, and again at 9:30 naturally. Body feels resty but brain tired.
 todo:
-  - litter
-  - .laundry..
+  - x litter
+  - . laundry
   - haircut
   - cardboard
   - roller
