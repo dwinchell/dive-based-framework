@@ -1,3 +1,4 @@
+---
 type: Daily log
 date: 5/11/25
 day_start: 1000
@@ -7,18 +8,15 @@ sleep_last_night:
   total: 6
   notes: Mask slipped down at 8, back to sleep quickly, woke naturally at 10
 meds: Taken at 1040
-sleep_tonight:
-  plan: 0300-1000
 activities:
   - 1000-1010: Planning, using GitHub app
   - 1010-1020: PSP mandatory startup minus
- meds
   - 1020-1030: Refill meds
   - 1055-1110: Breathe, Stretch, Walk (BSW)
   - 1645-2245: Relational Dive - Unibrain
-sleep:
+sleep_night_of:
   time: 0300-0930
-  notes: Woke at 7:30 because of light, and again at 9:30 naturally. 
+  notes: Woke at 7:30 because of light, and again at 9:30 naturally.
   energy: Body feels rested but brain tired.
 todo:
   - x litter
