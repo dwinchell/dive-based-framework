@@ -19,6 +19,7 @@ phases:
       - Comb hair
       - Shave
       - Change to work clothes
+      - Put on fitbit
   - phase: Start Desk Work
       - Plug in laptop, mouse
       - Check todo list
