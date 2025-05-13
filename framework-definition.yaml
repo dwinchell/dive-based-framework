@@ -54,6 +54,13 @@ depth_first_life_planning:
         - Organizing workspace or digital tools
         - Improving recovery infrastructure
 
+  named_patterns:
+    - name: Reward Binge Disruption Arc
+      description: >
+        A disruption pattern where post-stress reward-seeking spirals into compulsive high-dopamine activity
+        (e.g., games, shows, online binging), leading to executive function depletion, lost days, guilt, and reduced traction.
+        Often triggered by stress relief or completed demands, and worsened by sleep disruption.
+
   named_protocols:
     review_only_dive:
       - A low-pressure entry strategy that reduces task aversion by starting with passive review instead of productivity.
