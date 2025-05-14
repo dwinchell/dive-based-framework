@@ -1,6 +1,6 @@
 type: Checklist
-use-case: Work Morning
-duration: 30m
+use-case: Morning, especially work morning
+duration: 15-90m
 phases:
   - phase: Mandatory Startup
     list:
