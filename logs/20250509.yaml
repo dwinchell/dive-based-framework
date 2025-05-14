@@ -1,0 +1,14 @@
+kind: Daily Log
+date: 05/09/2025
+
+day_start:
+  sleep: 
+    start: 04:00
+    end: 09:00
+    duration: 5h
+    interruptions: bladder
+    wake: alarm
+  energy: Tired
+  meds_taken: true
+  meds_time: 09:15
+

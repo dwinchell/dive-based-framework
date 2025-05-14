@@ -54,12 +54,31 @@ depth_first_life_planning:
         - Organizing workspace or digital tools
         - Improving recovery infrastructure
 
-  named_patterns:
-    - name: Reward Binge Disruption Arc
+    co_logging:
+      name: Co-Logging
       description: >
-        A disruption pattern where post-stress reward-seeking spirals into compulsive high-dopamine activity
-        (e.g., games, shows, online binging), leading to executive function depletion, lost days, guilt, and reduced traction.
-        Often triggered by stress relief or completed demands, and worsened by sleep disruption.
+        The practice of using conversational AI as a companion for real-time or near-real-time daily logging, planning, and system reflection.
+        Functions include: surfacing patterns, scaffolding next actions, reducing EF cost of structured entry, and serving as a responsive mirror for planning.
+    
+      usage_guideline: >
+        Acceptable only under certain modes (e.g., analysis, scaffolding, reflection), 
+        not as a default motivational crutch or substitute for internal regulation.
+        Co-logging should support intentionality, not dependency.
+
+  named_patterns:
+    - name: Post-Stress Dive Destabilization
+      description: >
+         After sustained stress or prolonged structured effort, there is a heightened risk that subsequent reward-driven dives (especially high-dopamine ones like gaming)
+         will become dysregulated. These dives may begin as restorative or valuable but can overextend, lose meaning, disrupt sleep, and create EF depletion or loss of traction.
+         This pattern is distinct from healthy dives—it reflects a mismatch between timing, duration, and post-stress neurochemical vulnerability. Can induce disengagement from
+         using framework habits (daily logging, recovery breaks). Increased risk for missing meds. Creates compounding EF, SR, and ER costs that may persist for multiple days.
+    - name: Low-Structure Dopaminergic Spiral
+      description: >
+        A destabilization pattern that emerges during windows of reduced external structure,
+        such as post-project release, light work weeks, or recovery days.
+        If a high-dopamine stimulus (e.g., games, shows, LitRPG) is introduced during this window
+        without counterbalancing structure or traction, it may escalate into compulsive behavior,
+        disrupted sleep, EF collapse, and mood or medication destabilization.
 
   named_protocols:
     review_only_dive:
@@ -179,6 +198,7 @@ depth_first_life_planning:
     - name: Cognitive-Social Load Requires Scaling Recovery
       description: >
         Short, high-intensity tasks (e.g., meetings, collaboration) demand recovery based on intensity—not just duration.
+
     - name: Protect Critical Days From Optional Interference
       description: >
         When a day is especially valuable for high-priority work, proactively defend it from emotionally or logistically expensive tasks, even if those tasks seem manageable.
@@ -186,6 +206,9 @@ depth_first_life_planning:
         Critical day protection may require additional planning, emotional labor, or modest costs—but the benefit to core task momentum is worth the trade.
         Pause to evaluate whether a proposed task undermines the day’s potential, especially when planning around high-stakes projects.
 
+    - name: Avoid Over-Reliance on Micro-Prompting
+      description: >
+        Micro-Prompting is many short prompts issued over a short time period. Can be appropriate but must be justified. Prompts should serve a meaningful function: clarity, emotional grounding, structural scaffolding, recovery support, or system evolution. Examples of acceptable use include recovery from significant disregulation, depth-first thinking, time-sensitive adaptation, or the need for fine grained prompt-engineering to address a specific item. Redundant or impulsive prompts should be minimized out of respect for environmental cost.
 
   terms_and_concepts:
     - 6-Day Edge Rule: >

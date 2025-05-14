@@ -1,0 +1,46 @@
+kind: Daily Log
+date: 5/7/2025
+
+day_start:
+  day_started: 09:00
+  core_sleep: 5h10m
+  total_sleep: 5h10m
+  energy_on_wake: Tired
+
+mood:
+  starting: null
+  ending: null
+  notes: []
+
+state:
+  energy: null
+  executive_function: null
+  emotional_regulation: null
+  self_regulation: null
+  tags: [unexplained anxiety]
+
+activities:
+  - 10:00–10:30: Work Dive – Meeting (High Social, Low Cognitive)
+  - 10:30–11:15: Recovery Block – Finish Work Morning Checklist (hydration and food skipped earlier)
+  - 11:15–12:30: Work Dive – Slides review + meeting (High Cognitive, High Social) – Used review-first dive strategy to reduce anxiety; successfully triggered productive session before high-social meeting
+  - 12:30–12:50: Planning Session – Dive-First Planning Framework, formalized Review-Only Dive protocol
+  - 12:50–15:00: Recovery Block – Post high-load dive + low sleep
+  - 15:00–17:00: Work Dive – Meeting (High Cognitive, High Social) – Received positive feedback from boss; moderate career decision upcoming
+  - 18:00–19:30: Nap (1h30m)
+  - 23:00– : Relational Dive – High stimulus bonding activity (GSL StarCraft VoD)
+
+sleep:
+  - type: Core Sleep
+    start: 04:30
+    end: 09:30
+    duration: 5h
+    notes: Sleep delayed by gaming; woke early due to bladder. Woke up feeling tired.
+
+notes:
+  - 13:00: Felt anxious with no conscious cause
+  - 01:30: Knew I should go to bed but played EVE anyway – Impulse control failure
+
+meds:
+  taken: true
+  time: 09:30
+
