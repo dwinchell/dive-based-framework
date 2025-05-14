@@ -77,4 +77,5 @@ stabilization_tasks:
 sleep_night_of:
   time: 0315–0915
   duration: 6h
+  breathe_right_strip: no
   notes: Sleep mask fell off. Woke feeling tired.
