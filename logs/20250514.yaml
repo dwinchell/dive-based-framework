@@ -1,0 +1,80 @@
+---
+kind: Daily Log
+date: 5/13/25
+
+day_start: 1000
+
+sleep_previous_night:
+  time: 0400-1000
+  core: 6h
+  total: 6h
+  notes: Body rested but brain tired. Feel slightly burnt out.
+
+meds: Taken at 1000
+
+activities:
+  - time: 1030–1130
+    type: Work Dive
+  - time: 1130–1430
+    type: Unstructured Mixed Work and Planning
+    details:
+      - Included a couple of high-social meetings.
+      - Emotional regulation load: read something frustrating about work/product direction → anger → solo ranting.
+  - time: 1600–1700
+    type: Work Meeting
+    details:
+      - Included emotionally charged sidebar afterward that required significant ER to navigate professionally.
+  - time: 2200
+    type: BSW + music (incremental activation path)
+    sequence:
+      - Breathe while lying down
+      - Music for mood shift
+      - Stand and headphone up
+      - Stretch
+      - Walk
+    notes: Effective at lifting grogginess and increasing alertness. Demonstrates that BSW can be decomposed into sequential micro-actions.
+  - time: 0130–0230
+    type: Artistic Dive: Sigil work
+    notes: Light turned back on for visibility. Followed cat into darkness beforehand; aesthetic alignment with cyber/goth/witch theme.
+
+wind_down:
+  start: 0100
+  actions:
+    - Turned off lights
+    - Took 0.5 mg Klonopin
+    - Changed rooms
+    - Took 5 mg melatonin at 0300
+  notes: Transition supported by ambient red lighting. Cat-led cue into low-stim mode initiated artistic dive.
+
+mood_state:
+  mood: Elevated (likely cyclothymic), shifted to downswing at 1730
+  cognitive_state: Brain tired, low motivation, easily bored unless highly stimulating
+
+issues:
+  - description: Repetitive stress pain in hand and wrist
+    time: ~2130
+    context: New mouse appears to be causing injury. Old preferred model discontinued.
+    status: Last of backup stock has failed. Replacement search unsuccessful after months.
+    emotional_impact: High — potential loss of key input device for work and self-regulation.
+  - description: Knee pain returned
+    time: ~2200
+    notes: |
+      Chronic issue. Foam rolling quads helps but requires getting on floor,
+      which triggers OCD about cleanliness. Cleaning the floor is EF-intensive and often
+      blocks the task. Net result: stabilization task avoided due to cascading blockers.
+
+stabilization_tasks:
+  - task: Repair or custom-build RSI-safe mouse
+    urgency: High
+    load: Very high
+    status: Deferred until system is more stable
+    notes: Attempted once before; now required for sustainable function.
+  - task: Use foam roller on quads to reduce knee pain
+    benefit: High
+    barrier: Floor access triggers OCD → cleaning loop → ADHD EF failure
+    status: Avoided due to cascading blockers
+
+sleep_night_of:
+  time: 0315–0915
+  duration: 6h
+  notes: Sleep mask fell off. Woke feeling tired.
