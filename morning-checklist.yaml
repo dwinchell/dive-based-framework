@@ -20,12 +20,11 @@ phases:
       - Shave
       - Change to work clothes
       - Put on fitbit
+      - Open blinds if sunny
   - phase: Start Desk Work
       - Plug in laptop, mouse
       - Check todo list
       - Start daily log
   - phase: Optional Sustain Break
-      - Breathe
-      - Stretch
-      - Walk
+      - BSW
       - Meditate
