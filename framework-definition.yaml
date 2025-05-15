@@ -160,7 +160,9 @@ depth_first_life_planning:
       phases:
         initial_winddown:
           - Begins 2h before target sleep onset.
-          - Dim screens only. TV with lowered brightness is ok. Phone and monitor screens are not except for very brief periods (i.e. set alarm.
+          - Dim screens only. TV with lowered brightness is ok. Phone and monitor screens are not except for very brief periods (i.e. set alarm.)
+          - Check for morning commitments
+          - Set morning alarm
           - Reduce ambient light
           - Limit water consumption
           - Lower stimulus activities. Step down from prior stimulating activities (high to medium or medium to low).
@@ -175,6 +177,7 @@ depth_first_life_planning:
           - Turn off lights except bedroom
           - Close bedroom doordoor
           - Plug in phone
+          - Verify alarms for tomorrow
           - Verify meds location and water
           - Melatonin
           - Breathe Right Strip
