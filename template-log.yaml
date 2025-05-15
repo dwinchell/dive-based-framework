@@ -7,6 +7,10 @@
 #
 # Terms:
 # section - top level yaml object or named list
+#
+# Instructions:
+# Track this in chat, not with the canvas
+# When given updates, just show the updated section
 
 kind: Daily Log
 date: <date>
