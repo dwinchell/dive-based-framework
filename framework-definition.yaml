@@ -87,6 +87,7 @@ named_patterns:
 named_protocols:
 
   emotional_integration:
+    abbreviation: EIP
     steps:
       - Name: Identify current and preceding emotions
       - Feel: Pause and allow the sensations to exist without distraction
