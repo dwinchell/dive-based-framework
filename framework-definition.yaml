@@ -85,6 +85,20 @@ named_patterns:
       disrupted sleep, EF collapse, and mood or medication destabilization.
 
 named_protocols:
+
+  emotional_integration:
+    steps:
+      - Name: Identify current and preceding emotions
+      - Feel: Pause and allow the sensations to exist without distraction
+      - Accept: Acknowledge them without judgment or suppression
+      - Observe: Notice your behavioral or physiological responses
+      - Contextualize: Understand situational or internal factors influencing your reaction
+      - Adjust: Choose a forward-looking insight, boundary, or action
+    usage_guidelines:
+      - Use during emotional rumination, conflict loops, or identity-triggered discomfort
+      - Especially useful when interpersonal tension or regret resurfaces
+      - Can be performed mentally, in writing, or aloud
+
        
   BSW:
     description: breathing, stretching, walking, hydration, optional music, quick snack if hungry
