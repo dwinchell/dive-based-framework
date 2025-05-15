@@ -1,0 +1,34 @@
+kind: Daily Log
+date: 05/14/2025
+
+day_start:
+  time: 09:15
+  sleep: 6h
+  energy: Tired
+  meds_taken: true
+  meds_time: 09:30
+
+activities:
+  - "10:55–11:07: BSW with music — breathing led into stretching, then music, then waking — incremental momentum building"
+  - "11:07–13:00: Unstructured work with planning, creativity, socialization, and morning checklist. Mood dip at 13:00 due to minor disappointment (likely fatigue + cyclothymia)"
+  - "13:00–14:30: Recovery break — emotional mindfulness, nap, music. Felt better upon waking"
+  - "15:00–17:00: Work dive — high social & high cognitive. Meeting with strong emotional tone. Frustrated by slow pace; concerned about coming off domineering while pushing for progress."
+  - "17:45–20:30: Evening nap — Fell asleep after dinner and logging. Woke naturally."
+  - "20:30: PSP v3 completed — calm state. Practiced naming emotions and breathing focus during meditation"
+  - "20:30–01:00: High cognitive reflection and framework analysis. Urge for high-stim dive resisted multiple times. No derailments."
+  - "01:00: Wind-down started — low lights, protein bar, calm Beyond All Reason video (~30 min), match ended in win. Balanced narrative and skill progression. Closure achieved."
+  - "02:30: Bedtime checklist completed, in bed"
+  - "03:15–09:00: Core sleep. 5h 45m. Woke after bad dream, sleep mask had come off."
+
+sleep:
+  planned_wind_down: 00:15
+  planned_sleep_onset: 02:15
+  breathe_right_strip: false
+  wind_down_start: 01:00
+  wind_down_quality: "Good — watched a 30-minute Beyond All Reason video. The match ended in a win, providing enough closure to feel complete. Some narrative and skill progression. Low light, not too stimulating. Calming overall."
+  core_sleep:
+    start: 03:15
+    end: 09:00
+    duration: 5h 45m
+    context: "Woke after a bad dream. Sleep mask had come off."
+    energy: Tired
