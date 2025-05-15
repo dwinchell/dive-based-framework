@@ -81,6 +81,23 @@ depth_first_life_planning:
         disrupted sleep, EF collapse, and mood or medication destabilization.
 
   named_protocols:
+         
+    BSW:
+      description: breathing, stretching, walking, hydration, optional music, quick snack if hungry
+
+    post_sleep_protocol:
+      version: v3
+      abbreviation: PSP
+      description: >
+        A protocol for recalibrating readiness and stabilizing after waking.
+      steps:
+        1. Delay decision-making until protocol completion
+        2. BSW
+        3. Basic hygiene: brush teeth, comb hair, wash face
+        4. Optional meditation
+      insight: >
+        Initial emotional state post-sleep is often inaccurate; post-sleep ritual corrects for that.
+
     review_only_dive:
       - A low-pressure entry strategy that reduces task aversion by starting with passive review instead of productivity.
       - Reduces anxiety about the overall task.
@@ -88,33 +105,13 @@ depth_first_life_planning:
       - Sometimes triggers natural momentum into focused work during the dive.
       - See protocol-review-only-dive.yaml
 
-    post_sleep_protocol:
-      version: v2
-      abbreviation: PSP
-      description: >
-        A protocol for recalibrating readiness and stabilizing after waking.
-        Can be used after a nap, or as a wake-up routine after core sleep.
-        Can be shortened to partial if there is a pressing task.
-        Probably takes between 5-30 min depending on number of actions taken.
-      actions:
-        - Delay planning/decision-making until protocol completion
-        - Hydration
-        - Food if hungry
-        - Clothing change to next activity if needed
-        - Wet head and face
-        - Basic hygiene (e.g., combing, shaving)
-        - Exposure to natural light
-        - Breathing exercises
-        - Physical movement - stretching, short walk, etc.
-        - Music
-        - Meditate
-      insight: >
-        Initial emotional state post-sleep is often inaccurate; post-sleep ritual corrects for that.
-
     report_writing_protocol:
       description: >
         Structured approach for writing reports efficiently while managing executive function, emotional regulation, and momentum.
     
+      purpose: >
+        Maintain emotional momentum, reduce aversion, optimize flow, and ensure high-quality output without unnecessary executive function depletion.
+ 
       phases:
         - phase: Pre-Dive Planning
           steps:
@@ -122,15 +119,20 @@ depth_first_life_planning:
             - Define "good enough" criteria to consider the report complete.
             - Establish clear milestones to create logical stopping points.
     
-        - phase: First Dive
+        - phase: Review Only Dive
+          purpose: Reduce anxiety, build momentum, set up easier subsequent dives.
+          description: See review-only-dive.yaml
+
+        - phase: Outlining
           purpose: >
             Reduce anxiety, build momentum, and set up easier second dive.
-          activities:
+          description: May be done as part of Review Only Dive if there is momentum, or an independent dive, or a writing dive.
+          instructions:
             - Create an outline.
             - Triage key sections.
             - Begin easiest sections of writing first.
     
-        - phase: Second Dive
+        - phase: Writing Dive
           purpose: >
             Fill in core content based on the structure and momentum created in the first dive.
           activities:
@@ -146,10 +148,7 @@ depth_first_life_planning:
         - Avoid spending excessive time perfecting any single section.
         - Plan significant recovery breaks between writing dives.
         - Use sustain breaks proactively during long writing dives to preserve pacing and prevent burnout.
-    
-      purpose: >
-        Maintain emotional momentum, reduce aversion, optimize flow, and ensure high-quality output without unnecessary executive function depletion.
-
+   
     wind_down_protocol:
       version: v2
       abbreviation: WDP
@@ -169,27 +168,14 @@ depth_first_life_planning:
           - Perform bedtime routine tasks (brush teeth, shower, etc.)
         bedtime:
           - Begins 1h before target sleep onset
-          - Stop drinking water
-          - Brief screen use only for essential bedtime tasks (like setting alarms)
-          - Wear FitBit for tracking
-          - Short stretch and breathing
-          - Hygiene
-          - Turn off lights except bedroom
-          - Close bedroom doordoor
-          - Plug in phone
-          - Verify alarms for tomorrow
-          - Verify meds location and water
-          - Melatonin
-          - Breathe Right Strip
-          - Sleep mask
-          - Turn off bedroom light
-          - Remember one positive thing about the day to reduce any anxiety
-          - Get in bed
-          - Soothing background sounds that are low to very-low stimulus (playlists, isochronic tones, whitenoise, etc.)
-          
-    BSW:
-      description: Breathe, Stretch, Walk. Used as a sustain break, or part of a recovery block or wakeup routine.
+          - Perform bedtime checklist in bedtime-checklist.yaml
+
   formal_principles:
+
+    - name: wind_down_protection:
+      description: >
+        High-cognitive or emotionally stimulating activities, including framework analysis, must occur outside of wind-down hours. Wind-down begins ~2 hours before sleep onset. This buffer reduces cognitive overstimulation and protects sleep readiness.
+
     - name: Missed Meds Disruption Arc
       description: >
         Missing meds causes predictable multiday destabilization (3+ days). Scope and emotional load should be reduced during this window.
@@ -213,13 +199,16 @@ depth_first_life_planning:
       description: >
         Micro-Prompting is many short prompts issued over a short time period. Can be appropriate but must be justified. Prompts should serve a meaningful function: clarity, emotional grounding, structural scaffolding, recovery support, or system evolution. Examples of acceptable use include recovery from significant disregulation, depth-first thinking, time-sensitive adaptation, or the need for fine grained prompt-engineering to address a specific item. Redundant or impulsive prompts should be minimized out of respect for environmental cost.
 
+    - meta_progression_mindset:
+      description: >
+        Tracks progress not by avoiding failure but by extending time between destabilizations, improving recovery speed, and deepening insight. Inspired by Hardcore/roguelike mechanics: each “run” improves baseline tools, not just immediate outcomes.
+      
+
   terms_and_concepts:
     - 6-Day Edge Rule: >
         Limit on how long full-structure optimization is sustainable while already unstable (~6 days with current system).
     - SR Protected Work Dive (SPWD): >
         Stabilization-first protocol for working in low-SR conditions.
-    - Wake-Up Protocol: >
-        Structured post-sleep routine for hydration, hygiene, and state recalibration before making decisions.
 
   ai_directives:
     - Whenever you start or encounter a daily log for the current day, remind me loudly with every prompt to take my meds until I have done so.
