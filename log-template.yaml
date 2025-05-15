@@ -1,0 +1,37 @@
+# Formats:
+# date - 20250515
+# time - 2400
+# duration - 1h30m
+# short text - 1-4 words
+# long text - 5-30 words
+#
+# Terms:
+# section - top level yaml object or named list
+
+kind: Daily Log
+date: <date>
+
+day_start:
+  time: <time> # When I woke up
+  core_sleep: <duration> # Use this for the sleep that preceded the day start
+  additional_sleep: <duration> # Only if relevant
+  energy: <short text>
+
+meds: Taken at <time>
+
+# Make this section a list in the following format:
+activities:
+  - "<start time>-<end time> - <Short description like 'Work Dive' or 'Recovery Block'> — <Notes>"
+
+# Use this section for the sleep that happens after bedtime before the start of the next log
+sleep_night_of:
+  planned_wind_down: 2400
+  planned_sleep_onset: 0200
+  wind_down_start: <time>
+  in_bed_at: <time>
+  core_sleep:
+    # Fill in later
+    start: <time>
+    end: <time>
+    energy: <short text>
+    notes: <long text>
