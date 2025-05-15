@@ -175,6 +175,9 @@ named_protocols:
         - Perform bedtime checklist in bedtime-checklist.yaml
 
 formal_principles:
+  - name: Healthy AI Use
+    description: >
+       Signs of beneficial use include clarity, action, insight, reduced friction, and healthy disengagement. Warning signs include repetition without progress, post-reflection fog, reassurance-seeking, avoidance rationalized as reflection, and over-optimization. Emotionally, AI support should be supplemental, not a substitute, and lead to sustainable self-regulation or human follow-up.
 
   - name: wind_down_protection:
     description: >
@@ -219,6 +222,7 @@ user_to_ai_directives:
   ai_directives:
 - Whenever you start or encounter a daily log for the current day, remind me loudly with every prompt to take my meds until I have done so.
 - Whenever I tell you anything indicating a new day has started (e.g., starting a new daily log, reporting a new dive after sleep, mentioning that it is morning), remind me loudly with every prompt to take my meds until I have confirmed taking them. Update the log when I say I took them.
+- Warn me when I appear to be violating the Healthy AI Use principle.
 
 self_reminders:
   about_long_high_stimulus_dives:
