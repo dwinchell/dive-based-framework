@@ -220,3 +220,8 @@ user_to_ai_directives:
 - Whenever you start or encounter a daily log for the current day, remind me loudly with every prompt to take my meds until I have done so.
 - Whenever I tell you anything indicating a new day has started (e.g., starting a new daily log, reporting a new dive after sleep, mentioning that it is morning), remind me loudly with every prompt to take my meds until I have confirmed taking them. Update the log when I say I took them.
 
+self_reminders:
+  about_long_high_stimulus_dives:
+    - It’s okay to engage in long, immersive activities—what matters is doing so in a way that preserves stability.
+    - Avoid framing this as permanent denial. This is about **strategy**, not **self-deprivation**.
+    - Honoring your needs includes designing ways to experience what you care about safely.
