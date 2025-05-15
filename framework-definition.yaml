@@ -213,43 +213,6 @@ depth_first_life_planning:
   ai_directives:
     - Whenever you start or encounter a daily log for the current day, remind me loudly with every prompt to take my meds until I have done so.
 
-  state_management:
-    core_framework_definition:
-      storage: framework-definition.yaml
-      location: Depth First Life Planning Framework
-      description: >
-        Includes core drives, key components, named protocols, formal principles, and terms.
-        All structural updates are reflected here.
-
-    daily_logs:
-      storage: daily-logs.yaml
-      location: Daily Logs
-      description: >
-        Daily tracking of sleep, mood, recovery, and dives; stored separately from framework definition.
-
-    work_task_backlog:
-      storage: conversational_context
-      exportable: true
-      format_options: [yaml, markdown, json]
-      description: >
-        Stored in-session for agility; can be exported on request for prioritization or archiving.
-
-    live_day_tracking:
-      storage: conversational_context
-      persistence: ephemeral_by_default
-      description: >
-        Used for in-the-moment notes (e.g. dive intentions, nap timing, energy shifts).
-        Only stored in canvas/memory upon request.
-
-    hypothesis_tracking:
-      memory_entry:
-        purpose: >
-          Tracks the fact that a hypothesis is being evaluated, including brief confirming or disconfirming notes.
-      canvas_log:
-        location: hypothesis-tracking.yaml
-        purpose: >
-          Full hypothesis details, including claim, evidence, and structured tracking data.
-
   user_to_ai_directives:
     ai_directives:
   - Whenever you start or encounter a daily log for the current day, remind me loudly with every prompt to take my meds until I have done so.
