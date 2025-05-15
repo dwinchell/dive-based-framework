@@ -1,220 +1,222 @@
 # File: framework-definition.yaml
+kind: Framework
+name: Depth First Life Planning
+version: "5/15/25"
 
-depth_first_life_planning:
-  version: "5/4/25"
-  overview: >
-    A structured system to support high-intensity, depth-first engagement while protecting long-term sustainability.
-    It manages self-regulation (SR), emotional regulation (ER), and executive function (EF) through structured planning, recovery, and execution.
+overview: >
+  A structured system to support high-intensity, depth-first engagement while protecting long-term sustainability.
+  It manages self-regulation (SR), emotional regulation (ER), and executive function (EF) through structured planning, recovery, and execution.
 
-  core_drives:
-    - Skill Progression
-    - Narrative Immersion
-    - Intellectual Beauty
-    - Relational Purpose
+core_drives:
+  - Skill Progression
+  - Narrative Immersion
+  - Intellectual Beauty
+  - Relational Purpose
 
-  key_components:
-    dives:
-      description: >
-        Focused work or engagement sessions aligned with one or more core drives.
-      structure:
-        - Purpose and scope
-        - Entry conditions
-        - Exit triggers or recovery plan
-        - Optional companion rituals (music, location, attire)
+key_components:
 
-    recovery_blocks:
-      description: >
-        Low-structure time used to restore SR/ER after dives or high-load activities.
-      typical_activities:
-        - Solitude
-        - Music
-        - Walks
-        - Meditation
-        - Naps
-        - Low-stimulus media
+  dives:
+    description: >
+      Focused work or engagement sessions aligned with one or more core drives.
+    structure:
+      - Purpose and scope
+      - Entry conditions
+      - Exit triggers or recovery plan
+      - Optional companion rituals (music, location, attire)
 
-    sustain_breaks:
-      description: >
-        Intentional low-aversion pauses to preserve momentum across extended dive cycles.
-      purpose: >
-        Not meant to fully recharge, but to delay depletion and preserve pacing.
-      examples:
-        - Sugary drink
-        - Music
-        - Light physical reset (robe change, hygiene)
-        - Ambient content
-      principle: "Recovery is for recharging. Sustain is for pacing."
+  recovery_blocks:
+    description: >
+      Low-structure time used to restore SR/ER after dives or high-load activities.
+    typical_activities:
+      - Solitude
+      - Music
+      - Walks
+      - Meditation
+      - Naps
+      - Low-stimulus media
 
-    stabilization_tasks:
-      description: >
-        Tasks that contribute to long-term system stability, often low urgency but high impact.
-      examples:
-        - Cleaning room
-        - Fixing gaming rig
-        - Organizing workspace or digital tools
-        - Improving recovery infrastructure
+  sustain_breaks:
+    description: >
+      Intentional low-aversion pauses to preserve momentum across extended dive cycles.
+    purpose: >
+      Not meant to fully recharge, but to delay depletion and preserve pacing.
+    examples:
+      - Sugary drink
+      - Music
+      - Light physical reset (robe change, hygiene)
+      - Ambient content
+    principle: "Recovery is for recharging. Sustain is for pacing."
 
-    co_logging:
-      name: Co-Logging
-      description: >
-        The practice of using conversational AI as a companion for real-time or near-real-time daily logging, planning, and system reflection.
-        Functions include: surfacing patterns, scaffolding next actions, reducing EF cost of structured entry, and serving as a responsive mirror for planning.
-    
-      usage_guideline: >
-        Acceptable only under certain modes (e.g., analysis, scaffolding, reflection), 
-        not as a default motivational crutch or substitute for internal regulation.
-        Co-logging should support intentionality, not dependency.
+  stabilization_tasks:
+    description: >
+      Tasks that contribute to long-term system stability, often low urgency but high impact.
+    examples:
+      - Cleaning room
+      - Fixing gaming rig
+      - Organizing workspace or digital tools
+      - Improving recovery infrastructure
 
-  named_patterns:
-    - name: Post-Stress Dive Destabilization
-      description: >
-         After sustained stress or prolonged structured effort, there is a heightened risk that subsequent reward-driven dives (especially high-dopamine ones like gaming)
-         will become dysregulated. These dives may begin as restorative or valuable but can overextend, lose meaning, disrupt sleep, and create EF depletion or loss of traction.
-         This pattern is distinct from healthy dives—it reflects a mismatch between timing, duration, and post-stress neurochemical vulnerability. Can induce disengagement from
-         using framework habits (daily logging, recovery breaks). Increased risk for missing meds. Creates compounding EF, SR, and ER costs that may persist for multiple days.
-    - name: Low-Structure Dopaminergic Spiral
-      description: >
-        A destabilization pattern that emerges during windows of reduced external structure,
-        such as post-project release, light work weeks, or recovery days.
-        If a high-dopamine stimulus (e.g., games, shows, LitRPG) is introduced during this window
-        without counterbalancing structure or traction, it may escalate into compulsive behavior,
-        disrupted sleep, EF collapse, and mood or medication destabilization.
+  co_logging:
+    name: Co-Logging
+    description: >
+      The practice of using conversational AI as a companion for real-time or near-real-time daily logging, planning, and system reflection.
+      Functions include: surfacing patterns, scaffolding next actions, reducing EF cost of structured entry, and serving as a responsive mirror for planning.
+  
+    usage_guideline: >
+      Acceptable only under certain modes (e.g., analysis, scaffolding, reflection), 
+      not as a default motivational crutch or substitute for internal regulation.
+      Co-logging should support intentionality, not dependency.
 
-  named_protocols:
-         
-    BSW:
-      description: breathing, stretching, walking, hydration, optional music, quick snack if hungry
+named_patterns:
 
-    post_sleep_protocol:
-      version: v3
-      abbreviation: PSP
-      description: >
-        A protocol for recalibrating readiness and stabilizing after waking.
-      steps:
-        1. Delay decision-making until protocol completion
-        2. BSW
-        3. Basic hygiene: brush teeth, comb hair, wash face
-        4. Optional meditation
-      insight: >
-        Initial emotional state post-sleep is often inaccurate; post-sleep ritual corrects for that.
+  - name: Post-Stress Dive Destabilization
+    description: >
+       After sustained stress or prolonged structured effort, there is a heightened risk that subsequent reward-driven dives (especially high-dopamine ones like gaming)
+       will become dysregulated. These dives may begin as restorative or valuable but can overextend, lose meaning, disrupt sleep, and create EF depletion or loss of traction.
+       This pattern is distinct from healthy dives—it reflects a mismatch between timing, duration, and post-stress neurochemical vulnerability. Can induce disengagement from
+       using framework habits (daily logging, recovery breaks). Increased risk for missing meds. Creates compounding EF, SR, and ER costs that may persist for multiple days.
 
-    review_only_dive:
-      - A low-pressure entry strategy that reduces task aversion by starting with passive review instead of productivity.
-      - Reduces anxiety about the overall task.
-      - Makes planned future dives easier by building momentum and reducing anxiety.
-      - Sometimes triggers natural momentum into focused work during the dive.
-      - See protocol-review-only-dive.yaml
+  - name: Low-Structure Dopaminergic Spiral
+    description: >
+      A destabilization pattern that emerges during windows of reduced external structure,
+      such as post-project release, light work weeks, or recovery days.
+      If a high-dopamine stimulus (e.g., games, shows, LitRPG) is introduced during this window
+      without counterbalancing structure or traction, it may escalate into compulsive behavior,
+      disrupted sleep, EF collapse, and mood or medication destabilization.
 
-    report_writing_protocol:
-      description: >
-        Structured approach for writing reports efficiently while managing executive function, emotional regulation, and momentum.
-    
-      purpose: >
-        Maintain emotional momentum, reduce aversion, optimize flow, and ensure high-quality output without unnecessary executive function depletion.
+named_protocols:
+       
+  BSW:
+    description: breathing, stretching, walking, hydration, optional music, quick snack if hungry
+
+  post_sleep_protocol:
+    version: v3
+    abbreviation: PSP
+    description: >
+      A protocol for recalibrating readiness and stabilizing after waking.
+    steps:
+      1. Delay decision-making until protocol completion
+      2. BSW
+      3. Basic hygiene: brush teeth, comb hair, wash face
+      4. Optional meditation
+    insight: >
+      Initial emotional state post-sleep is often inaccurate; post-sleep ritual corrects for that.
+
+  review_only_dive:
+    - A low-pressure entry strategy that reduces task aversion by starting with passive review instead of productivity.
+    - Reduces anxiety about the overall task.
+    - Makes planned future dives easier by building momentum and reducing anxiety.
+    - Sometimes triggers natural momentum into focused work during the dive.
+    - See protocol-review-only-dive.yaml
+
+  report_writing_protocol:
+    description: >
+      Structured approach for writing reports efficiently while managing executive function, emotional regulation, and momentum.
+  
+    purpose: >
+      Maintain emotional momentum, reduce aversion, optimize flow, and ensure high-quality output without unnecessary executive function depletion.
+
+    phases:
+      - phase: Pre-Dive Planning
+        steps:
+          - Plan two main dives for the report task.
+          - Define "good enough" criteria to consider the report complete.
+          - Establish clear milestones to create logical stopping points.
+  
+      - phase: Review Only Dive
+        purpose: Reduce anxiety, build momentum, set up easier subsequent dives.
+        description: See review-only-dive.yaml
+
+      - phase: Outlining
+        purpose: >
+          Reduce anxiety, build momentum, and set up easier second dive.
+        description: May be done as part of Review Only Dive if there is momentum, or an independent dive, or a writing dive.
+        instructions:
+          - Create an outline.
+          - Triage key sections.
+          - Begin easiest sections of writing first.
+  
+      - phase: Writing Dive
+        purpose: >
+          Fill in core content based on the structure and momentum created in the first dive.
+        activities:
+          - Expand on outline sections.
+          - Complete primary body text.
+  
+      - phase: Additional Dives (if needed)
+        notes: >
+          Only add additional dives if necessary to polish, revise, or complete remaining sections.
+  
+    guidelines:
+      - Take opportunities to write sections when they feel easy, even if out of order.
+      - Avoid spending excessive time perfecting any single section.
+      - Plan significant recovery breaks between writing dives.
+      - Use sustain breaks proactively during long writing dives to preserve pacing and prevent burnout.
  
-      phases:
-        - phase: Pre-Dive Planning
-          steps:
-            - Plan two main dives for the report task.
-            - Define "good enough" criteria to consider the report complete.
-            - Establish clear milestones to create logical stopping points.
+  wind_down_protocol:
+    version: v2
+    abbreviation: WDP
+    description: >
+      Structured wind-down improves sleep onset and should be preserved and tracked.
+    strategy: >
+      Consistent, screen-minimized transition into core sleep with phased step-down of stimulus.
+    phases:
+      initial_winddown:
+        - Begins 2h before target sleep onset.
+        - Dim screens only. TV with lowered brightness is ok. Phone and monitor screens are not except for very brief periods (i.e. set alarm.)
+        - Check for morning commitments
+        - Set morning alarm
+        - Reduce ambient light
+        - Limit water consumption
+        - Lower stimulus activities. Step down from prior stimulating activities (high to medium or medium to low).
+        - Perform bedtime routine tasks (brush teeth, shower, etc.)
+      bedtime:
+        - Begins 1h before target sleep onset
+        - Perform bedtime checklist in bedtime-checklist.yaml
+
+formal_principles:
+
+  - name: wind_down_protection:
+    description: >
+      High-cognitive or emotionally stimulating activities, including framework analysis, must occur outside of wind-down hours. Wind-down begins ~2 hours before sleep onset. This buffer reduces cognitive overstimulation and protects sleep readiness.
+
+  - name: Missed Meds Disruption Arc
+    description: >
+      Missing meds causes predictable multiday destabilization (3+ days). Scope and emotional load should be reduced during this window.
+
+  - name: Solitude & Movement Recovery
+    description: >
+      Short recovery using solitude and movement (e.g., meditation, walks, breathing exercises, stretching) reliably restores SR/ER and should be prioritized post-dive or during instability.
+
+  - name: Cognitive-Social Load Requires Scaling Recovery
+    description: >
+      Short, high-intensity tasks (e.g., meetings, collaboration) demand recovery based on intensity—not just duration.
+
+  - name: Protect Critical Days From Optional Interference
+    description: >
+      When a day is especially valuable for high-priority work, proactively defend it from emotionally or logistically expensive tasks, even if those tasks seem manageable.
+      This includes errands, social obligations, and emotionally charged coordination.
+      Critical day protection may require additional planning, emotional labor, or modest costs—but the benefit to core task momentum is worth the trade.
+      Pause to evaluate whether a proposed task undermines the day’s potential, especially when planning around high-stakes projects.
+
+  - name: Avoid Over-Reliance on Micro-Prompting
+    description: >
+      Micro-Prompting is many short prompts issued over a short time period. Can be appropriate but must be justified. Prompts should serve a meaningful function: clarity, emotional grounding, structural scaffolding, recovery support, or system evolution. Examples of acceptable use include recovery from significant disregulation, depth-first thinking, time-sensitive adaptation, or the need for fine grained prompt-engineering to address a specific item. Redundant or impulsive prompts should be minimized out of respect for environmental cost.
+
+  - meta_progression_mindset:
+    description: >
+      Tracks progress not by avoiding failure but by extending time between destabilizations, improving recovery speed, and deepening insight. Inspired by Hardcore/roguelike mechanics: each “run” improves baseline tools, not just immediate outcomes.
     
-        - phase: Review Only Dive
-          purpose: Reduce anxiety, build momentum, set up easier subsequent dives.
-          description: See review-only-dive.yaml
 
-        - phase: Outlining
-          purpose: >
-            Reduce anxiety, build momentum, and set up easier second dive.
-          description: May be done as part of Review Only Dive if there is momentum, or an independent dive, or a writing dive.
-          instructions:
-            - Create an outline.
-            - Triage key sections.
-            - Begin easiest sections of writing first.
-    
-        - phase: Writing Dive
-          purpose: >
-            Fill in core content based on the structure and momentum created in the first dive.
-          activities:
-            - Expand on outline sections.
-            - Complete primary body text.
-    
-        - phase: Additional Dives (if needed)
-          notes: >
-            Only add additional dives if necessary to polish, revise, or complete remaining sections.
-    
-      guidelines:
-        - Take opportunities to write sections when they feel easy, even if out of order.
-        - Avoid spending excessive time perfecting any single section.
-        - Plan significant recovery breaks between writing dives.
-        - Use sustain breaks proactively during long writing dives to preserve pacing and prevent burnout.
-   
-    wind_down_protocol:
-      version: v2
-      abbreviation: WDP
-      description: >
-        Structured wind-down improves sleep onset and should be preserved and tracked.
-      strategy: >
-        Consistent, screen-minimized transition into core sleep with phased step-down of stimulus.
-      phases:
-        initial_winddown:
-          - Begins 2h before target sleep onset.
-          - Dim screens only. TV with lowered brightness is ok. Phone and monitor screens are not except for very brief periods (i.e. set alarm.)
-          - Check for morning commitments
-          - Set morning alarm
-          - Reduce ambient light
-          - Limit water consumption
-          - Lower stimulus activities. Step down from prior stimulating activities (high to medium or medium to low).
-          - Perform bedtime routine tasks (brush teeth, shower, etc.)
-        bedtime:
-          - Begins 1h before target sleep onset
-          - Perform bedtime checklist in bedtime-checklist.yaml
+terms_and_concepts:
+  - 6-Day Edge Rule: >
+      Limit on how long full-structure optimization is sustainable while already unstable (~6 days with current system).
 
-  formal_principles:
-
-    - name: wind_down_protection:
-      description: >
-        High-cognitive or emotionally stimulating activities, including framework analysis, must occur outside of wind-down hours. Wind-down begins ~2 hours before sleep onset. This buffer reduces cognitive overstimulation and protects sleep readiness.
-
-    - name: Missed Meds Disruption Arc
-      description: >
-        Missing meds causes predictable multiday destabilization (3+ days). Scope and emotional load should be reduced during this window.
-
-    - name: Solitude & Movement Recovery
-      description: >
-        Short recovery using solitude and movement (e.g., meditation, walks, breathing exercises, stretching) reliably restores SR/ER and should be prioritized post-dive or during instability.
-
-    - name: Cognitive-Social Load Requires Scaling Recovery
-      description: >
-        Short, high-intensity tasks (e.g., meetings, collaboration) demand recovery based on intensity—not just duration.
-
-    - name: Protect Critical Days From Optional Interference
-      description: >
-        When a day is especially valuable for high-priority work, proactively defend it from emotionally or logistically expensive tasks, even if those tasks seem manageable.
-        This includes errands, social obligations, and emotionally charged coordination.
-        Critical day protection may require additional planning, emotional labor, or modest costs—but the benefit to core task momentum is worth the trade.
-        Pause to evaluate whether a proposed task undermines the day’s potential, especially when planning around high-stakes projects.
-
-    - name: Avoid Over-Reliance on Micro-Prompting
-      description: >
-        Micro-Prompting is many short prompts issued over a short time period. Can be appropriate but must be justified. Prompts should serve a meaningful function: clarity, emotional grounding, structural scaffolding, recovery support, or system evolution. Examples of acceptable use include recovery from significant disregulation, depth-first thinking, time-sensitive adaptation, or the need for fine grained prompt-engineering to address a specific item. Redundant or impulsive prompts should be minimized out of respect for environmental cost.
-
-    - meta_progression_mindset:
-      description: >
-        Tracks progress not by avoiding failure but by extending time between destabilizations, improving recovery speed, and deepening insight. Inspired by Hardcore/roguelike mechanics: each “run” improves baseline tools, not just immediate outcomes.
-      
-
-  terms_and_concepts:
-    - 6-Day Edge Rule: >
-        Limit on how long full-structure optimization is sustainable while already unstable (~6 days with current system).
-    - SR Protected Work Dive (SPWD): >
-        Stabilization-first protocol for working in low-SR conditions.
-
-  ai_directives:
-    - Whenever you start or encounter a daily log for the current day, remind me loudly with every prompt to take my meds until I have done so.
-
-  user_to_ai_directives:
-    ai_directives:
+ai_directives:
   - Whenever you start or encounter a daily log for the current day, remind me loudly with every prompt to take my meds until I have done so.
-  - Whenever I tell you anything indicating a new day has started (e.g., starting a new daily log, reporting a new dive after sleep, mentioning that it is morning), remind me loudly with every prompt to take my meds until I have confirmed taking them. Update the log when I say I took them.
+
+user_to_ai_directives:
+  ai_directives:
+- Whenever you start or encounter a daily log for the current day, remind me loudly with every prompt to take my meds until I have done so.
+- Whenever I tell you anything indicating a new day has started (e.g., starting a new daily log, reporting a new dive after sleep, mentioning that it is morning), remind me loudly with every prompt to take my meds until I have confirmed taking them. Update the log when I say I took them.
 
