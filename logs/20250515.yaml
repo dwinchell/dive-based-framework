@@ -1,0 +1,69 @@
+kind: Daily Log
+date: 05/15/2025
+meds: 09:00
+
+day_start:
+  time: 09:00
+  sleep: 5h45m
+  energy: tired
+
+goals:
+  - Haircut (achieved)
+  - Review dive for Starburst (exceeded)
+
+activities:
+  - "09:00–11:15 – morning routine and planning, EIP"
+  - "11:30–14:00 – lunch, BSW, OCD trigger + exposure, rumination, shower"
+  - "14:00–14:30 – nap"
+  - "14:45–15:30 – work dive: meeting"
+  - "15:30–16:00 – reflection and framework optimization"
+  - "16:00–19:00 – EIP, tried to go to dinner, interrupted by cat needs, ocd trigger, broken down car. took car to dealership, got different food, another EIP, walked to haircut, got haircut, quick food shopping, walked home"
+  - "19:00-21:00 – nap"
+  - "21:00-23:15 - work dive: Starburst"
+  - "23:15-00:00 - recovery block, EIP, planning"
+  - "00:00–02:00 – wind down: phone with wife, planning high-stim dive tomorrow, taking care of cats"
+
+sleep_night_of:
+  wind_down_start: 00:00
+  in_bed: 02:00
+  time: 02:45-08:45
+  duration: 6h00m
+  notes: Brief waking at 06:45; light-blocking mask fell off again despite haircut — urgent stabilization task
+
+reflections:
+  - "Made good progress yesterday by avoiding destabilizing dives."
+  - "Goal today: incorporate a high-stimulus dive that isn’t destabilizing; will require careful timing, content selection, and possibly other safeguards."
+  - "It’s okay to engage in long, immersive activities—what matters is doing so in a way that preserves stability."
+  - "Avoid framing choices about long immersive activities as permanent denial. This is about **strategy**, not **self-deprivation**."
+  - "Honoring your needs includes designing ways to experience what you care about safely."
+  - "✅ Noticed hunger early and ate before it caused destabilization"
+  - "✅ Completed BSW incrementally despite low state"
+  - "✅ Handled OCD trigger with brief exposure/mindset shift"
+  - "⚠️ Ruminated unproductively on interpersonal conflict"
+  - "🔧 Adjustment: Use mindfulness process next time interpersonal rumination starts"
+  - "Feeling guilty about multiple recovery blocks during the workday."
+  - "Lack of external pressure makes self-directed traction harder, even though this time is necessary."
+  - "Desire to 'level up' and stabilize is strong—partly to gain momentum and reduce reset cycles."
+  - "Concern: even temporary sustained progress may be hard to achieve. Fear of falling short despite effort."
+  - "Reflection and framework work felt productive; used emotional integration effectively, recognized a repeated SR failure point, and built a concrete behavioral response plan."
+  - "Mood was *relatively* stable today despite multiple emotional stressors. Recovered quickly from each, suggesting the elevated cyclothymic disruption from the missed meds may have passed and baseline reactivity has returned."
+  - "Met both goals for the day."
+  - "Working on Starburst instead of gaming was a good decision that led to brief disappointment but I recovered effectvely using EIP"
+
+emotional_integration_protocols:
+  - time: 16:00
+    name: pain, desperation, stimulus craving, fatigue, physical hunger
+    feel: check
+    accept: check
+    observe: doing the process, following the framework, making careful decisions; already tried eating, not enough
+    contextualize: low SR, fatigue; recurring pattern of craving + hunger late-day
+    adjust: go out for dinner — food + light movement + environment change
+
+  - time: 23:15
+    name: sadness and disappointment from missing today’s high-stim dive after skipping yesterday's
+    feel: check
+    accept: check
+    observe: chose to prioritize something important instead
+    contextualize: Starburst had languished, this helps career and eases future anxiety; urgency due to narrow window
+    adjust: schedule and plan a high-stim dive for tomorrow — something to look forward to
+
