@@ -1,11 +1,12 @@
 kind: Daily Log
 date: 05/15/2025
-meds: 09:00
 
 day_start:
   time: 09:00
-  sleep: 5h45m
+  sleep_last_night: 5h45m
   energy: tired
+
+meds: 09:00
 
 goals:
   - Haircut (achieved)
@@ -29,6 +30,7 @@ sleep_night_of:
   time: 02:45-08:45
   duration: 6h00m
   notes: Brief waking at 06:45; light-blocking mask fell off again despite haircut — urgent stabilization task
+  energy: Slightly Tired
 
 reflections:
   - "Made good progress yesterday by avoiding destabilizing dives."

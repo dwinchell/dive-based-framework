@@ -16,26 +16,34 @@ kind: Daily Log
 date: <date>
 
 day_start:
-  time: <time> # When I woke up
-  core_sleep: <duration> # Use this for the sleep that preceded the day start
-  additional_sleep: <duration> # Only if relevant
-  energy: <short text>
+  time: <time> # When I woke up the morning of
+  sleep_last_night: <duration>
+  energy: <short text> # How i felt when i woke up the morning of
 
-meds: Taken at <time>
+meds: <time> # When I took them
+
+goals:
+  - "<long text>"
 
 # Make this section a list in the following format:
 activities:
   - "<start time>-<end time> - <Short description like 'Work Dive' or 'Recovery Block'> — <Notes>"
 
+reflections:
+  - "<long text>"
+
+eips:
+  - time: <time>
+    name: <text>
+    observe: <text>
+    context: <text>
+    adjust: <text>
+
 # Use this section for the sleep that happens after bedtime before the start of the next log
 sleep_night_of:
-  planned_wind_down: 2400
-  planned_sleep_onset: 0200
   wind_down_start: <time>
   in_bed_at: <time>
-  core_sleep:
-    # Fill in later
-    start: <time>
-    end: <time>
-    energy: <short text>
-    notes: <long text>
+  time: <time>-<time>
+  duration: <duration>
+  energy: <short text> # How i felt when i woke up the morning after
+  notes: <long text>
