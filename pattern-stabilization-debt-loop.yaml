@@ -1,0 +1,38 @@
+kind: Protocol
+name: Stabilization Debt Loop
+version: 1.0
+
+description: >
+  A recurring dysfunction pattern where delays or lapses in basic stabilization tasks (e.g., food prep, laundry, general cleaning)
+  lead to heightened executive friction, emotional reactivity, and vulnerability to OCD/ADHD spirals. 
+  Recognizing this loop is critical for contextualizing distress and prioritizing recovery-aligned action.
+
+triggers:
+  - High reactivity to minor disruptions
+  - Compulsive behavior blocking restorative action
+  - Feeling “trapped” between knowing what would help and being unable to do it
+  - Intrusive thoughts about being “behind” on life logistics
+  - Loss of appetite or nausea due to ADHD-driven body neglect
+  - Elevated system friction across multiple domains (e.g., mess, hunger, unfinished errands)
+
+effects:
+  - Increased OCD loops, especially around cleaning and order
+  - Executive paralysis on high-value or stabilizing actions
+  - Emotional volatility or helplessness
+  - Disconnection from body signals (e.g., hunger, thirst, fatigue)
+
+interventions:
+  - Acknowledge the loop without judgment: "This is a Stabilization Debt state"
+  - Reduce shame by naming it as systemic, not moral
+  - Initiate a soft-structured stabilization dive (see below)
+  - Use any tool (music, timebox, companion presence) that reduces startup friction
+
+recovery_strategy:
+  name: "3-Win Stabilization Dive"
+  description: >
+    A loosely structured 30–90 minute dive aimed at resolving three impactful stabilization items.
+    Choose based on current tension points (e.g., food, visual clutter, hygiene environment).
+  steps:
+    - Pick 3 manageable, medium-impact stabilization wins (e.g., clear desk, prep 2 meals, fold laundry)
+    - Use environment scaffolds (stim music, noise-canceling, hydration)
+    - Defer non-stabilization tasks until dive is complete
