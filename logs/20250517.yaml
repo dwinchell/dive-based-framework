@@ -1,0 +1,42 @@
+kind: Daily Log
+date: 05/17/2025
+
+day_start:
+  time: 10:45
+  sleep: null
+  energy: tired
+
+goals: Relax and enjoy yourself
+
+meds:
+  taken: true
+  time: 11:00
+
+todos:
+  - (Done) Refill Meds
+
+activities:
+  - 11:00-11:30 - morning checklist
+  - 11:30-12:00 - BSW, planning, and hygiene
+  - 12:00-14:00 - reading LitRPG (full-day block to avoid sleep disruption)
+  - 14:00-15:00 - continued reading
+  - 15:00-17:30 - nap and cuddling with wife (2.5h sleep)
+  - 17:30-19:00 - shower and self care
+  - 19:00-19:30 - relational dive
+  - 19:30-20:30 - dinner
+  - 20:30-03:30 - gaming (Dome Keeper, high stim)
+  - 03:30 - wind down start
+
+bedtime:
+  checklist_complete: 03:45
+  in_bed: 03:45
+
+sleep:
+  core: 04:15-10:45
+  additional: 10:45-13:00 (fragmented)
+  energy_morning_after: slightly tired
+
+reflections:
+  - At 19:00, recognized I'm not on pace to finish the book by bedtime. Pivoting to other activities to avoid temptation. Continuing would risk "just another hour" spiral.
+  - Stayed up late, but successfully resisted the book. Gaming provided a more bounded alternative.
+  - AI insights led to three new principles - Externally Bounded Immersion, Strategic Self-Redirection, Layered Recovery, Narrative Breakpoints
