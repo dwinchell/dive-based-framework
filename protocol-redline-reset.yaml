@@ -1,0 +1,33 @@
+kind: Protocol
+name: Redline Reset
+version: 1.0
+
+description: >
+  A rapid triage routine for re-regulating when the system crosses an emotional or physical redline.
+  Designed for use during acute overwhelm, dysregulation, or post-trigger spiral (e.g., OCD cleaning loop, accidental exposure, body panic).
+
+triggers:
+  - Accute physical hunger, exhaustion or shutdown
+  - Emotional panic, helplessness, or intrusive loops
+  - Collapse in ability to prioritize or act
+  - Post-trigger exhaustion with unmet basic needs (e.g., hunger, hydration)
+
+steps:
+  - **Step 1: Emergency Nourishment**
+    action: Quickly obtain safe, palatable calories (e.g., smoothie, crackers, protein bar)
+    note: Use delivery or partner assistance if needed; avoid decision fatigue
+    
+  - **Step 2: Grounding Reset**
+    action: Perform a 5-15 minute meditation session or BSW
+    note: Aim to interrupt spiraling thoughts and slow physiological arousal
+
+  - **Step 3: Medium-Stim Decompression**
+    action: Engage in a mildly stimulating but low-pressure activity (e.g., Dome Keeper, modded Skyrim, walk with audio)
+    note: Avoid performance tasks or anything with external stakes
+
+  - **Optional Step 4: Reassess**
+    action: After 30–60 minutes, briefly reevaluate needs. Decide between gentle reentry (stabilization, hygiene) or extending decompression.
+
+notes:
+  - Avoid all judgment during execution. The protocol exists *because* you're not functioning normally.
+  - This is not a productivity routine. It is emergency recovery.
