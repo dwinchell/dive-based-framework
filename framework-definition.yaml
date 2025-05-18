@@ -224,7 +224,9 @@ formal_principles:
   - meta_progression_mindset:
     description: >
       Tracks progress not by avoiding failure but by extending time between destabilizations, improving recovery speed, and deepening insight. Inspired by Hardcore/roguelike mechanics: each “run” improves baseline tools, not just immediate outcomes.
-    
+
+  - name: Narrative Breakpoints
+    description: "Stopping narrative immersion at a natural breakpoint in the story reduces the pull to reengage. I should be careful not to use this as an excuse to keep going when I need to stop. Instead, I should use it to reduce pull by 1) pre-commiting to one arc or 2) writing an imagined breakpoint after stopping."
 
 terms_and_concepts:
   - 6-Day Edge Rule: >
