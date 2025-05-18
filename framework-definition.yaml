@@ -228,6 +228,22 @@ formal_principles:
   - name: Narrative Breakpoints
     description: "Stopping narrative immersion at a natural breakpoint in the story reduces the pull to reengage. I should be careful not to use this as an excuse to keep going when I need to stop. Instead, I should use it to reduce pull by 1) pre-commiting to one arc or 2) writing an imagined breakpoint after stopping."
 
+  - name: Externally Bounded Immersion
+    description: >
+      Immersive activities (e.g., LitRPG, gaming) should include intentional external interruptins that force a stop or provide opportunities for Strategic Self-Redirection.
+      This baseline principle supports sustainable engagement by preventing overstaying in high-stimulus states.
+
+  - name: Strategic Self-Redirection
+    description: >
+      When an interruption occurs—naturally or by design—use the opportunity to evaluate
+      whether to return to the activity or pivot. This builds on externally bounded immersion by inserting
+      conscious decision-making at natural breakpoints.
+
+  - name: Layered Recovery
+    description: >
+      Combining multiple recovery modes (e.g., social, physical, sensory) in a single day or session
+      may produce better emotional and cognitive stabilization than relying on just one form.
+
 terms_and_concepts:
   - 6-Day Edge Rule: >
       Limit on how long full-structure optimization is sustainable while already unstable (~6 days with current system).
