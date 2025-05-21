@@ -1,0 +1,75 @@
+kind: Daily Log
+date: 05/20/2025
+
+day_start:
+  time: 08:30
+  sleep: 5h10m
+  energy: Very Tired
+  reflection: early appointment resulted in earlier wake time and less sleep. pushing back sleep onset would help reduce this effect (as usual)
+
+goals:
+  - Impress my manager at the 2pm call. ✅
+  - Resolve any action items that I take during the 12:30 scoping call, today. ✅
+  - Do not spiral into dysregulation due to sleep deprivation!
+  - Everything else is optional. Pace myself.
+
+activities:
+  - time: "08:30–09:40"
+    type: "Appointment"
+    description: "Psychiatry appointment – asked pre-planned questions about the framework, got helpful answers"
+  - time: "09:40–10:40"
+    type: "Unstructured"
+    description: "Reflected on appointment, light work, took trash out, ate light breakfast (Ensure) at 10:40"
+  - time: "10:40–11:00"
+    type: "Planning"
+    description: "Daily log setup and set goals for the day"
+  - time: "11:00–13:45"
+    type: "Work Dive"
+    description: "Meetings, high social. Became frustrated and did EIP. Moved on to next meeting"
+  - time: "13:45–14:00"
+    type: "Sustain Break"
+    description: "Snack and 3min meditation after high social to prepare for manager meeting"
+  - time: "14:00–14:30"
+    type: "Meeting"
+    description: "Manager meeting about Starburst. Very successful—he was impressed"
+  - time: "14:30–15:30"
+    type: "Work Session"
+    description: "Showed director Starburst work, got feedback, took action items, validated with manager"
+  - time: "15:30–16:30"
+    type: "Recovery"
+    description: "Decompress and dinner"
+  - time: "16:30–19:45"
+    type: "Sleep"
+    description: "Nap"
+  - time: "19:45–00:00"
+    type: "Gaming Dive"
+    description: "Played Screeps Arena"
+  - time: "00:00"
+    type: "Externally Bounded Immersion"
+    description: "Gave cat meds; paused to interrupt immersion and reorient"
+  - time: "00:15"
+    type: "Transition"
+    description: "Finished Screeps Arena, realized I was hungry, transitioning to snack and food. EBI helped increase body awareness"
+  - time: "00:15-02:15"
+    type: "Wind Down"
+    description: "Began wind down routine after gaming and snack transition. Thought a lot about Screeps, the video game I had been playing. It sort of stays stuck in my head."
+
+meds: taken at 10:00
+
+reflections:
+  - I think the not wanting to game is sleep related rather than a situation like last week where I gamed too much. 3 days ago I did lots of high stim hours including 7 of gaming and 2 of reading. 2 days ago I enjoyed a short gaming session (1.5 hrs). 1 day ago I focused on other things, with 6 hr work dive and 2 hrs of art. Lots of stimulus but not a gaming binge. Today I don't even want to game. Seems like it's fatigue. The main difference is short sleep and early wake today.
+  - I'm still fatigued after a 3-hour nap followed by a BSW. I want some stimulus, maybe in the form of gaming in general, but I feel inert and unfocused, and it's difficult to want any particular course of action or initiate it.
+
+eip:
+  - time: "12:00"
+    name: "Frustration"
+    feel_accept: "Done"
+    observe: "I was pacing and talking to myself frustratedly about an interaction and thought from days ago. It looked like maybe I was wrong about something, and even if I was right that was frustrating too because it showed my company wasting effort."
+    context: "I had just had another meeting, during which I had to spend ER to remain humble and open when I was disagreeing with someone and trying to relinquish control (and also sort of wrong in some thought processes). Also I was hungry and reacting more emotionally with frustration because of it."
+    adjustment: "Eat lunch. Move on to the next topic. Continue to monitor emotions during calls. Try to focus on tone. Continue to be open about changing my mind on things and focus on the benefit of gaining knowledge rather than being right."
+
+sleep:
+  planned_onset: 02:20
+  in_bed_at: 02:15
+  time: 03:15-09:30
+  duration: 6h15m
