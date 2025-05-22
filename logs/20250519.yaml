@@ -1,3 +1,4 @@
+---
 kind: Daily Log
 date: 05/19/2025
 
@@ -19,8 +20,9 @@ eip: []
 reflections: []
 
 sleep:
+  planned_onset: 2:45
+  wind_down_start: 0:00
   time: 03:20–08:30
   duration: 5h10m
   onset_latency: 20m
   energy: very tired
-

@@ -1,0 +1,903 @@
+---
+daily_log:
+  may_1_2025:
+    day_start:
+      core_sleep_last_night: ~5h 30m
+      sleep_last_night: ~6h 30m
+      time: 09:00
+      energy: Tired
+
+    meds: taken at 09:30
+
+    activities:
+      - type: Recovery Block
+        time: Morning
+        description: >
+          Good recovery period including light exercise.
+          Helped stabilize morning state and prep for work dive.
+
+      - type: Work Dive
+        time: 11:00–16:00
+        description: >
+          Solid 5-hour work dive. Required high emotional regulation (ER).
+          Sustained engagement throughout; cognitively and emotionally taxing.
+
+      - type: Recovery Block
+        time: 16:00–16:30
+        description: >
+          Unstructured recovery including conversation with wife and making a milkshake.
+          Emotional interaction and sensory comfort helped improve mood slightly.
+
+      - type: Gaming Dive
+        time: 16:30–19:15
+        game: EVE Online
+        description: >
+          Low-EF, high-agency decompression dive. Intended to stabilize SR and mood.
+          Outcome: Enjoyable experience, but did not produce meaningful recovery effects.
+          Emotional/mental fatigue persisted afterward.
+
+    mood_notes:
+      - time: 19:15
+        mood: Low
+        energy: Drained
+        notes: >
+          Despite enjoyable gaming dive, recovery did not take hold.
+          Emotional and mental fatigue still present.
+
+    in_bed:
+      time: 02:00
+      context: >
+        Evening spent in low-key EVE planning and tinkering.
+        Activity was low-stimulus and mildly engaging, served as a gentle pre-sleep transition.
+      medication: 5mg melatonin
+
+    sleep:
+      core_sleep:
+        start: 02:30
+        end: 08:00
+        duration: 5h 30m
+        wake_reason: >
+          Likely woke early due to forgetting face mask.
+        breathe_right_strip: No
+        reflections: >
+          Sleep was short and not fully restorative.
+          Entered a post-sleep drowsy phase from 08:00–08:30, suggesting incomplete recovery.
+          Woke tired
+---
+kind: Daily Log
+date: 5/3/2025
+
+day_start:
+  core_sleep_last_night: 7h
+  sleep_last_night: 9h 15m
+  time: 12:45
+  energy: Fully rested
+
+meds: taken at 12:50
+
+activities:
+  - type: Post-Sleep Protocol
+    time: 12:50–~13:30
+    description: >
+      Groggy on waking despite full rest.
+      Deferring assessments and decisions until completing Post-Sleep Protocol (PSP) to recalibrate emotional and cognitive state.
+
+  - type: Planning
+    time: 13:00
+    description: Updated daily log and defined todo list      
+
+  - type: State Check-In
+    time: Post-PSP (~13:30)
+    energy: Alert
+    mood: Motivated and determined
+    emotional_state:
+      - Slight anxiety about running out of SR
+      - Concern about missing time-sensitive non-work items due to prior SR depletion
+    notes: >
+      Post-PSP recalibration successful — significant improvement in energy and mood.
+      Determination to engage is present, but undercut slightly by awareness of limited SR reserves and pressure to recover lost time.
+
+  - type: Work Dive
+    time: 14:00–16:00
+    description: >
+      Focused writing session (~2h). Significant progress made on work task.
+      Dive was productive and well-paced, contributing to both output and confidence.
+    reflections: >
+      Emotional state improved post-dive.
+      Positive momentum helped ease earlier anxiety about lost time and SR scarcity.
+
+  - type: Exercise Dive
+    time: 16:00–17:00
+    description: >
+      1-hour physical training session. Initiated as a proactive SR recovery strategy.
+      Intention was to support cognitive and emotional restoration post-work dive.
+    reflections: >
+      Physical activity was sustained and deliberate.
+      Aimed to shift internal state toward greater long-term resilience.
+
+  - type: Meal
+    time: 17:00
+    context: Lunch out
+    description: >
+      Chose to go out for lunch instead of defaulting to delivery.
+      Viewed as a positive deviation from usual pattern, with potential benefits for mood, environment, and executive function.
+
+  - type: State Check-In
+    time: ~17:30
+    mood: High
+    energy: Creative
+    notes: >
+      Feeling uplifted and creatively energized post-exercise and lunch out.
+      Strong drive to engage — risk of misdirected hyperfocus is present.
+      Intentional focus is needed to channel energy toward high-priority report work instead of burning EF on lower-impact tasks.
+
+  - type: Physical State
+    time: ~17:30
+    notes: >
+      Noticed knee discomfort post-run.
+      Likely due to quad tightness or impact-related strain.
+      May require immediate attention to prevent compounding fatigue or interference with sleep.
+    symptoms:
+      - Knee pain (post-run)
+    intended_actions:
+      - Use roller on quads
+
+  - type: Work Dive
+    time: 17:30–19:30
+    description: >
+      Extended writing dive focused on report.
+      Maintained momentum and focus throughout.
+      Effectively channeled high-energy state into meaningful output.
+
+  - type: Work Dive
+    time: 20:00–22:45
+    description: >
+      Final push to complete report.
+      Finished writing, sent out deliverable, and created summary slides.
+      Strong execution block with high focus and closure.
+    reflections: >
+      Successfully met major work objective for the day.
+      Dive wrapped up on a note of accomplishment and follow-through.
+
+  - type: Gaming Dive
+    time: 23:00–02:45
+    game: EVE Online
+    description: >
+      Intended as a gentle wind-down, but evolved into a full dive.
+      Gameplay remained low-stimulus and relaxing in a dim environment.
+      Strong engagement driven by AI-based tutorial progression and steady learning loop.
+      Dive was enjoyable but extended later than ideal for sleep timing.
+
+in_bed:
+  time: 03:15
+  wind_down:
+    time: 02:45–03:15
+    description: >
+      Basic bedtime routine executed after extended gaming dive.
+      No additional structured wind-down protocol; minimal prep before sleep onset.
+    medication: 5mg melatonin
+    breathe_right_strip: Yes
+    hydration_status: Slightly low (no significant intake in last few hours)
+    audio_environment: BetterSleep app (replacing Poe playlist)
+
+pre_sleep_boosters:
+  actions:
+    - Light lower body stretching (quads, hamstrings, calves)
+    - Deep breathing / short body scan
+    - Brief positive recall (1–2 good things from the day)
+  notes: >
+    Implemented simple recovery strategies to offset screen exposure, late timing, and mild dehydration.
+    Aimed at promoting physical relaxation, parasympathetic activation, and emotional calm before sleep.
+
+sleep:
+  core_sleep:
+    start: 03:30
+    end: 09:00
+    duration: 5h 30m
+    wake_reason: Natural wake-up
+    reflections: >
+      Woke naturally at 09:00 sharp.
+      Felt physically rested when woke in bed. After getting up, foggy and slight headache
+---
+kind: Daily Log
+date: 5/4/2025
+
+day_start:
+  time: 09:00
+  core_sleep_last_night: 5h30m
+  sleep_last_night: 5h30m
+  energy: Physically rested but mentally foggy with slight headache
+
+meds: taken at 09:15
+
+activities:
+  - type: Sustain Block
+    time: 09:00–09:15
+    description: >
+      Refilled weekly medicine organizer.
+      Contributes to long-term stability and reduces risk of missed doses.
+
+  - type: Planning Block
+    time: 09:15–10:15
+    description: >
+      Updated framework definition and version-controlled the daily log.
+      Strengthens consistency, reflection, and self-regulation infrastructure for the day ahead.
+
+  - type: Post-Sleep Protocol
+    time: 10:15–11:00
+    description: >
+      Completed PSP v2. Included hydration, clothing change, wetting face, hygiene, and light movement.
+      Functioned as a full recovery block — helped stabilize mood and cognitive state.
+
+  - type: Environmental Maintenance
+    time: 11:05–11:45
+    description: >
+      Completed cat litter and trash tasks, and made partial progress on cardboard recycling and laundry.
+      Session triggered noticeable SR crash within 5 minutes. Became irritable and experienced hunger.
+      Light breakfast (small yogurt drink) likely insufficient; drank an Ensure to compensate.
+      Lack of sleep also contributed to reduced resilience and heightened sensitivity.
+    outcome: >
+      Despite physical and emotional resistance, completed high-aversion tasks by pushing through discomfort.
+      OCD-related stress (dust exposure, brushing surfaces) compounded load but was managed through planned shower.
+
+  - type: Recovery Block
+    time: 11:45–12:10
+    description: >
+      Full shower to reset physical and emotional state after stressful environmental maintenance block.
+      Aimed at relieving sensory discomfort, OCD tension, and SR depletion.
+      Served as effective transition into a more stable and regulated internal state.
+
+  - type: State Check-In
+    time: 11:00
+    energy: Refreshed but foggy
+    mood: Relaxed
+    physical_state: >
+      Slight headache, likely from limited sleep.
+    notes: >
+      PSP was effective in stabilizing state. Emotional and physical systems feel rebalanced,
+      but cognitive clarity still lagging — probable result of 5.5h sleep duration.
+
+  - type: Call
+    time: ~12:15
+    description: >
+      Called Mom. Brief check-in. Provided minor emotional boost and sense of follow-through.
+      No major stressors or updates.
+
+  - type: Nap
+    time: 13:00–15:00
+    sleep_duration: 1h 30m
+    hypnagogia: 30m
+    description: >
+      Initiated nap to recover from physical exertion and SR depletion after morning chores and emotional strain.
+      Slept soundly for ~1.5 hours, followed by a 30-minute hypnagogic state — conscious but not alert.
+      Hypnagogic period did not feel like true sleep but likely provided partial restoration through rest and sensory disengagement.
+
+  - type: Post-Sleep Protocol
+    time: 15:30
+    description: >
+      Partial execution of PSP v2 following nap and hypnagogic rest period.
+      Included: hydration, deep breathing, wetting head and face, light stretching, and a short walk.
+      Omitted other components (meditation, etc.).
+      Helped reestablish basic physical and cognitive readiness.
+      Plan to revise PSP in future version (v3) to distinguish core vs optional elements.
+
+  - type: Substance Log
+    time: 15:45
+    substance: Caffeine
+    amount: 25mg
+    source: Energy bar (unintentional)
+    description: >
+      Accidentally consumed ~25mg of caffeine via an energy bar without realizing it contained stimulants.
+      Intake was unintentional and occurred post-nap during recovery window.
+      May impact sleep onset or interact with current SR state depending on timing and sensitivity.
+
+  - type: Relational Dive
+    time: 15:45–17:30
+    description: >
+      Went to dinner at a new restaurant with wife.
+      Served as both quality time and decompression after earlier SR challenges.
+      Environment was novel but not overwhelming; contributed positively to emotional connection and mood regulation.
+
+  - type: Gaming Dive
+    time: 18:20–02:00
+    game: EVE Online
+    milestone: Find a shiny and sell it
+    description: >
+      Long-duration gaming session with moderate engagement. 
+      Wind-down began passively toward the end of the session as stimulation tapered.
+      Pushed sleep back 30m from nominal target onset of 2:00
+
+  - type: Wind Down
+    time: ~01:30–02:00
+    description: >
+      Passive wind-down mixed into final gaming stretch. Didn't completely follow WDP for the first phase, but completed all phase 2 (bed time) tasks.
+      Transitioned directly to bed without overstimulation, maintaining low-light environment.
+
+in_bed: 02:00
+
+core_sleep:
+  start: 02:30
+  end: 09:00
+  duration: 6h 30m
+  wake_reason: Bladder
+  energy_on_wake: Tired
+
+---
+kind: Daily Log  
+date: 5/5/2025
+
+day_start:
+  time: 09:00  
+  core_sleep_last_night: 6h 30m  
+  sleep_last_night: 6h 30m  
+  energy: Tired
+
+meds: taken at 14:00
+
+activities:
+  - type: Planning Block  
+    time: 09:00–09:30  
+    description: >
+      Started the day with a short planning session.  
+      Reviewed framework alignment and clarified intentions for morning work dive.
+
+  - type: Work Dive  
+    time: 09:50–14:30  
+    description: >
+      Deep, sustained work dive on high-priority task.  
+      Required consistent focus and emotional regulation.  
+      Moderate executive function load; supported by prior planning.
+
+  - type: Recovery Block  
+    time: 14:30–15:00  
+    description: >
+      Intentional post-dive recovery. Included hydration and brief disengagement.  
+      Aimed at resetting state and preserving SR for remainder of day.
+
+  - type: Work Dive  
+    time: 15:00–16:00  
+    description: >
+      Short, intense work dive with high social and cognitive load.  
+      Required deep, careful analysis, live coordination, and active decision-making.  
+    tags:
+      - high_social  
+      - high_cognitive
+
+  - type: Recovery Block  
+    time: 15:30–16:30  
+    description: >
+      Long recovery block following high-load dive.  
+      Prioritized solitude, low-stimulus environment, and gentle pacing to restore SR.
+
+  - type: Work Dive  
+    time: 16:30–17:00  
+    description: >
+      Light dive to wrap up loose ends.  
+      Focused on low-effort tasks with clear boundaries to avoid overextension.
+
+  - type: Unstructured time
+    time: 17:00–Bed  
+    description: >
+      Gamed for hours (EVE) spent too much EF on it. Had fun.
+      Also celebrated with wife
+
+in_bed: 03:10
+
+core_sleep:
+  start: 03:10  
+  end: 10:00  
+  duration: 6h 50m  
+  wake_reason: Alarm  
+  energy_on_wake: Groggy
+
+notes:
+  - time: 09:30  
+    type: Incident  
+    description: >
+      Nearly missed morning medication due to getting pulled into planning immediately after waking.  
+      Reinforced importance of taking meds *before* any morning logging or task engagement.
+
+  - time: 16:00  
+    type: Recovery Strategy Note  
+    description: >
+      Per Cognitive-Social Load principle, a long recovery block is now required to recalibrate.  
+      Will prioritize solitude and sensory downshift in next block.
+
+---
+kind: Daily Log
+date: 5/6/2025
+
+day_start:
+  time: 10:00
+  core_sleep_last_night: 6h 50m
+  sleep_last_night: 6h 50m
+  energy: Groggy
+
+meds: taken at 10:00
+
+activities:
+  - type: Stabilization Task
+    time: 10:00–10:45
+    description: >
+      Completed full morning routine and created a morning routine checklist to formalize and support future execution.
+
+  - type: Recovery Block
+    time: 10:45–12:00
+    description: >
+      Intended as a standard recovery block, but was disrupted by a major OCD trigger.  
+      Responded to the trigger strongly, resulting in emotional overload and compulsive mental processing.  
+      Executive function was significantly degraded afterward.
+
+  - type: Unstructured Work
+    time: 12:00–16:00
+    description: >
+      Low-EF period following OCD disruption.  
+      Completed miscellaneous tasks without structured planning or clear dive framing.  
+      Productivity was mixed; pacing driven more by inertia than intentional effort.
+
+  - type: Nap
+    time: 18:00–19:45
+    description: >
+      Slept from 18:00–19:00.  
+      Hypnagogic limbo from 19:00–19:45, interrupted by mother-in-law yammering on speakerphone.  
+      Not fully restorative; external disruption prevented deeper return to sleep.
+
+  - type: Unstructured Time
+    time: 19:45–03:50
+    description: >
+      Played EVE too late — gamed until ~03:00.  
+      Noticed compulsive engagement patterns; game dominated mental state.  
+      Wind-down routine included a long shower, but thoughts remained stuck on game.  
+      Entry into sleep mode was delayed and fragmented.
+
+in_bed: 03:50
+
+core_sleep:
+  start: 03:50
+  end: 09:00
+  duration: 5h 10m
+  wake_reason: Work ping
+  energy_on_wake: Tired
+
+notes:
+  - time: 12:00
+    type: Medication
+    description: >
+      Took 0.5mg Klonopin to reduce OCD-induced anxiety following major trigger.  
+      Intended to stabilize mood and reduce intrusive looping.  
+      Will monitor for sedation or rebound effects later in the day.
+
+  - time: 12:00
+    type: EF Disruption Analysis
+    description: >
+      Strong OCD response during recovery block caused acute emotional load, rumination, and likely cortisol spike.  
+      Resulted in temporary executive function collapse.  
+      Mechanism: amygdala-driven distress impairs prefrontal cortex operations, compounding EF depletion via cognitive loops.
+
+---
+kind: Daily Log
+date: 5/7/2025
+
+day_start:
+  day_started: 09:00
+  core_sleep: 5h10m
+  total_sleep: 5h10m
+  energy_on_wake: Tired
+
+mood:
+  starting: null
+  ending: null
+  notes: []
+
+state:
+  energy: null
+  executive_function: null
+  emotional_regulation: null
+  self_regulation: null
+  tags: [unexplained anxiety]
+
+activities:
+  - 10:00–10:30: Work Dive – Meeting (High Social, Low Cognitive)
+  - 10:30–11:15: Recovery Block – Finish Work Morning Checklist (hydration and food skipped earlier)
+  - 11:15–12:30: Work Dive – Slides review + meeting (High Cognitive, High Social) – Used review-first dive strategy to reduce anxiety; successfully triggered productive session before high-social meeting
+  - 12:30–12:50: Planning Session – Dive-First Planning Framework, formalized Review-Only Dive protocol
+  - 12:50–15:00: Recovery Block – Post high-load dive + low sleep
+  - 15:00–17:00: Work Dive – Meeting (High Cognitive, High Social) – Received positive feedback from boss; moderate career decision upcoming
+  - 18:00–19:30: Nap (1h30m)
+  - 23:00– : Relational Dive – High stimulus bonding activity (GSL StarCraft VoD)
+
+sleep:
+  - type: Core Sleep
+    start: 04:30
+    end: 09:30
+    duration: 5h
+    notes: Sleep delayed by gaming; woke early due to bladder. Woke up feeling tired.
+
+notes:
+  - 13:00: Felt anxious with no conscious cause
+  - 01:30: Knew I should go to bed but played EVE anyway – Impulse control failure
+
+meds:
+  taken: true
+  time: 09:30
+
+---
+kind: Daily Log
+date: 05/09/2025
+
+day_start:
+  sleep: 
+    start: 04:00
+    end: 09:00
+    duration: 5h
+    interruptions: bladder
+    wake: alarm
+  energy: Tired
+  meds_taken: true
+  meds_time: 09:15
+
+---
+type: Daily log
+date: 5/11/25
+day_start: 1000
+sleep_previous_night:
+  time: 0400-1000
+  core: 6h
+  total: 6h
+  notes: Mask slipped down at 8, back to sleep quickly, woke naturally at 10
+meds: Taken at 1040
+activities:
+  - 1000-1010 - Planning, using GitHub app
+  - 1010-1020 - PSP mandatory startup minus
+  - 1020-1030 - Refill meds
+  - 1055-1110 - Breathe, Stretch, Walk (BSW)
+  - 1645-2245 - Relational Dive - Unibrain
+sleep_night_of:
+  time: 0300-0930
+  notes: Woke at 0730 because of light, and again at 0930 naturally.
+  energy: Body feels rested but brain tired.
+todo:
+  - x litter
+  - . laundry
+  - haircut
+  - cardboard
+  - roller
+  - x buy vit D, B100
+---
+type: DailyLog
+date: 5/12/25
+
+morning:
+  day_start:
+    time: 9:30
+    energy: Body feels rested but brain tired.
+
+meds: Taken at 9:30
+activities:
+  - 10:00-?: Worday Morning Checklist - mandatory, recon
+
+sleep: 0400-1000 - alarm. body mostly rested but brain tired. mask off again
+---
+kind: Daily Log
+date: 5/13/25
+
+day_start: 1000
+
+sleep_previous_night:
+  time: 0400-1000
+  core: 6h
+  total: 6h
+  notes: Body rested but brain tired. Feel slightly burnt out.
+
+meds: Taken at 1000
+
+activities:
+  - time: 1030–1130
+    type: Work Dive
+  - time: 1130–1430
+    type: Unstructured Mixed Work and Planning
+    details:
+      - Included a couple of high-social meetings.
+      - Emotional regulation load: read something frustrating about work/product direction → anger → solo ranting.
+  - time: 1600–1700
+    type: Work Meeting
+    details:
+      - Included emotionally charged sidebar afterward that required significant ER to navigate professionally.
+  - time: 2200
+    type: BSW + music (incremental activation path)
+    sequence:
+      - Breathe while lying down
+      - Music for mood shift
+      - Stand and headphone up
+      - Stretch
+      - Walk
+    notes: Effective at lifting grogginess and increasing alertness. Demonstrates that BSW can be decomposed into sequential micro-actions.
+  - time: 0130–0230
+    type: "Artistic Dive: Sigil work"
+    notes: Light turned back on for visibility. Followed cat into darkness beforehand; aesthetic alignment with cyber/goth/witch theme.
+
+wind_down:
+  start: 0100
+  actions:
+    - Turned off lights
+    - Took 0.5 mg Klonopin
+    - Changed rooms
+    - Took 5 mg melatonin at 0300
+  notes: Transition supported by ambient red lighting. Cat-led cue into low-stim mode initiated artistic dive.
+
+mood_state:
+  mood: Elevated (likely cyclothymic), shifted to downswing at 1730
+  cognitive_state: Brain tired, low motivation, easily bored unless highly stimulating
+
+issues:
+  - description: Repetitive stress pain in hand and wrist
+    time: ~2130
+    context: New mouse appears to be causing injury. Old preferred model discontinued.
+    status: Last of backup stock has failed. Replacement search unsuccessful after months.
+    emotional_impact: High — potential loss of key input device for work and self-regulation.
+  - description: Knee pain returned
+    time: ~2200
+    notes: |
+      Chronic issue. Foam rolling quads helps but requires getting on floor,
+      which triggers OCD about cleanliness. Cleaning the floor is EF-intensive and often
+      blocks the task. Net result: stabilization task avoided due to cascading blockers.
+
+stabilization_tasks:
+  - task: Repair or custom-build RSI-safe mouse
+    urgency: High
+    load: Very high
+    status: Deferred until system is more stable
+    notes: Attempted once before; now required for sustainable function.
+  - task: Use foam roller on quads to reduce knee pain
+    benefit: High
+    barrier: Floor access triggers OCD → cleaning loop → ADHD EF failure
+    status: Avoided due to cascading blockers
+
+sleep_night_of:
+  time: 0315–0915
+  duration: 6h
+  breathe_right_strip: no
+  notes: Sleep mask fell off. Woke feeling tired.---
+kind: Daily Log
+date: 05/14/2025
+
+day_start:
+  time: 09:15
+  sleep: 6h
+  energy: Tired
+  meds_taken: true
+  meds_time: 09:30
+
+activities:
+  - "10:55–11:07: BSW with music — breathing led into stretching, then music, then waking — incremental momentum building"
+  - "11:07–13:00: Unstructured work with planning, creativity, socialization, and morning checklist. Mood dip at 13:00 due to minor disappointment (likely fatigue + cyclothymia)"
+  - "13:00–14:30: Recovery break — emotional mindfulness, nap, music. Felt better upon waking"
+  - "15:00–17:00: Work dive — high social & high cognitive. Meeting with strong emotional tone. Frustrated by slow pace; concerned about coming off domineering while pushing for progress."
+  - "17:45–20:30: Evening nap — Fell asleep after dinner and logging. Woke naturally."
+  - "20:30: PSP v3 completed — calm state. Practiced naming emotions and breathing focus during meditation"
+  - "20:30–01:00: High cognitive reflection and framework analysis. Urge for high-stim dive resisted multiple times. No derailments."
+  - "01:00: Wind-down started — low lights, protein bar, calm Beyond All Reason video (~30 min), match ended in win. Balanced narrative and skill progression. Closure achieved."
+  - "02:30: Bedtime checklist completed, in bed"
+  - "03:15–09:00: Core sleep. 5h 45m. Woke after bad dream, sleep mask had come off."
+
+sleep:
+  planned_wind_down: 00:15
+  planned_sleep_onset: 02:15
+  breathe_right_strip: false
+  wind_down_start: 01:00
+  wind_down_quality: "Good — watched a 30-minute Beyond All Reason video. The match ended in a win, providing enough closure to feel complete. Some narrative and skill progression. Low light, not too stimulating. Calming overall."
+  core_sleep:
+    start: 03:15
+    end: 09:00
+    duration: 5h 45m
+    context: "Woke after a bad dream. Sleep mask had come off."
+    energy: Tired
+---
+kind: Daily Log
+date: 05/15/2025
+
+day_start:
+  time: 09:00
+  sleep_last_night: 5h45m
+  energy: tired
+
+meds: 09:00
+
+goals:
+  - Haircut (achieved)
+  - Review dive for Starburst (exceeded)
+
+activities:
+  - "09:00–11:15 – morning routine and planning, EIP"
+  - "11:30–14:00 – lunch, BSW, OCD trigger + exposure, rumination, shower"
+  - "14:00–14:30 – nap"
+  - "14:45–15:30 – work dive: meeting"
+  - "15:30–16:00 – reflection and framework optimization"
+  - "16:00–19:00 – EIP, tried to go to dinner, interrupted by cat needs, ocd trigger, broken down car. took car to dealership, got different food, another EIP, walked to haircut, got haircut, quick food shopping, walked home"
+  - "19:00-21:00 – nap"
+  - "21:00-23:15 - work dive: Starburst"
+  - "23:15-00:00 - recovery block, EIP, planning"
+  - "00:00–02:00 – wind down: phone with wife, planning high-stim dive tomorrow, taking care of cats"
+
+sleep_night_of:
+  wind_down_start: 00:00
+  in_bed: 02:00
+  time: 02:45-08:45
+  duration: 6h00m
+  notes: Brief waking at 06:45; light-blocking mask fell off again despite haircut — urgent stabilization task
+  energy: Slightly Tired
+
+reflections:
+  - "Made good progress yesterday by avoiding destabilizing dives."
+  - "Goal today: incorporate a high-stimulus dive that isn’t destabilizing; will require careful timing, content selection, and possibly other safeguards."
+  - "It’s okay to engage in long, immersive activities—what matters is doing so in a way that preserves stability."
+  - "Avoid framing choices about long immersive activities as permanent denial. This is about **strategy**, not **self-deprivation**."
+  - "Honoring your needs includes designing ways to experience what you care about safely."
+  - "✅ Noticed hunger early and ate before it caused destabilization"
+  - "✅ Completed BSW incrementally despite low state"
+  - "✅ Handled OCD trigger with brief exposure/mindset shift"
+  - "⚠️ Ruminated unproductively on interpersonal conflict"
+  - "🔧 Adjustment: Use mindfulness process next time interpersonal rumination starts"
+  - "Feeling guilty about multiple recovery blocks during the workday."
+  - "Lack of external pressure makes self-directed traction harder, even though this time is necessary."
+  - "Desire to 'level up' and stabilize is strong—partly to gain momentum and reduce reset cycles."
+  - "Concern: even temporary sustained progress may be hard to achieve. Fear of falling short despite effort."
+  - "Reflection and framework work felt productive; used emotional integration effectively, recognized a repeated SR failure point, and built a concrete behavioral response plan."
+  - "Mood was *relatively* stable today despite multiple emotional stressors. Recovered quickly from each, suggesting the elevated cyclothymic disruption from the missed meds may have passed and baseline reactivity has returned."
+  - "Met both goals for the day."
+  - "Working on Starburst instead of gaming was a good decision that led to brief disappointment but I recovered effectvely using EIP"
+
+emotional_integration_protocols:
+  - time: 16:00
+    name: pain, desperation, stimulus craving, fatigue, physical hunger
+    feel: check
+    accept: check
+    observe: doing the process, following the framework, making careful decisions; already tried eating, not enough
+    contextualize: low SR, fatigue; recurring pattern of craving + hunger late-day
+    adjust: go out for dinner — food + light movement + environment change
+
+  - time: 23:15
+    name: sadness and disappointment from missing today’s high-stim dive after skipping yesterday's
+    feel: check
+    accept: check
+    observe: chose to prioritize something important instead
+    contextualize: Starburst had languished, this helps career and eases future anxiety; urgency due to narrow window
+    adjust: schedule and plan a high-stim dive for tomorrow — something to look forward to
+
+---
+kind: Daily Log
+date: 05/16/2025
+
+day_start:
+  time: 09:00
+  sleep_last_night: 6h
+  energy: Slightly Tired
+
+meds: Taken in morning
+
+goals:
+  - Enjoy high-stim dive
+  - Welcome wife home and support her
+
+sleep_target:
+  onset: 02:00
+
+activities:
+  - "09:00–10:45: Morning checklist, unstructured work, gathered info for financial planner"
+  - "10:45–11:45: BSW with walk outside, unstructured work"
+  - "11:45–13:00: Work dive for meetings and quick scope work"
+  - "13:00: EIP – Name: frustration. Felt and accepted. Observe: attended meeting about a frustrating task. Tone on meeting revealed frustration. Followed up by working on action item. Context: working on a recurring task that continues to not bear fruit. SR is okay and not hungry. Adjustment: do breathing now. In future, when feeling frustration during meeting, breathe and smile. Listen to my tone of voice so that I can modulate it to maintain positive perception and make others feel better about the situation and effectively provide a path forward."
+  - "13:00–15:00: Cleaning dive. Hyperfocused. Wanted wife to come home to a clean house. Amazingly low on OCD intrusive thoughts!"
+  - "15:00–18:00: Picked up car, ate dinner, finished some cleaning tasks. OCD triggered when the cat made a mess and I had to clean that."
+  - "18:00: Reflection – I'm not sure why the OCD is so manageable today, but I'll take it!"
+  - "18:00: EIP – Name: disappointment. Felt slight disappointment about running late on cleaning tasks, cutting into dive time. Context: Had a productive day and delayed gratification; this dive had already been delayed from yesterday. EIP helped. Adjustment: Enjoy the remaining hour and make up some me-time this weekend."
+  - "18:00–20:00: Gaming dive – sort of. Tried to mod Skyrim instead of playing it."
+  - "20:00–01:00: Spent time with wife and worked more on modding Skyrim"
+  - "01:00–04:00: Stayed up getting the mods to work and then playing them. RIP schedule."
+  - "04:00–04:20: Bedtime checklist"
+
+additional_reflections:
+  - Still no high-stim dive … configuring mods before plaing was a poor plan, despite the roleplay potential. Should have waited on that until a longer block was available. The urge to find closure fixing the mods (predictable) and then relieve the tension of anticipation resulted in me making a poor choice to continue after winddown should have started which resulted in an extended dive which resulted in very significant sleep disruption.
+  - Goals complete!
+
+sleep_night_of:
+  in_bed: "04:20"
+  time: "04:45–10:45"
+  energy_morning_after: Tired
+---
+kind: "Daily Log"
+date: "05/17/2025"
+
+day_start:
+  time: "10:45"
+  sleep: "?"
+  energy: "tired"
+
+goals: "Relax and enjoy myself"
+
+meds:
+  taken: true
+  time: "11:00"
+
+todos:
+  - "(Done) Refill Meds"
+
+activities:
+  - "11:00-11:30 - morning checklist"
+  - "11:30-12:00 - BSW, planning, and hygiene"
+  - "12:00-14:00 - reading LitRPG (full-day block to avoid sleep disruption)"
+  - "14:00-15:00 - continued reading"
+  - "15:00-17:30 - nap and cuddling with wife (2.5h sleep)"
+  - "17:30-19:00 - shower and self care"
+  - "19:00-19:30 - relational dive"
+  - "19:30-20:30 - dinner"
+  - "20:30-03:30 - gaming (Dome Keeper, high stim)"
+  - "03:30 - wind down start"
+
+sleep:
+  in_bed: "03:45"
+  core: "04:15-10:45"
+  additional: "10:45-13:00 (fragmented)"
+  energy_morning_after: "Slightly Tired"
+
+reflections:
+  - "At 19:00, recognized I'm not on pace to finish the book by bedtime. Pivoting to other activities to avoid temptation. Continuing would risk 'just another hour' spiral."
+  - "Stayed up late, but successfully resisted the book. Gaming provided a more bounded alternative."
+  - "AI insights led to three new principles - Externally Bounded Immersion, Strategic Self-Redirection, Layered Recovery, Narrative Breakpoints"
+---
+kind: "Daily Log"
+date: "05/18/2025"
+
+goals:
+  - "relax"
+  - "recover"
+
+day_start:
+  time: "13:00"
+  notes: "Sleep debt likely contributed to vulnerability and emotional dysregulation."
+
+activities:
+  - "13:00-13:40 – Morning checklist, refilled and took meds at 13:15, light planning"
+  - "13:30-14:00 – Relational block with wife"
+  - "14:00-15:30 – Resumed AM checklist; vomited due to stale Ensure (OCD trigger); cleaning dive; increased OCD symptoms; showered; helped wife with homework"
+  - "15:45 – Reflected on being trapped in OCD/ADHD friction loop and behind on stabilization tasks"
+  - "16:30 – Meditated; smoothie arrived; hunger addressed; system began to stabilize"
+  - "16:30-17:45 – Helped wife with Git (grumpy affect); pet cat for comfort"
+  - "17:45-18:00 – Smoothie finished; mood lifted; began cooking spaghetti (stabilization task)"
+  - "18:00-19:30 – Ordered groceries via Shipt while multitasking Dome Keeper (stabilization task); moderate risk of distraction noted"
+  - "19:30-20:00 – Groceries arrived and were put away; ate dinner; used restroom. note - Strong example of externally bounded immersion enabling low-friction recovery transition"
+  - "20:00-20:10 – Identified mood spike risk and chose BSW over gaming — Strategic Self-Redirection"
+  - "20:10-20:50 – Meditated, then 30m nap with sensory minimization (face mask, earphones)"
+  - "23:00-23:30 – Ate pizza; hunger addressed; broke stimulus panic loop"
+  - "23:30-01:30 – Built cyberwitch altar (art installation); deeply satisfying and self-expressive; transmuted stimulus hunger into identity-aligned creative output"
+
+sleep:
+  time: 03:45-10:30
+  feeling_on_wake: tired
+---
+kind: Daily Log
+date: 05/19/2025
+
+day_start:
+  time: 10:30
+  sleep: 6h45m
+  energy: Mostly Rested
+
+meds: taken at 11:00
+
+activities:
+  - bare minimum morning routine around 11
+  - 11:00-17:15 – hyperfocused work dive, fueled by high mood and high stimulus. Massive progress on a priority. Stopped only briefly for food. Ignored a lesser priority task which is now at risk, but can be addressed tomorrow.
+  - "recovery dive in the evening and night: went outside and meditated, did a BSW with a long walk on the nature trail, napped for an hour, ate dinner, did a relational dive helping wife plan her career, followed by more intimate relational time together."
+  - winddown started at midnight with giving cat his meds — this will serve as a future anchor for externally bounded immersion. Cleaned cat box, showered, and began planning (may be too high stim, but it's urgent due to psych appointment in the morning). Logged at 01:00. Winddown was scheduled for 00:45 (based on a planned 2:45 sleep onset), so this is ahead of schedule.
+
+eip: []
+
+reflections: []
+
+sleep:
+  planned_onset: 2:45
+  wind_down_start: 0:00
+  time: ???
+  duration: ???
+
