@@ -1,0 +1,37 @@
+kind: Daily Log
+date: 05/21/2025
+
+day_start:
+  time: 9:30
+  sleep_last_night: 6h15m
+  energy: tired
+
+mood: Very High
+
+goals:
+  - Consciously maintain an open and friendly appearance on the presales tiger team call
+  - Review only dive for SoQ
+
+activities:
+  - time: "9:30–10:15"
+    type: "Routine"
+    description: "Morning checklist"
+  - time: "10:15–14:45"
+    type: "Unstructured"
+    description: "Unstructured work, reassembled gaming rig, then gamed (Screeps)"
+  - time: "14:45–17:00"
+    type: "Work Dive"
+    description: "High social meeting (high ER), then put together some slides"
+  - time: "17:00–0:30"
+    type: "Mixed"
+    description: "20min nap, then dinner, then gaming dive, then relational dive, then bedtime routine"
+  - time: "22:00"
+    type: "Medicine"
+    description: "Klonopin 1mg"
+
+sleep:
+  in_bed_at: 02:30
+  time: 03:00-07:30
+
+reflection: >
+  My mood has been high for three days now. I have been, overall, productive and creative. I have engaged in multiple tasks in multiple domains that required a lot of thinking. I also had a shorter night of sleep yesterday due to a morning commitment. Now my brain is very tired. But still, I'm drawn to think about things — analyze, plan, be creative. I don't just want stimulus, I want to engage cognitively. Which feels great, but it's burning a lot of resources and the crash is going to be rough. I already tried 1mg of Klonopin, and it only slowed me down a bit for a few hours. It would normally have a stronger effect for longer. I would normally sleep.
