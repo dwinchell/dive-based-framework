@@ -1,0 +1,48 @@
+kind: Daily Log
+date: 05/24/2025
+
+day_start:
+  time: 11:00
+  sleep: 6h30m
+  energy: tired
+
+meds: 11:00
+
+goals:
+  - rest
+  - catch up
+
+mood: Slightly elevated (cyclothymia)
+
+activities:
+  - time: "11:00–13:00"
+    type: gaming dive
+    description: EVE Online
+
+  - time: "13:00–13:30"
+    type: relational dive
+    description: Spent time with wife
+
+  - time: "13:30–15:30"
+    type: mixed
+    description: Light cleaning and EVE autopilot deliveries
+
+  - time: "15:30–15:45"
+    type: hygiene
+    description: Shower
+
+  - time: "15:45–20:30"
+    type: relational dive
+    description: Nice dinner and a short hike in nature
+
+  - time: "20:30–03:00"
+    type: solitude dive
+    description: EVE scavenging runs and fitting theorycrafting
+
+sleep:
+  in_bed_at: 03:30
+  time: 03:45-09:30
+  energy_on_wake: tired
+  wake_reason: bladder
+  mood_on_wake: high
+

@@ -1,0 +1,68 @@
+kind: Daily Log
+date: 02/23/2025
+
+day_start:
+  time: 10:30
+  sleep: 8h30m
+  energy: rested
+
+goals: ["relax and recover"]
+
+meds:
+  - time: "11:00"
+
+activities:
+  - time: "11:00-11:30"
+    type: "Routine"
+    description: "Morning routine"
+
+  - time: "11:30-12:15"
+    type: "Relational Dive"
+    description: "Chat with friend about Warhammer"
+
+  - time: "12:15-13:15"
+    type: "Gaming Dive"
+    description: "EVE Online"
+
+  - time: "13:15-14:45"
+    type: "Nap"
+    description: "Recovery sleep"
+
+  - time: "15:00-15:15"
+    type: "Relational"
+    description: "Cuddled with wife"
+
+  - time: "15:15-15:45"
+    type: "Sustain"
+    description: "Lunch and dishes"
+
+  - time: "15:45-16:05"
+    type: "Recovery"
+    description: "BSW (breathing, stretching, walking)"
+
+  - time: "16:05-18:45"
+    type: "Work Dive"
+    description: "Work session"
+
+  - time: "18:45-19:30"
+    type: "Relational Dive"
+    description: "Dancing and couch time with wife"
+
+  - time: "19:30-20:15"
+    type: "Recovery"
+    description: "Meditated outside; sat in sun and listened to wind in trees (sensory + solitude)"
+
+  - time: "20:15-20:30"
+    type: "Recovery"
+    description: "Shower"
+
+  - time: "20:30-03:20"
+    type: "Gaming Dive"
+    description: "Played EVE alone in dark room with red LEDs; also did light chores and bedtime checklist"
+
+sleep:
+  in_bed_at: 03:20
+  time: 03:30-11:00
+  notes: "Woke early to bladder, again to alarm before sleeping in. EVE pushed sleep onset back."
+  energy: tired
+

@@ -1,0 +1,50 @@
+kind: Daily Log
+date: 05/22/2025
+
+day_start:
+  time: 10:30
+  sleep: 8h30m
+  energy: rested
+
+mood: high
+
+reflections:
+  - 4th day of high mood
+
+activities:
+  - time: "07:30–08:00"
+    type: "Morning Routine"
+    description: "Morning checklist"
+  - time: "08:30–10:00"
+    type: "Gaming Dive"
+    description: "EVE"
+  - time: "10:00–12:15"
+    type: "Nap"
+    description: "Successful nap. Tried listening to SCPs—less effective than other content."
+  - time: "12:30–13:40"
+    type: "Appointment"
+    description: "Meeting with financial advisor"
+  - time: "15:15–16:45"
+    type: "Work Dive"
+    description: "Meeting, social, presales tiger team"
+  - time: "16:45–17:45"
+    type: "Errand"
+    description: "Pick up cat meds"
+  - time: "18:00–18:30"
+    type: "Learning"
+    description: "Learning about AI energy consumption"
+  - time: "18:30–19:30"
+    type: "Relational Dive"
+    description: "Talking to friend about AI energy consumption"
+  - time: "19:30–22:00"
+    type: "Gaming Dive"
+    description: "EVE, mixed with helping wife with homework"
+
+sleep:
+  in_bed_at: 01:30
+  time: 02:00–10:30
+
+notes:
+  - "SCPs helped me fall asleep quickly last night but may have reduced total sleep duration. Will try other content for sleep going forward."
+  - "As of 14:20, mood still high"
+
