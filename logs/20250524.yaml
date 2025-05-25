@@ -39,9 +39,10 @@ activities:
     type: solitude dive
     description: EVE scavenging runs and fitting theorycrafting
 
-sleep:
+sleep_night_of:
   in_bed_at: 03:30
-  time: 03:45-09:30
+  time: 03:30-09:30
+  duration: 6h
   energy_on_wake: tired
   wake_reason: bladder
   mood_on_wake: high
