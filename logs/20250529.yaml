@@ -1,0 +1,61 @@
+kind: Daily Log
+date: 05/29/2025
+
+day_start:
+  wake: 08:00
+  sleep_last_night: 5h30m
+  energy_on_wake: slightly tired
+  mood_on_wake: neutral
+  wake_reason: natural
+  notes: Body woke me early because a new work project just started. This is normal.
+
+meds: 08:30
+
+activities:
+  - time: "08:00-08:30"
+    type: "Attempted Sleep"
+    description: "Unsuccessful attempt to get back to sleep"
+  - time: "08:30-09:45"
+    type: "Routine"
+    description: "Morning checklist (included BSW and meditation)"
+  - time: "09:45-12:00"
+    type: "Work Dive"
+    description: "Work dive"
+  - time: "12:00-13:30"
+    type: "Recovery"
+    description: "Relational, snack, shower"
+  - time: "13:30-13:40"
+    type: "Work Dive"
+    description: "Light touch of a slightly aversive project (Starburst) to reduce friction"
+  - time: "13:40-14:00"
+    type: "Sustain Break"
+    description: "EVE, hygiene"
+  - time: "14:00-16:30"
+    type: "Work Dive"
+    description: "Meetings"
+  - time: "16:30-20:30"
+    type: "Mixed"
+    description: "Walk outside, dinner, EVE, nap, helped wife with homework"
+  - time: "20:30-22:30"
+    type: "Leisure"
+    description: "Read LitRPG"
+  - time: "22:30-23:15"
+    type: "Work Dive"
+    description: "Review-only dive of a CER: took inline notes, prepared questions, filled some fields"
+  - time: "23:15-01:30"
+    type: "Leisure"
+    description: "EVE"
+  - time: "01:30-02:00"
+    type: "Routine"
+    description: "Bedtime checklist"
+
+sleep:
+  in_bed_at: 02:00
+  time: 02:30-07:45
+  notes: Sleep delayed 20m by in-bed screen time. Pleasant dreams. Need to fix sleep mask.
+
+ai_insights:
+  - A full day of productive work—including multiple dives and meetings—combined with short sleep led to cognitive fatigue by evening despite neutral mood. This suggests a hard limit on available executive function under these conditions.
+  - The short, low-pressure work session at 22:30 demonstrates that friction-reduction strategies (e.g. review-only dives) can still yield value when tired, especially if emotionally neutral.
+  - EVE served as both a sustain break and an evening leisure anchor. Its role may need watching if it starts delaying sleep or replacing richer recovery strategies.
+

@@ -1,0 +1,52 @@
+kind: Daily Log
+date: 06/01/2025
+
+day_start:
+  time: 11:30
+  sleep_last_night:
+    duration: 6h30m
+    wake_reason: bladder
+  energy: slightly tired
+  mood: neutral
+  notes: "Possible illness: sore throat, slight cough, runny nose, general malaise. Confirmed illness by evening—symptoms consistent with a cold."
+
+meds:
+
+activities:
+  - time: "11:30-11:45"
+    type: Rest
+    description: "Laid in bed"
+  - time: "11:45-12:15"
+    type: Routine
+    description: "Morning routine"
+  - time: "12:15-13:30"
+    type: Gaming
+    description: "EVE Online"
+  - time: "13:00"
+    type: Health
+    description: "Tested negative for COVID and Flu"
+  - time: "13:30-16:30"
+    type: Rest
+    description: "Nap"
+  - time: "16:30-17:15"
+    type: Recovery
+    description: "Lunch and daydreaming"
+  - time: "17:15"
+    type: Planning
+    description: "Set reminders and enlisted wife’s help to manage gabapentin refill—risk now mitigated."
+  - time: "17:15-03:00"
+    type: Mixed
+    description: "Gaming and a nice relational dive with friends. Wife made soup and tea. Stayed up a bit gaming, but shifted earlier by ~1h, so overall pacing was about par."
+
+sleep:
+  in_bed_at: 03:00
+  time: 03:30-08:00
+  wake_reason: bladder
+  notes: "Snoozed until 09:30"
+
+ai_insights:
+  - You effectively downshifted throughout the day once early signs of illness appeared—napping, light play, and relational support.
+  - Proactive mitigation (testing, med planning, support from spouse) reduced background stress, enabling smoother adaptation.
+  - Though you stayed up late, the hour-earlier shift suggests natural correction—likely nudged by low capacity rather than force.
+  - "Tomorrow’s priority: protect recovery conditions. Avoid cognitive spikes, preserve rest windows, and monitor for new symptoms."
+

@@ -1,0 +1,50 @@
+kind: Daily Log
+date: 05/27/2025
+
+day_start:
+  time: 9:30
+  sleep: 7.5
+  energy: slightly tired
+  mood: low
+
+meds:
+  time: 9:30
+  taken: true
+
+goals:
+  - get through meetings
+  - recover from meeting
+  - blunt the impact of the cyclothymic downswing
+
+activities:
+  - time: "9:30-20:00"
+    type: "Work Dive"
+    description: "Meetings and lots of coding. Much hyperfocus. Brief dinner and meds interruption from wife (picked up meds from CVS)."
+  - time: "20:00-22:00"
+    type: "Nap"
+    description: "Recovery nap"
+  - time: "22:00-23:00"
+    type: "Recovery Block"
+    description: "Snack, short walk, shower, talk with wife"
+  - time: "23:00-00:00"
+    type: "Relational Time"
+    description: "Couch time with wife"
+  - time: "00:00-01:45"
+    type: "Wind Down"
+    description: "EVE dailies and bedtime checklist"
+
+status_update:
+  time: "01:45"
+  mood: neutral
+  notes: "Started a new billable work project today and hyperfocused on related tasks, which seems to have buffered the downswing. Brain feels like it’s pulling down, but eustress is buoying me."
+
+ai_insights:
+  - Hyperfocus as Stabilizer: A 10.5-hour work dive during a cyclothymic downswing suggests that structure and momentum can buffer mood dips. External obligations helped initiate, and coding flow sustained it.
+  - Recovery Sequence Effectiveness: Post-nap block covered all recovery types (physical, sensory, nutritional, relational), supporting a successful wind-down. EVE didn’t derail sleep prep.
+  - Partner Support Loop: Wife’s interventions (meds, dinner, relational time) served as emotional anchors, helping reduce cost of the mood dip.
+  - Eustress Countercurrent: Starting a new billable project generated productive stress that buoyed mood even as internal affective drift pulled downward.
+
+sleep:
+  in_bed_at: "02:00"
+  time: "02:30-08:00"
+

@@ -1,0 +1,37 @@
+kind: Daily Log
+date: 05/31/2025
+
+day_start:
+  time: 11:30
+  sleep_last_night:
+    duration: 6h30m
+    time: 04:00-11:30
+    in_bed_at: 03:30
+    wake_reason: bladder
+  energy: slightly tired
+  mood: neutral
+
+meds: Taken at 12:30
+
+activities:
+  - time: "11:30–12:30"
+    type: Rest
+    description: "Lay in bed"
+  - time: "12:30–13:45"
+    type: Routine
+    description: "Morning checklist, APP (EVE)"
+  - time: "13:45–03:30"
+    type: Mixed
+    description: "Heavy EVE play, 3h nap, some relational time. Sore throat noted. Attempted sleep mask adjustment."
+
+sleep:
+  in_bed_at: 03:30
+  time: 04:30-11:30
+  notes: "Mask fell off"
+
+ai_insights:
+  - You’re likely in a high-stimulus recovery mode: heavy EVE play and a long nap suggest you were seeking rest and regulation after prior exertion.
+  - The 3:30 bedtime and 4:30 sleep onset reinforce a misaligned circadian rhythm. The mask falling off may be contributing to sleep quality issues.
+  - Sore throat may indicate emerging illness or overstimulation. Consider a recovery-focused protocol tomorrow: hydration, light food, and less screen time.
+  - Lack of tracking suggests low executive capacity. Pre-committing to minimal structure (e.g., check-in alarms, recovery block) might help you regain traction without friction.
+

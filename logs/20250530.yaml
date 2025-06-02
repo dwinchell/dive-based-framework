@@ -1,0 +1,63 @@
+kind: Daily Log
+date: 05/30/2025
+
+day_start:
+  time: 07:45
+  in_bed_at: 02:00
+  sleep:
+    time: 02:30-07:45
+    duration: 5h15m
+    notes: Sleep delayed 20m by in-bed screen time. Pleasant dreams. Need to fix sleep mask.
+  energy: Tired
+  mood: Neutral
+  wake_reason: Natural
+
+meds: 08:45
+
+activities:
+  - time: "07:45-08:30"
+    type: "Rest"
+    description: "Tried to get back to sleep."
+  - time: "08:30-08:45"
+    type: "Planning"
+    description: "Morning planning session."
+  - time: "08:45-09:30"
+    type: "Gaming"
+    description: "EVE."
+  - time: "09:30-09:45"
+    type: "Checklist"
+    description: "Morning routine."
+  - time: "09:45-13:00"
+    type: "Work Dive"
+    description: "High social/cognitive load. First week of billable project."
+  - time: "13:00-13:30"
+    type: "Recovery"
+    description: "Lunch, EVE."
+  - time: "13:30-14:00"
+    type: "Rest"
+    description: "Nap."
+  - time: "14:00-17:00"
+    type: "Work Dive"
+    description: "High social/cognitive load."
+  - time: "17:00-00:00"
+    type: "Recovery"
+    description: "Dinner, relational time."
+  - time: "00:00-03:30"
+    type: "Gaming"
+    description: "EVE."
+
+status:
+  time: "13:30"
+  energy: Very tired
+  mood: Slightly elevated
+
+sleep:
+  in_bed_at: 03:30
+  time: 04:00-11:30
+  duration: 7h30m
+  notes: Woke once for bladder.
+  energy_on_wake: Slightly tired
+
+ai_insights:
+  - Despite multiple high social/cognitive work blocks, you maintained stability by layering in timely recovery (nap, relational time, EVE). This suggests your current pacing strategy is holding under load. Consider preserving this rhythm as the project intensifies—especially the mid-day nap as a cognitive reset.
+

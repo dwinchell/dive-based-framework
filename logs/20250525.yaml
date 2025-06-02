@@ -1,0 +1,55 @@
+kind: Daily Log
+date: 05/25/2025
+
+day_start:
+  time: 09:30
+  sleep_last_night: 6h
+  energy_on_wake: tired
+  wake_reason: bladder
+  mood_on_wake: high
+
+activities:
+  - time: "09:30-09:45"
+    type: morning routine
+    description: BSW (breathing, stretching, walking)
+  - time: "09:45-12:00"
+    type: gaming dive
+    description: eve
+  - time: "12:00-12:15"
+    type: lunch
+    description: lunch
+  - time: "12:15-12:30"
+    type: cleaning
+    description: laundry (big win against aversion! – riding high stim wave from Eve)
+  - time: "12:30-15:15"
+    type: nap
+    description: nap
+  - time: "15:30"
+    type: EIP
+    description: Received card from Grandma Kathy, who had already passed away
+  - time: "15:45-16:30"
+    type: AFK Productivity Protocol
+    description: AFK Productivity Protocol
+  - time: "16:30-16:45"
+    type: lunch
+    description: lunch
+  - time: "16:45-18:45"
+    type: AFK Productivity Protocol
+    description: APP, BSW, triggered by cleaning up a broken glass
+  - time: "18:45-22:15"
+    type: AFK Productivity Protocol
+    description: Basically gaming (EVE) with a few productive tasks woven in
+  - time: "22:15-23:45"
+    type: mixed
+    description: mixed
+  - time: "23:45-03:30"
+    type: gaming dive
+    description: eve
+  - time: "03:30-04:00"
+    type: bedtime routine
+    description: bedtime routine
+
+sleep:
+  in_bed_at: 04:00
+  time: 04:30-09:30
+

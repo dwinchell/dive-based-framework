@@ -1,0 +1,63 @@
+kind: Daily Log
+date: 05/27/2025
+
+day_start:
+  woke: 09:27
+  energy: Slightly tired
+  mood: Slightly low
+
+activities:
+  - time: "07:00–08:00"
+    type: "Mixed"
+    description: "Tried unsuccessfully to get back to sleep, lay awake thinking, morning routine, screen-stare"
+  - time: "08:00–09:00"
+    type: "Gaming"
+    description: "EVE Online"
+  - time: "09:00–10:00"
+    type: "Nap"
+    description: "Short nap"
+  - time: "10:00"
+    type: "Medicine"
+    description: "Morning meds taken (except Synthroid)"
+  - time: "10:00–11:00"
+    type: "Morning Routine"
+    description: "Shower, breakfast"
+  - time: "11:00–12:00"
+    type: "Work Dive"
+    description: "Work session"
+  - time: "12:00"
+    type: "Status Check"
+    description: "Very tired and mildly anxious"
+  - time: "14:30–16:00"
+    type: "Mixed"
+    description: "Ate a small amount, relational time, cleaned up after cats and took out trash (big trigger), shower, checked on meds (not ready—major stabilization threat), small amount of laundry"
+  - time: "16:00"
+    type: "Status Check"
+    description: "Very tired, low morale. Wife offered to handle the meds situation."
+  - time: "16:00–18:30"
+    type: "Nap"
+    description: "Afternoon nap"
+  - time: "18:30–20:00"
+    type: "Learning"
+    description: "Learned about Warhammer 40k"
+  - time: "20:00–21:00"
+    type: "Gaming"
+    description: "EVE Online"
+  - time: "21:00–23:00"
+    type: "Relational Dive"
+    description: "Dinner and movie (at home) with wife"
+  - time: "23:00–00:00"
+    type: "Relational Dive"
+    description: "More couch time with wife"
+  - time: "00:00"
+    type: "Status Check"
+    description: "Mood is pretty low. Cyclothymia downswing—paying for earlier upswing."
+
+sleep:
+  in_bed_at: "01:00"
+  time: "02:00–09:27"
+  wake_reason: "Natural"
+  energy_on_wake: "Slightly tired"
+  mood_on_wake: "Slightly low"
+  notes: "Nightmares"
+
