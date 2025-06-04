@@ -1,0 +1,56 @@
+kind: Daily Log
+date: 06/02/2025
+
+day_start:
+  time: 09:30
+  sleep_last_night:
+    in_bed_at: 03:00
+    time: 03:30-08:00
+    duration: 4h30m
+    wake_reason: bladder
+    notes: "Snoozed until 09:30"
+  energy: tired
+  mood: neutral
+  health: sick
+
+meds: Taken at 09:30
+
+activities:
+  - time: "09:30–12:30"
+    type: Work Dive
+    description: "High-stress work session while still sick"
+  - time: "12:30–13:00"
+    type: Errand
+    description: "Drive to doctor appointment (annual physical); feeling stressed and anxious"
+  - time: "13:00–14:00"
+    type: Appointment
+    description: "Doctor appointment – normal annual physical"
+  - time: "14:00–14:30"
+    type: Errand
+    description: "Lunch at Chipotle and drive home"
+  - time: "14:30–16:30"
+    type: Work Dive
+    description: "High cognitive and social effort"
+  - time: "16:30–17:00"
+    type: Work
+    description: "Lower intensity work session"
+  - time: "17:00–17:45"
+    type: Relational
+    description: "Conversation with wife"
+  - time: "17:45–20:00"
+    type: Rest
+    description: "Nap"
+  - time: "20:00–00:30"
+    type: Mixed
+    description: "Supper, gaming, and relational time"
+  - time: "00:30–02:00"
+    type: Rest
+    description: "Rested on couch and thought"
+
+sleep:
+  in_bed_at: 02:00
+  time: 02:30-09:30
+  duration: 7h
+  wake_reason: natural
+  notes: "Initial wake at 08:00, but able to fall back asleep intermittently. Cold is improving."
+

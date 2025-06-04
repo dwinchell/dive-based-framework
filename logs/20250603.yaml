@@ -1,0 +1,58 @@
+kind: Daily Log
+date: 06/03/2025
+
+day_start:
+  time: 09:30
+  sleep_last_night:
+    time: 02:30-09:30
+    in_bed_at: 02:00
+    wake_reason: initial wake at 08:00, resumed light sleep
+  energy: slightly tired
+  mood: slightly low
+  notes: Cold mostly resolved
+
+activities:
+  - time: "09:30–10:00"
+    type: Routine
+    description: "Morning routine"
+  - time: "10:00–14:30"
+    type: Work Dive
+    description: "Meetings and multitasking a health check report (moderate cognitive and social)"
+  - time: "14:30–15:00"
+    type: Recovery
+    description: "Rest after meetings"
+  - time: "15:00–16:20"
+    type: Work Dive
+    description: "Continuation of health check tasks"
+  - time: "16:20–16:35"
+    type: Sustain Break
+    description: "BSW"
+  - time: "16:35–17:15"
+    type: Work Dive
+    description: "Resumed health check work"
+  - time: "17:15–20:00"
+    type: Recovery
+    description: "Dinner, grocery shopping, relational time"
+  - time: "20:00–21:00"
+    type: Rest
+    description: "Nap"
+  - time: "21:00–00:30"
+    type: Mixed
+    description: "Relational time (TV), Eve, YouTube"
+  - time: "00:30–02:30"
+    type: Wind Down
+    description: "More YouTube, shower, shortened bedtime routine"
+
+sleep:
+  in_bed_at: 02:30
+  time: 03:15–08:30
+  wake_reason: alarm after initial 07:30 wake and return to sleep
+  energy: very tired
+
+ai_insights:
+  - Despite the cold resolving, low energy and slight mood dip may reflect residual depletion from being sick plus cognitive strain from multitasking.
+  - Extended winddown may signal low stimulation tolerance or avoidance—possibly emotional processing time after relational or work strain.
+  - Back-to-back moderate-to-high social and cognitive demands suggest need for a larger recovery window today.
+  - Nap helped buffer the evening, but 5h15m of total sleep (after delayed onset) likely deepened exhaustion.
+  - Pattern: returning to YouTube late may offer comfort but delays sleep—worth considering a cutoff to protect sleep onset.
+
