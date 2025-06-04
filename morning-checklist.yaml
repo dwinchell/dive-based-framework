@@ -22,9 +22,11 @@ phases:
       - Put on fitbit
       - Open blinds if sunny
   - phase: Start Desk Work
+    list:
       - Plug in laptop, mouse
       - Check todo list
       - Start daily log
   - phase: Optional Sustain Break
+    list:
       - BSW
       - Meditate
