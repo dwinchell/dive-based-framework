@@ -1,0 +1,40 @@
+kind: Daily Log
+date: 06/06/2025
+
+day_start:
+  sleep: "03:00–09:00"
+  wake: 09:00
+  wake_reason: phone ringing
+
+meds: Taken at 09:00
+
+mood: Very High
+Status Update - 09:45 - My mood quickly spiked after wake due to ongoing work stress and stimulus. Peaked by 09:45. This is because I'm in a high stress, chaotic, ambiguous situation that requires me to think hard, learn fast, work with other people, execute with time pressure, and shape the outcome with confidence. I'm pushing myself mentally, plus physically due to sleep. It's also a new project, so it's not a grind yet. I get very stimulated when this happens and my mood spikes. I thrive on it, even while feeling really rough. I will miss it someday.
+
+activities:
+  - time: "09:45–12:30"
+    type: Work Dive
+    description: Tired, stressed out, and frustrated. Long meeting with client. They threw a wrench in the works and want to pause the engagement. Also said I can't use the cool thing I built—building it was a gamble that didn’t pay off.
+  - time: "12:30–13:00"
+    type: Recovery
+    description: Lunch break with BSW.
+  - time: "13:00–17:00"
+    type: Work Dive
+    description: Finished meetings and reviewed a scope. Organized notes for next steps. Only thing left to do is mentally unplug.
+  - time: "17:00–20:15"
+    type: Rest
+    description: Nap
+  - time: "20:15–04:00"
+    type: Recovery
+    description: Unstructured recovery time.
+
+sleep:
+  in_bed_at: 04:00
+  time: 04:00–10:30
+
+ai_insights:
+  - You hit the classic stimulant burnout arc: high-pressure engagement sustained your mood and performance, but the emotional crash followed once uncertainty and effort stopped yielding rewards.
+  - You demonstrated foresight by organizing notes before unplugging—this may ease re-entry next week.
+  - Vacation timing is well-aligned. The two-week window allows you to decelerate gradually without a hard stop.
+  - Tonight’s full recovery block was a healthy pivot. Letting go of “productive evening” pressure gave your system space to cool off.
+
