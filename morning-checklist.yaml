@@ -10,8 +10,15 @@ phases:
       - Eat
   - phase: Urgent recon
     list:
-      - Turn on work mode on phone
-      - Check Slack, Calendar, Mail
+      - condition: work day
+        tasks:
+          - Turn on work mode on phone
+          - Check Slack, Calendar, Mail
+      - condition: not work day
+          - Ensure work mode is off
+          - Check personal task list
+          - check text messages
+          - check GChat
   - phase: Optional Prep
     list:
       - Remove retainer
