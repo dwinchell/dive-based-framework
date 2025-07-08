@@ -1,65 +1,49 @@
-daily_log:
-  may_1_2025:
-    day_start:
-      core_sleep_last_night: ~5h 30m
-      sleep_last_night: ~6h 30m
-      time: 09:00
-      energy: Tired
-
-    meds: taken at 09:30
-
-    activities:
-      - type: Recovery Block
-        time: Morning
-        description: >
-          Good recovery period including light exercise.
-          Helped stabilize morning state and prep for work dive.
-
-      - type: Work Dive
-        time: 11:00–16:00
-        description: >
-          Solid 5-hour work dive. Required high emotional regulation (ER).
-          Sustained engagement throughout; cognitively and emotionally taxing.
-
-      - type: Recovery Block
-        time: 16:00–16:30
-        description: >
-          Unstructured recovery including conversation with wife and making a milkshake.
-          Emotional interaction and sensory comfort helped improve mood slightly.
-
-      - type: Gaming Dive
-        time: 16:30–19:15
-        game: EVE Online
-        description: >
-          Low-EF, high-agency decompression dive. Intended to stabilize SR and mood.
-          Outcome: Enjoyable experience, but did not produce meaningful recovery effects.
-          Emotional/mental fatigue persisted afterward.
-
-    mood_notes:
-      - time: 19:15
-        mood: Low
-        energy: Drained
-        notes: >
-          Despite enjoyable gaming dive, recovery did not take hold.
-          Emotional and mental fatigue still present.
-
-    in_bed:
-      time: 02:00
-      context: >
-        Evening spent in low-key EVE planning and tinkering.
-        Activity was low-stimulus and mildly engaging, served as a gentle pre-sleep transition.
-      medication: 5mg melatonin
-
-    sleep:
-      core_sleep:
-        start: 02:30
-        end: 08:00
-        duration: 5h 30m
-        wake_reason: >
-          Likely woke early due to forgetting face mask.
-        breathe_right_strip: No
-        reflections: >
-          Sleep was short and not fully restorative.
-          Entered a post-sleep drowsy phase from 08:00–08:30, suggesting incomplete recovery.
-          Woke tired
+kind: Daily Log
+date: 05/01/2025
+day_start:
+  time: 09:00
+  energy: Tired
+  core_sleep_last_night: ~5h 30m
+  sleep_last_night: ~6h 30m
+meds: taken at 09:30
+activities:
+  - time: "Morning"
+    type: "Recovery Block"
+    description: |
+      Good recovery period including light exercise.
+      Helped stabilize morning state and prep for work dive.
+  - time: "11:00–16:00"
+    type: "Work Dive"
+    description: |
+      Solid 5-hour work dive. Required high emotional regulation (ER).
+      Sustained engagement throughout; cognitively and emotionally taxing.
+  - time: "16:00–16:30"
+    type: "Recovery Block"
+    description: |
+      Unstructured recovery including conversation with wife and making a milkshake.
+      Emotional interaction and sensory comfort helped improve mood slightly.
+  - time: "16:30–19:15"
+    type: "Gaming Dive"
+    description: |
+      EVE Online. Low-EF, high-agency decompression dive intended to stabilize SR and mood.
+      Outcome: Enjoyable experience, but did not produce meaningful recovery effects. Emotional/mental fatigue persisted afterward.
+  - time: "02:00"
+    type: "In Bed"
+    description: |
+      Evening spent in low-key EVE planning and tinkering. Activity was low-stimulus and mildly engaging, served as a gentle pre-sleep transition.
+      Medication: 5mg melatonin
+sleep:
+  time: "02:30–08:00"
+  in_bed_at: "02:00"
+  total_sleep: "5h 30m"
+  notes: |
+    Likely woke early due to forgetting face mask. Breathe Right strip: No.
+    Entered a post-sleep drowsy phase from 08:00–08:30, suggesting incomplete recovery.
+    Woke tired; sleep was short and not fully restorative.
+mood_notes:
+  - time: "19:15"
+    mood: Low
+    energy: Drained
+    notes: |
+      Despite enjoyable gaming dive, recovery did not take hold. Emotional and mental fatigue still present.
 
