@@ -167,27 +167,6 @@ named_protocols:
       - Avoid spending excessive time perfecting any single section.
       - Plan significant recovery breaks between writing dives.
       - Use sustain breaks proactively during long writing dives to preserve pacing and prevent burnout.
- 
-  wind_down_protocol:
-    version: v2
-    abbreviation: WDP
-    description: >
-      Structured wind-down improves sleep onset and should be preserved and tracked.
-    strategy: >
-      Consistent, screen-minimized transition into core sleep with phased step-down of stimulus.
-    phases:
-      initial_winddown:
-        - Begins 2h before target sleep onset.
-        - Dim screens only. TV with lowered brightness is ok. Phone and monitor screens are not except for very brief periods (i.e. set alarm.)
-        - Check for morning commitments
-        - Set morning alarm
-        - Reduce ambient light
-        - Limit water consumption
-        - Lower stimulus activities. Step down from prior stimulating activities (high to medium or medium to low).
-        - Perform bedtime routine tasks (brush teeth, shower, etc.)
-      bedtime:
-        - Begins 1h before target sleep onset
-        - Perform bedtime checklist in bedtime-checklist.yaml
 
 formal_principles:
   - name: Healthy AI Use

@@ -1,0 +1,67 @@
+kind: Strategy
+name: Sleep Strategy
+
+key-insights:
+  - WDP is an effective way to get to sleep.
+  - Moving sleep onset forward more than 1 hour per night exacerbates sleep disruption.
+  - Nighttime stimulus cravings are the primary barrier to WDP entry.
+  - Hyperfocus is also a major barrier to WDP entry.
+  - Partial WDP still helps.
+  - A lack of clearly identified medium-stimulus activities has prevented recent attempts to downshift from high to medium stimulus.
+  - Relational dives push high-stimulus dives later and can reduce WDP window.
+  - Work crunches are inevitable but severely disrupt dive, winddown, and sleep schedules.
+  - Late-night binges happen and disrupt sleep.
+  - Reading novels is the biggest cause of sleep-disrupting hyperfocus.
+  - Insufficient logging in the last 3 months limits evidence for specific interventions.
+
+guiding-principles:
+  - Commit to using WDP every night, even partially if needed.
+  - Plan a target sleep onset and align activities relative to it, but adjust flexibly if disregulated.
+  - Respect stimulus needs by planning high-stimulus activities earlier in the evening.
+  - Anchor WDP with external cues like alarms and visual signals to reduce time-blindness.
+  - Pre-plan night high-stimulus dives with clear end times and use externally bounded immersion to exit.
+  - Keep and evolve a menu of medium-stimulus activities to enable gentle downshifts.
+  - Accept and explicitly plan for crunch, crunch recovery, and binge days. Disruption is expected; recovery is the goal.
+  - Avoid reading novels until sleep is stabilized and a clear mitigation plan exists.
+  - Log enough detail daily to enable monthly analytics.
+  - Communicate strategy and planned actions to partner for support.
+
+coherent-actions:
+  - Commit to using the winddown phase every night except emergencies.
+  - Commit to using the bedtime checklist phase nightly; allow selective skipping of non-critical items.
+  - ~120m before target sleep onset: Start winddown. Start early if the situation warrants.
+  - ~60m before target sleep onset: Start bedtime checklist.
+  - ~30m before target sleep onset: Get in bed.
+  - Set and update alarms for winddown and bedtime as part of daily planning.
+  - Monitor actual durations and adjust timing as needed based on sleep onset patterns.
+  - Schedule a daily high-stimulus dive (minimum 30m) earlier in the evening.
+  - Identify externally bounded immersion cues for use late at night.
+  - Create and maintain a stimulus menu with a medium-stimulus section. Update it iteratively as preferences change.
+  - Plan relational dives to start no later than 20:00 and end no later than 22:00 to preserve WDP window.
+  - During crunch times and emergencies, adapt as needed, record adjustments, and prioritize partial WDP over skipping entirely.
+  - Avoid reading novels for now; re-evaluate monthly with a mitigation strategy before reintroducing.
+  - Track strategy related notes and fields including day-type in the sleep section and update each morning.
+  - Communicate strategy and needs to partner for accountability and support.
+
+summary:
+  - WDP every night (full or partial)
+  - Plan activities relative to target sleep onset
+  - Pre-plan crunches and recovery phases
+  - Maintain daily logging for analytics
+  - Communicate strategy and actions
+
+---
+kind: Protocol
+name: Wind Down Protocol
+abbreviation: WDP
+description: "Structured wind-down improves sleep onset and should be preserved and tracked."
+strategy: "Consistent, screen-minimized transition into core sleep with phased step-down of stimulus."
+phases:
+  winddown:
+    - Limit light exposure. Dim screens only. TV with lowered brightness is ok. Phone and monitor screens are not. Reduce ambient light.
+    - Lower stimulus activities. Step down from prior stimulating activities (high to medium or medium to low).
+    - Perform bedtime routine tasks (litter, shower, laundry, etc.)
+    - Limit water consumption
+  bedtime-checklist:
+    - Perform bedtime checklist in bedtime-checklist.yaml
+
