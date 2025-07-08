@@ -1,0 +1,16 @@
+---
+date: 06/14/2025
+kind: Daily Log
+
+day_start: 11:00
+sleep:
+  duration: 4h45m
+  time: "06:15–11:00"
+meds: Taken at 11:15
+goals:
+  - Travel from DC to Seattle
+activities:
+  - time: "11:00–04:00 (next day)"
+    type: Travel
+    description: "Cross-country travel from DC to Seattle. Arrived at hotel at 4:00 AM local time. 🧟"
+

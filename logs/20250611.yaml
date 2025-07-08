@@ -1,0 +1,38 @@
+date: 06/11/2025
+kind: Daily Log
+day_start: '11:00'
+sleep:
+  time: 06:00–11:00
+  in_bed_at: 05:30
+  wake_reason: natural
+  energy: slightly tired
+  mood: slightly elevated
+meds: Taken at 11:00
+activities:
+  - time: 11:00–11:15
+    type: Routine
+    description: Morning routine
+  - time: 11:15–13:45
+    type: Gaming Dive
+    description: Eve
+  - time: 13:45–15:30
+    type: Stabilization
+    description: Ran and used foam roller; triggered by multiple accumulated events
+  - time: 15:30–late
+    type: Unstructured
+    description: Played Eve most of the day, cleaned up cat puke, no naps
+  - time: Evening–05:30
+    type: Reading Dive
+    description: Switched to reading in the early evening and continued until 05:30
+reflections:
+  - Did not track timestamps after mid-afternoon.
+  - Played Eve most of the day.
+  - Cleaned up cat puke.
+  - No naps.
+  - Switched to reading in the early evening and stayed up until 05:30.
+ai-insights:
+  - Eve continues to dominate engagement time, though it was punctuated by a stabilization effort mid-day.
+  - Physical triggers led to brief regulation via exercise, but likely insufficient to prevent later sleep drift.
+  - Late switch to a reading dive contributed to major sleep schedule erosion—no natural winddown buffer observed.
+  - Sustained overactivation without naps or proper disengagement suggests growing cognitive fatigue under the surface.
+

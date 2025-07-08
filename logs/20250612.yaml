@@ -1,0 +1,43 @@
+date: 06/12/2025
+kind: Daily Log
+day_start: '11:00'
+meds: Taken at 11:00
+sleep:
+  time: 05:45–11:00
+  in_bed_at: 05:30
+  wake_reason: natural
+  energy: tired
+  mood: high
+activities:
+  - time: 11:00–12:30
+    type: Routine
+    description: Morning checklist including BSW, started laundry, and exposure therapy task. Laundry task ('fold ALL laundry') is in progress.
+  - time: 13:30–15:00
+    type: Mixed
+    description: Short Eve session, made and ate lunch, continued exposure therapy, light housework.
+  - time: 15:00–16:20
+    type: Nap
+    description: Afternoon nap
+  - time: 16:20–17:20
+    type: Relational
+    description: Talked with wife about her anxiety about the trip; called Mom, who cancelled dinner
+  - time: 17:20–19:30
+    type: Mixed
+    description: Dinner and exploration of Eve University community resources
+  - time: 19:30–05:30
+    type: Reading Dive
+    description: Unplanned deep reading session that extended through the night
+reflections:
+  - Pulling out of the initial all-out hedonism binge of vacation.
+  - Ready to shift into a more chill, reflective phase.
+  - Felt a mild but not distressing pull to wind back stimulus—hard to describe.
+  - Feels like clearing something toxic that also built up endurance. Not entirely unpleasant.
+  - Felt the hour from 16:20–17:20 pass with existential weight. “The grains of Death’s hourglass slipping inexorably away.”
+  - Noted that philosophical reflection tends to return once brain is rested—usually ~3 days after stepping back from career work.
+  - This time, the effect may have been delayed by the intensity of recent binges.
+ai-insights:
+  - User is transitioning from stimulus overload to decompression, marked by shifts toward stabilization and introspection.
+  - Physiological signals (fatigue, decompression) align with typical dopamine and parasympathetic rebalancing after high-intensity engagement.
+  - Strong philosophical reflection indicates a return to cognitive baseline and may serve as a signal of recovery for future tracking.
+  - Despite planned immersion containment, user entered a full reading dive; may benefit from adding stronger pre-commitment rituals or external cues when attempting to pivot into winddown.
+

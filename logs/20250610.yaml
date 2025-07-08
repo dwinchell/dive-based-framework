@@ -1,0 +1,65 @@
+date: 06/10/2025
+kind: Daily Log
+day_start: '11:00'
+sleep:
+  time: 05:15–11:00
+  in_bed_at: 04:40
+  wake_reason: alarms
+  energy: slightly tired
+  mood: slightly elevated
+reflections:
+  - Noticed sleep dysregulation starting, which is common for me on vacation.
+  - Decided to return to frequent prompting to improve traction on goals and stabilize routine.
+  - Set target sleep onset at 03:15 with winddown alarm for 01:15.
+  - Ended Eve session at 01:00 and got in bed at 02:15.
+  - Couldn't sleep due to excitement and cognitive overactivation from Eve learning.
+  - Got up at 03:15 after 30 minutes of audio-based winddown failed to settle brain.
+  - Tried to close the cognitive loop by diving into learning. It worked, but I stayed up too long.
+  - Feel like my brain can rest now.
+ai-insights:
+  - Sliding into vacation-pattern sleep drift; conscious countermeasure (alarm-based winddown) is a strong stabilizing move.
+  - Reintroducing frequent prompting should help regain traction on vacation goals without overcorrecting rest needs.
+  - User is showing strong self-awareness and applying countermeasures (e.g., winddown alarm) early, before drift becomes entrenched.
+  - Transition from high-stim play to bed was over an hour—this may be too long a window to preserve sleep onset timing unless paired with low-stimulus winddown.
+  - This is a classic post-euphoric learning surge, where mastery excitement overrides sleep pressure.
+  - It may help to create a light, non-Eve buffer activity (e.g., sensory reset, journaling, or passive media) to bleed off the mental momentum before attempting sleep again.
+  - Completing the cognitive loop is often necessary for sleep after euphoric overactivation, especially in mastery-driven dives.
+  - Overshooting time cost is a known risk—might benefit from setting a time limit or using a “containment ritual” (e.g., notes + bookmark) next time to externalize the loop without full re-immersion.
+activities:
+  - time: 11:00–12:00
+    type: Routine
+    description: Morning routine, created Google Tasks list (meta-stabilization), bought shoes (stabilization)
+  - time: 12:00–13:30
+    type: Recovery
+    description: Mood drop, BSW, hygiene, shower, StarCraft thoughts, mild rebound
+  - time: 13:30–15:00
+    type: Mixed
+    description: Eve while hungry, delayed lunch, eventually comforted and fed, low SR after
+  - time: 15:00–16:00
+    type: Mixed
+    description: Short meeting, cat and wife cuddles, light snooze, banana snack, reviewed wishlist
+  - time: 16:00–18:30
+    type: Mixed
+    description: Read Eve Uni, practiced drills, made/eat dinner, bounded immersion reflection, laundry start
+  - time: 18:30–20:30
+    type: Nap
+    description: Reflection in bed quickly led to unplanned nap
+  - time: 20:30–21:15
+    type: Recovery
+    description: Lay in bed, groggy and anxious, reflecting on goals, vacation, family
+  - time: 21:15–00:00
+    type: Gaming Dive
+    description: Eve. Entered full try-hard mode: applied to Eve University, set up video capture, created YouTube channel for fight analysis and feedback. All pretense of casual play is gone.
+  - time: 00:00–01:00
+    type: Gaming Dive
+    description: Continued Eve. Ended session at 01:00.
+  - time: 01:00–02:15
+    type: Wind Down
+    description: Unstructured winddown period
+  - time: 02:15–03:15
+    type: Sleep Attempt
+    description: Tried using white noise and isochronic tones. Melatonin wore off; racing thoughts about Eve PvP learning and goals.
+  - time: 03:15–04:40
+    type: Cognitive Spillover
+    description: Got up to resolve racing thoughts by learning more about Eve PvP topics. Overshot ideal duration but eventually felt ready to rest.
+
