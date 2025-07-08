@@ -1,0 +1,50 @@
+---
+date: 06/08/2025
+kind: Daily Log
+
+day_start: 10:15
+sleep:
+  time: 02:45-10:15
+  in_bed_at: 03:00
+  energy: well rested
+  wake_reason: natural
+mood: high
+meds: Taken and organized
+notes:
+  - Day 2 of vacation
+  - Goals: mental recovery, visit Mom (called off for rain)
+  - Slept better than usual — a pattern observed during vacations
+
+activities:
+  - time: "10:15–10:30"
+    type: Routine
+    description: "Morning routine"
+  - time: "10:30–13:15"
+    type: Mixed
+    description: "Eve, some AAP, shower, call Mom (visit canceled)"
+  - time: "13:15–15:30"
+    type: Relational
+    description: "Cuddle wife, nap, intimacy"
+  - time: "15:30–16:30"
+    type: Transition
+    description: "Get ready and drive to diner"
+  - time: "16:30–21:30"
+    type: Outing
+    description: "Dinner at diner, Games Workshop, drive, browsing, nap"
+  - time: "21:30–23:45"
+    type: Relational
+    description: "Comforted anxious wife with cake and Totoro"
+  - time: "23:45–02:30"
+    type: Gaming Dive
+    description: "Eve"
+  - time: "02:30–03:00"
+    type: Routine
+    description: "Bedtime routine"
+
+sleep_night_of:
+  time: 03:45-07:45
+
+insights:
+  - High-quality recovery day, even with plan change
+  - Demonstrated emotional attunement by shifting solo time to support partner
+  - Overate as part of comfort strategy; possibly a dysregulation marker
