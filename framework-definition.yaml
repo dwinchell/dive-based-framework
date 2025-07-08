@@ -102,7 +102,7 @@ named_protocols:
 
        
   BSW:
-    description: hydrate, snack if hungry, breathing, stretching, walking, hydration, optional music, quick snack if hungry
+    description: hydrate, small snack if hungry, optional music, breathing, stretching, walking
 
   post_sleep_protocol:
     version: v3
