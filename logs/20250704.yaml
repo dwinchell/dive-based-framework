@@ -1,0 +1,39 @@
+kind: Daily Log
+date: 07/04/2025
+
+day_start:
+  time: "09:00"
+  sleep: "3.5h"
+  energy: "severely exhausted"
+  meds: "11:00"
+
+activities:
+  - time: "09:30–13:45"
+    type: "Unstructured Time"
+    description: "Reading"
+  - time: "13:45"
+    type: "Meal"
+    description: "Lunch"
+  - time: "14:15–15:45"
+    type: "Connection"
+    description: "Cuddled wife and read"
+  - time: "15:45–17:15"
+    type: "Rest"
+    description: "Nap"
+  - time: "17:15–03:00"
+    type: "Unstructured Time"
+    description: "Reading"
+
+sleep:
+  in_bed_at: "03:45"
+  time: "03:45–10:00"
+  wake_reason: "Alarm, then snoozed until 10:30"
+  energy_on_wake: "exhausted"
+  mood_on_wake: 
+
+ai_insights:
+  - Extended reading throughout the day suggests a recovery-oriented, low-stimulus pattern. Severe exhaustion likely shaped choices. Tomorrow may benefit from layered recovery (physical + sensory reset) to shift out of passive recovery mode.
+
+reflections:
+  - I stopped reading at 3:00 and got to sleep at 3:45. That means sleep onset was pushed back by 2 hours. Not bad.
+

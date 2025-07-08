@@ -1,0 +1,47 @@
+date: 07/07/2025
+kind: Daily Log
+
+day_start:
+  in_bed_at: 
+  time: 09:00
+  energy: tired
+  mood: neutral
+  notes: 
+
+activities: 
+  - time: "09:00-09:30"
+    type: "Checklist"
+    description: "Morning checklist"
+  - time: "09:30-11:00"
+    type: "Work"
+    description: "Work meetings"
+  - time: "11:00-13:00"
+    type: "Recovery"
+    description: "Rested, ate lunch, and read"
+  - time: "13:00-16:30"
+    type: "Work"
+    description: "Mostly meetings"
+  - time: "16:30-18:00"
+    type: "Support"
+    description: "Helped wife with stuff and talked"
+  - time: "18:00-19:00"
+    type: "Reading"
+    description: "Read"
+  - time: "19:00-20:00"
+    type: "Dinner & Connection"
+    description: "Dinner, cuddled wife"
+  - time: "20:00-22:45"
+    type: "Rest"
+    description: "Nap"
+  - time: "22:45-04:30"
+    type: "Reading"
+    description: "Uncontrolled reading binge"
+
+reading_time: "8:45"
+
+meds: 10:30
+
+sleep:
+  time: "05:45-08:45, 09:45-13:45"
+  notes: "Fragmented sleep with ~1h wakefulness between blocks; less restorative than a solid block. Took the day off work to sleep late and recover after staying up too late reading."
+

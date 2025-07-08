@@ -1,0 +1,65 @@
+kind: Daily Log
+date: 07/06/2025
+
+day_start:  
+  time: "12:00"  
+  sleep:  
+    time: "04:20-12:00"  
+    duration: "7h40m"  
+  energy: "Tired (improved from yesterday’s exhausted)"  
+
+meds:  
+  taken: true  
+  time: "11:00"  
+
+goals:  
+  - Recovery  
+  - Stabilization  
+  - Taper or end multi-day reading binge (critical for near-term stabilization and acting on values)  
+  - Push sleep onset forward and minimize naps (supports sustainable schedule and stabilization; avoiding late reading will help)  
+
+sleep_targets:  
+  pre_wind_down: "00:30"  
+  wind_down: "01:00"  
+  in_bed: "02:00-02:30"  
+  sleep_onset: "03:00"  
+
+todo:  
+  - Laundry  
+  - Linens  
+
+activities:  
+  - time: "12:00-13:00"  
+    type: "Morning Checklist"  
+    description: "Completed morning checklist including BSW"  
+  - time: "13:00-13:30"  
+    type: "Stabilization Task"  
+    description: "Cleaned desk to reduce dust, started laundry"  
+  - time: "13:30-14:30"  
+    type: "Recovery"  
+    description: "Read"  
+  - time: "14:30-15:30"  
+    type: "Stabilization Task"  
+    description: "Cleaning, lunch, shower"  
+  - time: "15:30-17:30"  
+    type: "Recovery"  
+    description: "Read"  
+  - time: "17:30-19:00"  
+    type: "Sleep"  
+    description: "Nap"  
+  - time: "19:00-21:30"  
+    type: "Mixed"  
+    description: "Played EVE Online, some cleaning"  
+  - time: "21:30-00:15"  
+    type: "Mixed"  
+    description: "Reading, some laundry, cleaned litter box"  
+  - time: "00:15-01:00"  
+    type: "Stabilization Task"  
+    description: "Shower, changed linens, bedtime checklist"  
+  - time: "01:00-02:00"  
+    type: "Recovery"  
+    description: "Read"  
+  - time: "02:30-09:00"  
+    type: "Sleep"  
+    description: "Core sleep"  
+

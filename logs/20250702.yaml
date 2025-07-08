@@ -1,0 +1,62 @@
+kind: Daily Log
+date: 07/02/2025
+
+day_start:
+  time: "08:30"
+  sleep_last_night:
+    duration: 4h
+    wake_reason: "Alarm"
+  energy: "Very tired"
+  mood: "Slightly elevated"
+
+meds: "Taken at 11:40"
+
+activities:
+  - time: "09:00–12:00"
+    type: "Work + Social"
+    description: "Two working sessions solving difficult technical problems while socializing, followed by navigating an awkward social situation."
+  - time: "12:00–17:15"
+    type: "Work"
+    description: "Intense working sessions and meetings throughout the afternoon; wrapped up work for the day."
+  - time: "17:15–18:00"
+    type: "Recovery"
+    description: "Dinner and time with wife."
+  - time: "18:00–21:00"
+    type: "Recovery Sleep"
+    description: "Solid sleep."
+  - time: "21:00–22:15"
+    type: "Recovery Sleep"
+    description: "Additional fragmented sleep."
+  - time: "23:00–23:38"
+    type: "Recovery"
+    description: "Breathe–Stretch–Walk protocol. Result: felt full of physical energy and motivation afterward; mental sharpness to be assessed during CER dive."
+  - time: "23:38–01:45"
+    type: "Work Dive"
+    description: "Writing dive on CER. Sharp enough to write; hyperfocused very productively. CER completed."
+  - time: "02:08–02:49"
+    type: "Recovery"
+    description: "AFK Productivity Protocol with Eve dailies. Preheated oven, started laundry washer, listened to Massive Attack's *Mezzanine* album to shift mental gears, took pizza out of oven, and switched laundry to dryer."
+  - time: "02:49–04:12"
+    type: "Recovery"
+    description: "AFK Productivity Protocol continued: played Eve while completing minor tidying tasks, ate pizza, did cat litter, and took a shower to close out the block."
+  - time: "04:12–04:43"
+    type: "Recovery"
+    description: "Bedtime checklist plus setting up ultrasonic cleaner for retainers as part of sleep transition."
+
+sleep:
+  in_bed_at: "04:43"
+  time: "04:50–09:30"
+  wake_reason: "Alarm"
+  notes: "No bad dreams, just vivid ones. Woke feeling physically rested and motivated but slightly mentally foggy even after 20 min out of bed and a Breathe–Stretch–Walk protocol."
+
+reflections:
+  - "Ignored 11:00 alarm because the changed sound was unfamiliar. It interrupted mid-sentence and was shut off reflexively. Didn't recognize it as important. Strategy of changing notification sounds to get my own attention needs more thought before using again."
+  - "Need to do another work dive tonight to finish an overdue CER. Consultant reporting to me skipped a section due to an analysis error, so I'm covering by working late."
+  - "Relying on high mood, high stress, hyperfocused productivity to get through a heavy work week. Likely contributed to last night's sleep disruption—pushed too hard without recovery, leading to a stressed brain that rebelled with hyperfocus and distraction-seeking. Stayed up late instead of transitioning to sleep."
+
+ai_insights:
+  - "Tight tactical planning worked: avoided drift during the late-night CER dive and AFK Productivity Protocol. The system enabled high output without triggering a hyperfocus binge."
+  - "Breathe–Stretch–Walk protocols were critical state shifters, effectively flipping between high and low arousal states. They’re emerging as a reliable onramp/offramp tool."
+  - "Late nap and late sleep onset reinforced a late chronotype cycle, highlighting the need for recovery strategies that respect biological sleep anchors rather than forcing abrupt overcorrection."
+  - "Physical energy outpaced mental clarity: body felt restored faster than brain. The mental fog suggests incomplete parasympathetic reset."
+

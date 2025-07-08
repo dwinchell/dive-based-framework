@@ -1,0 +1,47 @@
+kind: Daily Log
+date: 07/05/2025
+
+meds: taken at 11:00
+
+day_start:
+  in_bed_at: 03:30
+  time: 03:45-10:00 (6h15m)
+  woke_up: 10:30
+  energy_on_wake: exhausted
+
+activities:
+  - time: "10:30-11:20"
+    type: "Prep"
+    description: "Getting ready for the day and to go out; refilled meds"
+  - time: "11:20-16:20"
+    type: "Outing"
+    description: "Wife took me on a date! Blacksmithing (first time) and then dinner."
+  - time: "16:20-16:50"
+    type: "Recovery"
+    description: "Shower and relax"
+  - time: "16:50-17:10"
+    type: "Recovery"
+    description: "Read"
+  - time: "17:10-17:20"
+    type: "Connection"
+    description: "Cuddled with wife"
+  - time: "17:20-19:00"
+    type: "Recovery"
+    description: "Nap; largely fragmented sleep"
+
+sleep:
+  in_bed_at: 04:00
+  time: 04:20-12:00 (7h40m)
+  woke_up: 12:00
+  planned_sleep_onset: 02:30
+
+reflections: |
+  - Still have snuffles and am developing a cold sore (started yesterday evening).
+  - Mood slightly elevated due to exciting morning event.
+  - Blacksmithing was emotionally rewarding and physically exhausting. It was the first vigorous exercise I’ve had in a while. My wife planned and initiated the outing.
+
+ai-insights: |
+  - Elevated mood may be masking fatigue; consider pacing to avoid overextending with low sleep and illness.
+  - Cold sore onset suggests immune stress, so recovery-supportive choices (hydration, rest) might help.
+  - This outing shows how externally planned/initiated activities can help bypass your activation barrier for vigorous physical engagement. Tracking how you feel over the next 48 hours might give insight into recovery needs and whether light movement tomorrow helps mitigate DOMS (delayed onset muscle soreness).
+
