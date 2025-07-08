@@ -1,0 +1,35 @@
+---
+date: 06/16/2025
+kind: Daily Log
+
+location: Port Angeles
+sleep:
+  - time: 01:15–06:00
+    wake_reason: Wife snoring
+    energy: tired
+  - time: 08:45–12:30
+    wake_reason: natural
+    energy: rested
+meds: Taken
+mood: slightly elevated, calm, relaxed
+
+activities:
+  - time: "Morning"
+    type: Routine
+    description: "Had breakfast, went for walk"
+  - time: "08:45–12:30"
+    type: Recovery
+    description: "Returned to bed for more sleep"
+  - time: "Afternoon"
+    type: Outing
+    description: "Hiked Marrymere Falls trail; wife hiked about a mile, identified multiple tree species"
+  - time: "Evening"
+    type: Mixed
+    description: "Had good pizza, visited quirky shop, saw oil tanker Washington in port (251m long, saw it being tugged in the day before), staying another night at the hotel"
+
+reflections:
+  - Another great vacation day.
+  - Really liked the fancy boutique hotel wife picked out—it’s been a highlight of the trip.
+  - Seeing wife hike a mile felt like a meaningful success.
+  - The sight of the Washington oil tanker was amazing and memorable.
+
