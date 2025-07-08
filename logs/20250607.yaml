@@ -1,0 +1,38 @@
+---
+date: 06/07/2025
+kind: Daily Log
+
+day_start: 10:30
+sleep:
+  time: 04:00-10:30
+  in_bed_at: 01:45
+  energy: slightly tired
+  mood: medium-high
+  wake_reason: natural
+meds: Taken at 11:00
+notes:
+  - Day 1 of vacation
+  - Goals: relax, catch up a little on laundry
+  - Plan to visit Mom tomorrow
+
+activities:
+  - time: "10:30–15:00"
+    type: Recovery
+    description: "Laid in bed, daydreamed, breakfast, Eve, called mom"
+  - time: "15:00–17:00"
+    type: Mixed
+    description: "Eve, early dinner with wife, dishes. Emotional conflict about needing alone time"
+  - time: "17:00–18:15"
+    type: Emotional Processing
+    description: "Eve turned into EIP about age, then nap, then wife woke me"
+  - time: "18:15–21:00"
+    type: Relational
+    description: "Post-nap conversation with wife, emotionally connective"
+  - time: "21:00–01:45"
+    type: Mixed
+    description: "Eve next to wife, bedtime routine, small amount of laundry"
+
+insights:
+  - Emotional depletion from work meetings carried over into vacation, affecting relational energy
+  - Successfully pivoted from conflict to reconnection through conversation
+  - Partial success in balancing alone time and relational obligations
