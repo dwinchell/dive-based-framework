@@ -1,0 +1,31 @@
+kind: Daily Log
+date: 04/22/2025
+day_start:
+  time: 07:30
+  energy: Stable, post-fragmented sleep
+meds: Approved Klonopin 2x/week at psychiatrist appointment
+activities:
+  - time: "Morning"
+    type: "Appointment"
+    description: "Psychiatrist appointment (Klonopin approved 2x/week)"
+  - time: "Morning"
+    type: "Recovery Block"
+    description: "Recovery-focused morning"
+  - time: "13:00–15:00"
+    type: "Work Meeting"
+    description: "NCTA Customer Meeting"
+  - time: "15:15–16:15"
+    type: "Nap"
+    description: "Afternoon nap"
+  - time: "Evening"
+    type: "Recovery Block"
+    description: "Low-structure evening (relaxation, robe, self-limiting WoW session)"
+  - time: "00:15"
+    type: "Wind Down"
+    description: "Wind Down Protocol v1.1"
+sleep:
+  time: "01:45–08:00"
+  in_bed_at: "01:45"
+  total_sleep: "~6h"
+  notes: "Core sleep 01:45–05:15, then 05:45–08:00 after bad dream wake-up"
+

@@ -1,0 +1,97 @@
+kind: Daily Log
+date: 04/30/2025
+day_start:
+  time: 08:35
+  energy: Tired
+  core_sleep_last_night: ~5h 30m
+  sleep_last_night: ~6h 30m
+meds: taken at 08:30
+activities:
+  - time: "11:00–(ongoing)"
+    type: "Unstructured Block"
+    description: |
+      Lunch preparation. Transitioning out of high-stimulation gaming session.
+      Preparing lunch may serve as a gentle pivot toward recovery or eventual nap attempt.
+  - time: "Late morning"
+    type: "Recovery Block"
+    description: |
+      Walk. Outcome: Anxiety reduced noticeably; emotional regulation improved.
+  - time: "11:00–16:00"
+    type: "Work Dive"
+    description: |
+      Extended presales-focused work session.
+      Segments:
+        - 1h: Capturing ideas for Pre-Sales Tiger Team (stimulated post-walk; ideation burst)
+        - 3h (12:00–15:00): Ardian presales meetings and analysis (sustained cognitive effort)
+        - 1h (15:00–16:00): Pre-Sales Tiger Team follow-up (creative energy still present, SR/EF depleted)
+  - time: "17:30–20:00"
+    type: "Nap"
+    description: |
+      2h 30m nap following extended 5-hour work dive without structured recovery.
+      Outcome: Substantial nap suggests significant recovery need; may impact sleep onset timing tonight.
+  - time: "22:30–23:00"
+    type: "Work Touch Ritual"
+    description: |
+      CER Touch Protocol
+      Protocol details:
+        - Set 2-minute timer
+        - Open CER document
+        - Write at least one word
+        - Observe contents for full duration
+        - No obligation to continue
+      Intent: Reduce anxiety and avoidance; re-establish cognitive familiarity; prime nervous system for deeper engagement.
+      Outcome: Succeeded in reducing avoidance; continued briefly and created structured outline with inline to-dos.
+  - time: "23:30–01:30"
+    type: "Gaming Dive"
+    description: |
+      EVE Online. Intentional low-EF, high-agency dive.
+      Outcome: Active participation without significant creative/executive load. Numbers went up, rocks were shot, disengaged naturally. Served as gentle deceleration dive before sleep.
+  - time: "01:30"
+    type: "In Bed"
+    description: |
+      Transitioned directly to bed after gaming session. No high-stimulus residue reported.
+sleep:
+  time: "~02:30–09:00"
+  in_bed_at: "01:30"
+  total_sleep: "~6h 30m"
+  notes: |
+    Pre-sleep audio: Beyond All Reason (BAR)
+    Core sleep: ~02:30–08:00 (woke from bad dream with fighting theme)
+    Additional sleep: 08:00–09:00 (fragmented, ended due to full bladder)
+    Reflections:
+      - Long delay to sleep onset despite relaxing content (BAR)
+      - Core sleep disrupted by emotionally intense dream
+      - Final hour fragmented; full rest not achieved
+      - Sleep pressure likely reduced but not fully reset
+      - Morning SR may be compromised; recovery pacing advised
+mood_notes:
+  - time: "11:00"
+    mood: Low
+    emotional_state: Anxious
+    medication_context: |
+      0.5mg Klonopin taken at 09:00. Still feeling physiological effects, but anxiety and low mood persisted.
+    notes: |
+      Mood not significantly improved despite partial chemical dampening. Suggests underlying emotional/neurological load not fully resolved by medication alone.
+physical_condition_notes:
+  - time: Morning
+    update_type: Recovery
+    condition: DOMS
+    notes: DOMS no longer present.
+  - time: Evening
+    update_type: Resolution
+    condition: Right elbow
+    notes: Elbow injury from earlier this week has fully healed.
+reflections:
+  - time: Evening
+    notes: |
+      Attempted a light jog but aborted due to minor foot injury.
+      Realization: my body is more vulnerable to minor injury from activities that once felt harmless.
+      Grieving that change — it's about recognizing shifting physiological limits.
+  - time: Retrospective on April 30
+    notes: |
+      April 29 was a perfect opportunity for writing: well rested, clear calendar, strong intention.
+      An unexpected errand emerged that morning. Attempted to preserve evening block but underestimated ER cost.
+      The errand had social friction and uncertainty, draining SR more than expected.
+      In retrospect, deferring the errand to the following morning was doable but I didn’t give myself permission to make that tradeoff.
+      The misstep was in underestimating its systemic cost and overestimating my ability to recover mid-day.
+

@@ -1,0 +1,41 @@
+kind: Daily Log
+date: 04/25/2025
+day_start:
+  time: 09:45
+  energy: Tired but not exhausted
+  sleep_last_night: 6h 45m
+meds: taken at 09:45
+activities:
+  - time: "09:00–12:30"
+    type: "Work Dive"
+    description: "Highly social, moderate cognition (Completed); SR after: moderate"
+  - time: "12:30–13:15"
+    type: "Unstructured Block"
+    description: "Lunch, framework development, work residuals"
+  - time: "13:15–14:15"
+    type: "Recovery Block"
+    description: "Intentional block following unstructured lunch/work overlap"
+  - time: "13:30–14:15"
+    type: "Nap"
+    description: "Fell deeply asleep quickly; napped with wife, may have contributed to rapid onset and depth"
+  - time: "14:30–15:30"
+    type: "Work Dive"
+    description: "Weekly team meeting (Completed)"
+  - time: "15:30–16:30"
+    type: "Unstructured Work"
+    description: "Residual work and framework development continuation"
+  - time: "16:30–00:00"
+    type: "Unstructured Recovery"
+    description: "Recovery block — no structured work"
+sleep:
+  time: "01:45–08:45"
+  in_bed_at: "01:20"
+  total_sleep: "7h"
+  notes: |
+    Wind down: WDP v1.1 with BAR
+    Medication: melatonin 5mg
+    Breathe Right strip: no
+    Woke naturally; felt fully rested.
+    Finally, a good night's sleep! 7h core feels like enough today.
+    Not working Fri eve and planning to not work all weekend may have contributed.
+

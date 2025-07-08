@@ -1,0 +1,31 @@
+kind: Daily Log
+date: 04/23/2025
+day_start:
+  time: 08:00
+  energy: Foggy, low motivation
+meds: 0.4 mg Klonopin (taken at wind down)
+activities:
+  - time: "11:00–12:00"
+    type: "Nap"
+    description: "1 hour nap"
+  - time: "Midday"
+    type: "Recovery Block"
+    description: "Lunch and light administrative work (Pre-dive ramp-up period)"
+  - time: "14:00"
+    type: "Work Dive"
+    description: "Meeting with manager (SR Protected Work Dive - Completed)"
+  - time: "14:45"
+    type: "Meeting"
+    description: "Additional unplanned meeting (Ongoing apathy, both general and work-specific)"
+  - time: "01:15 (April 24)"
+    type: "Emotional Stimulation"
+    description: "High-stimulus anime dive (Emotionally intense, may have delayed sleep onset)"
+  - time: "01:15"
+    type: "Wind Down"
+    description: "Wind Down Protocol v1.1 (late)"
+sleep:
+  time: "03:00–08:30"
+  in_bed_at: "02:15"
+  total_sleep: "5.5h"
+  notes: "Woke tired but functional"
+

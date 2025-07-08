@@ -1,0 +1,51 @@
+kind: Daily Log
+date: 04/27/2025
+day_start:
+  time: 09:00
+  energy: Rested, could have used a bit more sleep
+  sleep_last_night: 6h
+meds: taken
+activities:
+  - time: "09:35–10:45"
+    type: "Exercise Dive"
+    description: |
+      Morning workout session (52 minutes total)
+      Heart rate zones: Vigorous (26 min), Peak (8 min)
+      Notes: Uncharacteristic burst of morning energy; no external pressure, internally motivated. Positive anomaly.
+  - time: "Afternoon"
+    type: "Relational Dive"
+    description: |
+      Participants: Mom (plus siblings, unexpectedly)
+      Goals: Enjoy relationship, support emotional wellbeing, exchange items, help with projects, identify trees together
+      Outcome: Dive went great. Emotional goals fully met. Unexpectedly planted trees — created a long-lasting memory. Significant additional physical exertion contributed to post-dive tiredness.
+      Reflections:
+        - Felt good emotionally afterward; positive bonding and support achieved.
+        - Physical fatigue from double exercise (morning workout + afternoon planting).
+        - Planting trees together was especially meaningful and memorable.
+        - Presence of extended family made the dive more emotionally significant than planned.
+  - time: "19:30–19:45"
+    type: "Nap"
+    description: |
+      15-minute nap in the car after relational dive and cumulative exertion.
+      Outcome: Brief but restorative nap.
+  - time: "22:00–00:00"
+    type: "Gaming Dive"
+    description: |
+      High-stimulus gaming session (Decompression and entertainment)
+      Notes: Focused on high-stimulus content after physically and emotionally full day. Timing may affect sleep onset; monitoring outcome.
+  - time: "00:30"
+    type: "Wind Down"
+    description: |
+      Started with DUST sci-fi shorts (ineffective, too stimulating)
+      Adjustment: Switched to Beyond All Reason (BAR), which was more effective and helped step down
+      Pre-sleep routine: 5mg dissolvable melatonin, Poe playlist started
+      Notes: Completed adjusted wind-down strategy after initially rocky start
+sleep:
+  time: "02:30–09:00"
+  in_bed_at: "02:00"
+  total_sleep: "~6.5h"
+  notes: |
+    Main sleep: 02:30–08:30 (6h, woke naturally due to circadian pulse)
+    Additional sleep: 08:30–09:00 (30 min fragmented)
+    Main sleep was solid despite late onset. Woke feeling tired, likely cumulative physical load.
+

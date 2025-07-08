@@ -1,0 +1,51 @@
+kind: Daily Log
+date: 04/24/2025
+day_start:
+  time: 08:30
+  energy: Tired but functional
+meds: 
+  - 1 mg Klonopin at 23:40
+  - 0.5 mg Melatonin at 01:30
+activities:
+  - time: "09:00–10:30"
+    type: "Work Dive"
+    description: "Morning work dive (Completed)"
+  - time: "10:30–14:00"
+    type: "Recovery Block"
+    description: "Unstructured; very tired, low effectiveness"
+  - time: "14:00–16:00"
+    type: "Nap"
+    description: "2 hours; ineffective lounging after, grogginess persisted"
+  - time: "Intervention"
+    type: "Trigger"
+    description: "Wife arrived and spoke with me (spurred to action)"
+  - time: "Intervention"
+    type: "Meditation"
+    description: "Regained mental clarity"
+  - time: "Intervention"
+    type: "Short Walk + Aggressive Music"
+    description: "Fully alert for evening work dive"
+  - time: "17:30–21:30"
+    type: "Work Dive"
+    description: "Evening work dive (Mail system milestone: partial milestone achieved, MailHog test completed; Postgres check pending)"
+  - time: "21:30–22:45"
+    type: "Exercise Dive"
+    description: "Strenuous exercise dive (Completed)"
+  - time: "22:45–23:40"
+    type: "Recovery Block"
+    description: "Post-exercise recovery; helped decompress before wind down"
+  - time: "23:40"
+    type: "Wind Down"
+    description: "Wind Down Protocol v1.1 (with deviations); BAR helped interrupt work rumination"
+sleep:
+  time: "01:45–09:45"
+  in_bed_at: "01:20"
+  total_sleep: "6h 45m"
+  notes: |
+    Core sleep:
+      - 01:45–07:00 (woke due to bladder)
+      - 07:45–09:45 (woke due to alarm)
+    Felt more rested than recent days but still physically tired.
+    Fragmented sleep helped but wasn't as restorative as uninterrupted core sleep.
+    Overall improvement validates stacked protocol and sleep pressure strategy.
+

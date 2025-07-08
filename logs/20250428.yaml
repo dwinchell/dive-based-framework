@@ -1,0 +1,68 @@
+kind: Daily Log
+date: 04/28/2025
+day_start:
+  time: 09:00
+  energy: Tired
+  sleep_last_night: ~6h 30m
+meds: taken
+activities:
+  - time: "09:30–11:00"
+    type: "Work Dive"
+    description: |
+      First work session of the day. Moderate intensity. Executed despite baseline physical tiredness and DOMS.
+  - time: "11:00–12:00"
+    type: "Unstructured Block"
+    description: |
+      Planning, lunch, AI experimentation, Dive Framework thinking.
+      Notes: Light cognitive work combined with meal. In retrospect, too analytical and creative to allow true recovery.
+  - time: "12:00–14:00"
+    type: "Work Dive"
+    description: |
+      Second work session. Cognitive load accumulated heavily by the end.
+      Brain engaged continuously for ~4.5 hours total across both dives and planning. Significant depletion at end.
+  - time: "17:30–19:00"
+    type: "Nap"
+    description: |
+      1h 30m nap post-dinner following significant cognitive exertion.
+      Outcome: Good nap; helped restore physical and cognitive energy.
+  - time: "19:00–19:10"
+    type: "Recovery Block"
+    description: |
+      Cold water on head/face, upbeat music, short walk.
+      Outcome: Successfully countered post-nap grogginess; full alertness restored within 10 minutes.
+  - time: "~19:20–19:25"
+    type: "Recovery Block"
+    description: |
+      Breathing exercises, light stretching, meditation in sunlight.
+      Outcome: Further elevated readiness; created optimal baseline for evening work dive.
+  - time: "19:30–22:00"
+    type: "Work Dive"
+    description: |
+      Evening work session: reacting to coworker's comments, performing calculations, pair working with a compatible coworker.
+      Outcome: Long but productive dive (~2.5h). Positive collaboration sustained focus.
+  - time: "22:00–00:30"
+    type: "Relational Dive"
+    description: |
+      Participants: Family. Activity: watching a stimulating medical drama together.
+      Outcome: Emotional connection achieved. High-stimulus content may have impacted sleep onset.
+  - time: "00:30"
+    type: "Wind Down"
+    description: |
+      Intended strategy: standard wind-down after relational dive. Goal: gradual cognitive/emotional deceleration.
+      Actual outcome: stuck watching YouTube 00:30–01:30; high-stimulus content prolonged cognitive activation.
+      Adjustment: initiated minimal bedtime routine (30 min, brushing teeth, hygiene) to partially reset state.
+      Notes: Failure to shift environment or reduce stimulus cues contributed to initial disruption.
+      Pre-sleep routine: started Poe playlist, took 5mg dissolvable melatonin.
+sleep:
+  time: "02:15–10:15"
+  in_bed_at: "02:00"
+  total_sleep: "~7h 30m"
+  notes: |
+    Main sleep: 02:15–09:45 (natural waking, no bladder or alarm).
+    Additional sleep: 09:45–10:15 (Sleep Inertia Phase).
+    Reflections:
+      - Sleep onset delayed by disrupted wind-down but not catastrophically. 
+        High stimulus and light levels delayed onset 15 min but did not disrupt quality.
+      - Main sleep adequate due to no early wake requirement.
+      - Woke naturally; final 30 minutes characterized by pleasant Sleep Inertia Phase.
+

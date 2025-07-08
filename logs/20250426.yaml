@@ -1,0 +1,51 @@
+kind: Daily Log
+date: 04/26/2025
+day_start:
+  time: 08:45
+  energy: Fully rested
+  sleep_last_night: 7h
+meds: taken at 08:45
+activities:
+  - time: "09:00–10:30"
+    type: "Work Dive"
+    description: "Framework development (Depth-First Life Planning updates); Stimulation: High"
+  - time: "10:30–11:30"
+    type: "Exercise Dive"
+    description: "Strenuous exercise including prep and cooldown; Goal: Maintain HR > 140 bpm for at least 20 minutes (Goal achieved)"
+  - time: "Afternoon–02:00"
+    type: "Gaming Dive"
+    description: |
+      Open-ended gaming session for hobby enjoyment and stress relief
+      Outcome: Successful; played until 02:00 and considered the experience worth it
+      Notes: No external obligations conflicted. Fulfilled emotional goal of decompressing, reconnecting with hobby enjoyment. Acceptable tradeoff of late sleep.
+  - time: "14:00–14:10"
+    type: "Nap"
+    description: |
+      10-minute nap post-lunch and post-exercise; napped next to partner
+      Emotional comfort likely key to falling asleep quickly; post-exercise fatigue and postprandial relaxation may have contributed
+      Outcome: Fell asleep quickly and naturally
+      Post attempt: Tried to nap again alone but unable to return to sleep due to wandering thoughts
+      Hypothesis links: 
+        - Napping with Partner Improves Sleep Onset and Depth (confirming)
+        - Strenuous Exercise Accelerates Sleep Debt Recovery (supporting, minor)
+  - time: "Evening"
+    type: "To-Do"
+    description: "Refilled meds (Completed)"
+  - time: "02:30"
+    type: "Wind Down"
+    description: |
+      Skipped WDP; Refilled meds, basic hygiene (brushed teeth), Poe playlist (started after getting in bed)
+      Total wind-down time: 15 minutes (prior to bed) + passive audio during sleep onset
+      Context: High-stimulus gaming dive; vigorous exercise earlier; predominantly relaxed emotional state
+      Notes: Skipped WDP intentionally for hypothesis testing; Poe playlist may have provided minor calming influence
+sleep:
+  time: "03:00–09:00"
+  in_bed_at: "02:30"
+  total_sleep: "6h"
+  notes: |
+    Woke due to bladder
+    Felt rested on waking; slept well despite short duration
+    Could have used a bit more sleep but overall functional
+    Experienced long, vivid dreams suggesting deeper sleep cycles
+    Overall, a pretty good result for 6 hours of sleep, especially considering skipped WDP
+
