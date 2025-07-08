@@ -31,20 +31,31 @@ activities:
   - time: "15:00–18:00"
     type: Stabilization
     description: "Shower, buy cat litter, buy melatonin, change litter, second shower"
+  - time: "18:00–20:30"
+    type: Recovery
+    description: "Meditated, listened to lofi in bed, napped"
+  - time: "20:30–22:30"
+    type: Emotional Processing
+    description: "Heavy AI-assisted introspection; emotionally exhausting but rewarding"
+  - time: "22:30–23:30"
+    type: Gaming Dive
+    description: "Eve"
+  - time: "23:30–00:00"
+    type: Relational
+    description: "Intimacy"
+  - time: "00:00–03:00"
+    type: Gaming Dive
+    description: "Eve"
+  - time: "03:00–03:30"
+    type: Wind Down
+    description: "Some YouTube before bed"
+
+sleep_night_of:
+  time: 04:15-11:00
+  in_bed_at: 03:30
 
 insights:
-  - Stabilization tasks successfully resumed
-  - OCD-like behavior may be surfacing under low structure (double showers)
-  - Recovery continues to progress; high mood sustained with fewer relational tensions
-
----
-kind: Multiday Analysis
-
-summary:
-  - Vacation decompressing is working: sleep quality has improved, and mood is consistently high
-  - Day 1 highlighted burnout-induced social fatigue; Days 2–3 showed better relational balance and attunement
-  - Stabilization tasks resumed on Day 3, signaling cognitive rebound
-  - Mild OCD tendencies (e.g., double showers) should be monitored under low-structure conditions
-  - Emotional recovery appears to be progressing through naps, intimacy, and EIPs
-  - Eve remains a core stimulus/comfort anchor but has not yet disrupted relational or self-care goals
+  - Strong recovery pattern: naps, meditation, and journaling interleaved with gaming and intimacy
+  - High-value introspection created motivational shift
+  - Warning sign: very late sleep onset may affect next-day rhythm
 
