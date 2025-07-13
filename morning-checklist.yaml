@@ -26,7 +26,6 @@ phases:
       - Comb hair
       - Shave
       - Change to work clothes
-      - Put on fitbit
       - Open blinds if sunny
   - phase: Start Desk Work
     list:
