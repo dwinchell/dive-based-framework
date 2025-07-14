@@ -1,0 +1,76 @@
+date: 07/11/2025
+kind: Daily Log
+
+day_start: 8:30
+meds: taken at 09:00
+
+sleep_last_night:
+  in_bed_at: "00:50"
+  time: "01:20-08:30"
+  energy_on_wake: tired
+  notes: brief 20m wake at 6:30 due to a bad dream
+
+activities:
+  - time: "08:30-09:00"
+    type: Checklist
+    description: Morning Checklist
+  - time: "09:00-10:15"
+    type: Work
+    description: Meetings and catchup on email/notes
+  - time: "09:15"
+    type: Maintenance Task
+    description: Refilled meds
+  - time: "10:15-10:30"
+    type: Maintenance Task
+    description: Folded laundry
+  - time: "10:30-11:00"
+    type: Work
+    description: ""
+  - time: "11:00-11:15"
+    type: BSW
+    description: Inspired an exercise dive
+  - time: "11:15-12:25"
+    type: Exercise Dive
+    description: Vigorous running, cooldown walking, used roller on quads, thorough cooldown stretch
+  - time: ""
+    type: EIP
+    description: Processed anxiety and shame about sleep problems and initiative; related to own values, work, and wife; felt successful in processing emotions
+  - time: "12:25-12:50"
+    type: Maintenance Task
+    description: Prepared lunch and did small chores
+  - time: "12:50-13:10"
+    type: Maintenance Task
+    description: Ate lunch and showered
+  - time: "13:10-13:20"
+    type: Work
+    description: Status report
+  - time: "13:20-14:45"
+    type: Planning
+    description: Analyzed sleep data
+  - time: "14:45-15:00"
+    type: Work
+    description: Messages
+  - time: "15:00-20:00"
+    type: Relational Dive
+    description: Went to dinner with wife
+  - time: "20:00-21:00"
+    type: High Stim Dive
+    description: AI text RPG
+  - time: "21:00-23:00"
+    type: High Stim Block
+    description: Gaming (Backpack Battles) and self care
+  - time: "23:00-00:00"
+    type: Wind Down
+    description: ""
+  - time: "00:00-00:15"
+    type: Checklist
+    description: Bedtime Checklist
+  - time: "00:15-01:00"
+    type: High Stim Dive
+    description: AI RPG
+
+sleep:
+  in_bed_at: "01:00"
+  time: "01:30-06:50"
+  notes: Woke due to bladder; tried to get back to sleep unsuccessfully; out of bed at 08:30
+

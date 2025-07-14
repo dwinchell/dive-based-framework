@@ -1,0 +1,53 @@
+kind: Daily Log
+date: 07/10/2025
+
+sleep_last_night:
+  in_bed_at: 00:25
+  time: "01:30-07:30"
+  additional_sleep: "07:30-09:30 (fragmented)"
+  energy_on_wake: tired
+
+meds: Taken @ 9:30
+
+day_start: 9:30
+
+mood: slightly unstable with sudden short ups and downs beyond what is normal and sometimes without prompting
+
+activities:
+  - time: "09:30-10:00"
+    type: morning checklist
+  - time: "10:00-12:00"
+    type: meetings + light technical work
+  - time: "12:00-13:00"
+    type: lunch
+  - time: "13:00-14:15"
+    type: work (meetings)
+  - time: "14:15-15:00"
+    type: break
+  - time: "15:00-18:30"
+    type: work (analysis and planning)
+  - time: "18:30-19:00"
+    type: planning, social coordination, and cleaning cat litter
+  - time: "19:00-19:15"
+    type: shower
+  - time: "19:15-20:00"
+    type: dinner
+  - time: "20:00-21:00"
+    type: eve
+  - time: "21:00-21:30"
+    type: long BSW with aggressive music (In This Moment)
+  - time: "21:30-23:00"
+    type: anime
+  - time: "23:00-23:30"
+    type: unstructured
+  - time: "23:30-00:30"
+    type: accidental high stim activity - AI RPG session turned out to be engrossing
+  - time: "00:30-00:50"
+    type: bedtime checklist
+
+sleep_night_of:
+  in_bed_at: "00:50"
+  time: "01:20-08:30"
+  energy_on_wake: tired
+  notes: brief 20m wake at 6:30 due to a bad dream
+

@@ -1,0 +1,39 @@
+date: 07/12/2025
+kind: Daily Log
+
+day_start:
+  time: 08:30
+  energy: tired
+  sleep_last_night:
+    time: "01:30-06:50"
+
+meds: 11:00
+
+activities:
+  - time: "08:30-11:00"
+    type: "Morning Block"
+    description: "Morning checklist and gaming (EVE and AI text RPG, high stimulus)"
+  - time: "11:30-14:45"
+    type: "Gaming"
+    description: "High stimulus gaming – text RPG"
+  - time: "14:45-16:00"
+    type: "Maintenance Task"
+    description: "Lots of cleaning"
+  - time: "16:00-18:30"
+    type: "Gaming"
+    description: "EVE fleet ops"
+  - time: "18:30-23:30"
+    type: "Relational Dive"
+    description: "Dinner and TV with friend group"
+  - time: "23:30-00:00"
+    type: "Gaming"
+    description: "AI RPG, high stimulus"
+  - time: "00:00-00:30"
+    type: "Bedtime Checklist"
+    description: "Evening wind-down tasks"
+
+sleep:
+  in_bed_at: "00:30"
+  time: "01:30-10:30"
+  notes: "Woke twice to alarms"
+

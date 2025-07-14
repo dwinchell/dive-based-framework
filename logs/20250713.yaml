@@ -1,0 +1,38 @@
+date: 07/13/2025
+kind: Daily Log
+
+day_start:
+  time: 10:30
+  energy: rested
+
+sleep_last_night:
+  time: 01:30-10:30
+
+meds: 
+  time: 10:30
+  status: taken
+
+activities:
+  - time: "10:30-12:00"
+    type: morning routine
+    description: morning checklist and catch up on eve uni discord
+  - time: "12:00-14:30"
+    type: recreation
+    description: eve uni fight club! very exciting—a chance to exercise skill progression values and drive
+  - time: "14:30-15:30"
+    type: relational dive
+    description: intimacy with wife
+  - time: "15:30-21:30"
+    type: work dive
+    description: weekend work to catch up due to sleep challenges during the week; learning new stuff and working with Gemini—frustrating but stimulating; took ~30 min to help wife with her project; worked hard but didn’t make much progress, brain spent, fatigue creeping in
+  - time: "21:30-00:00"
+    type: high stimulation
+    description: AI text RPG
+  - time: "00:00-01:00"
+    type: evening routine
+    description: bedtime checklist and shower
+
+sleep:
+  in_bed_at: 01:00
+  time: 01:30-09:00
+
