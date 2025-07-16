@@ -1,0 +1,52 @@
+date: 07/14/2025
+kind: Daily Log
+
+day_start:
+  time: 09:00
+  wake: 09:00
+  out_of_bed: 09:30
+  energy: 
+
+meds: taken at 09:30
+
+activities:
+  - time: 09:30-15:30
+    type: Work Dive
+    description: High cognitive. Still haven't done the thing I'm anxious about.
+  - time: 15:30-16:00
+    type: BSW + Meal
+    description: BSW and light meal.
+  - time: 16:00-16:30
+    type: Unstructured
+    description: Ruminated about work. Brain is spent.
+  - time: 16:30-16:50
+    type: Rest
+    description: Rested on couch, listened to music. Tried not to nap. Started fading toward sleep multiple times.
+  - time: 16:50-17:40
+    type: High Stim
+    description: AI text RPG, high stim.
+  - time: 17:40-18:40
+    type: Social
+    description: Group chat while agonizing about whether to keep a social engagement despite storm warning (high social).
+  - time: 18:40
+    type: Reflection
+    description: Bailed on social engagement and felt bad because my friend wasted money.
+  - time: 19:00-20:15
+    type: Recovery
+    description: Sat on couch with wife and watched anime.
+  - time: 20:15-23:45
+    type: Recovery
+    description: Continued on couch with wife watching anime (social + sensory rest).
+  - time: 23:45-00:00
+    type: Evening Routine
+    description: Shower and winding down.
+  - time: 00:00-00:45
+    type: Bedtime Checklist
+    description: Completed bedtime checklist.
+
+sleep_night_of:
+  in_bed_at: 00:45
+  time: 01:30-07:45
+  energy_on_wake: 
+  wake_reason: 
+

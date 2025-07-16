@@ -1,0 +1,50 @@
+date: 07/15/2025
+kind: Daily Log
+
+day_start:
+  wake: "07:45"
+  out_of_bed: "08:45"
+  energy: tired
+  status: anxious
+  wake_reason: bad dreams
+
+meds: "08:45"
+
+activities:
+  - time: "08:45-09:00"
+    type: "Checklist"
+    description: "Morning checklist"
+  - time: "09:00"
+    type: "Caffeine"
+    description: "Caffeine"
+  - time: "09:00-11:15"
+    type: "Work"
+    description: "Tried to work on scope (anxious for days) + meetings. High cognitive and high social. Hard because tired."
+  - time: "11:15-12:15"
+    type: "Lunch/Walk"
+    description: "Lunch and walk"
+  - time: "12:15-15:30"
+    type: "Work"
+    description: "Finished the difficult scope task"
+  - time: "15:30-00:45"
+    type: "Leisure"
+    description: "Anime on couch next to wife"
+  - time: "00:45-01:00"
+    type: "Checklist"
+    description: "Bedtime checklist"
+  - time: "01:00-03:15"
+    type: "Leisure"
+    description: "Anime in bed"
+
+sleep:
+  in_bed_at: "01:00"
+  time: "03:30-09:00"
+  wake_reason: natural
+  energy_on_wake: exhausted
+
+ai-insights: |
+  - Completing the scope task was a big emotional release and may have led to that need for decompression.  
+  - Today may still require active recovery to address accumulated tiredness and avoid starting the next work cycle depleted. Consider early wind down tonight.
+
+reflectoins:
+  - I stayed up watching anime. This was a high stimuls activity binge. It started as comfort seeking after a stressful day, and led to hyperfocus and reinforced behavior, which led to sleep disruption. This ends my approximately 8 day streak of falling to sleep at a consistent time (01:30) and sets back my project to fix my sleep.
