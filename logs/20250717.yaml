@@ -1,0 +1,62 @@
+date: 07/17/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 1:30-8:30
+  wake: 8:30
+  out_of_bed: 9:30
+  energy_on_wake: very tired
+
+activities:
+  - time: "9:30-10:00"
+    type: "Morning Checklist"
+    description: "Completed morning checklist"
+  - time: "10:00-12:30"
+    type: "Work"
+    description: "Meetings, high social, working lunch"
+  - time: "12:30-13:00"
+    type: "Rest"
+    description: "Rested in bed, including 10 min nap"
+  - time: "13:00-16:00"
+    type: "Work"
+    description: "Meetings and wrote another scope, high cognitive, high social"
+  - time: "16:00-16:45"
+    type: "Unstructured"
+    description: "Ruminated about work"
+  - time: "16:45-18:30"
+    type: "Meal / Social"
+    description: "Dinner at restaurant with wife; thought and talked a lot about work"
+  - time: "18:30-20:00"
+    type: "Nap"
+    description: "Napped on couch, out cold. Wife woke me after set duration and kept me awake afterward as requested"
+  - time: "21:30-22:30"
+    type: "Social"
+    description: "Talked with dad for advice about work"
+  - time: "22:45-23:15"
+    type: "Social"
+    description: "Talked with best friend about work"
+  - time: "23:15-00:00"
+    type: "Relationship Time"
+    description: "Spent time with wife"
+  - time: "00:00-01:00"
+    type: "Evening Routine"
+    description: "Evening routine and bedtime checklist"
+
+goals:
+  - catch up on work
+  - continue to stabilize sleep
+
+meds: Taken at 9:30
+
+sleep:
+  time: "1:30-8:30"
+  in_bed_at: 01:00
+  notes: 
+    - "Brief wake at 5:45 with no immediate cause"
+    - "Laid in bed from 8:30-9:50"
+
+ai-insights:
+  - You had high cumulative social and cognitive load today (meetings, work ruminations, and multiple advice conversations about work). This may explain the “out cold” nap and could increase the need for layered recovery tomorrow. 
+  - Despite that load, you successfully upheld your sleep stabilization strategy by keeping the couch nap short and letting your wife help enforce wake maintenance. That’s a strong behavioral scaffold. 
+  - Repeated evening work focus (dad + friend) may have kept your brain engaged late; consider buffering future evening routines with a non-work anchor. 
+

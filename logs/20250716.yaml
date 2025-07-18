@@ -1,0 +1,50 @@
+date: 07/16/2025
+kind: Daily Log
+
+day_start:
+  woke: 9:00
+  energy: exhausted
+  sleep: 5.5h
+
+meds: taken at 9:00
+
+activities:
+  - time: "09:00-09:15"
+    type: "Routine"
+    description: "Morning checklist"
+  - time: "09:15-10:45"
+    type: "Work"
+    description: "Work dive"
+  - time: "10:45-12:15"
+    type: "Rest"
+    description: "Rest, including a 1 hour nap"
+  - time: "12:15-12:45"
+    type: "Meal"
+    description: "Lunch"
+  - time: "12:45-15:30"
+    type: "Work"
+    description: "Meetings (high social and cognitive load)"
+  - time: "15:30-16:30"
+    type: "Recovery"
+    description: "Recovery block: BSW, snack, asked wife to order dinner"
+  - time: "16:30-17:00"
+    type: "Work"
+    description: "Meeting"
+  - time: "17:00-17:30"
+    type: "Rest"
+    description: "Nap"
+  - time: "17:30-18:00"
+    type: "Meal"
+    description: "Dinner"
+  - time: "18:00-00:00"
+    type: "Leisure"
+    description: "Anime on couch next to wife"
+  - time: "00:00-00:45"
+    type: "Routine"
+    description: "Evening routine and bedtime checklist"
+
+sleep:
+  in_bed_at: 00:50
+  time: "01:30-08:30"
+  additional_rest: "08:30-09:30"
+
