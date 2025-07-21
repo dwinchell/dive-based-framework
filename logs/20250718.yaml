@@ -1,0 +1,53 @@
+---
+kind: Daily Log
+date: 07/18/2025
+
+day_start:
+  time: 08:30
+  sleep_last_night: 6.5h
+  out_of_bed: 10:00
+
+meds: taken at 10
+
+activities:
+  - time: "10:00-10:15"
+    type: "Morning Routine"
+    description: "morning routine"
+  - time: "10:15-10:25"
+    type: "Maintenance"
+    description: "refill med organizer"
+  - time: "10:25-11:30"
+    type: "Work Dive"
+    description: "work"
+  - time: "11:30-12:45"
+    type: "Exercise Dive"
+    description: "30min BSW, run, ended with shower"
+  - time: "12:45-14:15"
+    type: "Work Dive"
+    description: "meetings, high social"
+  - time: "14:15-14:30"
+    type: "Recovery Block"
+    description: "short BSW"
+  - time: "14:30-15:40"
+    type: "Work Dive"
+    description: "high emotional processing"
+  - time: "15:40-16:00"
+    type: "Recovery Block"
+    description: "ate and changed clothes for social engagement"
+  - time: "16:00-17:15"
+    type: "Work Dive"
+    description: "meeting"
+  - time: "17:15-22:00"
+    type: "Relational Dive"
+    description: "went to a play with best friends and wife"
+  - time: "22:00-00:15"
+    type: "Recovery Block"
+    description: "anime on couch with wife"
+  - time: "00:15-00:30"
+    type: "Maintenance"
+    description: "bedtime checklist"
+
+sleep:
+  in_bed_at: "00:30"
+  time: "01:00-05:00, fragmented until 08:00"
+

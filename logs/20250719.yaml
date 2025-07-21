@@ -1,0 +1,66 @@
+---
+kind: Daily Log
+date: 07/19/2025
+
+day_start:
+  wake: 8:00
+  out_of_bed: 10:00
+  energy: tired
+
+meds: Taken at 10:00
+
+activities:
+  - time: "10:00"
+    type: "Medication"
+    description: "Took Klonopin 0.5mg"
+
+  - time: "10:00-10:20"
+    type: "Game"
+    description: "EVE Online"
+
+  - time: "10:20-14:15"
+    type: "Unstructured"
+    description: "Included intimacy, nap, some cleaning"
+
+  - time: "14:15-"
+    type: "Recovery"
+    description: "Drinking soothing vanilla chamomile tea, eating lunch, listening to Switchblade Symphony"
+
+  - time: "14:52-15:04"
+    type: "Meditation"
+    description: "Meditated"
+
+  - time: "15:04-16:25"
+    type: "Rest"
+    description: "Nap"
+
+  - time: "16:25-21:15"
+    type: "Recovery"
+    description: "Dinner and anime"
+
+  - time: "21:15-23:00"
+    type: "Unstructured"
+    description: "Intimacy, then unstructured time"
+
+  - time: "23:00-00:00"
+    type: "Reading"
+    description: "Read"
+
+  - time: "00:00-00:30"
+    type: "Routine"
+    description: "Evening routine and bedtime checklist"
+
+  - time: "00:30-04:00"
+    type: "Reading"
+    description: "Read"
+
+sleep:
+  in_bed_at: 01:00
+  time: "04:20-10:30"
+  notes: "Read in bed for 3 hours before sleep"
+
+ai-insights: |
+  - You sustained a deliberate recovery flow throughout the day, leaning into low-stimulus activities (tea, meditation, anime) to manage exhaustion and aversion. This shows strong alignment with Recovery Saturday’s intent.  
+  - The long pre-sleep reading session (3 hours) suggests difficulty transitioning to sleep despite Klonopin earlier in the day. It may reflect residual understimulation or disrupted sleep pressure.  
+  - Multiple naps and passive activities point to a need for gentler stimulation. Layered recovery (combining sensory comfort and light engagement) worked well but could benefit from earlier sleep prep to reduce extended wake time in bed.
+

@@ -1,0 +1,52 @@
+---
+kind: Daily Log
+date: 07/20/2025
+
+day_start:
+  woke_at: 10:30
+  out_of_bed_at: 11:00
+  sleep_last_night: 6h10m
+  energy: slightly tired
+
+meds: 11:00
+
+activities:
+  - time: "11:00–11:30"
+    type: "Morning Checklist"
+    description: ""
+  - time: "11:30–15:20"
+    type: "Reading"
+    description: ""
+  - time: "15:20–15:46"
+    type: "Break"
+    description: "Wife offered to make pizza. Felt good, relaxed, and stimulated but still mentally tired."
+  - time: "15:46–16:35"
+    type: "Nap"
+    description: ""
+  - time: "16:35–16:50"
+    type: "Lunch"
+    description: ""
+  - time: "16:50–18:00"
+    type: "Relaxation"
+    description: "Listening to music on the couch, letting thoughts drift."
+  - time: "17:56–18:00"
+    type: "Meditation"
+    description: ""
+  - time: "18:00–23:45"
+    type: "Unstructured"
+    description: "Gaming, intimacy, relaxing tea, and teaching wife Git."
+  - time: "23:45–01:00"
+    type: "Wind Down"
+    description: "Read about EVE mechanics."
+
+sleep:
+  in_bed_at: 01:23
+  time: "01:50–09:30"
+  notes: "Slept through the full night with no wakes."
+
+ai-insights: |
+  - Your day had a strong balance of stimulation (reading, gaming, teaching) and recovery (nap, meditation, wind down), which may have contributed to sleeping through the night with no wakes. This suggests your current pacing is supporting sleep stability. 
+  - The short meditation before gaming is a promising micro-reset; repeating this pattern could help maintain mental clarity during long unstructured blocks. 
+  - The unstructured period included diverse activities (social, technical, physical comfort), which may explain why you felt satisfied rather than overstimulated or restless afterward. 
+  - Slight tiredness in the morning may be a signal to monitor cumulative sleep debt, but the nap seemed to offset it. 
+
