@@ -33,9 +33,9 @@ activities:
     type: "Recovery"
     description: "Dinner"
 
-  - time: "13:30-14:30"
+  - time: "13:30-14:45"
     type: "Work"
     description: "Paperwork"
-  - time: "14:30-present"
+  - time: "14:45-present"
     type: "Recovery"
     description: ""
