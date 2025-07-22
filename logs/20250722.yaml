@@ -1,0 +1,24 @@
+---
+kind: Daily Log
+date: 07/22/2025
+
+day_start:
+  wake: "08:00"
+  out_of_bed: "09:00"
+
+meds: "Taken at 09:00"
+
+activities:
+  - time: "09:00-09:15"
+    type: "Routine"
+    description: "Morning Checklist"
+  - time: "09:00-09:15"
+    type: "Recovery"
+    description: "BSW"
+  - time: "09:30-10:00"
+    type: "Doctor"
+    description: "Dr. Jacobson"
+
+  - time: "09:30-10:00"
+    type: "Doctor"
+    description: "Dr. Jacobson"
