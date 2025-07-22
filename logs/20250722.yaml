@@ -19,6 +19,13 @@ activities:
     type: "Doctor"
     description: "Dr. Jacobson"
 
-  - time: "09:30-10:00"
-    type: "Doctor"
-    description: "Dr. Jacobson"
+  - time: "10:00-10:30"
+    type: "Work"
+    description: "Meeting. Social, emotional regulation"
+  - time: "10:30-11:15"
+    type: "Recovery"
+    description: "Meditate, Lunch"
+
+  - time: "11:15-present"
+    type: "Work"
+    description: "Fingerprinting, etc"
