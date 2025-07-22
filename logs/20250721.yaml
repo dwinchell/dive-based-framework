@@ -39,9 +39,19 @@ activities:
     type: "Work Dive"
     description: "Meeting -  Architectural planning. High social, high emotional regulation"
 
-  - time: "18:00-19:00"
-    type: "Travel"
-    description: "Get ready and drive to Squash"
-  - time: "19:00-"
+  - time: "17:00-18:45"
+    type: "Misc"
+    description: "Help Mom with IT,eat dinner, buy shoes, drive to Squash"
+  - time: "18:45-20:00"
     type: "Exercise and Relational Dive"
     description: "Squash"
+  - time: "20:00-21:30"
+    type: "Misc"
+    description: "Drive home, shower, etc."
+  - time: "20:30-0:00"
+    type: "Reading Dive"
+    description: "LitRPG"
+  - time: "0:00-present
+    type: "Routine"
+    description: "Bedtime Checklist"
+    
