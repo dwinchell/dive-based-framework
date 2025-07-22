@@ -36,6 +36,6 @@ activities:
   - time: "13:30-14:45"
     type: "Work"
     description: "Paperwork"
-  - time: "14:45-present"
-    type: "Recovery"
+  - time: "14:45-16:50"
+    type: "Nap"
     description: ""
