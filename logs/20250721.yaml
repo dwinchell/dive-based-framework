@@ -19,39 +19,38 @@ activities:
   - time: "11:45-12:50"
     type: "Recovery Block with Exercise"
     description: "BSW, Lunch"
-
   - time: "12:50-14:30"
     type: "Work Dive"
     description: "Meeting. High social, high emotional regulation"
-  - time: "14:30-15:10" # In progress
+  - time: "14:30-15:10"
     type: "Recovery Block"
     description: ""
-
-  # Planned
   - time: "15:00-15:30"
     type: "Work Dive"
     description: "Paperwork"
   - time: "15:30-16:20"
     type: "Recovery Block"
     description: ""
-
   - time: "16:20-17:00"
     type: "Work Dive"
-    description: "Meeting -  Architectural planning. High social, high emotional regulation"
-
+    description: "Meeting - Architectural planning. High social, high emotional regulation"
   - time: "17:00-18:45"
     type: "Misc"
-    description: "Help Mom with IT,eat dinner, buy shoes, drive to Squash"
+    description: "Help Mom with IT, eat dinner, buy shoes, drive to Squash"
   - time: "18:45-20:00"
     type: "Exercise and Relational Dive"
     description: "Squash"
   - time: "20:00-21:30"
     type: "Misc"
     description: "Drive home, shower, etc."
-  - time: "20:30-0:00"
+  - time: "21:30-0:00"
     type: "Reading Dive"
     description: "LitRPG"
-  - time: "0:00-present
+  - time: "0:00-0:30"
     type: "Routine"
     description: "Bedtime Checklist"
-    
+
+sleep:
+  in_bed_at: "00:30"
+  time: "01:10-08:30"
+
