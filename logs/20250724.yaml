@@ -1,0 +1,30 @@
+---
+kind: Daily Log
+date: 07/24/2025
+
+day_start:
+  wake: "08:00"
+  out_of_bed: "09:30"
+  energy: "Tired"
+  core_sleep_last_night: "6.25h"
+
+meds: "Taken at 09:30"
+
+activities:
+  - time: "09:30-10:00"
+    type: "Routine"
+    description: "Morning Checklist"
+  - time: "10:00-11:00"
+    type: "Work Dive"
+    description: "Watched a livestream, responded to chats"
+  - time: "11:00-00:30"
+    type: "Unstructured"
+    description: "Work, lots of gaming, relational dive"
+  - time: "00:30-00:50"
+    type: "Routine"
+    description: "Bedtime checklist"
+
+sleep:
+  in_bed_at: "00:50"
+  time: "01:20-09:30"
+

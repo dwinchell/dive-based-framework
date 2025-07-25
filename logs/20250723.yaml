@@ -1,0 +1,43 @@
+---
+kind: Daily Log
+date: 07/23/2025
+
+day_start:
+  wake: "08:20"
+  out_of_bed: "09:10"
+  energy: "Slightly tired"
+
+meds: "Taken at 09:15"
+
+activities:
+  - time: "09:10-09:35"
+    type: "Morning Checklist"
+    description: ""
+  - time: "09:35"
+    type: "Status"
+    description: "Anxious. Thinking about career, health insurance, and locus of control."
+  - time: "09:35-10:07"
+    type: "BSW"
+    description: ""
+  - time: "10:07-10:33"
+    type: "Meditation"
+    description: ""
+  - time: "10:33-16:45"
+    type: "Work Dive"
+    description: "Meetings, errand, food. Very demanding socially and in emotional regulation. Included a moment of productive creativity driven by a positive social interaction that also made it urgent."
+  - time: "16:45-17:00"
+    type: "Recovery Block"
+    description: "Listened to music"
+  - time: "17:00-18:15"
+    type: "Nap"
+    description: ""
+  - time: "18:15-22:15"
+    type: "Unstructured"
+    description: "Gamed, cuddled, intimacy, pondered career choices"
+
+sleep:
+  in_bed_at: "01:23"
+  time: "01:45-08:00"
+  notes: "Additional rest until 09:30"
+  energy_on_wake: "Tired"
+
