@@ -1,0 +1,60 @@
+---
+date: 9/20/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 3:00-10:00
+  meds: taken at 10:00
+  target_sleep_onset: "02:00"
+  energy: tired
+
+activities:
+  - time: "10:30"
+    type: "Meal"
+    description: "Ensure"
+  - time: "11:40-16:40"
+    type: "Gaming"
+    description: "EVE Online (exhilarating session)"
+  - time: "16:50"
+    type: "Snack"
+    description: "Handful of walnuts"
+  - time: "16:50"
+    type: "Hydration"
+    description: "Finished 600mL bottle of water"
+  - time: "16:50-18:10"
+    type: "Outing"
+    description: "Dinner with wife"
+  - time: "18:10"
+    type: "Meal"
+    description: "Finished dinner"
+  - time: "18:10"
+    type: "Hydration"
+    description: "Drank 100mL water"
+  - time: "19:20"
+    type: "Outing"
+    description: "Home from dinner and short errands with wife"
+  - time: "20:30-21:00"
+    type: "Sleep"
+    description: "Nap"
+  - time: "20:20-01:00"
+    type: "Gaming"
+    description: "EVE Online"
+  - time: "23:15"
+    type: "Meal"
+    description: "2 pieces leftover cheese pizza from Paisanos"
+  - time: "00:00"
+    type: "Snack"
+    description: "Protein pastry"
+  - time: "01:00-01:25"
+    type: "Maintenance"
+    description: "EVE break – litter, shower, etc."
+  - time: "01:25-02:30"
+    type: "Gaming"
+    description: "EVE Online"
+  - time: "02:00"
+    type: "Hydration"
+    description: "Finished 600mL bottle of water"
+
+sleep:
+  in_bed_at: "02:50"
+

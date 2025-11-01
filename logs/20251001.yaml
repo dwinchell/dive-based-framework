@@ -1,0 +1,32 @@
+---
+date: 10/01/2025
+kind: Daily Log
+
+summary:
+  sleep_last_night: "04:30-10:15"
+  energy: "Tired"
+  meds: "12:15"
+
+activities:
+  - time: "10:30-17:00"
+    type: "Work"
+    description: "Meetings and analysis"
+  - time: "22:30-23:10"
+    type: "Sleep"
+    description: "Nap"
+  - time: "23:30-01:15"
+    type: "Work"
+    description: "Report"
+  - time: "01:15-01:35"
+    type: "Maintenance"
+    description: "Personal paperwork for doctor"
+  - time: "02:10"
+    type: "Recovery"
+    description: "Guitar using Yousician. Tinkered with settings and then did daily session mode. Tempted to keep going but resisted"
+  - time: "02:15-02:30"
+    type: "Routine"
+    description: "Bedtime checklist"
+  - time: "02:30-03:30"
+    type: "Rumination"
+    description: "About relationship with father-in-law"
+

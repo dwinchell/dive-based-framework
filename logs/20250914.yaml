@@ -1,0 +1,53 @@
+---
+date: 9/14/2025
+kind: Daily Log
+
+day_start:
+  sleep: 2:30-10
+  energy: tired
+  meds: 10:30
+
+activities:
+  - time: "10:30-11:30"
+    type: "Meal"
+    description: "Breakfast with inlaws"
+  - time: "11:30"
+    type: "Status"
+    description: "Socially exhausted. Wife wants to go to pharmacy and grocery store together, and will need comfort after parents visit"
+  - time: "11:30-12:30"
+    type: "Maintenance"
+    description: "Grocery store with wife. Crowd, noise, and unfamiliar environment made me anxious. Probably means I need to do it more. Carrying her cane triggered my OCD. Social battery empty, irritable."
+  - time: "12:30-13:00"
+    type: "Relational"
+    description: "Cuddle on couch. Wanted to make sure wife was okay after inlaw visit. She was."
+  - time: "13:00-14:00"
+    type: "Gaming"
+    description: "EVE Online"
+  - time: "14:00-15:00"
+    type: "Sleep"
+    description: "Nap"
+  - time: "15:15-16:00"
+    type: "Maintenance"
+    description: "Litter, shower"
+  - time: "16:00-17:30"
+    type: "Relational"
+    description: "Time with wife, intimacy"
+  - time: "17:30-20:00"
+    type: "Gaming"
+    description: "WoW Hardcore for alone time. Irritable because interrupted by wife & friend"
+  - time: "20:00-20:10"
+    type: "Maintenance"
+    description: "Fixed toilet and cleaned floor, showered (OCD triggered)"
+  - time: "20:10-22:40"
+    type: "Gaming"
+    description: "EVE Online corp tournament. Required some socialization but got me a killmail"
+  - time: "23:00"
+    type: "Status"
+    description: "Very irritable, even with ChatGPT"
+  - time: "23:00-05:00"
+    type: "Creative"
+    description: "AI co-writing instead of reading. Stayed up until 5am. Obviously not a safe substitute"
+
+sleep:
+  time: 5:00-9:30
+

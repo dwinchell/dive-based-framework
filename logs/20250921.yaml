@@ -1,0 +1,151 @@
+---
+date: 09/21/2025
+kind: Daily Log
+day_start:
+  sleep_last_night: "3:20-10:30"
+  sleep_interruptions: "30m wake at 6 (cats)"
+  meds: "10:45"
+
+activities:
+  - time: "10:15"
+    type: "Meal"
+    description: "Ensure"
+
+  - time: "11:00-11:45"
+    type: "Maintenance"
+    description: "Eve APP"
+    notes: "Had breakfast; started laundry; cleaned off desk; picked up clothes in room; cleaned retainers; did dishes; washed face; made bed; stretched"
+
+  - time: "11:25"
+    type: "Maintenance"
+    description: "start laundry"
+
+  - time: "11:45-14:00"
+    type: "Gaming"
+    description: "Eve fleet"
+    notes: "Great UFC fleet"
+
+  - time: "13:20"
+    type: "Meal"
+    description: "Snack — walnuts"
+
+  - time: "14:05"
+    type: "Maintenance"
+    description: "Switched laundry over and started new load"
+
+  - time: "14:15"
+    type: "Maintenance"
+    description: "Folded a full basket of laundry"
+    notes: "Big win"
+
+  - time: "14:25"
+    type: "Maintenance"
+    description: "Retainers out of cleaner"
+    notes: "Reminder helped"
+
+  - time: "14:40"
+    type: "Meal"
+    description: "PBJ"
+
+  - time: "14:40-17:10"
+    type: "Maintenance"
+    description: "AAP"
+    notes: "Washed plate; cleaned cat puke; ate snack; folded laundry; refilled Brita filter; folded another full basket of laundry; picked trash off floor; a few dishes; laundry switchover"
+
+  - time: "15:00"
+    type: "Hydration"
+    description: "Finished 600mL water bottle"
+
+  - time: "16:00"
+    type: "Status"
+    description: "Feeling averse / spent / low mood. Possibly due to multiple aversive tasks during APP, or maybe other reasons"
+    notes: "Response: closed blinds (overcast light affects me), started listening to upbeat music, started cooking a meal (spaghetti). Also noted I haven’t had a true full meal yet today, which may be contributing."
+
+  - time: "16:10"
+    type: "Status"
+    description: "Feeling sad about not being able to do as many chores as I would like, attributing it to mental health limitations. I want to do more. Even with optimizing through AI / recovery days / APP, I’m not getting everything I want done. Doing better than normal, which is good, but still frustrating."
+
+  - time: "16:30"
+    type: "Meal"
+    description: "Spaghetti for 'lunch'"
+
+  - time: "17:10-17:45"
+    type: "Maintenance"
+    description: "Litter/shower"
+
+  - time: "17:50"
+    type: "Maintenance"
+    description: "Emptied dryer again and hung two shirts"
+
+  - time: "18:45"
+    type: "Maintenance"
+    description: "Stop Eve APP"
+
+  - time: "18:45-19:30"
+    type: "Relationship"
+    description: "Intimacy"
+
+  - time: "19:30-20:30"
+    type: "Sleep"
+    description: "Nap"
+
+  - time: "21:00"
+    type: "Maintenance"
+    description: "Finish shower"
+
+  - time: "21:00"
+    type: "Maintenance"
+    description: "Started load of laundry"
+
+  - time: "21:30"
+    type: "Meal"
+    description: "Supper — chicken parm (wife made it :) )"
+
+  - time: "21:30"
+    type: "Maintenance"
+    description: "Washed a couple of dishes and switched over laundry"
+
+  - time: "21:30"
+    type: "Hydration"
+    description: "Finished 550mL water"
+
+  - time: "21:30-0:00"
+    type: "Relationship"
+    description: "Couch time with wife — watched Sandman, played Puzzle Quest"
+
+  - time: "0:00-0:30"
+    type: "Leisure"
+    description: "Puzzle Quest"
+
+  - time: "0:30"
+    type: "Maintenance"
+    description: "Switched laundry, hung 2 clothing items"
+
+  - time: "0:30"
+    type: "Meal"
+    description: "Handful of walnuts"
+
+  - time: "0:30-2:30"
+    type: "Gaming"
+    description: "Eve"
+
+  - time: "2:53"
+    type: "Status"
+    description: "Can't calm down to sleep, brain thinking about Eve"
+    notes: "Trying breathing exercises"
+
+  - time: "2:53-3:30"
+    type: "Leisure"
+    description: "YouTube"
+
+  - time: "3:30"
+    type: "Status"
+    description: "Trying to sleep again"
+
+  - time: "3:30"
+    type: "Hydration"
+    description: "Drank 350mL water"
+
+sleep:
+  in_bed_at: "2:30"
+

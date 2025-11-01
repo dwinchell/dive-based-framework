@@ -1,0 +1,38 @@
+---
+date: 09/30/2025
+kind: Daily Log
+
+day_start:
+  sleep: "05:45-09:00"
+  energy: ""
+  meds: "09:30"
+
+activities:
+  - time: "09:30"
+    type: "Hydration"
+    description: "Finished 400mL water"
+  - time: "16:00-16:30"
+    type: "Sleep"
+    description: "Nap (~30m)"
+  - time: "17:30"
+    type: "Relational"
+    description: "Intimacy"
+  - time: "18:00"
+    type: "Meal"
+    description: "Spaghetti and protein bar for dinner. Wife made it because she is amazing"
+  - time: "22:45-00:20"
+    type: "Gaming"
+    description: "EVE. Fuck it, I need to stop thinking about work. It's not escapism if the thing I'm escaping I've been thinking about for 24 hours minus a few hours of sleep and can't do anything productive about right now."
+  - time: "00:20-01:20"
+    type: "Recovery"
+    description: "Guitar"
+  - time: "01:20-01:35"
+    type: "Routine"
+    description: "Bedtime routine"
+  - time: "01:35"
+    type: "In Bed"
+    description: ""
+  - time: "02:30"
+    type: "Status"
+    description: "Can't sleep"
+

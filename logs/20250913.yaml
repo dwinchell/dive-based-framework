@@ -1,0 +1,70 @@
+---
+date: 9/13/2025
+kind: Daily Log
+
+day_start:
+  sleep: 3:30-11
+  energy: tired
+  meds: 11:00
+  note: need to refill pill organizer
+
+activities:
+  - time: "11:15"
+    type: "Status"
+    description: "wave of intense anxiety"
+
+  - time: "11:30-13:15"
+    type: "Gaming"
+    description: "Eve; attention to wife and lunch and light chores in parallel"
+
+  - time: "13:15"
+    type: "Status"
+    description: "mood dropped right after lunch and gaming stop while getting ready to see inlaws"
+
+  - time: "13:30"
+    type: "Social"
+    description: "start in-law visit"
+
+  - time: "14:00"
+    type: "Recovery"
+    description: "stretch and use foam roller"
+
+  - time: "16:00"
+    type: "Meal"
+    description: "dinner at Carnegie Diner – French toast"
+
+  - time: "17:00"
+    type: "Social"
+    description: "arrive at mother's house with in-laws for further visiting"
+
+  - time: "17:30-18:30"
+    type: "Hobby"
+    description: "walked and identified trees alone at Mom's property; learned to identify Eastern hophornbeam and Autumn olive"
+
+  - time: "18:30"
+    type: "Experiment"
+    description: "ingested two fruits of Autumn olive (Elaeagnus umbellata); avoided pits; taste tart and astringent like grapes with strong lingering aftertaste"
+
+  - time: "19:00"
+    type: "Social"
+    description: "left mother's house with in-laws"
+
+  - time: "20:00"
+    type: "Home"
+    description: "arrived home"
+
+  - time: "20:00-23:00"
+    type: "Time with Wife"
+    description: "intimacy, watched Drunk History, supper"
+
+  - time: "23:00-01:30"
+    type: "Gaming"
+    description: "Eve; followed gaming session plan to limit duration"
+
+  - time: "01:30-02:00"
+    type: "Routine"
+    description: "bedtime routine"
+
+sleep:
+  time: 2:30-10
+

@@ -1,0 +1,40 @@
+---
+date: 9/29/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "03:00-09:00"
+  meds: "11:00"
+
+activities:
+  - time: "09:00-10:00"
+    type: "Rest"
+    description: "Tried to get back to sleep in bed. Liminal state"
+  - time: "10:00-18:00"
+    type: "Work"
+    description: "Internal review of report. Difficult social interactions; client provided negative feedback and it got escalated. Finished exhausted and frustrated. Need recovery — reduce physical stress response and redirect thoughts long enough to recover, then pivot back to addressing the problem."
+  - time: "18:45-20:45"
+    type: "Sleep"
+    description: "Nap"
+  - time: "23:00"
+    type: "Hydration"
+    description: "Finished 600mL water"
+  - time: "23:20-00:10"
+    type: "Exercise Dive"
+    description: "30m running"
+  - time: "00:40"
+    type: "Chores"
+    description: "Shower, cleaned litter"
+  - time: "01:00"
+    type: "Hydration"
+    description: "Finished 600mL water"
+  - time: "01:10-01:50"
+    type: "Recovery"
+    description: "Guitar practice. Got distracted by fantasy/narrative music video while learning the song."
+  - time: "02:20"
+    type: "In Bed"
+    description: "Got in bed"
+  - time: "02:40"
+    type: "Status"
+    description: "Thoughts wandering. Too much mental energy for bed. Thinking about Meredith and therapy"
+
