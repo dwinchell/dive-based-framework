@@ -1,0 +1,47 @@
+date: 10/16/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 06:00-11:00
+  meds: 11:00
+
+activities:
+  - time: "11:00"
+    type: "Meal"
+    description: "Attempted breakfast but forgot to finish due to work focus"
+  - time: "11:00-21:00"
+    type: "Work"
+    description: "Focused work session"
+  - time: "12:00"
+    type: "Caffeine"
+    description: "Caffeine dose"
+  - time: "14:00"
+    type: "Meal"
+    description: "Finished lunch"
+  - time: "14:10"
+    type: "Status"
+    description: "Wired"
+  - time: "15:00"
+    type: "Caffeine"
+    description: "1 tbsp Red Bull"
+  - time: "16:00"
+    type: "Maintenance"
+    description: "Shower"
+  - time: "17:30"
+    type: "Meal"
+    description: "Dinner"
+  - time: "21:20-22:30"
+    type: "Exercise"
+    description: "30 min running"
+  - time: "23:00-02:30"
+    type: "Work"
+    description: "Evening work session"
+  - time: "02:45"
+    type: "Meal"
+    description: "Snack"
+  - time: "02:45-03:30"
+    type: "Recovery"
+    description: "Guitar"
+  - time: "04:00"
+    type: "In Bed"
+

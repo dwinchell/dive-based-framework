@@ -1,0 +1,58 @@
+date: 10/19/2025
+kind: Daily Log
+
+day_start:
+  sleep:
+    time: "03:10–10:00"
+
+meds:
+  time: "11:15"
+
+activities:
+  - time: "10:30–11:00"
+    type: "Maintenance"
+    description: "Cleaned fridge after spill"
+  - time: "11:15"
+    type: "Maintenance"
+    description: "Refilled pill organizer"
+  - time: "11:30"
+    type: "Meal"
+    description: "Finished breakfast"
+  - time: "11:20–13:20"
+    type: "Gaming"
+    description: "Infraspace"
+  - time: "13:20–14:10"
+    type: "AFK Productivity Protocol (APP)"
+    description: "Infraspace; hydrated, washed face, cleaned retainers, switched laundry, started and finished cooking lunch, ate protein bar, ate lunch (spaghetti), returned dishes to kitchen"
+  - time: "14:10–14:40"
+    type: "Gaming"
+    description: "Infraspace"
+  - time: "14:15–15:15"
+    type: "Sleep"
+    description: "Nap"
+  - time: "15:15–15:45"
+    type: "Self-Care"
+    description: "Post-nap self-care routine"
+  - time: "15:45–16:00"
+    type: "Relational"
+    description: "Cuddle with wife"
+  - time: "16:30"
+    type: "Maintenance"
+    description: "Haircut"
+  - time: "Evening (approx. 1.5h)"
+    type: "Gaming"
+    description: "Infraspace"
+  - time: "22:15–00:20"
+    type: "Gaming"
+    description: "Infraspace"
+
+status:
+  - time: "14:10"
+    description: "Averse; mood feels lower but I was productive"
+  - time: "14:45"
+    description: "Feeling sleepy; attempting nap"
+
+notes:
+  - time: "14:10"
+    description: "During APP, completed about 6 rounds of standing up and doing maintenance activities."
+

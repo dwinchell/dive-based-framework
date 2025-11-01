@@ -1,0 +1,19 @@
+kind: Daily Log
+date: 10/13/2025
+
+day_start:
+  sleep:
+    in_bed_at: 0100
+    time: 0100-0730, 0800-0930
+    total_sleep: 8h
+  meds: 0930
+
+activities:
+  - 0930-1600 work - desk work
+  - 1150 breakfast
+  - 1500 snack
+  - 1600-1730 exercise - included 30min running
+  - 1730-1800 shower
+  - 1800-2030 relational - dinner with family
+  - 2030-2230 relational - time with wife, intimacy
+

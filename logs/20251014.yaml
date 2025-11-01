@@ -1,0 +1,40 @@
+date: 10/14/2025
+kind: Daily Log
+
+day_start:
+  sleep: 
+    time: "01:45-05:30"
+    additional: "07:00-08:00"
+    liminal: ["05:30-07:00", "08:00-09:00"]
+    note: "Woke after first core sleep due to a nightmare"
+
+activities:
+  - "10:00–12:30 work – desk work, with sustain break at 11:40"
+  - "12:00–12:20 meal – breakfast (started 10:00, forgot until later)"
+  - "12:30 meal – lunch"
+  - "12:43–12:55 recovery – walk"
+  - "13:00–14:20 work – desk work"
+  - "14:15 status – mentally and physically exhausted; very stressed about workload, two upcoming deadlines, limited bandwidth, and frequent context switching today"
+  - "14:25 recovery – breathe and stretch"
+  - "14:30–15:30 sleep – nap"
+  - "16:00–16:45 work – desk work"
+  - "16:45 status – severe stress; nausea, chest tension, exhaustion"
+  - "16:45–17:45 exercise dive – 30m running"
+  - "18:30–19:00 maintenance – shower"
+  - "19:00–20:15 relational – couch time with wife, watched *Sandman*"
+  - "20:15 medication – 0.5mg Klonopin"
+  - "20:30–21:30 recovery – alone time, laid in bed"
+  - "21:45 status – anxiety eased, nausea and burning gone; exhaustion persists, no drive, craving fantasy escape but nothing appealing"
+  - "22:15–23:05 writing – planned immersion, successful session"
+  - "23:05–23:10 recovery – breathing, stretching, tea, self-check; still tired but feeling better, pleasant stimulated feeling"
+  - "23:10–02:00 writing – continued past intended stop; second break at 00:00, but got pulled into 2h unbounded immersion"
+
+totals:
+  desk_work: "4h35m"
+  sleep_core: "3h45m"
+  sleep_additional: "1h"
+  nap: "1h"
+  sleep_total_no_liminal: "5h45m"
+  liminal: "2h30m"
+  sleep_total_incl_liminal: "8h15m"
+

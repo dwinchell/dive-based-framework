@@ -1,0 +1,50 @@
+date: 10/11/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 03:00-12:00
+  energy: rested
+  meds: 12:20
+
+meals:
+  - time: 13:00
+    type: breakfast
+  - time: 13:10
+    type: snack
+    description: protein bar
+  - time: 14:00
+    type: lunch
+  - time: 17:00
+    type: dinner
+    description: light meal, 1 slice of pizza
+  - time: 20:00-20:30
+    type: supper
+
+activities:
+  - time: 1230-1400
+    type: Gaming
+    description: WoW — enjoyable but slightly stressful
+  - time: 1410-1500
+    type: Relational
+    description: Cuddle with wife and gave her a massage
+  - time: 1715-1830
+    type: Relational
+    description: Phone call with dad
+  - time: 1830-1935
+    type: Exercise
+    description: 30 min running plus cooldown
+  - time: 1935-1955
+    type: Maintenance
+    description: Litter and shower
+  - time: 2000
+    type: Relational
+    description: Gave ring to wife
+  - time: 2030-0415
+    type: Gaming
+    description: AI RPGs
+
+reflection: |
+  This was a recovery day. I did great during the day, using layered recovery including a planned immersion session. 
+  The evening got out of control with unbounded immersion and I stayed up too late playing AI RPGs. 
+  If I can introduce planned immersion to AI RPGs, it will help next time.
+
