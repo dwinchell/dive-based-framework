@@ -4,7 +4,7 @@
 # ------------------------------------------------------------
 # Conventions:
 # - All string values MUST be quoted to avoid parsing issues with colons and dashes.
-# - Time format: "HH:MM" (24-hour). Ranges use "HH:MM-HH:MM".
+# - Time format: "HH:mm" (24-hour). Ranges use "HH:mm-HH:mm".
 # - Date format: "MM/DD/YYYY" (e.g., "01/31/2025").
 # - The top level fields are date, kind, day_start, activities, reflections and ai_insights.
 # - The top level sleep field is deprecated.
@@ -21,74 +21,56 @@
 # - Anything else that used to appear under `day_start` should be folded into `day_start.notes`.
 # - “Out of bed” is handled as an activity entry.
 # - Bedtime and sleep onset events are logged as entries under `activities`.
-# - `activities` items may be:
-#     • simple strings (quoted)
-#     • or mappings with fields `time`, `type`, `description`, and optional `notes`.
+# - The activities section is a general log of what happened that day.
 # ------------------------------------------------------------
 
-date: "01/31/2025"
-kind: "Daily Log"
+date: "01/31/2025" # Required
+kind: "Daily Log" # Required
 
-day_start:
+day_start: # Required
   # Primary location to track core sleep from the previous night.
-  sleep_last_night: "23:30-06:45"
+  sleep_last_night: "23:30-06:45" # Required
 
   # Optional details about sleep quality or disruptions.
-  sleep_last_night_notes: "Woke briefly at 03:10; felt cold."
+  sleep_last_night_notes: "Woke briefly at 03:10; felt cold." # Optional
 
   # Time meds were taken.
-  meds: "10:20"
+  meds: "10:20" # Required
 
   # Optional fields.
-  energy: "tired"
-  mood: "neutral"
+  energy: "tired" # Optional
+  mood: "neutral" # Optional
 
   # Anything else related to day start that doesn’t fit a structured field.
-  notes: >
-    Light headache on waking; likely dehydration.
-    Plan: hydrate early and start gently.
+  notes: "Light headache on waking; likely dehydration." # Optional
 
 # ------------------------------------------------------------
 # Activities Section
 # ------------------------------------------------------------
-# Each list item can be either:
-#   - A quoted string (quick shorthand)
-#   - A mapping with these fields:
-#       • time: a time range ("01:00-02:00"), point in time ("03:00"), or
-#               descriptive word ("night") when exact time is unknown.
-#       • type: a one- or two-word category for the activity.
-#                Intended to eventually be standardized.
-#                Common types: "Meal", "Nap", "Work", "Gaming", "Maintenance",
-#                "Stabilization", "Stimulus".
-#       • description: a long, human-friendly explanation of what happened.
-#       • notes: (optional) commentary, metadata, or long supporting details
-#                that don’t belong in the description field.
-# ------------------------------------------------------------
+# - The activities field is a general list of what happened on this day
+# - Entries that are dicts with these fields:
+#     • time: a time range ("01:00-02:00"), point in time ("03:00"), or
+#             descriptive word ("night") when exact time is unknown.
+#     • type: a one- or two-word category for the activity.
+#              Intended to eventually be standardized.
+#              Common types: "Meal", "Nap", "Work", "Gaming", "Maintenance",
+#              "Stabilization", "Stimulus", "Misc".
+#     • description: a long, human-friendly explanation of what happened.
+#     • notes: (optional) commentary, metadata, or long supporting details
+#              that don’t belong in the description field.
+#     • tags: (optional, experimental) matadata tags like "recovery" or "dive"
+# ----------------------------------------------------------
 
-activities:
-  - "06:45 Out of bed, bathroom, weighed in"
+activities: # Requried. List of dicts.
+  - time: "07:00-07:20" # Required.
+    type: "Meal" # Required
+    description: "Ate breakfast. It was good" # Required
+    notes: "Some notes" # Optional
+    tags: ["recovery"] # Optional
 
-  - time: "07:00-07:20"
-    type: "Checklist"
-    description: "Completed morning checklist (hydration, stretch, plan review)."
-
-  - time: "07:20-07:45"
-    type: "Meal"
-    description: "Breakfast: eggs and toast; 600 mL water."
-
-  - time: "13:00-14:00"
-    type: "Nap"
-    description: "Light nap after lunch; felt refreshed."
-    notes: "Set an alarm for 14:00 to prevent oversleeping."
-
-  - time: "18:00-18:30"
+  - time: "18:00-18:30" # Always quote times to avoid yaml syntax issues
     type: "Stabilization"
     description: "Walked outside with music to clear head after work."
-
-  - time: "23:00-23:30"
-    type: "Sleep Onset"
-    description: "Wind-down routine, lights out by 23:30."
-    notes: "Include this instead of a bedtime field under day_start."
 
 # ------------------------------------------------------------
 # Reflection Fields
@@ -97,15 +79,10 @@ activities:
 # - ai_insights: for assistant-generated insights, pattern recognition, or summary.
 # ------------------------------------------------------------
 
-reflections:
+reflections: # Optional. List of strings.
   - "Felt better after evening walk; clear evidence of benefit from outdoor recovery."
   - "Morning dehydration pattern might be linked to late caffeine."
 
-ai_insights:
+ai_insights: # Optional. List of strings.
   - "You’ve maintained consistent morning meds but sleep onset remains late. Consider a structured wind-down trigger before 23:00."
   - "The combination of walk and nap effectively stabilized energy across the afternoon."
-
-# ------------------------------------------------------------
-# END OF TEMPLATE
-# ------------------------------------------------------------
-
