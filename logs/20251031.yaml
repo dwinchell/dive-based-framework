@@ -1,11 +1,11 @@
 ---
-date: 10/31/2025
-kind: Daily Log
+date: "10/31/2025"
+kind: "Daily Log"
 
 day_start:
-  sleep_last_night: 03:30-10:15
+  sleep_last_night: "03:30-10:15"
   sleep_last_night_notes: "No major disruptions but felt very cold overnight."
-  meds: 10:20
+  meds: "10:20"
 
 activities:
   - time: "10:20"
@@ -24,11 +24,12 @@ activities:
     type: "Gaming"
     description: "SC2 ladder"
   - time: "19:30"
-    type: "Chores"
+    type: "Maintenance"
     description: "Cleaned cat puke"
   - time: "23:00–04:30"
-    type: "Work"
+    type: "Planning"
     description: "Version controlled and attempted to normalize DBF logs"
 
 reflections:
   - "This day is part of a missed meds recovery arc. I missed a dose at 11:00 a.m. the previous day, so the beginning of this day is 24 hours after the missed dose."
+
