@@ -1,0 +1,34 @@
+---
+date: 04/05/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "≈6h (nap ended ~10h before bedtime)"
+  energy: "fragile but functional"
+  mood: "anxious but grounded"
+  notes:
+    - "Recovering from a week of uncontrolled dives; sleep debt present."
+    - "Off work today; priority is stabilization and low-SR recovery."
+
+activities:
+  - time: "Morning"
+    type: "Recovery"
+    description: "5 hours of structured recovery with food, stretching, breathing, and assisted planning. Purpose: stabilize EF/ER."
+  - time: "Afternoon"
+    type: "Nap"
+    description: "90 min nap (~10h before core sleep). Followed full post-nap ritual: hydration, light, movement."
+  - time: "Afternoon"
+    type: "Relational Dive"
+    description: "Spontaneous outdoor time with partner due to rare spring weather. High relational and emotional value."
+  - time: "Evening"
+    type: "Work Dive 1"
+    description: "90–120 min Protected Recovery Work Mode (PRWM). Triage and note-taking for CER. Focused on mapping ambiguity."
+  - time: "Night"
+    type: "Recovery"
+    description: "Evening wind-down and reflection. Protected tomorrow’s capacity by stopping work intentionally."
+
+reflections:
+  - "Successfully replaced panic-cycle productivity with structured engagement."
+  - "Adaptive pivot to relational dive was value-aligned and stabilizing."
+  - "Ended day with exhaustion but no burnout; system held under strain."
+

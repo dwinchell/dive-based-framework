@@ -1,0 +1,25 @@
+---
+date: 04/18/2025
+kind: Daily Log
+
+day_start:
+  time: "~11:45"
+  energy: "tired"
+  mood: "ok"
+  meds: "missed AM dose (overslept); partial catch-up at 19:00"
+  notes: "Phone battery failure → missed med reminder."
+
+activities:
+  - time: "02:00-~04:00"
+    type: "Work"
+    description: "NCTA 3pt dive (structure pass; part 1 logged ~03:00)."
+  - time: "~Daytime"
+    type: "Work"
+    description: "General work; progressed remaining tasks."
+  - time: "19:00"
+    type: "Medication"
+    description: "Partial catch-up dose."
+  - time: "~Evening"
+    type: "Recovery"
+    description: "Unstructured evening; no major collapse."
+

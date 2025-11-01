@@ -1,0 +1,17 @@
+---
+date: 04/19/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "05:00-11:00"
+  energy: "exhausted → minimal cognitive energy"
+  notes: "Not working this weekend; prioritize hydration and recovery."
+
+activities:
+  - time: "Morning"
+    type: "Recovery"
+    description: "Hydration and rest focus."
+  - time: "Day"
+    type: "Recovery"
+    description: "Light, unstructured recovery; avoid work tasks."
+

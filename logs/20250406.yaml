@@ -1,0 +1,47 @@
+---
+
+date: 04/06/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "Fragmented; failed sleep onset attempts, eventual ~5h core sleep"
+  energy: "wobbly functional"
+  mood: "tired but positive"
+  notes:
+    - "Melatonin timing misaligned; eventually fell asleep naturally."
+    - "Circadian rhythm intact; light mood spike likely from relief and stress cycling."
+
+activities:
+  - time: "Morning"
+    type: "Routine"
+    description: "Prep session with breakfast, stretches, breathing exercises, and assisted planning."
+  - time: "Late Morning"
+    type: "Work Dive 1"
+    description: "2-hour dive. Focused triage of high-priority CER tasks. Removed friction via automation and pruning. Learned to plan milestone-first."
+  - time: "Afternoon"
+    type: "Recovery"
+    description: "Extended 3-hour block. Dinner, nap, and time with partner. Full post-sleep protocol executed successfully."
+  - time: "Evening"
+    type: "Work Dive 2"
+    description: "2-hour milestone-based dive. Planned and executed priority items, closed with setup for next dive."
+  - time: "Night"
+    type: "Recovery"
+    description: "Short 20–30 min break. Meditation included. EF fading, ER stable."
+  - time: "Night"
+    type: "Work Dive 3"
+    description: "2-hour execution dive. Focused on remaining items, used EF-conservation mode, left 8 items at 01:00."
+  - time: "01:00"
+    type: "Break"
+    description: "10–20 min assessment break. Chose one more push to finish."
+  - time: "01:20–02:40"
+    type: "Work Dive 4"
+    description: "Final push dive. Completed last 8 report items. Submitted report. Exhausted but maintained control."
+  - time: "02:40"
+    type: "Recovery"
+    description: "Ate comfort food (oatmeal with sugar), closed with minimal shutdown ritual."
+
+reflections:
+  - "Maintained composure and structure through 4 major dives in one day."
+  - "Used sustain and recovery breaks strategically."
+  - "EF declined predictably but ER preserved; ended the day with control intact."
+

@@ -1,0 +1,27 @@
+---
+date: 04/15/2025
+kind: Daily Log
+
+day_start:
+  time: "07:15"
+  energy: "low but functional"
+  mood: "stable"
+  notes: "Residual hyperarousal suspected; total sleep ~4h."
+
+activities:
+  - time: "07:30-08:00"
+    type: "Nap"
+    description: "Supplemental nap."
+  - time: "09:00-12:00"
+    type: "Work"
+    description: "DAS ADR morning work dive; productive but stressful."
+  - time: "12:00-13:45"
+    type: "Recovery"
+    description: "Break with food, short walk, meditation; Slack disruptions early."
+  - time: "18:30-20:30"
+    type: "Nap"
+    description: "Evening nap."
+  - time: "21:45-00:00"
+    type: "Work"
+    description: "ADR dive; completed DAS ADR due Tuesday 09:00."
+

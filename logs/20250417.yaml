@@ -1,0 +1,18 @@
+---
+date: 04/17/2025
+kind: Daily Log
+
+day_start:
+  notes: "Full workday; elevated sleep pressure into evening."
+
+activities:
+  - time: "17:30-~18:15"
+    type: "Nap"
+    description: "Post-dinner crash; ~30–45 min."
+  - time: "19:00-20:00"
+    type: "Nap"
+    description: "Second nap; ~1 hour."
+  - time: "~Evening"
+    type: "Recovery"
+    description: "Soft close to night; deferred further work."
+

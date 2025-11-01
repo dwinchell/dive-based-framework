@@ -1,0 +1,24 @@
+---
+date: 04/14/2025
+kind: Daily Log
+
+day_start:
+  notes: "Condensed morning; minimal wake-up protocol time."
+
+activities:
+  - time: "09:00-10:30"
+    type: "Work"
+    description: "Synchronous meeting; performance sustained."
+  - time: "10:30-11:30"
+    type: "Work"
+    description: "Solo work block; miscellaneous tasks."
+  - time: "11:30-12:30"
+    type: "Work"
+    description: "Meeting with task handoff; picked up new 'scope' task."
+  - time: "~Afternoon"
+    type: "Recovery"
+    description: "Relational dive completed; no SR drain."
+  - time: "~Evening"
+    type: "Leisure"
+    description: "Gaming dive aligned with Skill Progression; no overstimulation."
+
