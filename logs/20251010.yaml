@@ -1,0 +1,134 @@
+---
+kind: Daily Log
+date: 10/10/2025
+
+summary:
+  sleep: 0320-0945
+  meds: 0945
+  energy: tired
+
+activities:
+  - time: "1030"
+    type: "Status"
+    description: "Feeling anxious about and aversive toward report"
+
+  - time: "1030-1100"
+    type: "Work"
+    description: "Review only dive turned into light touch dive"
+
+  - time: "1100-1120"
+    type: "Reflection"
+    description: "Thought about report; hard to tell if productive or rumination"
+
+  - time: "1120-1200"
+    type: "Gaming"
+    description: "WoW ultra hardcore; lost a toon and someone creeped on me, so less relaxing than normal"
+    tags: ["recovery"]
+
+  - time: "1200"
+    type: "Status"
+    description: "Feeling anxious, averse, and low blood sugar; stomach still full from late night snacks so not ready for lunch yet"
+
+  - time: "1200-1245"
+    type: "Work"
+    description: "Focused on review and edits"
+    tags: ["dive"]
+
+  - time: "1245-1320"
+    type: "Work"
+    description: "Thinking about report and doing admin work"
+
+  - time: "1300-1320"
+    type: "Meal"
+    description: "Lunch - spaghetti"
+    tags: ["recovery", "sustain break"]
+
+  - time: "1330-1400"
+    type: "Relational"
+    description: "More relational recovery; checked in with wife"
+    tags: ["recovery"]
+
+  - time: "1400-1430"
+    type: "Work"
+    description: "High-social, high impulse-control block"
+
+  - time: "1430"
+    type: "Status"
+    description: "Very anxious"
+
+  - time: "1430-1500"
+    type: "Recovery"
+    description: "BSW with layered listening to music and singing; reduced anxiety but still feel tapped"
+    tags: ["layered recovery"]
+
+  - time: "1500"
+    type: "Status"
+    description: "Feeling physically and emotionally exhausted; choosing not to do another dive right now; feel guilty about it"
+
+  - time: "1500-1510"
+    type: "EIP"
+    description: "Identified guilt and anxiety; took time to feel and accept it. Observed pattern of using dives to face problems and reduce anxiety. Acknowledged desire to do more but recognized limits. Contextualized emotions as part of a high-pressure environment with heightened emotions from others. Chose to reduce emotional load by allowing others to feel without trying to manage it. Felt slightly better afterward."
+
+  - time: "1510-1530"
+    type: "Work"
+    description: "Admin work followed by a short writing dive; faced the fear until my brain locked up and I felt exhausted and anxious"
+
+  - time: "1535"
+    type: "Relational"
+    description: "Group chat check-in"
+    tags: ["recovery"]
+
+  - time: "1540"
+    type: "Status"
+    description: "Very anxious"
+
+  - time: "1540"
+    type: "Medication"
+    description: ".5mg Klonopin"
+
+  - time: "1600"
+    type: "Status"
+    description: "Cried from feeling weak; chose an exercise dive because I wanted a fight and to push through it"
+
+  - time: "1600-1700"
+    type: "Exercise"
+    description: "Dive including warmup, 30m running, and cooldown stretching"
+    tags: ["dive", "recovery"]
+
+  - time: "1700"
+    type: "Meal"
+    description: "Snack"
+    tags: ["sustain break"]
+
+  - time: "1700-1715"
+    type: "Work"
+    description: "Brief work session to help someone who pinged me"
+
+  - time: "1715-1800"
+    type: "Maintenance"
+    description: "Litter and shower"
+
+  - time: "1800-2030"
+    type: "Relational"
+    description: "Time with wife; intimacy, dinner, and talked about feelings"
+
+  - time: "2030-2130"
+    type: "Sleep"
+    description: "Nap"
+
+  - time: "2130-0100"
+    type: "Gaming"
+    description: "Casual game on couch next to wife"
+    tags: ["recovery"]
+
+  - time: "0130-0200"
+    type: "Gaming"
+    description: "Planned dive; WoW ultra hardcore"
+    tags: ["dive"]
+
+  - time: "0200-0220"
+    type: "Routine"
+    description: "Bedtime checklist including breathing and stretching"
+
+reflection: "Three writing dives totaling 90 minutes, facing acute anxiety and aversion while deploying multiple coping skills (exercise, music, singing, gaming, relational check-ins). 2.7 hours of focused work total, including admin and meeting work, spanning from 1030–1530 (5 hours). Feeling weak but determined; fatigue is clearly a factor."
+

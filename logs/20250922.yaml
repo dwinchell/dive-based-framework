@@ -1,0 +1,65 @@
+---
+date: 9/22/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 4:00-9:00
+  wake_reason: alarm
+
+activities:
+  - time: "9:30-10:00"
+    type: "Appointment"
+    description: "Psychiatry appointment"
+    notes: "Psychiatrist diagnosed me with fantasy addiction, used associated terms maladaptive daydreaming and escapism"
+  - time: "10:15-16:00"
+    type: "Work"
+    description: "Work session"
+  - time: "12:00"
+    type: "Meal"
+    description: "Finished breakfast, yogurt drink (took a long time due to distraction and nausea)"
+  - time: "12:40"
+    type: "Meal"
+    description: "Finished lunch, spaghetti (wife brought it so I wouldn't forget)"
+  - time: "13:30"
+    type: "Hydration"
+    description: "Drank 200mL water"
+  - time: "14:00"
+    type: "Sustain Break"
+    description: "Breathing exercises between meetings"
+  - time: "17:45"
+    type: "Hydration"
+    description: "Finished 500mL water"
+  - time: "Evening"
+    type: "Meal"
+    description: "Dinner (made by wife)"
+  - time: "20:30"
+    type: "Maintenance"
+    description: "Changed wife's sheets, emptied trash can in my room, took out trash and recycling"
+  - time: "21:30-22:30"
+    type: "Leisure"
+    description: "Watched Sandman with wife"
+  - time: "23:30"
+    type: "Task"
+    description: "Emailed with prospective therapist"
+  - time: "0:00-0:45"
+    type: "Gaming"
+    description: "EVE Online"
+  - time: "0:00"
+    type: "Recovery"
+    description: "Meditated, but stopped after becoming stuck in thoughts about upcoming therapy appointment"
+  - time: "0:45-1:30"
+    type: "Maintenance"
+    description: "Cleaned litter and showered"
+  - time: "1:30-2:00"
+    type: "Reflection"
+    description: "Ruminated about therapy"
+  - time: "2:00-2:40"
+    type: "Leisure"
+    description: "In bed, watched YouTube before sleep"
+  - time: "2:30"
+    type: "Hydration"
+    description: "Finished 400mL water (not all at once)"
+
+reflections:
+  - "Diagnosed with fantasy addiction"
+

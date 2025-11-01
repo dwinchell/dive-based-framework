@@ -1,0 +1,34 @@
+---
+date: 09/11/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 4:00-10:00
+  energy: exhausted
+  meds: 
+    taken: 10:00
+    refilled: 13:30
+
+activities:
+  - time: "10:30-17:00"
+    type: "Work"
+    description: "work with long breaks and multitasking"
+  - time: "12:00"
+    type: "Energy Drink"
+    description: "1 Tbsp Red Bull"
+  - time: "13:30"
+    type: "Maintenance"
+    description: "refilled meds"
+  - time: "14:45"
+    type: "Energy Drink"
+    description: "0.5 Tbsp Red Bull — had been crashing and wanted more energy before a 16:00 meeting"
+  - time: "Evening-Night"
+    type: "Misc"
+    description: "couch time with wife and gaming"
+
+sleep:
+  time: 3:45-9:45
+
+reflections:
+  - "The new Eve session plan worked out to limit Eve time, but I transitioned into other stimulus before sleep. I had trouble facing the discomfort and anxiety of stopping."
+

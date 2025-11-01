@@ -1,0 +1,28 @@
+---
+date: 09/05/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 3:10-9:45
+  wake_reason: alarm
+  energy: tired
+  note: i don't remember hearing the alarm
+  out_of_bed: 9:45
+
+meds: 10:00
+
+activities:
+  - time: "10:00–11:15"
+    type: "Work"
+    description: "General work"
+  - time: "11:15–12:00"
+    type: "Meal"
+    description: "Lunch"
+  - time: "12:00–17:00"
+    type: "Work"
+    description: "General work"
+
+sleep:
+  time: 0h
+  note: "Skipped core sleep to read all night until 11:30"
+

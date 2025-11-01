@@ -1,0 +1,20 @@
+---
+date: 09/15/2025
+kind: Daily Log
+
+day_start:
+  sleep: 5:00-9:30
+  energy: exhausted
+  meds: 10:15
+
+activities:
+  - time: "10:30-11:30"
+    type: "Creative"
+    description: "AI co-writing fiction (continuation from late night binge)"
+  - time: "11:30-12:00"
+    type: "Routine"
+    description: "Morning routine"
+  - time: "12:00-17:30"
+    type: "Work"
+    description: "Meetings, high social, high ER"
+

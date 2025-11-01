@@ -1,0 +1,24 @@
+---
+date: 09/17/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 4:45-9:45
+  note: stayed up late writing
+  energy: exhausted
+
+meds: 
+  time: 11:00
+
+activities:
+  - time: "11:00"
+    type: "Meal"
+    description: "Breakfast (Ensure)"
+  - time: "15:00"
+    type: "Meal"
+    description: "Lunch (spaghetti). Wife reminded me and made it after I got distracted halfway through cooking."
+
+sleep:
+  - time: "19:30-21:30"
+    type: "nap"
+

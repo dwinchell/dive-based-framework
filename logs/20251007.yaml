@@ -1,0 +1,90 @@
+---
+date: 10/07/2025
+kind: Daily Log
+
+sleep: 02:45-09:20
+meds: 09:45
+
+summary:
+  out_of_bed: 09:45
+  energy: exhausted
+
+activities:
+  - time: "07:10-08:30"
+    type: "Exercise"
+    description: "Squash"
+    tags: ["dive", "recovery", "relational"]
+
+  - time: "10:00-13:00"
+    type: "Work"
+    description: "Desk work"
+    note: "Very high stress; high emotional regulation (ER), social, and executive function (EF) load."
+
+  - time: "12:30"
+    type: "Meal"
+    description: "Lunch (spaghetti, brought to desk by wife because she's amazing)"
+
+  - time: "13:00"
+    type: "Status"
+    description: "Burnt out"
+
+  - time: "13:15-13:45"
+    type: "Recovery"
+    description: "BSW (breathe, stretch, walk)"
+
+  - time: "13:50-14:23"
+    type: "Gaming"
+    description: "WoW Ultra Hardcore solo questing"
+    tags: ["dive", "recovery"]
+    note: "Successful planned immersion"
+
+  - time: "14:25-15:15"
+    type: "Rest"
+    description: "Tried to nap"
+    tags: ["recovery"]
+
+  - time: "15:45"
+    type: "Relational"
+    description: "Group chat for the last 30 minutes"
+
+  - time: "16:00"
+    type: "Status"
+    description: "Paralyzed with stress and anxiety"
+
+  - time: "16:00-17:00"
+    type: "Writing"
+    description: "Co-wrote a short story"
+    tags: ["recovery", "dive"]
+    note: "Successful planned immersion"
+
+  - time: "19:10-20:30"
+    type: "Exercise"
+    description: "Squash"
+    tags: ["dive", "recovery", "relational"]
+
+  - time: "20:30-21:30"
+    type: "Relational"
+    description: "Socialized with friends"
+    tags: ["relational", "recovery"]
+
+  - time: "21:30"
+    type: "Meal"
+    description: "Finished ice cream"
+
+  - time: "23:00"
+    type: "Maintenance"
+    description: "Finished shower and cleaned litter"
+
+  - time: "23:45-00:15"
+    type: "Writing"
+    description: "Co-wrote a short story and a half"
+
+  - time: "00:15-04:00"
+    type: "Leisure"
+    description: "Watched YouTube; lost track of time and couldn't stop"
+
+reflections:
+  - "Skipped breakfast because nauseous. Took Pepto-Bismol."
+  - "I desperately need time off but I'm under pressure to prepare for a session where I need to be prepared or risk losing significant client perception."
+  - "I'm done. Mentally and physically exhausted. I need to find a way out of my Thursday morning meeting because I'm not working tomorrow on my day off."
+

@@ -1,0 +1,20 @@
+---
+date: 09/02/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 4:00-9:40
+  wake_reason: natural
+  out_of_bed: 11:00
+  energy: tired
+
+meds: 11:00
+
+activities:
+  - time: "11:30-17:00"
+    type: "Work"
+    description: "Work session"
+  - time: "11:30"
+    type: "Energy Drink"
+    description: "1 Tbsp Red Bull"
+

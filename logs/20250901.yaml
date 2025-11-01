@@ -1,0 +1,33 @@
+---
+date: 09/01/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 4:30-12
+  wake_reason: alarm
+  energy: rested
+  out_of_bed: 12:30
+
+meds: 12:30
+
+activities:
+  - time: "Afternoon"
+    type: "Gaming Dive"
+    description: "Eve Online — got a 1v1 solo kill, exhilarating!"
+  - time: "17:00"
+    type: "Recovery"
+    description: "Breathing exercises to calm the extended euphoria. Realized I'm quite hungry. Started some rice for dinner."
+  - time: "Evening"
+    type: "Couch Time"
+    description: "With wife — watched Wednesday (great), played The Bazaar on the couch next to her."
+  - time: "0:00-03:50"
+    type: "Gaming"
+    description: "Eve and The Bazaar"
+  - time: "3:50-4:00"
+    type: "Routine"
+    description: "Full bedtime routine including stretches and breathing"
+
+sleep:
+  in_bed_at: 4:00
+  time: 4:30-10:00
+

@@ -1,0 +1,35 @@
+---
+date: 9/7/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 3:10-11:00
+  wake_reason: natural
+  out_of_bed: 11:00
+  energy: ??
+
+meds: 11:00
+
+activities:
+  - time: "11:00-12:00"
+    type: "Rest"
+    description: "Rested in bed"
+  - time: "12:00-14:00"
+    type: "Gaming Dive"
+    description: "EVE Online, Fight Club biweekly fleet. Had a lot of fun as usual!"
+  - time: "14:00-15:00"
+    type: "Break"
+    description: "Chores, food, paid attention to wife, got ready for next planned dive"
+  - time: "15:00-19:00"
+    type: "Gaming Dive"
+    description: "EVE Online, Magic Merlins weekly fleet. Volunteered as 2IC to try something new and scary. Had fun, as usual!"
+  - time: "19:00-0:00"
+    type: "Planned Time with Wife"
+    description: "Cuddling, couch time, dinner at home, intimacy 2x, games next to her on the couch (EVE). Got a solo kill which was a rush"
+  - time: "0:00-2:10"
+    type: "Gaming Dive"
+    description: "EVE Online, faction warfare. Tried a different ship than usual (Navy Catalyst)"
+
+sleep:
+  time: 3:00-9:45
+

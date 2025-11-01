@@ -1,0 +1,17 @@
+---
+date: 09/16/2025
+kind: Daily Log
+
+meds: taken at 10:30
+
+day_start:
+  sleep_last_night: 
+    time: "05:00-10:00"
+    notes: "Snoozed a bit after 10:00. Wife’s 4:00 reminder didn’t help much."
+status: "Exhausted"
+
+activities:
+  - time: "21:30-23:30"
+    type: "Nap"
+    description: "Evening nap"
+
