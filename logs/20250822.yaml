@@ -1,0 +1,33 @@
+---
+kind: Daily Log
+date: 08/22/2025
+
+day_start:
+  sleep: "5:00-10:30"
+  out_of_bed: "10:45"
+
+meds: "Taken at 10:45"
+
+activities:
+  - time: "10:45-15:50"
+    type: "Gaming"
+    description: "EVE"
+  - time: "15:50-16:45"
+    type: "Cleaning"
+    description: "Cleaning frenzy"
+  - time: "16:45-17:45"
+    type: "Recovery"
+    description: "Intimacy, 30m nap, shower"
+  - time: "18:00-23:00"
+    type: "Social"
+    description: "Dinner and gaming (Sunderfolk) with friends"
+  - time: "23:00-0:30"
+    type: "Unstructured"
+    description: "Drove friends home, bad traffic"
+  - time: "0:30-5:00"
+    type: "Leisure"
+    description: "Watched Critical Role on YouTube"
+
+sleep:
+  time: "5:45-10:45"
+

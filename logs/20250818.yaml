@@ -1,0 +1,59 @@
+---
+kind: Daily Log
+date: 08/18/2025
+
+day_start:
+  sleep_last_night: "3:30-10:30"
+  out_of_bed: "10:40"
+  energy: "Tired"
+
+meds: "Taken at 10:40"
+
+mood: "Stable"
+
+activities:
+  - time: "11:00-15:15"
+    type: "Work Dive"
+    description: "Intense. Lots of meetings, high social, high context switching. Stopped for a 10m sustain break with food and a shortened BSW."
+  - time: "15:15-16:00"
+    type: "Recovery"
+    description: "BSW. Hard to not think about work, but it helped."
+  - time: "16:00-17:30"
+    type: "Work Dive"
+    description: "Meeting and follow-ups. ~20m break to get lunch from Doordash guy stuck in the parking lot and then ate at desk."
+  - time: "17:30-18:00"
+    type: "Gaming"
+    description: "EVE."
+  - time: "18:00-19:00"
+    type: "Recovery"
+    description: "1h nap with wife."
+  - time: "19:00-22:00"
+    type: "Errand"
+    description: "Exchanged broken monitor at Microcenter for another broken monitor. Frustrated."
+  - time: "22:00-23:15"
+    type: "Recovery"
+    description: "Talk with wife and look at social media."
+  - time: "23:15-0:30"
+    type: "Exercise Dive"
+    description: ""
+  - time: "0:30-1:00"
+    type: "Maintenance"
+    description: "Litter and shower."
+  - time: "1:00-1:30"
+    type: "Gaming"
+    description: "EVE."
+  - time: "1:30-2:00"
+    type: "Bedtime Routine"
+    description: ""
+
+sleep:
+  in_bed_at: "2:00"
+  time: "2:30-10:00"
+
+reflections:
+  - "Mood stabilized today after 3 days lowered."
+  - "No significant back spasm activity today. This is after I started stretching it thoroughly yesterday, and changed my pillow last night. Yesterday was also a low stress day. Any or all of those may have contributed. I did experience discomfort lifting something semi-heavy today (a boxed computer monitor), but not severe and it did not spiral."
+
+ai_insights:
+  - "Sleep debt & recovery: You’ve consistently had late nights with 5–7h sleep. 8/17 was a recovery weekend, and by 8/18 you managed stable mood and functional output, but it’s fragile—your system is still running on short nights."
+

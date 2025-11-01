@@ -1,0 +1,57 @@
+---
+kind: Daily Log
+date: 08/21/2025
+
+day_start:
+  wake: "08:45"
+  out_of_bed: "09:05"
+  sleep_last_night: "1:45-8:45"
+
+activities:
+  - time: "09:15-09:45"
+    type: "Appointment"
+    description: "Psychiatrist appointment"
+  - time: "09:30"
+    type: "Note"
+    description: "Drank part of an energy drink"
+  - time: "10:00-12:00"
+    type: "Work Dive"
+    description: "Meetings, work errand"
+  - time: "12:00-12:20"
+    type: "Errand"
+    description: "Stopped at McDonald's for lunch and gas"
+  - time: "12:20-12:45"
+    type: "Work"
+    description: "Working lunch, created kanban backlog for OH project"
+  - time: "12:50"
+    type: "Status"
+    description: "Energy drink wearing off. Drank more energy drink"
+  - time: "12:50-13:30"
+    type: "Recovery"
+    description: "Recovery break, included 20m seated meditation to trance music. Tried to calm PFC while maintaining high energy levels—felt like it worked"
+  - time: "13:30-17:20"
+    type: "Work Dive"
+    description: "Meetings, tasks"
+  - time: "17:20-18:30"
+    type: "Social"
+    description: "Group chat with friends"
+  - time: "18:30-18:45"
+    type: "Meal"
+    description: "Dinner"
+  - time: "18:45-21:00"
+    type: "Unstructured"
+    description: "Couch time, helping with homework, ADDing around with games and writing. Still pumped from half a Monster"
+  - time: "21:00-03:00"
+    type: "Gaming"
+    description: "Played games"
+  - time: "03:00-03:30"
+    type: "Checklist"
+    description: "Shower and bedtime checklist"
+  - time: "03:30-05:00"
+    type: "Note"
+    description: "Stayed up despite exhaustion. Energy drink kept me awake, couldn’t stop doing stuff"
+
+reflections:
+  - "Experimented with calming PFC via trance music meditation while keeping energy high. Felt effective—worth testing again."
+  - "Half a Monster kept me overstimulated late into the night, interfering with sleep."
+

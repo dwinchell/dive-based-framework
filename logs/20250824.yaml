@@ -1,0 +1,34 @@
+---
+date: 08/24/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 4:30-10:45
+  out_of_bed: 10:45
+  meds: 12:00 (including Klonopin 1mg)
+
+sleep:
+  - time: 11:00-15:00
+    note: Focus today is on total sleep quantity rather than schedule. Feeling neurologically depleted and exhausted.
+  - time: 5:30-9:45
+
+activities:
+  - time: "16:00"
+    type: "Dinner"
+    description: "Talked with wife about finding a new hobby to help with mid-life transition"
+  - time: "16:30-17:00"
+    type: "Nap"
+    description: ""
+  - time: "17:00-0:15"
+    type: "Mixed"
+    description: "Visit from neighbor, helped wife with homework, played guitar, intimacy, read first few pages of a book while waiting"
+  - time: "0:15-0:45"
+    type: "Self-care"
+    description: "Shower"
+  - time: "0:45-5:30"
+    type: "Reading"
+    description: "Stayed up reading"
+
+reflections:
+  - "Experimented with new hobby direction: guitar plus Yousician. Early exploration into music as part of mid-life transition."
+

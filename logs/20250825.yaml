@@ -1,0 +1,35 @@
+---
+date: 08/25/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 5:30-9:45
+  out_of_bed: 10:15
+  wake_reason: ??
+
+meds: 10:15 (taken)
+
+activities:
+  - time: "10:30-17:30"
+    type: "Work Dive"
+    description: "Work"
+  - time: "17:30-21:00"
+    type: "Personal"
+    description: "Played guitar, ate dinner, helped wife with homework"
+  - time: "21:00-22:30"
+    type: "Nap"
+    description: "Evening nap"
+  - time: "23:10-0:00"
+    type: "Exercise Dive"
+    description: "Workout"
+  - time: "0:00-0:30"
+    type: "Chores"
+    description: "Laundry and litter"
+  - time: "0:30-3:30"
+    type: "Gaming"
+    description: "EVE Online"
+
+sleep:
+  in_bed_at: 4:00
+  time: 4:30-10:00
+

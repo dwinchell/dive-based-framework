@@ -1,0 +1,56 @@
+---
+kind: Daily Log
+date: 08/19/2025
+
+day_start:
+  sleep_last_night: "2:30-10"
+  out_of_bed: "10:00"
+  energy: "Tired"
+
+meds: "Taken at 11:45"
+
+activities:
+  - time: "10:00"
+    type: "Status"
+    description: "No significant back pain this morning"
+  - time: "10:00-11:45"
+    type: "Work Dive"
+    description: "Meeting, planning, and administrativa"
+  - time: "11:45-12:25"
+    type: "Recovery Block"
+    description: "Included full BSW"
+  - time: "12:25-14:40"
+    type: "Work Dive"
+    description: "Misc. Mostly planning a deployment. Moderate social, high cognitive"
+  - time: "14:40-15:00"
+    type: "Lunch"
+    description: ""
+  - time: "15:00-16:00"
+    type: "Nap"
+    description: ""
+  - time: "16:00-16:40"
+    type: "Work Dive"
+    description: "Misc"
+  - time: "16:40-16:55"
+    type: "Sustain Break"
+    description: ""
+  - time: "16:55-18:20"
+    type: "Work Dive"
+    description: "High social, high cognitive, high ER (anxious)"
+  - time: "18:20-19:30"
+    type: "Unstructured"
+    description: "Clean up cat puke, shower, make and eat dinner, change over laundry, breathing exercises"
+  - time: "19:30-20:30"
+    type: "Relational Dive"
+    description: "Time with wife"
+  - time: "20:30-04:00"
+    type: "Reading"
+    description: ""
+
+sleep:
+  time: "4:20-9:20"
+
+reflections:
+  - "I overslept my wakeup alarm, woke 3min before a meeting, didn't take meds at that time and was distracted even from the next meds reminder at 11. Remembered when I started the daily log at 11:45. So ... good wake up times and journaling with med tracking continue to matter."
+  - "Stayed up late reading again. Reached for it as a comfort because I was anxious. Tried Klonopin and waiting a half hour and sitting with wife first. Didn't work. Just got tired. Should have tried meditation, gaming, exercise instead, but just too tired and overwhelmed."
+

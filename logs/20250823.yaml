@@ -1,0 +1,35 @@
+---
+date: 08/23/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 5:45-10:45
+  out_of_bed: 10:45
+  meds: 10:45
+
+activities:
+  - time: "10:45-11:30"
+    type: "Relational"
+    description: "Cuddled with wife"
+  - time: "11:30-14:00"
+    type: "Gaming"
+    description: "Played games"
+  - time: "14:00"
+    type: "Meal"
+    description: "Lunch"
+  - time: "Afternoon"
+    type: "Leisure"
+    description: "Watched TV"
+  - time: "Evening"
+    type: "Relational"
+    description: "Time with wife"
+  - time: "Night"
+    type: "Leisure"
+    description: "Read until 2:15"
+  - time: "2:15-4:30"
+    type: "Leisure"
+    description: "Watched / listened to Critical Role"
+
+sleep:
+  time: 4:30-10:45
+

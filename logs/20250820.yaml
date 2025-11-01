@@ -1,0 +1,42 @@
+---
+kind: Daily Log
+date: 08/20/2025
+
+day_start:
+  wake: "08:45"
+  out_of_bed: "08:45"
+  core_sleep_last_night: "7h"
+
+meds: "Taken"
+
+activities:
+  - time: "10:30–17:30"
+    type: "Work Dive"
+    description: "Code reading and analysis session with BSW sustain break at 15:00; two energy drinks total"
+  - time: "17:30–19:00"
+    type: "Recovery / Social"
+    description: "Dinner out with wife (she was sad)"
+  - time: "19:10–19:45"
+    type: "Support"
+    description: "Helped wife with homework"
+  - time: "20:00–20:45"
+    type: "Work Dive"
+    description: "Filled out table from notes (checklist formalization)"
+  - time: "20:45–22:00"
+    type: "Rest"
+    description: "Unplanned nap (woke at 22:00, up by 22:20)"
+  - time: "22:20–22:45"
+    type: "Reset"
+    description: "Litter and shower"
+  - time: "22:45–00:30"
+    type: "Unstructured"
+    description: "EVE Online"
+  - time: "00:30–01:00"
+    type: "Checklist"
+    description: "Bedtime checklist with EVE APP"
+
+sleep:
+  in_bed_at: "01:00"
+  time: "01:45–08:45"
+  total_sleep: "7h"
+
