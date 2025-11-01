@@ -1,0 +1,31 @@
+---
+date: 08/28/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 07:10-10:30
+  note: stayed up all night reading
+  out_of_bed: 10:50
+
+meds: taken at 11:00
+
+activities:
+  - time: "11:00-12:00"
+    type: "Work"
+    description: "Work session (took 1/2 tsp Monster energy drink)"
+  - time: "12:00-13:00"
+    type: "Break"
+    description: "Break"
+  - time: "13:00-19:20"
+    type: "Work"
+    description: "Work session"
+  - time: "19:40-23:30"
+    type: "Nap"
+    description: "Nap"
+  - time: "23:30-03:45"
+    type: "Leisure"
+    description: "YouTube (Critical Role)"
+
+sleep:
+  time: 04:15-09:30
+

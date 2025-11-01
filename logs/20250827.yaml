@@ -1,0 +1,42 @@
+---
+date: 8/27/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 3:30-10:25
+  out_of_bed: 10:25
+
+meds: taken at 10:50
+
+activities:
+  - time: "10:30-12:35"
+    type: "Work"
+    description: ""
+  - time: "12:35-12:55"
+    type: "Meal"
+    description: "Lunch"
+  - time: "12:55-19:35"
+    type: "Work"
+    description: ""
+  - time: "19:35"
+    type: "Status"
+    description: "Brain tired, coming down off Monster"
+  - time: "19:35-20:30"
+    type: "Rest"
+    description: "Included 30m nap"
+  - time: "20:30-21:00"
+    type: "Leisure"
+    description: "Reading"
+  - time: "21:00-23:00"
+    type: "Leisure"
+    description: "Chill time"
+  - time: "23:00-6:40"
+    type: "Leisure"
+    description: "Reading"
+
+sleep:
+  time: 7:10-10:30
+
+notes:
+  energy_drink: "1 tsp Monster at 12:40"
+

@@ -1,0 +1,28 @@
+---
+date: 08/29/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 4:15-9:30
+  wake_reason: nightmare
+  out_of_bed: 10:20
+
+meds: taken at 10:20
+
+activities:
+  - time: "10:30-15:00"
+    type: "Work"
+    description: "Worked with some breaks"
+  - time: "Afternoon-Evening"
+    type: "Misc"
+    description: "Couch time, intimacy, and reading"
+  - time: "20:30-23:00"
+    type: "Nap"
+    description: "Evening nap"
+  - time: "23:00-3:45"
+    type: "Reading"
+    description: "Late night reading"
+
+sleep:
+  time: 4:14-12:00
+

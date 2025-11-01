@@ -1,0 +1,33 @@
+---
+date: 08/25/2025
+kind: Daily Log
+
+meds: taken
+
+day_start:
+  sleep_last_night: 4:30-10
+  out_of_bed: 10:20
+
+activities:
+  - time: "10:00–11:50"
+    type: "Work"
+    description: "Morning work session"
+  - time: "11:50–12:05"
+    type: "Break"
+    description: "Played guitar"
+  - time: "12:05–17:35"
+    type: "Work"
+    description: "Difficult social interactions, high critical thinking load, high ER"
+  - time: "17:35–23:15"
+    type: "Mixed"
+    description: "Returned broken monitor to Microcenter, dinner at restaurant with wife (gorgeous makeup), intimacy, helped wife with homework, couch time together"
+  - time: "23:15–23:40"
+    type: "Couch Time"
+    description: "More time with wife"
+  - time: "23:40–2:25"
+    type: "Gaming"
+    description: "EVE Online"
+
+sleep:
+  time: 3:30-10:30
+
