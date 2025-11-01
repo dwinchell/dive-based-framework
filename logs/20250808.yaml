@@ -1,0 +1,27 @@
+---
+date: 08/08/2025
+kind: Daily Log
+meds: "11:00"
+day_start:
+  sleep:
+    time: "06:00-07:40"
+  energy: "Exhausted but wired"
+  out_of_bed: "07:50"
+  mood: "High"
+activities:
+  - time: "08:00-16:30"
+    type: "Work Dive"
+    description: "Intense; high cognitive, high social, high emotional regulation"
+  - time: "16:30-20:00"
+    type: "Recovery"
+    description: "Included ~2.5 hours of sleep"
+  - time: "20:00-02:45"
+    type: "Recovery"
+    description: "Talked with wife, went outside to look at the moon, gaming on couch next to her, writing practice after she went to bed"
+general_notes: |
+  In crisis mode for crunch time.
+  Drank half an energy drink, spread out through morning and early afternoon.
+sleep:
+  in_bed_at: "03:00"
+  time: "03:30-10:00"
+

@@ -1,0 +1,28 @@
+---
+kind: Daily Log
+date: 08/05/2025
+
+day_start:
+  wake: "08:30"
+  out_of_bed: "08:50"
+  energy: ~
+  core_sleep_last_night: "6h25m"
+
+meds: "Taken at 08:50"
+
+activities:
+  - time: "09:00-17:40"
+    type: "Work"
+    description: "High stress, high cognitive, high social, high emotional regulation. Did stretching/breathing/meditating/eating sustain breaks but it didn't feel like enough. No time to walk."
+  - time: "17:40-00:00"
+    type: "Recovery Block"
+    description: "Check-in with wife, planning, exercise dive, dinner, intimacy, and gaming"
+  - time: "00:06-00:32"
+    type: "Checklist"
+    description: "Bedtime checklist"
+
+sleep:
+  in_bed_at: "00:32"
+  time: "01:00-06:00"
+  wake_reason: "Back spasm"
+

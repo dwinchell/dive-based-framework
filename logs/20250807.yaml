@@ -1,0 +1,49 @@
+---
+kind: Daily Log
+date: 08/07/2025
+
+day_start:
+  sleep:
+    time: 01:45-06:00
+    in_bed_at: 01:45
+  energy: tired
+  morning_note: back is tight again
+
+meds:
+  time: 09:00
+  taken: true
+
+activities:
+  - time: "08:30–09:00"
+    type: "Morning Routine"
+    description: "morning routine"
+  - time: "09:00–18:00"
+    type: "Work"
+    description: "High stress crunch time; high cognitive, high social, high ER"
+  - time: "18:00–18:30"
+    type: "Social"
+    description: "Talked to wife, kept thinking about work"
+  - time: "18:30–19:30"
+    type: "Exercise"
+    description: "exercise, etc"
+  - time: "19:30–20:00"
+    type: "Work Attempt"
+    description: "Tried to work more, couldn't focus and started nodding off"
+  - time: "20:00–22:30"
+    type: "Nap"
+    description: "nap"
+  - time: "22:30–22:45"
+    type: "Recovery"
+    description: "Wake up, get water, listen to music, stretch, breathing exercises, etc."
+  - time: "22:45–04:30"
+    type: "Work Dive"
+    description: "work dive"
+  - time: "04:30–05:00"
+    type: "Wind Down"
+    description: "Shower and abbreviated bedtime checklist"
+
+sleep:
+  time: 06:00-07:40
+  in_bed_at: 05:00
+  notes: "20:00–22:30 nap earlier in the day"
+

@@ -1,0 +1,38 @@
+---
+kind: Daily Log
+date: 07/31/2025
+
+day_start:
+  out_of_bed: "08:45"
+  energy: "exhausted"
+  meds_taken: "09:30"
+  core_sleep_last_night: "2:00-5:00"
+
+activities:
+  - time: "08:45–09:00"
+    type: "Morning Routine"
+    description: "Basic morning routine"
+  - time: "09:00–17:00"
+    type: "Work Dive"
+    description: "Ongoing work session"
+  - time: "17:00–19:00"
+    type: "Recovery"
+    description: "Unstructured rest and reset"
+  - time: "19:00–22:00"
+    type: "Nap"
+    description: "Long nap"
+  - time: "22:00–23:00"
+    type: "Relational"
+    description: "Couch time with wife scrolling YouTube"
+  - time: "23:00–03:00"
+    type: "Reading"
+    description: "Initially reduced stress, but later contributed to sleep disregulation"
+
+sleep:
+  time: "03:30-08:30"
+
+reflections:
+  - "Worse sleep the night before due to work stress made me exhausted and irritable all day, and I performed worse than I would have with good sleep."
+  - "I reached for reading for comfort during crunch time—it made me feel better for a few hours but disregulated my sleep that night."
+  - "I had an important update from my people manager: a presales client was so impressed by my work at the all-day presales meeting two days ago that they essentially sent Red Hat an unsolicited purchase order with my name on it."
+

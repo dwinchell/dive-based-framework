@@ -1,0 +1,33 @@
+---
+kind: Daily Log
+date: 08/03/2025
+
+day_start:
+  wake: "11:00"
+  out_of_bed: "12:00"
+  energy: "Exhausted"
+  sleep_last_night: "05:40-11:00"
+
+meds: "Not taken – organizer needs refilling"
+
+activities:
+  - time: "Morning"
+    type: "Unstructured"
+    description: "Read (finished series)"
+  - time: "Afternoon"
+    type: "Mixed"
+    description: "Litter, shower, then EVE fleet (exhilarating)"
+  - time: "Evening"
+    type: "Relational"
+    description: "Intimacy, couch time with wife (playing EVE), help with her studies"
+  - time: "Night"
+    type: "Mixed"
+    description: "More EVE on couch, APP for light chores (~30min chores total)"
+  - time: "00:00-00:30"
+    type: "Checklist"
+    description: "Bedtime checklist"
+
+sleep:
+  in_bed_at: "00:30"
+  time: "01:00-08:10"
+

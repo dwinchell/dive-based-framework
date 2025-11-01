@@ -1,0 +1,46 @@
+---
+kind: Daily Log
+date: 08/04/2025
+
+day_start:
+  sleep_last_night: 1:00-8:10
+  wake: 8:10
+  out_of_bed: 8:50
+  energy: Tired
+
+meds: Taken at 11:40
+
+activities:
+  - time: "8:40-9"
+    type: "Routine"
+    description: "Morning checklist"
+  - time: "9:00-11:35"
+    type: "Work Dive"
+    description: "Working sessions and meetings, high cognitive and high social"
+  - time: "11:35-12:30"
+    type: "Meal / Recovery"
+    description: "Lunch and BSW"
+  - time: "12:30-17:30"
+    type: "Work Dive"
+    description: "Went to office and worked (included 10 min walks to and from)"
+  - time: "17:30-18:50"
+    type: "Exercise"
+    description: "Squash in the city (1h20m)"
+  - time: "18:50-22:00"
+    type: "Social"
+    description: "Visited friends"
+  - time: "22:00-0:00"
+    type: "Relational"
+    description: "Talked with wife, ate dinner, intimacy"
+  - time: "0:00-0:30"
+    type: "Routine"
+    description: "Litter, shower"
+  - time: "0:30-0:38"
+    type: "Routine"
+    description: "Bedtime checklist"
+
+sleep:
+  in_bed_at: "0:38"
+  time: "1:20-8:30"
+  wake_interval: "7:00-7:45"
+

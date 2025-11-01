@@ -1,0 +1,43 @@
+---
+kind: Daily Log
+date: 08/09/2025
+
+day_start:
+  wake: "10:00"
+  out_of_bed: "11:00"
+  core_sleep_last_night: "03:30-10:00"
+  notes: "Pleasant dreams"
+
+meds: "Taken at 10:30"
+
+activities:
+  - time: "11:00-14:50"
+    type: "Recovery"
+    description: "Gaming, relational time, morning routine, planning"
+  - time: "14:50-15:35"
+    type: "BSW"
+    description: "With long walk, meditated in the sun"
+  - time: "15:35-16:25"
+    type: "Task"
+    description: "Helped neighbor with vacuum"
+  - time: "16:25-18:00"
+    type: "Work"
+    description: "Weekend session to write a CER for the project I just went through crunch time to close out. I feel exhausted now."
+  - time: "18:00-19:40"
+    type: "Unstructured"
+    description: "Gaming, dinner, small amount of dishes and laundry"
+  - time: "19:40-0:00"
+    type: "Recovery"
+    description: "Couch time, cuddling, reading, ~2 hour nap"
+  - time: "0:00-2:50"
+    type: "Recovery"
+    description: "Learning about writing, gaming, bedtime checklist"
+
+reflections:
+  - "Feeling caught in a burnout catch-22 — too drained to work, too pressured to rest. Hard to relax with work looming, but hard to focus because I'm spent."
+  - "Took a Klonopin around 20:00, which will likely reduce capacity for high-focus work tonight."
+
+sleep:
+  in_bed_at: "2:50"
+  time: "3:20-10:45"
+

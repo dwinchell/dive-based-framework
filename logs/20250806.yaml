@@ -1,0 +1,37 @@
+---
+kind: Daily Log
+date: 08/06/2025
+
+day_start:
+  wake: "06:00"
+  out_of_bed: "08:30"
+  energy: "Tired"
+  core_sleep_last_night: "01:00-06:00"
+  wake_reason: "Back spasm"
+
+meds: "Taken in the morning"
+
+activities:
+  - time: "09:00–17:45"
+    type: "Work"
+    description: "High stress, high social, high cognitive. Short sustain breaks and a short lunch while thinking about work."
+  - time: "17:45–21:45"
+    type: "Mixed"
+    description: "Cleaning, dinner, short couch time with wife, 2-hour nap"
+  - time: "21:45–00:00"
+    type: "Gaming Dive"
+    description: "EVE Online. Exhilarating moment at the end where I killed a cruiser with a frigate."
+  - time: "00:00–01:00"
+    type: "Routine"
+    description: "Made pizza for a midnight snack, bedtime checklist"
+
+sleep:
+  in_bed_at: "01:00"
+  time: "01:45-06:00"
+  out_of_bed: "08:30"
+
+reflections:
+  - "Back spasm woke me early, but it wore off by early afternoon. Continuing to lie down carefully before work helped manage it, even though I didn’t get much additional sleep."
+  - "Back pain is now chronic and likely worsened by cumulative impact and tension. Preventative action is needed to avoid another spasm."
+  - "The 2-hour nap provided crucial recovery, enabling a strong late-evening dive with emotional payoff."
+

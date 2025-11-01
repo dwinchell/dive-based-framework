@@ -1,0 +1,26 @@
+---
+kind: Daily Log
+date: 07/30/2025
+
+meds: "Taken"
+
+activities:
+  - time: "09:15–21:15"
+    type: "Work Dive"
+    description: "12-hour dive; very high cognitive and very high social load"
+  - time: "21:15-01:00"
+    type: "Unstructured"
+    description: "Exercise dive, shower, couch time with wife, gaming, dinner, bedtime checklist"
+
+sleep:
+  in_bed_at: "01:00"
+  time: "02:00-05:00"
+  note: "Additional fragmented sleep afterward"
+  wake_reason: "Dreams about work"
+
+reflections:
+  - "This was the start of crunch time, feeling like a crisis mode because I had to go to managers and explain my mistake and that I needed extra hours to fix it."
+  - "Stress disrupted my sleep the night of."
+  - "I stopped work after 12 hours at 9pm to try and minimize reduced endurance and sleep disruption, but it wasn't enough. Maybe I should have stopped earlier."
+  - "I had an important conversation with my people manager that assuaged some of my fears about near-term job security and reinforced his positive feedback on performance, but also made me less certain about the future of my career (promotion, future prospects of the consulting business due to DOGE, etc.). He also talked to me about possibilities of transferring within the company, even abroad if I wanted to."
+

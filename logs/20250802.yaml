@@ -1,0 +1,19 @@
+---
+kind: Daily Log
+date: 08/02/2025
+
+day_start:
+  wake: "11:00"
+  out_of_bed: "11:00"
+  energy: "Tired"
+
+meds: "Taken"
+
+activities:
+  - time: "12:00–05:20"
+    type: "Unstructured"
+    description: "Social outing with friends in nature, then continued reading late into the night (regrets)"
+
+sleep:
+  time: "05:40–11:00"
+

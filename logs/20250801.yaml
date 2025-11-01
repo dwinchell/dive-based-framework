@@ -1,0 +1,33 @@
+---
+kind: Daily Log
+date: 08/01/2025
+
+day_start:
+  wake: "08:25 (just before alarm)"
+  out_of_bed: "08:50 (snoozing alarm)"
+
+meds: "taken at 09:00. need refill"
+
+activities:
+  - time: "08:50-09:00"
+    type: "Routine"
+    description: "Morning routine"
+  - time: "09:00-12:10"
+    type: "Work Dive"
+    description: "High cognitive, high social"
+  - time: "12:00-12:10"
+    type: "Planning"
+    description: "Catching up on writing and organizing daily logs"
+  - time: "12:10–13:00"
+    type: "Break"
+    description: "Lunch break, included more planning"
+  - time: "13:00–16:30"
+    type: "Work Dive"
+    description: "Included a 20m sustain break, a 10m sustain break, a BSW, and a separate short walk"
+  - time: "16:30"
+    type: "Status"
+    description: "Want a full exercise dive to destress"
+  - time: "16:40–present"
+    type: "Exercise Dive"
+    description: "Started to help destress"
+
