@@ -1,0 +1,45 @@
+---
+kind: Daily Log
+date: 08/10/2025
+
+day_start:
+  sleep:
+    time: "3:20-10:45"
+    wake_reason: "Alarm"
+
+meds: "Taken at 11:15"
+
+activities:
+  - time: "10:45-11:30"
+    type: "Routine"
+    description: "Morning routine, refilled pill organizer"
+  - time: "11:30-15:00"
+    type: "Work"
+    description: "CER. Sad about missing EVE Flight Club, which I had been looking forward to. Still anxious about work because of 1 remaining code feature to ship before Monday morning and running out of time. Social obligation today prevents both attending a secondary fleet and working on that item before late."
+  - time: "15:00-17:00"
+    type: "Relational Dive"
+    description: "With wife. Cuddled, talked, danced."
+  - time: "17:00-17:30"
+    type: "Maintenance"
+    description: "Laundry and got ready to go out."
+  - time: "17:30-20:00"
+    type: "Social"
+    description: "Dinner with wife's friends. Viewed as a social obligation."
+  - time: "20:00-01:30"
+    type: "Work"
+    description: "Trying to close out final technical tasks because I can't stop sweating the project that's supposed to already be over."
+  - time: "01:30-01:45"
+    type: "Routine"
+    description: "Bedtime checklist"
+
+sleep:
+  in_bed_at: "01:45"
+  time: "3:15-9"
+
+insights:
+  - "Strong competing priorities today — weekend work versus anticipated leisure — led to frustration and lingering work anxiety."
+  - "Missing both planned EVE fleets amplified feelings of disappointment and prevented mental disengagement."
+  - "Social obligations reduced available time for priority tasks without providing significant recovery."
+  - "Relational time with wife was a key emotional positive."
+  - "Tomorrow may benefit from deliberate closure of remaining work and a reset to prevent cognitive carryover."
+

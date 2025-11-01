@@ -1,0 +1,27 @@
+---
+kind: Daily Log
+date: 08/11/2025
+
+day_start:
+  sleep: "3:15-9"
+  out_of_bed: "9:30"
+
+meds: "Taken at 10:30"
+
+activities:
+  - time: "10:00-17:30"
+    type: "Work"
+    description: "High social and high cognitive. Exhausted from lingering crunch time, but it's over. Held closeout meeting and shipped the code and CER."
+  - time: "17:30-bedtime"
+    type: "Recovery"
+    description: "Evening recovery"
+  - time: "Night"
+    type: "Reading"
+    description: "Couldn't stop and stayed up too late, but enjoyed it"
+
+sleep:
+  time: "5:30-10:30"
+
+reflections:
+  - "This is a pattern. I binged stimulus (reading) after crunch time. Need to make sure not to get too destabilized."
+

@@ -1,0 +1,16 @@
+---
+kind: Daily Log
+date: 08/12/2025
+
+day_start:
+  sleep_last_night: "3:10-10:40"
+  out_of_bed: "10:57"
+  note: "In bed until first meds alarm and did not take meds at that time because late for meeting. This is a negative pattern. Need to be out of bed before that alarm. Reading was root cause."
+
+meds: "Taken at 12:30"
+
+activities:
+  - "11:00-14:00 - work"
+  - "14:00-15:30 - reading"
+  - "15:30-17:15 - nap"
+

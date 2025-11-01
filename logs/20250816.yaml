@@ -1,0 +1,40 @@
+---
+kind: Daily Log
+date: 08/16/2025
+
+day_start:
+  sleep_last_night: "3:30-10:30"
+  out_of_bed: "10:40"
+
+meds: "Taken at 12:00"
+
+activities:
+  - time: "10:40-11:45"
+    type: "Gaming"
+    description: "EVE"
+  - time: "11:45"
+    type: "Status"
+    description: "Mood feels really low. Eating because I forgot breakfast. Need to refill meds organizer before I forget tomorrow."
+  - time: "12:00"
+    type: "Recovery"
+    description: "Finished breakfast and did a micro-tidy"
+  - time: "12:00-12:20"
+    type: "Recovery"
+    description: "Meditation and BSW"
+  - time: "12:20-15:00"
+    type: "Recovery"
+    description: "Tea and relaxed on couch with wife (no gaming/reading), laundry, lunch"
+  - time: "15:00-18:30"
+    type: "Outing"
+    description: "Ran errands to Micro Center and had dinner at IHOP with wife"
+  - time: "18:30-19:30"
+    type: "Emotional Processing"
+    description: "Cried about getting older because I could not lift the computer tower. Talked to wife about it."
+  - time: "19:30-21:30"
+    type: "Rest"
+    description: "Nap"
+
+reflections:
+  - "Remember to refill meds organizer today so it’s ready for tomorrow."
+  - "I’m 3 days into recovery from the work crunch time. I intentionally took 4 days to recover. Letting my mood equilibrate and the SR debt work itself out is part of that. This is unpleasant but normal. It will pass. It’s part of my biology and my chosen path. Go hard and recover. It’s just a messy recovery. I can optimize later, but now’s not the time. Next time I could plan out a recovery strategy with a menu of activities so reading doesn’t take over and slow it down. This is normal. It’s just a tough stretch of my path. I just have to wait it out."
+

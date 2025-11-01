@@ -1,0 +1,34 @@
+---
+kind: Daily Log
+date: 08/17/2025
+
+day_start:
+  wake: "11:00"
+  out_of_bed: "12:00"
+
+meds: "Taken at 12:00"
+
+activities:
+  - time: "12:00-13:00"
+    type: "Routine"
+    description: "Morning routine, refilled meds organizer"
+  - time: "13:00-18:00"
+    type: "Relational"
+    description: "Called mom, visited with wife, worked on tree ID tag project with mom and stepfather, enjoyed time out of city"
+  - time: "18:00-23:59"
+    type: "Household / Relational"
+    description: "Litter, laundry, cleaned shower and unclogged drain, shower, grooming, intimacy, stretching"
+  - time: "00:00-late"
+    type: "Unstructured / Gaming"
+    description: "EVE, bedtime routine"
+
+sleep:
+  time: "03:30-10:30"
+
+reflections:
+  - "Mood is stabilizing; feels like less cyclothymic lowering."
+  - "Continuing to process thoughts and feelings around transition into 40s."
+  - "Really appreciate my wife."
+  - "End of the planned full recovery week after work crunch time, and the last day of a 4 day weekend."
+  - "The recovery helped; I feel more or less ready to go back at it. Could maybe use one more day if I had it."
+

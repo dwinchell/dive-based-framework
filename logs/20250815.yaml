@@ -1,0 +1,32 @@
+---
+kind: Daily Log
+date: 08/15/2025
+
+day_start:
+  sleep_last_night: "5:30-11:30"
+  up_late_reason: "reading"
+  wake_reason: "alarms"
+  out_of_bed: "12:00"
+
+meds: "taken at 11:30"
+
+activities:
+  - type: "status"
+    time: "12:15"
+    description: "mood slightly lowered"
+  - time: "afternoon"
+    type: "mixed"
+    description: "treated back spasm with heat and stretching, gamed (brief Stormgate ladder, exciting), self-care, paid attention to wife"
+  - type: "status"
+    time: "current"
+    description: "mood low, feeling understimulated; detoxing from a reading binge and recovering from work crunch time"
+  - time: "night"
+    type: "reading"
+    description: "reading until 3 because my mood felt really low and stimulus cravings were really high. started and finished a book."
+
+sleep:
+  time: "3:30-10:30"
+
+reflections:
+  - "low mood recovery day with physical rest and trying to ease back spasms"
+

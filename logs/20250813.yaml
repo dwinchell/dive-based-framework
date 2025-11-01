@@ -1,0 +1,33 @@
+---
+kind: Daily Log
+date: 08/13/2025
+
+day_start:
+  sleep: "3:10-10:40"
+  out_of_bed: "10:55"
+
+meds: "Taken at 11:00"
+
+activities:
+  - time: "11:00-16:00"
+    type: "Work"
+    description: "Meetings and light creative/organizational work on project Starlight; mildly aversive"
+  - time: "16:00-18:30"
+    type: "Gaming"
+    description: "Eve fleet — scouting learning fleet; something I had been looking forward to"
+  - time: "18:30-21:00"
+    type: "Relational"
+    description: "Couch time with wife, included Eve"
+  - time: "21:00-23:00"
+    type: "Rest"
+    description: "Nap"
+  - time: "23:00-24:00"
+    type: "Gaming"
+    description: "Eve"
+  - time: "00:00-5:00"
+    type: "Leisure"
+    description: "Reading; sleep disrupted by reading again, but able to sleep in to blunt the effect"
+
+sleep:
+  time: "5:00-11:30"
+

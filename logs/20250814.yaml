@@ -1,0 +1,33 @@
+---
+kind: Daily Log
+date: 08/14/2025
+
+day_start:
+  sleep: "05:00-11:30"
+  out_of_bed: "12:30"
+  wake_reason: "Natural (after silencing multiple earlier alarms)"
+  physical_notes: "Minor back spasm in the morning; improved by relaxing flat on back"
+
+meds: "Taken at 12:00"
+
+activities:
+  - time: "13:00"
+    type: "Meal"
+    description: "Lunch"
+  - time: "13:30-14:30"
+    type: "Work Meeting"
+    description: "Enjoyable social, low cognitive, no ER required"
+  - time: "14:30-16:30"
+    type: "Creative"
+    description: "AI-assisted fiction writing for fun"
+  - time: "16:30-17:45"
+    type: "Nap"
+    description: ""
+
+reflections:
+  - "Evening – Unable to lift something heavy for the first time ever because of back spasm. Feeling my age. Triggered a cyclothymic downturn likely set up by prolonged stress and another late night."
+
+sleep:
+  time: "05:30-11:30"
+  note: "Reading"
+
