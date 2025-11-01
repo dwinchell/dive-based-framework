@@ -1,0 +1,40 @@
+---
+kind: Daily Log
+date: 10/5/2025
+
+summary:
+  sleep: "04:30-11:00"
+  meds: "13:03"
+
+activities:
+  - time: "13:00"
+    type: "Maintenance"
+    description: "Refilled pill organizer"
+  - time: "13:10-14:20"
+    type: "Self Care"
+    description: "Cleaned litter box, showered, and daydreamed"
+  - time: "14:20"
+    type: "Status"
+    description: "Feeling burnt out"
+  - time: "15:30"
+    type: "Relational"
+    description: "Cuddled, intimacy, and dinner together"
+  - time: "16:00-17:30"
+    type: "Sleep"
+    description: "Nap"
+  - time: "17:30-22:45"
+    type: "Social"
+    description: "Visited friends"
+  - time: "22:45-23:15"
+    type: "Maintenance"
+    description: "Cleaned up boxes and litter"
+  - time: "23:15-23:45"
+    type: "Self Care"
+    description: "Shower"
+  - time: "23:45-00:30"
+    type: "Recovery"
+    description: "Watched YouTube"
+  - time: "00:30-01:30"
+    type: "Gaming"
+    description: "Played WoW Ultra Hardcore"
+

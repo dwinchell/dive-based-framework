@@ -1,0 +1,47 @@
+---
+date: 10/3/2025
+kind: Daily Log
+
+summary:
+  sleep:
+    time: "01:20-10:00"
+    core_note: "Woke for 30m at 06:30"
+  meds: "10:00"
+  note: "10:40 out of bed"
+
+activities:
+  - time: "10:00-10:40"
+    type: "Daydream"
+    description: "About my latest written story"
+  - time: "10:40-present"
+    type: "Recovery"
+    description: "Morning routine"
+  - time: "10:50-11:05"
+    type: "Meal"
+    description: "Breakfast"
+  - time: "11:15-11:35"
+    type: "Recovery"
+    description: "BSW"
+  - time: "12:15-20:45"
+    type: "Work"
+    description: "Very stressful day"
+  - time: "12:30"
+    type: "Meal"
+    description: "Finish lunch"
+  - time: "22:30-23:15"
+    type: "Exercise"
+    description: "Included 30m running"
+  - time: "23:30-01:30"
+    type: "Leisure"
+    description: "YouTube"
+  - time: "01:30-02:00"
+    type: "Recovery"
+    description: "Guitar"
+    note: "Some kind of equipment breakage"
+  - time: "02:30-03:15"
+    type: "Recovery"
+    description: "More guitar"
+    note: "Felt harmonious afterwards"
+  - time: "03:30"
+    type: "In Bed"
+
