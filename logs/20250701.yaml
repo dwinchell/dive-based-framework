@@ -1,0 +1,101 @@
+---
+kind: Daily Log
+date: 07/01/2025
+
+day_start:
+  time: 08:00
+  sleep_last_night:
+    in_bed_at: 01:04
+    time: 01:36–07:30
+    wake_reason: bad dream
+  energy: tired
+  notes: Snoozed until 08:00. Got up because house cleaners were arriving. Sleep felt restorative but insufficient.
+
+activities:
+  - time: "08:00–08:30"
+    type: "Checklist"
+    description: "Morning checklist"
+  - time: "08:30–08:40"
+    type: "Other"
+    description: "Obsessive cleaning"
+  - time: "09:00–11:00"
+    type: "Meetings"
+    description: "Work meetings"
+  - time: "11:00"
+    type: "Meds"
+    description: "Took meds"
+  - time: "12:00"
+    type: "Planned"
+    description: "Eat lunch during meeting"
+  - time: "11:30–11:40"
+    type: "BSW"
+    description: "10-min BSW during lunch prep"
+  - time: "12:10–13:00"
+    type: "Work"
+    description: "Ate lunch, helped consultants with hands-on work, responded to emails"
+  - time: "11:00–17:00"
+    type: "Meetings"
+    description: "Work meetings continue"
+  - time: "16:45–17:15"
+    type: "Work Dive"
+    description: "Review-only CER dive post-meetings"
+  - time: "18:15–19:15"
+    type: "Rest"
+    description: "Nap attempt. Planned 30 min, but too tired to rouse self"
+  - time: "19:15–19:40"
+    type: "Meal"
+    description: "Dinner"
+  - time: "19:50–20:07"
+    type: "BSW"
+    description: "Full BSW while groggy"
+  - time: "20:07–23:19"
+    type: "Work Dive"
+    description: "CER writing dive – intense analysis and synthesis"
+  - time: "23:20–23:30"
+    type: "Recovery"
+    description: "Low-stimulus recovery with light audio distractor to clear work residue"
+  - time: "23:28"
+    type: "Relational"
+    description: "Check-in with wife before evening routine"
+  - time: "23:30–24:00"
+    type: "Routine"
+    description: "Standard evening routine (shower, clean litter, etc.)"
+  - time: "23:40–00:49"
+    type: "Recovery"
+    description: "Watched YouTube to mentally disengage from work; short SCP video helped reset. TV dimmed, but room lights on"
+  - time: "00:49"
+    type: "Routine"
+    description: "Skipping litter; doing hygiene and short shower before bedtime checklist"
+  - time: "00:45–01:45"
+    type: "Routine"
+    description: "Short shower followed by hyperfocused work rumination; delayed wind-down"
+  - time: "01:45–02:00"
+    type: "Checklist"
+    description: "Finished bedtime checklist (most items were already completed earlier)"
+  - time: "02:00"
+    type: "Planned"
+    description: "In bed with isochronic tones"
+  - time: "02:20"
+    type: "Log"
+    description: "Still wide awake in bed; sleep onset not happening yet"
+  - time: "02:25–04:00"
+    type: "Recovery"
+    description: "Tried to fall asleep on couch; watched YouTube on dim TV but got stuck. Sleep attempt unsuccessful"
+  - time: "04:20–08:30"
+    type: "Sleep"
+    description: "Fell asleep around 4:20 after returning to bed; woke to alarm at 8:30"
+
+reflections:
+  - "OCD already high for the day"
+  - "Still need to do a writing dive on CER tonight"
+  - "Should be easier than most CER deliveries"
+  - "This was intense analysis and synthesis for a long duration, at night."
+  - "I'm going to need recovery time."
+  - "My sleep schedule may be negatively affected."
+  - "Hyperfocused on thinking about work in and after the shower"
+
+sleep:
+  in_bed_at: 02:00
+  time: 04:20–08:30
+  wake_reason: alarm
+

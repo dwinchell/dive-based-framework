@@ -1,0 +1,65 @@
+---
+kind: Daily Log
+date: 07/08/2025
+
+day_start:
+  out_of_bed: 13:45
+  notes: 
+    meds_taken: 08:30
+    context: >
+      Missing work today and taking PTO because I stayed up until 5:45 reading. 
+      I feel embarrassed, disappointed with myself, and a little ashamed.
+
+sleep-strategy-notes:
+  day_type: binge-recovery
+
+activities: 
+  - time: "13:45-17:45"
+    type: "Planning Dive"
+    description: "Hyperfocused on developing sleep strategy"
+  - time: "18:00-19:45"
+    type: "Relational Dive"
+    description: "Relational time"
+  - time: "19:45-20:15"
+    type: "Self-Care"
+    description: "Shower"
+  - time: "20:15-23:15"
+    type: "High-Stimulus Dive"
+    description: "WoW Hardcore"
+  - time: "23:15-00:00"
+    type: "Wind Down"
+    description: "TV with wife (medium stimulus)"
+  - time: "00:00-00:30"
+    type: "Bedtime Checklist"
+    description: "Follow bedtime-checklist.yaml, including Melatonin 5mg and Klonopin 1mg at 00:30"
+  - time: "00:39"
+    type: "In Bed"
+    description: "Got in bed"
+
+sleep:
+  in_bed_at: "00:39"
+  time: "01:30-07:00"
+  bedtime_checklist: 
+    start: "00:00"
+    stop: "00:30"
+  sleep_meds:
+    - name: "Melatonin"
+      dosage: "5mg"
+      time: "00:30"
+    - name: "Klonopin"
+      dosage: "1mg"
+      time: "00:30"
+  stimulus_timings:
+    high:
+      - "20:15-23:15"
+    medium:
+      - "23:15-00:00"
+    low:
+      - "00:39-01:30"
+  shower: 
+    time: "19:45-20:15"
+  notes: >
+    Mask stayed on all night. No bad dreams. Bladder was not a factor.
+    Wound down in bed with Nox Arcana and then switched to white noise + isochronic tones when ready to sleep.
+    Tried to get back to sleep for an hour after waking, including a brief attempt to stretch, use the restroom, and brush teeth. Did not work. Gave up trying to get back to sleep at 08:00.
+

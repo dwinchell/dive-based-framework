@@ -1,0 +1,92 @@
+---
+kind: Daily Log
+date: 07/09/2025
+
+day_start:
+  out_of_bed_at: 08:30
+  energy: very tired
+  note: Took a second day off work to fix sleep schedule
+  goals:
+    - Fix sleep schedule
+    - Avoid any naps today
+  meds_taken_at: 11:00
+
+activities:
+  - time: "08:30-09:00"
+    type: "Morning Checklist"
+  - time: "09:00-11:15"
+    type: "High Stimulus"
+    description: "WoW HC"
+  - time: "11:15-11:20"
+    type: "Meal"
+    description: "Ate PBJ"
+  - time: "11:30-12:30"
+    type: "High Stimulus"
+    description: "EVE Online (travel and skill queue management)"
+  - time: "12:30-13:00"
+    type: "Medium Stimulus"
+    description: "YouTube WoW HC videos in bed. Got up because started nodding off a couple of times"
+  - time: "13:00-13:20"
+    type: "Social"
+    description: "Talked to wife while standing"
+  - time: "13:20-14:00"
+    type: "High Stimulus"
+    description: "Walk while listening to aggressive music and researching Git on phone"
+  - time: "14:00-15:00"
+    type: "Medium Stimulus"
+    description: "Learned about Git from ChatGPT on phone while on couch"
+  - time: "15:00-15:20"
+    type: "Meal + Medium Stimulus"
+    description: "Ate lunch while continuing to learn about Git"
+  - time: "15:26-15:46"
+    type: "High Stimulus"
+    description: "Walk with aggressive music. Woke me up some"
+  - time: "15:46-17:30"
+    type: "High Stimulus"
+    description: "WoW HC"
+  - time: "17:20-17:45"
+    type: "Meal"
+    description: "Ate a bagel"
+  - time: "17:45-18:00"
+    type: "Medium Stimulus"
+    description: "Learned stuff on ChatGPT"
+  - time: "18:00-18:15"
+    type: "Social"
+    description: "Helped wife with Git"
+  - time: "18:15-18:45"
+    type: "Preparation"
+    description: "Got ready for squash"
+  - time: "18:45"
+    type: "Travel"
+    description: "Left for squash (wife driving because too tired to drive safely; appreciated her kindness)"
+  - time: "19:30"
+    type: "Arrival"
+    description: "Arrived at squash"
+  - time: "19:30-21:00"
+    type: "Exercise"
+    description: "Played squash"
+  - time: "21:00"
+    type: "Travel"
+    description: "Traveling home (took Uber)"
+  - time: "22:15"
+    type: "Arrival"
+    description: "Arrived home"
+  - time: "22:15-22:45"
+    type: "Hygiene"
+    description: "Shower"
+  - time: "22:50"
+    type: "Meal"
+    description: "Ate a PBJ sandwich"
+  - time: "23:50-00:00"
+    type: "Wind Down"
+    description: "Wind down"
+  - time: "00:00-00:25"
+    type: "Bedtime Checklist"
+    description: "Completed bedtime checklist"
+
+sleep:
+  in_bed_at: 00:25
+  time: "01:30-07:30"
+  additional_sleep: "07:30-09:30 (fragmented)"
+  energy_on_wake: tired
+

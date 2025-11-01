@@ -1,0 +1,53 @@
+---
+kind: Daily Log
+date: 06/05/2025
+
+day_start:
+  time: 08:30
+  sleep:
+    in_bed_at: 01:45
+    time: 01:45–08:30
+    wake_reason: alarm
+    note: morning alarm was set an hour early because I didn't do the bedtime checklist. tried to sleep until 9:30 but not very successful
+  energy: initially tired but perked up quickly due to eustress and work anticipation
+  mood: high – possible cyclothymic uplift from stress and sustained high work stimulus
+
+meds: Taken at 08:45
+
+activities:
+  - time: "09:30–14:15"
+    type: Work Dive
+    description: Very high social. Tried to do a recovery break for lunch but continued to mentally hyperfocus on high stimulus work tasks while eating, etc. Mood remained very high throughout.
+  - time: "14:15–15:00"
+    type: Nap
+    description: Short rest after intense work dive
+  - time: "15:00–19:15"
+    type: Work Dive
+    description: AI-assisted coding. High stimulus, high cognitive.
+  - time: "19:15–22:00"
+    type: Recovery
+    description: Listened to music, helped wife with homework, watched music videos and discussed symbolism with AI, ate popcorn.
+  - time: "22:00"
+    type: Medicine
+    description: Took 1mg Klonopin due to inability to slow down after high-stimulus day.
+  - time: "22:00–01:15"
+    type: Mixed
+    description: Music, relational time, first sleep attempt after intimacy at 00:30 (with added Klonopin). Sleep attempt failed. Playing EVE now.
+  - time: "01:15–02:30"
+    type: Gaming
+    description: Played EVE to decompress after failed sleep attempt.
+
+sleep:
+  in_bed_at: 02:30
+  time: 03:00–09:00
+  wake_reason: phone ringing
+  energy: very tired
+
+meds: Taken at 09:00
+
+ai_insights:
+  - Sustained Overdrive: High-social, high-cognitive activity all day led to a mood boost that wasn’t sustainable.
+  - Craving vs. Capacity Mismatch: Even after depletion, you craved more input—classic “spent but wired” state.
+  - Late Recovery Window: Evening recovery was too stimulating to support a true wind-down. Klonopin helped but couldn’t fully override exhaustion.
+  - Future Tactic: On high-social days, consider a structured downshift post-work (BSW, walk, then capped media) *before* doing relational or symbolic dives.
+

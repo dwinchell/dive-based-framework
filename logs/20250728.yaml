@@ -1,0 +1,50 @@
+---
+kind: Daily Log
+date: 07/28/2025
+
+day_start:
+  wake: "09:30"
+  out_of_bed: "09:45"
+  energy: "Tired"
+
+meds: "Taken at 09:45"
+
+activities:
+  - time: "09:45-10:00"
+    type: "Routine"
+    description: "Morning checklist"
+  - time: "10:00-15:30"
+    type: "Work Dive"
+    description: "Working sessions. High social and very high cognitive"
+  - time: "15:30-16:00"
+    type: "Recovery"
+    description: "BSW, rest to music"
+  - time: "16:00-16:45"
+    type: "Recovery"
+    description: "Nap"
+  - time: "16:45-17:10"
+    type: "Recovery"
+    description: "Unstructured break"
+  - time: "17:10-18:00"
+    type: "Work Dive"
+    description: "Prep for meeting tomorrow"
+  - time: "18:00-23:00"
+    type: "Dive - Social and Exercise"
+    description: "Social and exercise dive"
+  - time: "23:00-23:45"
+    type: "Relational Dive"
+    description: ""
+  - time: "23:45-00:30"
+    type: "Routine"
+    description: "Evening routine and relax"
+  - time: "00:30-01:00"
+    type: "Routine"
+    description: "Bedtime checklist"
+
+sleep:
+  in_bed_at: "01:00"
+  time: "01:50-08:00"
+
+reflections:
+  - "This was the start of a work crunch time."
+

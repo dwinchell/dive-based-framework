@@ -1,0 +1,40 @@
+---
+kind: Daily Log
+date: 06/04/2025
+
+day_start:
+  time: 08:30
+  sleep_last_night:
+    duration: 5h15m
+    time: 03:15–08:30
+    in_bed_at: 02:30
+    wake_reason: alarm after initial 07:30 wake and return to sleep
+  energy: very tired
+  mood: neutral
+  health_note: cold is mostly better
+
+meds: Taken at 08:45
+
+activities:
+  - time: "08:30–12:30"
+    type: Work Dive
+    description: "Meetings. High social. High stress."
+  - time: "12:30–17:30"
+    type: Work
+    description: "Continued work."
+  - time: "17:30–01:45"
+    type: Recovery
+    description: "Nap, relational time, SCP videos on YouTube until bedtime. No Eve today."
+
+sleep:
+  in_bed_at: 01:45
+  time: 01:45–08:30
+  wake_reason: alarm
+  note: morning alarm was set an hour early because I didn't do the bedtime checklist
+
+ai_insights:
+  - Skipping the bedtime checklist resulted in an earlier wake alarm, reinforcing the importance of wind-down in sleep timing and quality.
+  - The full recovery block (nap, SCP videos, relational time) may have helped buffer the cognitive/social load from earlier. SCP content may be a lower-stimulus fallback when games feel too risky.
+  - No Eve today suggests possible restraint or shifting emotional needs. Worth tracking if this continues or feels like relief.
+  - You completed a full high-effort workday despite very tired energy—watch for signs of depletion tomorrow. A layered recovery might be warranted.
+

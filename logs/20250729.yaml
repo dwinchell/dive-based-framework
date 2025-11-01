@@ -1,0 +1,46 @@
+---
+kind: Daily Log
+date: 07/29/2025
+
+day_start:
+  wake: "08:30"
+  out_of_bed: "09:00"
+  energy: ~
+
+meds: "Taken at 08:30"
+
+activities:
+  - time: "08:30-09:10"
+    type: "Routine"
+    description: "Morning routine"
+  - time: "09:10-09:20"
+    type: "Commute"
+    description: "To work"
+  - time: "09:20-15:15"
+    type: "Work Dive"
+    description: "Main work session"
+  - time: "15:15-15:25"
+    type: "Commute"
+    description: "Return trip"
+  - time: "15:25-16:00"
+    type: "Recovery"
+    description: "Rest"
+  - time: "16:00-17:00"
+    type: "Work Dive"
+    description: "Second session"
+  - time: "17:00-00:30"
+    type: "Recovery"
+    description: "Nap, cuddle, gaming"
+  - time: "00:30-00:40"
+    type: "Routine"
+    description: "Bedtime checklist"
+
+sleep:
+  in_bed_at: "00:40"
+  time: "01:20-08:30"
+  wake_reason: "Bad dream"
+
+reflection: >
+  I mostly stepped away from the crunch-time activities on this day to work on a separate all-day presales effort.
+  This was also stressful, but maybe less so. It allowed me to focus on something else for a while.
+

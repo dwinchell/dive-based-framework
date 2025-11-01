@@ -1,0 +1,73 @@
+---
+kind: Daily Log
+date: 06/30/2025
+
+day_start:
+  time: 07:30
+  sleep_last_night:
+    in_bed_at: 01:55
+    time: 02:15–06:00
+    wake_reason: bad dream, followed by hyperfocus on lyrics
+  energy: exhausted
+  mood: low
+  notes: Fell asleep earlier than planned. Gave up on trying to fall back asleep at 7:30. Stomach upset, possibly due to ice cream.
+
+meds: Taken at 15:00 (28 hours after previous dose)
+
+sleep:
+  time: 08:20–09:20
+  notes: Caught one more hour of sleep before work
+
+activities:
+  - time: "09:30–10:00"
+    type: "Meeting"
+    description: "Surprise meeting"
+  - time: "10:00–11:00"
+    type: "Meeting"
+    description: "Regular morning meeting"
+  - time: "11:00"
+    type: "Transition"
+    description: "Getting ready and leaving for quarterly office visit (executive-mandated)"
+  - time: "11:15"
+    type: "Errand"
+    description: "Stopped at Chipotle to get lunch before arriving at office"
+  - time: "12:00–12:45"
+    type: "Meal"
+    description: "Ate Chipotle lunch at office"
+  - time: "12:45–13:15"
+    type: "Incident"
+    description: "OCD freakout triggered by public restroom"
+  - time: "13:15–15:00"
+    type: "Work Block"
+    description: "Continued work at the office after OCD episode"
+  - time: "16:15–16:30"
+    type: "Chore"
+    description: "Cleaned up cat puke (OCD trigger)"
+  - time: "16:30–18:30"
+    type: "Social"
+    description: "Spent time with wife"
+  - time: "18:30"
+    type: "Meal"
+    description: "Ate pizza (reminded by wife)"
+  - time: "19:00–20:00"
+    type: "Recreation"
+    description: "Browsed Steam Summer Sale and played new indie game (tertiary)"
+  - time: "20:00–21:30"
+    type: "Chore"
+    description: "Completed wife-requested cleaning tasks (puke cleanup, trash, putting things away); aversive and triggering"
+  - time: "21:30–22:00"
+    type: "Recovery"
+    description: "Meditation and breathing to reduce OCD contamination anxiety"
+  - time: "22:00–00:00"
+    type: "Relational Dive"
+    description: "Time with wife – talking, teaching Git, intimacy"
+  - time: "00:00–00:40"
+    type: "Chore + Self-Care"
+    description: "Cleaned litter box, showered, and had a snack"
+  - time: "00:40–01:04"
+    type: "Wind Down"
+    description: "Completed bedtime checklist"
+
+sleep:
+  in_bed_at: 01:04
+

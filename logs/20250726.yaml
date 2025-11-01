@@ -1,0 +1,22 @@
+---
+kind: Daily Log
+date: 07/26/2025
+
+day_start:
+  wake: "Multiple"
+  out_of_bed: "10:30"
+
+meds: "Taken at 10:40"
+
+activities:
+  - time: "10:30-19:20"
+    type: "Maintenance"
+    description: "Haircut, shopping (bought a PC monitor because mine broke), scheduled HVAC repair (it's broken too), reading"
+  - time: "2:30-2:55"
+    type: "Evening Routine"
+    description: "Bedtime checklist"
+
+sleep:
+  in_bed_at: "03:00"
+  time: "3:30-9:30"
+

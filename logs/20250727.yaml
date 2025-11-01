@@ -1,0 +1,31 @@
+---
+kind: Daily Log
+date: 07/27/2025
+
+day_start:
+  wake: "09:30"
+  out_of_bed: "10:00"
+  energy: 
+  sleep_last_night: "3:30-9:30"
+
+meds: "Taken at 10:00"
+
+activities:
+  - time: "09:30–18:00"
+    type: "Mixed"
+    description: "APP – cleaning, EVE fight club and a fleet (which were very exciting!), work with service tech to get HVAC repaired, cleaned some static clutter"
+  - time: "18:00–02:00"
+    type: "Mixed"
+    description: "Watched movie with wife, gamed, some light cleaning"
+  - time: "02:00–02:45"
+    type: "Evening Routine"
+    description: "Shower, litter, hyperfocused on thinking about work and then related topics"
+  - time: "02:45–02:51"
+    type: "Bedtime Checklist"
+    description: ""
+
+sleep:
+  in_bed_at: "02:50"
+  time: "03:20-09:30"
+  notes: "Brief wake at 08:00"
+

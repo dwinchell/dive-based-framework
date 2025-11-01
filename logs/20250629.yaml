@@ -1,0 +1,94 @@
+---
+kind: Daily Log
+date: 06/29/2025
+
+day_start:
+  time: "11:00"
+  meds_taken: false  # Update if taken
+  sleep:
+    in_bed_at: "03:00"
+    time: "03:30–08:15 (+fragmented until 11:00)"
+    quality: "light; early waking due to sunlight with mask down, some additional dozing"
+    notes: |
+      Sleep onset around 3:30. Woke at 8:15 to sunlight; sleep mask had slipped.
+      Dozed intermittently until 11:00. Bad dream contributed to waking.
+      Total rest somewhat restorative, but fragmented.
+
+status:
+  physical:
+    energy: "very low"
+    pain: "back still stiff and painful from 6/27 spasm"
+    hydration: "partial"
+    sleep_debt: "high and worsening by evening"
+    dizziness: "not reported"
+  emotional:
+    affect: "muted → drained"
+    overwhelm: "high by evening"
+    drive: "collapsed post-nap"
+    clarity: "poor in evening, hyperfocus late night"
+  cognitive:
+    executive_function: "fragile"
+    focus: "narrow, prone to dysregulation"
+    decision_making: "deteriorated with SR depletion"
+  overall:
+    state: "SR tank depleted; functioning via scaffolds and containment"
+    notes: |
+      Mood and impulse control likely impacted by missed meds 6/27 (penance period).
+      Self-regulation failed late night due to exhaustion and post-hyperfocus crash.
+
+activities:
+  - time: "11:23–12:00"
+    type: "Stabilization"
+    description: |
+      Completed morning checklist. Skipped optional or non-critical steps as appropriate due to lingering back pain and exhaustion.
+
+  - time: "12:00–14:30"
+    type: "Mixed"
+    description: |
+      Played EVE, spent intimate time with wife, and took a nap.
+      Removed “help aunt with internet” from to-do list after she declined support.
+
+  - time: "Afternoon"
+    type: "Missed Event"
+    description: |
+      Missed EVE Fight Club due to incorrect time assumption—it occurred at noon local time.
+      Disappointing given high anticipation. Will have to wait another two weeks.
+
+  - time: "19:30"
+    type: "Personal"
+    description: |
+      Ate dinner. Friends visited for pool time—unexpected but positive interaction with godchildren, though it was tiring.
+      Showered afterward and cleaned up cat messes. Fatigue and social drain noted.
+
+  - time: "20:00–20:30"
+    type: "Exploration (EVE)"
+    description: |
+      Played EVE and explored for 30 minutes. No wormholes or sites found; suspected time-of-day mismatch.
+      Became bored. Noted strong but potentially risky urge to read afterward.
+
+  - time: "22:00"
+    type: "Recovery"
+    description: |
+      Woke from a 45-minute nap (wife-assisted). SR fully depleted.
+      Entered critical “table flip” emotional state. Avoided full collapse by eating half slice of bread and drinking water.
+
+  - time: "00:00"
+    type: "Stabilization"
+    description: |
+      Played WoW briefly, gave cats their medication, ate a bagel. Re-established routine touchpoints.
+
+  - time: "01:52"
+    type: "Checklist Completion"
+    description: |
+      Completed bedtime checklist and entered bed at 1:52, slightly ahead of 2:00 target.
+      Managed regulation through fatigue and cravings. Noted reframed relationship to comfort rituals.
+
+sleep:
+  in_bed_at: "01:52"
+  time: "02:15–06:00"
+  quality: "light; 4 hours, woke from unsettling dream"
+  notes: |
+    Sleep onset at 2:15 after completing checklist. Woke at 6:00 due to unsettling dream.
+    Could not return to sleep due to lyric-triggered hyperfocus. Exhausted upon waking at 7:30.
+    Stomach upset, likely related to ice cream consumed the night before.
+

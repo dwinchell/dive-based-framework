@@ -1,0 +1,46 @@
+---
+kind: Daily Log
+date: 07/25/2025
+
+day_start:
+  wake: "09:30"
+  out_of_bed: "09:30"
+  core_sleep_last_night: "01:20-09:30"
+  energy: "slightly tired"
+
+meds: "Taken at 9:30"
+
+activities:
+  - time: "9:30-10"
+    type: "Routine"
+    description: "Morning Routine"
+  - time: "10:00-11:00"
+    type: "Work"
+    description: "Working Session, high social and high cognitive"
+  - time: "11:00-11:30"
+    type: "Recovery"
+    description: "BSW"
+  - time: "11:30-12:00"
+    type: "Exercise Dive"
+    description: "Running. The BSW motivated me to start the dive."
+  - time: "12:00-12:25"
+    type: "Recovery"
+    description: "Shower"
+  - time: "12:25-12:35"
+    type: "Stabilization"
+    description: "Light Housework"
+  - time: "12:35-17:05"
+    type: "Work Dive"
+    description: "Adaptively hyperfocused on the right task (some code). Much productivity"
+  - time: "17:05-19:00"
+    type: "Recovery"
+    description: "Relaxed on couch—listened to music, took a 30min snooze, cuddled, watched TV, had a snack"
+  - time: "19:00-03:15"
+    type: "Leisure"
+    description: "Reading"
+
+sleep:
+  in_bed_at: "12:30"
+  time: "03:30-09:30"
+  notes: "Solid sleep 3:30–6:30, then fragmented until 9:30. Room was hot overnight."
+
