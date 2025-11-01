@@ -4,17 +4,31 @@ kind: Daily Log
 
 day_start:
   sleep_last_night: 03:30-10:15
-  sleep_notes: No major disruptions but felt very cold overnight.
+  sleep_last_night_notes: "No major disruptions but felt very cold overnight."
   meds: 10:20
 
 activities:
-  - "10:20 Ensure meal during medication recovery period"
-  - "10:20 Status. Brain feels pressure—similar to pre-seizure feeling from past vaccine + dehydration episode, but less severe. Hydrated and drank Ensure. Thoughts foggy."
-  - "12:20 Satus. Still in bed. Feeling anxious."
-  - "13:30 Finished lunch"
-  - "17:00–19:15 SC2 ladder"
-  - "19:30 Cleaned cat puke"
+  - time: "10:20"
+    type: "Meal"
+    description: "Ensure meal during medication recovery period"
+  - time: "10:20"
+    type: "Status"
+    description: "Brain feels pressure—similar to pre-seizure feeling from past vaccine + dehydration episode, but less severe. Hydrated and drank Ensure. Thoughts foggy."
+  - time: "12:20"
+    type: "Status"
+    description: "Still in bed. Feeling anxious."
+  - time: "13:30"
+    type: "Meal"
+    description: "Finished lunch"
+  - time: "17:00–19:15"
+    type: "Gaming"
+    description: "SC2 ladder"
+  - time: "19:30"
+    type: "Chores"
+    description: "Cleaned cat puke"
+  - time: "23:00–03:30"
+    type: "Work"
+    description: "Version controlled and attempted to normalize DBF logs"
 
 reflections:
-  - "This day is part ofa  missed meds recovery arc. I missed a dose at 11am the previous day, so the beginning of this day is 24h after the missed dose."
-
+  - "This day is part of a missed meds recovery arc. I missed a dose at 11:00 a.m. the previous day, so the beginning of this day is 24 hours after the missed dose."

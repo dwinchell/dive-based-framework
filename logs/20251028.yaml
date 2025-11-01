@@ -4,7 +4,6 @@ kind: Daily Log
 
 day_start:
   sleep_last_night: 02:30-09:30
-  sleep_interruptions_last_night: 1 (woke at 06:30 by habit because car trained me)
-  breakfast: 10:20
+  sleep_last_night_notes: "Woke at 06:30 by habit because car trained me"
   meds: 10:30
 
