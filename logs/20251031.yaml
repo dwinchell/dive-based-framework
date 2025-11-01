@@ -26,7 +26,7 @@ activities:
   - time: "19:30"
     type: "Chores"
     description: "Cleaned cat puke"
-  - time: "23:00–04:00"
+  - time: "23:00–04:30"
     type: "Work"
     description: "Version controlled and attempted to normalize DBF logs"
 
