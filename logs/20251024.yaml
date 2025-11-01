@@ -8,13 +8,30 @@ day_start:
   meds: 11:00
 
 activities:
-- "13:00 lunch"
-- "13:00–14:00 co-wrote fantasy"
-- "14:00 caffeine"
-- "14:30–16:30 work"
-- "16:30–17:30 managed reading cravings"
-- "17:30 dinner"
-- "evening – cared for cats, gaming (≈6h total), 2 showers"
-- "00:00 call with wife"
-- "03:45. in bed"
-
+  - time: "13:00"
+    type: Meal
+    description: Lunch
+  - time: "13:00-14:00"
+    type: Writing
+    description: Co-wrote fantasy
+  - time: "14:00"
+    type: Caffeine
+    description: Caffeine
+  - time: "14:30-16:30"
+    type: Work
+    description: Work
+  - time: "16:30-17:30"
+    type: Reflection
+    description: Managed reading cravings
+  - time: "17:30"
+    type: Meal
+    description: Dinner
+  - time: "Evening"
+    type: Misc
+    description: Cared for cats, gaming (≈6h total), 2 showers
+  - time: "00:00"
+    type: Relational
+    description: Call with wife
+  - time: "03:45"
+    type: In Bed
+    description: In bed

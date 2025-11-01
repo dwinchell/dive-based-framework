@@ -3,8 +3,8 @@ kind: Daily Log
 date: 10/10/2025
 
 day_start:
-  sleep_last_night: 0320-0945
-  meds: 0945
+  sleep_last_night: "03:20-09:45"
+  meds: "09:45"
   energy: tired
 
 activities:

@@ -3,28 +3,65 @@ date: 10/8/2025
 kind: Daily Log
 
 day_start:
-  sleep_last_night: "0430-1050"
+  sleep_last_night: "04:30-10:50"
   energy: exhausted
-  meds: "1130"
+  meds: "11:30"
 
 activities:
-  - "1140-1430 Desk Work"
-  - "1215 Meal - breakfast"
-  - "1515 Maintenance - took cats to vet"
-  - "1615 Status - exhausted, nodding off in social situation; anxious about customer email"
-  - "1700-1720 Sleep - nap in car"
-  - "1700 Meal - dinner (McDonald's)"
-  - "1730-1750 Maintenance - cleaned cat puke"
-  - "1750-1810 Shower"
-  - "1810-1820 Relational - gave wife a massage"
-  - "1820-1945 Sleep - nap"
-  - "1915 Relational - intimacy"
-  - "2010-2100 Gaming - WoW Ultra Hardcore (planned immersion, recovery/dive), felt stimulated and relaxed"
-  - "2130 Maintenance - folded one basket of laundry"
-  - "2200-2230 Meal - supper (cooked and ate with wife)"
-  - "2230-2330 Relational - watched TV with wife"
-  - "2335-2355 Meditation - evening session"
-  - "0000-0110 Gaming - WoW Ultra Hardcore (successful planned immersion with 15% overage)"
-  - "0110-0130 Bedtime checklist - included breathing and stretching"
-  - "0130 in bed"
-
+  - time: "11:40-14:30"
+    type: Work
+    description: Desk work
+  - time: "12:15"
+    type: Meal
+    description: Breakfast
+  - time: "15:15"
+    type: Maintenance
+    description: Took cats to vet
+  - time: "16:15"
+    type: Status
+    description: Exhausted, nodding off in social situation; anxious about customer email
+  - time: "17:00-17:20"
+    type: Sleep
+    description: Nap in car
+  - time: "17:00"
+    type: Meal
+    description: Dinner (McDonald's)
+  - time: "17:30-17:50"
+    type: Maintenance
+    description: Cleaned cat puke
+  - time: "17:50-18:10"
+    type: Self Care
+    description: Shower
+  - time: "18:10-18:20"
+    type: Relational
+    description: Gave wife a massage
+  - time: "18:20-19:45"
+    type: Sleep
+    description: Nap
+  - time: "19:15"
+    type: Relational
+    description: Intimacy
+  - time: "20:10-21:00"
+    type: Gaming
+    description: WoW Ultra Hardcore (planned immersion, recovery/dive), felt stimulated and relaxed
+  - time: "21:30"
+    type: Maintenance
+    description: Folded one basket of laundry
+  - time: "22:00-22:30"
+    type: Meal
+    description: Supper (cooked and ate with wife)
+  - time: "22:30-23:30"
+    type: Relational
+    description: Watched TV with wife
+  - time: "23:35-23:55"
+    type: Meditation
+    description: Evening session
+  - time: "00:00-01:10"
+    type: Gaming
+    description: WoW Ultra Hardcore (successful planned immersion with 15% overage)
+  - time: "01:10-01:30"
+    type: Routine
+    description: Bedtime checklist (included breathing and stretching)
+  - time: "01:30"
+    type: In Bed
+    description: In bed

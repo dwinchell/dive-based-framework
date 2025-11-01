@@ -7,16 +7,43 @@ day_start:
   meds: 09:20
 
 activities:
-- "09:30 breakfast"
-- "09:30-10:30 psychiatrist"
-- "10:30-11:30 work – high anxiety, low cognitive"
-- "11:00 finished breakfast"
-- "13:30-15:00 lunch with sister, mother, and sister’s fiancé"
-- "14:00 caffeine – 1/4 cup coffee"
-- "16:15-17:15 nap"
-- "17:35 snack – protein bar"
-- "17:40–18:40 exercise dive – included 30 min running"
-- "19:15–23:15 work"
-- "19:30 dinner"
-- "00:30–02:30 watched a movie"
-- "02:30–03:20 YouTube in bed"
+  - time: "09:30"
+    type: Meal
+    description: Breakfast
+  - time: "09:30-10:30"
+    type: Appointment
+    description: Psychiatrist
+  - time: "10:30-11:30"
+    type: Work
+    description: High anxiety, low cognitive
+  - time: "11:00"
+    type: Meal
+    description: Finished breakfast
+  - time: "13:30-15:00"
+    type: Relational
+    description: Lunch with sister, mother, and sister’s fiancé
+  - time: "14:00"
+    type: Caffeine
+    description: 1/4 cup coffee
+  - time: "16:15-17:15"
+    type: Sleep
+    description: Nap
+  - time: "17:35"
+    type: Meal
+    description: Snack – protein bar
+  - time: "17:40-18:40"
+    type: Exercise
+    description: Exercise dive – included 30 min running
+  - time: "19:15-23:15"
+    type: Work
+    description: Work
+  - time: "19:30"
+    type: Meal
+    description: Dinner
+  - time: "00:30-02:30"
+    type: Media
+    description: Watched a movie
+  - time: "02:30-03:20"
+    type: Media
+    description: YouTube in bed
+

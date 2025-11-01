@@ -3,7 +3,7 @@ date: 10/2/2025
 kind: Daily Log
 
 day_start:
-  sleep_last_night: "4:00-8:30"
+  sleep_last_night: "04:00-8:30"
   energy: "exhausted"
   meds: "8:30"
 

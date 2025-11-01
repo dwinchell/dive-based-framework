@@ -1,5 +1,5 @@
 ---
-date: 2025-10-18
+date: 10/18/2025
 kind: Daily Log
 
 day_start:
@@ -7,11 +7,21 @@ day_start:
   meds: "13:00"
 
 activities:
-  - "14:00–15:00 Reflection – analyzed gaming habits and emotional/relational needs"
-  - "15:00–16:00 Creative – designed an AI RPG for you and your wife to explore emotional needs"
-  - "16:00–01:00 Gaming – played all evening and night until interrupted by cat"
-  - "01:00–02:30 Recovery – meditation, emotional processing, philosophical reflection, shower, bedtime checklist"
-  - "02:30 in bed"
+  - time: "14:00-15:00"
+    type: Reflection
+    description: Analyzed gaming habits and emotional/relational needs
+  - time: "15:00-16:00"
+    type: Creative
+    description: Designed an AI RPG for you and your wife to explore emotional needs
+  - time: "16:00-01:00"
+    type: Gaming
+    description: Played all evening and night until interrupted by cat
+  - time: "01:00-02:30"
+    type: Recovery
+    description: Meditation, emotional processing, philosophical reflection, shower, bedtime checklist
+  - time: "02:30"
+    type: Sleep
+    description: In bed
 
 reflections: 
   - " Mentally tending toward philosophy is a good sign of recovery. I tend to start doing it about three days after I stop working; this time it happened after 1.5 days, possibly accelerated by emotional processing.  Good recovery day overall — I feel better all around."

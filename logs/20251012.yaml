@@ -3,22 +3,42 @@ date: 10/12/2025
 kind: Daily Log
 
 day_start:
-  sleep_last_night: 0430-1000
+  sleep_last_night: "04:30-10:00"
   energy: tired
   sleep_last_night_notes: "in bed until 1200"
   notes: "rested in bed until noon, daydreaming"
 
 activities:
-  - 1200-1400 gaming - AI TTRPG session
-  - 1400-1430 relational - intimacy and short nap
-  - 1430-1530 gaming - WoW
-  - 1530-1610 recovery - lounged in bed, daydreaming
-  - 1610-1700 maintenance - hygiene and shower
-  - 1700-1740 gaming - WoW
-  - 1740-1840 maintenance - drove wife and in-law to event
-  - 1840-2200 gaming - AI TTRPG
-  - 2200-2230 relational - entertained in-law
-  - 2230-0000 gaming - AI TTRPG, finished session
+  - time: "12:00-14:00"
+    type: Gaming
+    description: AI TTRPG session
+  - time: "14:00-14:30"
+    type: Relational
+    description: Intimacy and short nap
+  - time: "14:30-15:30"
+    type: Gaming
+    description: WoW
+  - time: "15:30-16:10"
+    type: Recovery
+    description: Lounged in bed, daydreaming
+  - time: "16:10-17:00"
+    type: Maintenance
+    description: Hygiene and shower
+  - time: "17:00-17:40"
+    type: Gaming
+    description: WoW
+  - time: "17:40-18:40"
+    type: Maintenance
+    description: Drove wife and in-law to event
+  - time: "18:40-22:00"
+    type: Gaming
+    description: AI TTRPG
+  - time: "22:00-22:30"
+    type: Relational
+    description: Entertained in-law
+  - time: "22:30-00:00"
+    type: Gaming
+    description: AI TTRPG, finished session
 
 reflections:
   - This was a good recovery day. I spent all day in enjoyable fantasy-related activities (traditional gaming and AI TTRPGs) but was able to get to sleep early at 0100. My stress and fatigue were greatly reduced.

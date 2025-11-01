@@ -8,11 +8,24 @@ day_start:
   meds: "09:30"
 
 activities:
-  - 0930-1600 work - desk work
-  - 1150 breakfast
-  - 1500 snack
-  - 1600-1730 exercise - included 30min running
-  - 1730-1800 shower
-  - 1800-2030 relational - dinner with family
-  - 2030-2230 relational - time with wife, intimacy
-
+  - time: "09:30-16:00"
+    type: Work
+    description: Desk work
+  - time: "11:50"
+    type: Meal
+    description: Breakfast
+  - time: "15:00"
+    type: Meal
+    description: Snack
+  - time: "16:00-17:30"
+    type: Exercise
+    description: Included 30min running
+  - time: "17:30-18:00"
+    type: Maintenance
+    description: Shower
+  - time: "18:00-20:30"
+    type: Relational
+    description: Dinner with family
+  - time: "20:30-22:30"
+    type: Relational
+    description: Time with wife, intimacy

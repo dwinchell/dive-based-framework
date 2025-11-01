@@ -3,21 +3,47 @@ date: 10/17/2025
 kind: Daily Log
 
 day_start:
-  sleep: 04:20-10:00
-  meds: 10:10
+  sleep: "04:20-10:00"
+  meds: "10:10"
 
 activities:
-  - "10:00-14:30 Work"
-  - "10:15- Work - start of day"
-  - "10:20- Caffeine - 1 tbsp Red Bull"
-  - "10:35- Status - wired"
-  - "11:30- Meal - breakfast"
-  - "13:00- Meal - lunch"
-  - "13:00-17:00 Work"
-  - "17:30-18:45 Exercise - short run, lifted weights, thorough stretch"
-  - "18:45-19:45 Maintenance - trash, recycling, litter, shower, switched laundry over"
-  - "19:30- Stabilization - changed air filters to reduce dust in room"
-  - "19:45- Snack - PBJ"
-  - "20:15- Meal - pizza"
-  - "20:15-22:15 Sleep - nap"
+  - time: "10:00-14:30"
+    type: Work
+    description: Work
+  - time: "10:15"
+    type: Work
+    description: Start of day
+  - time: "10:20"
+    type: Caffeine
+    description: 1 tbsp Red Bull
+  - time: "10:35"
+    type: Status
+    description: Wired
+  - time: "11:30"
+    type: Meal
+    description: Breakfast
+  - time: "13:00"
+    type: Meal
+    description: Lunch
+  - time: "13:00-17:00"
+    type: Work
+    description: Work
+  - time: "17:30-18:45"
+    type: Exercise
+    description: Short run, lifted weights, thorough stretch
+  - time: "18:45-19:45"
+    type: Maintenance
+    description: Trash, recycling, litter, shower, switched laundry over
+  - time: "19:30"
+    type: Stabilization
+    description: Changed air filters to reduce dust in room
+  - time: "19:45"
+    type: Meal
+    description: Snack – PBJ
+  - time: "20:15"
+    type: Meal
+    description: Pizza
+  - time: "20:15-22:15"
+    type: Sleep
+    description: Nap
 

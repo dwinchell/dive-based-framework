@@ -4,13 +4,23 @@ kind: Daily Log
 
 day_start:
   sleep_last_night: 03:00-10:30
-  brief_wake: 07:45
+  sleep_last_night_notes: "brief_wake: 07:45"
   meds: 10:30
 
 activities:
-- "worked"
-- "intimacy"
-- "processed emotions"
-- "visual novel"
-- "02:00 - in bed"
+  - time: null
+    type: Work
+    description: Worked
+  - time: null
+    type: Relational
+    description: Intimacy
+  - time: null
+    type: Reflection
+    description: Processed emotions
+  - time: null
+    type: Media
+    description: Visual novel
+  - time: "02:00"
+    type: In Bed
+    description: In Bed
 

@@ -8,24 +8,64 @@ day_start:
   meds: Taken
 
 activities:
-  - "07:00-08:00 - sleep"
-  - "10:00–12:30 work – desk work, with sustain break at 11:40"
-  - "12:00–12:20 meal – breakfast (started 10:00, forgot until later)"
-  - "12:30 meal – lunch"
-  - "12:43–12:55 recovery – walk"
-  - "13:00–14:20 work – desk work"
-  - "14:15 status – mentally and physically exhausted; very stressed about workload, two upcoming deadlines, limited bandwidth, and frequent context switching today"
-  - "14:25 recovery – breathe and stretch"
-  - "14:30–15:30 sleep – nap"
-  - "16:00–16:45 work – desk work"
-  - "16:45 status – severe stress; nausea, chest tension, exhaustion"
-  - "16:45–17:45 exercise dive – 30m running"
-  - "18:30–19:00 maintenance – shower"
-  - "19:00–20:15 relational – couch time with wife, watched *Sandman*"
-  - "20:15 medication – 0.5mg Klonopin"
-  - "20:30–21:30 recovery – alone time, laid in bed"
-  - "21:45 status – anxiety eased, nausea and burning gone; exhaustion persists, no drive, craving fantasy escape but nothing appealing"
-  - "22:15–23:05 writing – planned immersion, successful session"
-  - "23:05–23:10 recovery – breathing, stretching, tea, self-check; still tired but feeling better, pleasant stimulated feeling"
-  - "23:10–02:00 writing – continued past intended stop; second break at 00:00, but got pulled into 2h unbounded immersion"
+  - time: "07:00-08:00"
+    type: Sleep
+    description: Sleep
+  - time: "10:00-12:30"
+    type: Work
+    description: Desk work, with sustain break at 11:40
+  - time: "12:00-12:20"
+    type: Meal
+    description: Breakfast (started 10:00, forgot until later)
+  - time: "12:30"
+    type: Meal
+    description: Lunch
+  - time: "12:43-12:55"
+    type: Recovery
+    description: Walk
+  - time: "13:00-14:20"
+    type: Work
+    description: Desk work
+  - time: "14:15"
+    type: Status
+    description: Mentally and physically exhausted; very stressed about workload, two upcoming deadlines, limited bandwidth, and frequent context switching today
+  - time: "14:25"
+    type: Recovery
+    description: Breathe and stretch
+  - time: "14:30-15:30"
+    type: Sleep
+    description: Nap
+  - time: "16:00-16:45"
+    type: Work
+    description: Desk work
+  - time: "16:45"
+    type: Status
+    description: Severe stress; nausea, chest tension, exhaustion
+  - time: "16:45-17:45"
+    type: Exercise
+    description: Exercise dive – 30m running
+  - time: "18:30-19:00"
+    type: Maintenance
+    description: Shower
+  - time: "19:00-20:15"
+    type: Relational
+    description: Couch time with wife, watched Sandman
+  - time: "20:15"
+    type: Medication
+    description: 0.5mg Klonopin
+  - time: "20:30-21:30"
+    type: Recovery
+    description: Alone time, laid in bed
+  - time: "21:45"
+    type: Status
+    description: Anxiety eased, nausea and burning gone; exhaustion persists, no drive, craving fantasy escape but nothing appealing
+  - time: "22:15-23:05"
+    type: Writing
+    description: Planned immersion, successful session
+  - time: "23:05-23:10"
+    type: Recovery
+    description: Breathing, stretching, tea, self-check; still tired but feeling better, pleasant stimulated feeling
+  - time: "23:10-02:00"
+    type: Writing
+    description: Continued past intended stop; second break at 00:00, but got pulled into 2h unbounded immersion
 

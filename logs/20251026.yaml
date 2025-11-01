@@ -7,13 +7,30 @@ day_start:
   meds: 12:00
 
 activities:
-- "12:00 breakfast"
-- "12:30–13:00 gaming – one StarCraft ladder game plus replay analysis"
-- "13:30–15:30 nap"
-- "15:30–16:45 rest in bed"
-- "laundry"
-- "BSW (breathe, stretch, walk)"
-- "anime"
-- "phone with wife"
-- "in_bed_at: 02:30"
-
+  - time: "12:00"
+    type: Meal
+    description: Breakfast
+  - time: "12:30-13:00"
+    type: Gaming
+    description: One StarCraft ladder game plus replay analysis
+  - time: "13:30-15:30"
+    type: Sleep
+    description: Nap
+  - time: "15:30-16:45"
+    type: Recovery
+    description: Rest in bed
+  - time: null
+    type: Maintenance
+    description: Laundry
+  - time: null
+    type: Recovery
+    description: BSW (breathe, stretch, walk)
+  - time: null
+    type: Media
+    description: Anime
+  - time: null
+    type: Relational
+    description: Phone with wife
+  - time: "02:30"
+    type: Sleep
+    description: In bed
