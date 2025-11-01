@@ -1,0 +1,20 @@
+---
+date: 9/8/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 3:00-9:45
+
+meds: 10:00
+
+activities:
+  - time: "10:00-17:15"
+    type: "Work"
+    description: "General work"
+  - time: "Evening-Night"
+    type: "Personal"
+    description: "Time with wife, intimacy, gaming (EVE)"
+
+sleep:
+  time: 2:50-10:00
+

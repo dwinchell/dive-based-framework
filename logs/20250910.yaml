@@ -1,0 +1,25 @@
+---
+date: 09/10/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 4:10-10
+  meds: 10
+
+activities:
+  - time: "10:30-17:00"
+    type: "Work"
+    description: ""
+  - time: "14:00-15:00"
+    type: "Rest"
+    description: "1 hour snooze in liminal state"
+  - time: "17:00-19:30"
+    type: "Misc"
+    description: "Dinner, time with wife, listened to music"
+  - time: "19:30-20:00"
+    type: "Nap"
+    description: ""
+
+sleep:
+  time: 4-10
+

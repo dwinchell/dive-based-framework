@@ -1,0 +1,39 @@
+---
+date: 09/03/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 4:00-9:40
+  out_of_bed: 9:45
+
+meds: taken at 10:15
+
+activities:
+  - time: "10:00-10:15"
+    type: "Morning Routine"
+    description: "Breathing exercises and stretching"
+  - time: "10:15"
+    type: "Medication"
+    description: "Meds taken, Energy drink 1 Tbsp (Red Bull)"
+  - time: "10:15-14:30"
+    type: "Work"
+    description: "Analysis, high cognitive, context switches, high EF, meetings, high social"
+  - time: "14:00"
+    type: "Status"
+    description: "Energy drink wearing off, tired from intense meetings, brain crashing"
+  - time: "14:30-16:00"
+    type: "Recovery"
+    description: "Including 1h15m nap"
+  - time: "16:00-17:00"
+    type: "Work"
+    description: "Meeting, high cognitive/social"
+  - time: "17:00"
+    type: "Sustain Break"
+    description: "Stretch and breathe"
+  - time: "17:05-17:30"
+    type: "Work"
+    description: "Meeting"
+
+sleep:
+  time: 3:40-10:00
+

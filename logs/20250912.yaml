@@ -1,0 +1,55 @@
+---
+date: 09/12/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 3:45-9:45
+  energy: exhausted
+
+meds:
+  taken_at: 12:30
+
+activities:
+  - time: "10:00-10:15"
+    type: "Work"
+    description: "Work"
+  - time: "10:15-11:00"
+    type: "Maintenance/Stabilization"
+    description: "Picked up glass, cleaned, reorganized desk area"
+  - time: "11:00-12:00"
+    type: "Work"
+    description: "Meeting with manager"
+  - time: "12:00-13:00"
+    type: "Break/Lunch"
+    description: "Break and lunch"
+  - time: "13:00-14:00"
+    type: "Work"
+    description: "Starlight"
+  - time: "14:00-16:00"
+    type: "Work"
+    description: "FRB"
+  - time: "16:00-17:15"
+    type: "Work"
+    description: "Work"
+  - time: "17:15-18:15"
+    type: "Break"
+    description: "Break"
+  - time: "18:15-18:20"
+    type: "Maintenance"
+    description: "Cleaning cat puke"
+  - time: "18:20-22:30"
+    type: "Social"
+    description: "Visit from in-laws"
+  - time: "22:30-23:30"
+    type: "Social"
+    description: "Time with wife, intimacy"
+  - time: "23:30-01:30"
+    type: "Gaming"
+    description: "Eve"
+  - time: "01:30-03:00"
+    type: "Misc"
+    description: "YouTube and ChatGPT in bed, skipped formal bedtime checklist"
+
+sleep:
+  time: 3:30-11:00
+

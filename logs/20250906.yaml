@@ -1,0 +1,36 @@
+---
+date: 09/06/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 11:00-17:30
+  note: nocturnal flip — sleep began at 11:00 in the morning after staying up all night
+  meds:
+    taken: 10:00
+
+activities:
+  - time: "10:00"
+    type: "Medication"
+    description: "1mg Klonopin taken"
+  - time: "17:30-18:00"
+    type: "Morning Routine"
+    description: "Basic routine after waking"
+  - time: "18:00-20:00"
+    type: "Dinner"
+    description: "Dinner out with wife"
+  - time: "20:30-22:00"
+    type: "Nap"
+    description: "Evening nap"
+  - time: "22:00-0:00"
+    type: "Couch Time"
+    description: "Watched TV with wife (Wednesday)"
+  - time: "00:00-01:00"
+    type: "Maintenance"
+    description: "Refilled pill organizer while listening to Nox Arcana, started laundry, cleaned litter, showered, brushed teeth, changed laundry over"
+  - time: "01:00-01:30"
+    type: "Sensory Reset"
+    description: "Listened to music with candle and incense"
+
+sleep:
+  time: 03:10-11:00
+
