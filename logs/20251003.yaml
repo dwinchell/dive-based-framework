@@ -2,12 +2,11 @@
 date: 10/3/2025
 kind: Daily Log
 
-summary:
-  sleep:
-    time: "01:20-10:00"
-    core_note: "Woke for 30m at 06:30"
+day_start:
+  sleep_last_night: "01:20-10:00"
+  sleep_last_night_note: "Woke for 30m at 06:30"
   meds: "10:00"
-  note: "10:40 out of bed"
+  notes: "10:40 out of bed"
 
 activities:
   - time: "10:00-10:40"

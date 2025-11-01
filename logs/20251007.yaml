@@ -2,11 +2,9 @@
 date: 10/07/2025
 kind: Daily Log
 
-sleep: 02:45-09:20
-meds: 09:45
-
-summary:
-  out_of_bed: 09:45
+day_start:
+  sleep_last_night: 02:45-09:20
+  meds: 09:45
   energy: exhausted
 
 activities:

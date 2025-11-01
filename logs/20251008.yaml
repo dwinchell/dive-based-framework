@@ -2,11 +2,10 @@
 date: 10/8/2025
 kind: Daily Log
 
-sleep:
-  time: "0430-1050"
+day_start:
+  sleep_last_night: "0430-1050"
   energy: exhausted
-
-meds: "1130"
+  meds: "1130"
 
 activities:
   - "1140-1430 Desk Work"
@@ -27,6 +26,5 @@ activities:
   - "2335-2355 Meditation - evening session"
   - "0000-0110 Gaming - WoW Ultra Hardcore (successful planned immersion with 15% overage)"
   - "0110-0130 Bedtime checklist - included breathing and stretching"
-
-in_bed_at: "0130"
+  - "0130 in bed"
 

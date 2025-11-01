@@ -2,8 +2,8 @@
 date: 10/4/2025
 kind: Daily Log
 
-summary:
-  sleep: "03:45-09:30"
+day_start:
+  sleep_last_night: "03:45-09:30"
   meds: "11:00"
 
 activities:

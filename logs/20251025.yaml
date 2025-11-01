@@ -1,11 +1,11 @@
 ---
 date: 10/25/2025
 kind: Daily Log
+
 day_start:
-  sleep_last_night: unspecified
-  wake_time: 10:00
-  interruptions: 1
+  sleep_last_night: "04:15-10:00"
   meds: 10:30
+
 activities:
 - "10:30 status – feel safe and comfortable due to low time pressure and physical comfort of bed; slight anxiety about lingering work, but feeling soothed"
 - "10:30–11:45 thought about philosophy"
@@ -20,6 +20,5 @@ activities:
 - "evening – cared for cats"
 - "talked to wife"
 - "watched SC2"
-sleep:
-  in_bed_at: 03:40
+- "in_bed_at: 03:40"
 

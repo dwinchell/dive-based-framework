@@ -7,20 +7,6 @@ day_start:
   energy: rested
   meds: 12:20
 
-meals:
-  - time: 13:00
-    type: breakfast
-  - time: 13:10
-    type: snack
-    description: protein bar
-  - time: 14:00
-    type: lunch
-  - time: 17:00
-    type: dinner
-    description: light meal, 1 slice of pizza
-  - time: 20:00-20:30
-    type: supper
-
 activities:
   - time: 1230-1400
     type: Gaming
@@ -44,8 +30,6 @@ activities:
     type: Gaming
     description: AI RPGs
 
-reflection: |
-  This was a recovery day. I did great during the day, using layered recovery including a planned immersion session. 
-  The evening got out of control with unbounded immersion and I stayed up too late playing AI RPGs. 
-  If I can introduce planned immersion to AI RPGs, it will help next time.
+reflections:
+  - "This was a recovery day. I did great during the day, using layered recovery including a planned immersion session. The evening got out of control with unbounded immersion and I stayed up too late playing AI RPGs. If I can introduce planned immersion to AI RPGs, it will help next time."
 

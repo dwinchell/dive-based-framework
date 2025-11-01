@@ -3,11 +3,8 @@ date: 10/19/2025
 kind: Daily Log
 
 day_start:
-  sleep:
-    time: "03:10–10:00"
-
-meds:
-  time: "11:15"
+  sleep_last_night: "03:10–10:00"
+  meds: "11:15"
 
 activities:
   - time: "10:30–11:00"
@@ -28,6 +25,7 @@ activities:
   - time: "14:10–14:40"
     type: "Gaming"
     description: "Infraspace"
+    notes: "Did APP. Completed about 6 rounds of standing up and doing maintenance activities."
   - time: "14:15–15:15"
     type: "Sleep"
     description: "Nap"
@@ -46,14 +44,10 @@ activities:
   - time: "22:15–00:20"
     type: "Gaming"
     description: "Infraspace"
-
-status:
   - time: "14:10"
+    type: "Status"
     description: "Averse; mood feels lower but I was productive"
   - time: "14:45"
+    type: "Status"
     description: "Feeling sleepy; attempting nap"
-
-notes:
-  - time: "14:10"
-    description: "During APP, completed about 6 rounds of standing up and doing maintenance activities."
 

@@ -1,10 +1,12 @@
 ---
 date: 10/23/2025
 kind: Daily Log
+
 day_start:
   sleep_last_night: 02:30-08:45
-  wake_reason: alarm
+  sleep_last_night_notes: woke due to alarm
   meds: 09:00
+
 activities:
 - "09:15–11:00 work"
 - "11:00–12:00 therapy"

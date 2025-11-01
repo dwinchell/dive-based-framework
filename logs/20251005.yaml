@@ -1,8 +1,8 @@
 ---
-kind: Daily Log
 date: 10/5/2025
+kind: Daily Log
 
-summary:
+day_start:
   sleep: "04:30-11:00"
   meds: "13:03"
 

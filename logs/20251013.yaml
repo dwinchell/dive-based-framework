@@ -1,13 +1,11 @@
 ---
-kind: Daily Log
 date: 10/13/2025
+kind: Daily Log
 
 day_start:
-  sleep:
-    in_bed_at: 0100
-    time: 0100-0730, 0800-0930
-    total_sleep: 8h
-  meds: 0930
+  sleep_last_night: "01:00-09:30"
+  sleep_last_night_notes: "Awake from 07:30-08:00"
+  meds: "09:30"
 
 activities:
   - 0930-1600 work - desk work

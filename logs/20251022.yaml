@@ -1,14 +1,16 @@
 ---
 date: 10/22/2025
 kind: Daily Log
+
 day_start:
   sleep_last_night: 03:00-10:30
   brief_wake: 07:45
   meds: 10:30
+
 activities:
 - "worked"
 - "intimacy"
 - "processed emotions"
 - "visual novel"
-sleep:
-  in_bed_at: 02:00
+- "02:00 - in bed"
+

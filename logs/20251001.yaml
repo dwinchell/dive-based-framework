@@ -2,7 +2,7 @@
 date: 10/01/2025
 kind: Daily Log
 
-summary:
+day_start:
   sleep_last_night: "04:30-10:15"
   energy: "Tired"
   meds: "12:15"

@@ -1,10 +1,12 @@
 ---
 date: 10/24/2025
 kind: Daily Log
+
 day_start:
   sleep_last_night: 02:30-10:30
-  interruptions: 2 (cats)
+  sleep_last_night_notes: "interruptions: 2 (cats)"
   meds: 11:00
+
 activities:
 - "13:00 lunch"
 - "13:00–14:00 co-wrote fantasy"
@@ -14,6 +16,5 @@ activities:
 - "17:30 dinner"
 - "evening – cared for cats, gaming (≈6h total), 2 showers"
 - "00:00 call with wife"
-sleep:
-  in_bed_at: 03:45
+- "03:45. in bed"
 

@@ -2,11 +2,8 @@
 kind: Daily Log
 date: 10/6/2025
 
-sleep:
-  time: "02:45-09:15"
-  core_sleep_duration: "6h30m"
-
-summary:
+day_start:
+  sleep_last_night: "02:45-09:15"
   meds: "10:45"
   energy: "tired"
   notes: "Total work time: 7h10m"

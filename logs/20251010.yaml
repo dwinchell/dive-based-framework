@@ -2,8 +2,8 @@
 kind: Daily Log
 date: 10/10/2025
 
-summary:
-  sleep: 0320-0945
+day_start:
+  sleep_last_night: 0320-0945
   meds: 0945
   energy: tired
 
@@ -130,5 +130,6 @@ activities:
     type: "Routine"
     description: "Bedtime checklist including breathing and stretching"
 
-reflection: "Three writing dives totaling 90 minutes, facing acute anxiety and aversion while deploying multiple coping skills (exercise, music, singing, gaming, relational check-ins). 2.7 hours of focused work total, including admin and meeting work, spanning from 1030–1530 (5 hours). Feeling weak but determined; fatigue is clearly a factor."
+reflections:
+  - "Three writing dives totaling 90 minutes, facing acute anxiety and aversion while deploying multiple coping skills (exercise, music, singing, gaming, relational check-ins). 2.7 hours of focused work total, including admin and meeting work, spanning from 1030–1530 (5 hours). Feeling weak but determined; fatigue is clearly a factor."
 

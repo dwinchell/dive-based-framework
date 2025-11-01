@@ -3,11 +3,10 @@ date: 10/12/2025
 kind: Daily Log
 
 day_start:
-  sleep: 0430-1000
-  wake_reason: none
+  sleep_last_night: 0430-1000
   energy: tired
-  in_bed_until: 1200
-  note: rested in bed until noon, daydreaming
+  sleep_last_night_notes: "in bed until 1200"
+  notes: "rested in bed until noon, daydreaming"
 
 activities:
   - 1200-1400 gaming - AI TTRPG session

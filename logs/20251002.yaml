@@ -5,7 +5,7 @@ kind: Daily Log
 day_start:
   sleep_last_night: "4:00-8:30"
   energy: "exhausted"
-  meds: "8:30?"
+  meds: "8:30"
 
 activities:
   - time: "09:00-16:00"
