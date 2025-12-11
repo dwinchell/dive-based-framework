@@ -3,6 +3,7 @@ name: Emition Integration Protocol (EIP)
 steps:
   - Name: Identify current and preceding emotions
   - Feel: Pause and allow the sensations to exist without distraction. Feel mental, emotional, and physical sensations. Remember to feel body.
+  - When: When is the first time i ever felt this?
   - Accept: Acknowledge them without judgment or suppression
   - Observe: Notice your behavioral or physiological responses
   - Contextualize: Understand situational or internal factors influencing your reaction
