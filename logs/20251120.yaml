@@ -1,0 +1,40 @@
+---
+date: 11/20/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "06:15-09:30"
+  sleep_last_night_notes: "Disrupted by late night AI TRPG gaming with romance themes"
+  meds: "10:00"
+
+activities:
+  - time: "10:00-11:00"
+    type: "Work"
+    description: "Work"
+  - time: "11:00-12:30"
+    type: "Therapy"
+    description: "Therapy"
+  - time: "12:30-16:00"
+    type: "Work"
+    description: "Work"
+  - time: "13:00"
+    type: "Meal"
+    description: "Lunch"
+  - time: "16:00"
+    type: "Meal"
+    description: "Dinner"
+  - time: "17:00"
+    type: "Relational"
+    description: "Emotional support from wife"
+  - time: "18:30-21:30"
+    type: "Sleep"
+    description: "Nap"
+  - time: "23:00"
+    type: "Relational"
+    description: "Intimacy"
+
+reflections: []
+
+checklist:
+  prayer_of_serenity: true
+

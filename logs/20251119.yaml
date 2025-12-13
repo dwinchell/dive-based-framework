@@ -1,0 +1,52 @@
+---
+date: 11/19/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "03:15-08:15"
+  meds: "10:00"
+  notes: "Klonopin taken at 09:45"
+
+activities:
+  - time: "10:30-11:00"
+    type: "Work"
+    description: "Work"
+  - time: "11:00-11:39"
+    type: "Gaming"
+    description: "AI TRPG"
+  - time: "11:00"
+    type: "Meal"
+    description: "Breakfast"
+  - time: "11:30-13:30"
+    type: "Sleep"
+    description: "Nap (half liminal)"
+  - time: "13:30-15:30"
+    type: "Work"
+    description: "Work"
+  - time: "14:00"
+    type: "Meal"
+    description: "Lunch"
+  - time: "16:30-17:30"
+    type: "Gaming"
+    description: "AI TRPG"
+  - time: "17:30-19:30"
+    type: "Relational"
+    description: "Time with wife (interleaved)"
+  - time: "17:30-19:30"
+    type: "Gaming"
+    description: "AI TRPG (interleaved)"
+  - time: "19:30"
+    type: "Meal"
+    description: "Dinner"
+  - time: "19:30-21:15"
+    type: "Sleep"
+    description: "Nap"
+
+checklist:
+  7_hours_core_sleep: false
+  breakfast_by_1100: true
+  lunch_by_1300: false
+  dinner_by_1900: false
+  vigorous_exercise: false
+  prayer_of_serenity: true
+
