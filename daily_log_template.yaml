@@ -1,0 +1,96 @@
+---
+# ------------------------------------------------------------
+# DAILY LOG – STANDARDIZED TEMPLATE (v3)
+# ------------------------------------------------------------
+# Conventions:
+# - All string values MUST be quoted to avoid parsing issues with colons and dashes.
+#   The only exceptions are the root `date` and `kind` fields, which are intentionally unquoted.
+# - Time format: "HH:MM" (24-hour). Ranges use "HH:MM-HH:MM".
+# - Descriptive / fuzzy times (e.g., "night", "evening") are allowed ONLY to preserve
+#   fuzziness already present in source data, not to invent new ambiguity.
+# - Date format: MM/DD/YYYY (e.g., 01/31/2025).
+# - Allowed top-level fields, in order:
+#     date, kind, day_start, activities, reflections, ai_insights, checklist
+# - date, kind, day_start, and activities are ALWAYS present. The rest are optional.
+# - The legacy top-level sleep field is deprecated.
+# - Core sleep is tracked on the day you WAKE UP.
+#   Examples:
+#     • "01:00-06:00" on Jan 1 → belongs to 01/01/2025.
+#     • "23:00 (Dec 31)-06:00 (Jan 1)" → also belongs to 01/01/2025.
+# - Core sleep time is logged in `day_start.sleep_last_night`.
+# - Notes about sleep quality, interruptions, or context go in
+#   `day_start.sleep_last_night_notes`.
+# - Meds are logged under `day_start.meds`.
+#   Valid values:
+#     • a time ("HH:MM")
+#     • "Taken" (time unknown)
+#     • "Missed" (with explanation in notes)
+# - “Out of bed” / “In bed” is handled as an activity entry, not in day_start.
+# ------------------------------------------------------------
+
+date: MM/DD/YYYY
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "HH:MM-HH:MM"
+  sleep_last_night_notes: "string" # optional
+  meds: "HH:MM"        # or "Taken" or "Missed"
+  energy: "string"     # optional
+  mood: "string"       # optional
+  notes: "string"      # optional. general notes about the start of the day.
+
+# ------------------------------------------------------------
+# Activities Section
+# ------------------------------------------------------------
+# - The activities field is a chronological list of what happened on this day.
+# - Each entry is a dictionary with required and optional fields.
+# - Required fields:
+#     • time:
+#         - "HH:MM" for a point in time
+#         - "HH:MM-HH:MM" for a duration
+#         - a descriptive string ONLY if the source data was already fuzzy
+#     • type:
+#         - A short category label (one or two words)
+#         - Intended to evolve over time
+#         - Do NOT use "Nap" as a type
+#           (naps are represented as type: "Sleep", description: "Nap")
+#     • description:
+#         - A human-friendly explanation of what happened
+# - Optional fields:
+#     • notes:
+#         - Commentary, metadata, or extended detail
+#     • tags:
+#         - Experimental, lightweight labels (e.g., "recovery", "dive")
+#
+# Common activity types include (non-exhaustive):
+#   "Meal", "Sleep", "Work", "Gaming", "Maintenance", "Relational",
+#   "Therapy", "Medication", "Status", "Planning", "Rest",
+#   "Stabilization", "Stimulus", "Misc", "InBed"
+#
+# Special cases:
+# - Meals:
+#     type: "Meal"
+#     description: "Breakfast" | "Lunch" | "Dinner" | etc.
+# - InBed:
+#     Used only to mark the time you got into bed.
+#     time MUST be a single timestamp, not a range.
+# ------------------------------------------------------------
+
+activities:
+  - time: "HH:MM"
+    type: "string"
+    description: "string"
+    notes: "string"        # optional
+    tags: ["string"]       # optional
+
+reflections:
+  - "string"
+
+ai_insights:
+  - "string"
+  - "string"
+
+checklist:
+  some_check: true
+  another_check: false
+

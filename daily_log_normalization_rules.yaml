@@ -1,0 +1,260 @@
+# Daily Log Normalization Rules
+
+These rules define how **raw daily logs** are transformed into the **canonical Daily Log schema (v3)**.
+
+Normalization is:
+
+* **Deterministic**
+* **Structure-preserving**
+* **Minimally interpretive**
+
+If a blocking condition is encountered, **normalization aborts**.
+
+---
+
+## 1. Preflight Validation (Hard Stop)
+
+### 1.1 Root Fields
+
+Before parsing content, inspect all **root-level fields**.
+
+### Allowed Root Fields (Ordered)
+
+1. `date` *(required)*
+2. `kind` *(required)*
+3. `day_start` *(required)*
+4. `activities` *(required)*
+5. `reflections` *(optional)*
+6. `ai_insights` *(optional)*
+7. `checklist` *(optional)*
+
+Rules:
+
+* Any **unexpected root field** → abort
+* Root fields must appear **in this order**
+* Optional fields are **omitted** if not present in source data
+* Empty optional fields may be preserved if explicitly present
+
+---
+
+### 1.2 Header Rules
+
+* `date` and `kind` **must not be quoted**
+* `kind` must equal exactly: `Daily Log`
+* `type` is invalid
+* Quoted `date` or `kind` → abort
+
+---
+
+## 2. `day_start` Normalization
+
+### Allowed Keys (Ordered)
+
+1. `sleep_last_night`
+2. `sleep_last_night_notes` *(optional; must immediately follow `sleep_last_night`)*
+3. `meds`
+4. `energy` *(optional)*
+5. `mood` *(optional)*
+6. `notes` *(optional)*
+
+Rules:
+
+* No other keys permitted under `day_start`
+* All time values **must be quoted**
+* `sleep_last_night` format: `"HH:MM-HH:MM"`
+* `meds` value may be:
+
+  * `"HH:MM"`
+  * `"Taken"`
+  * `"Missed"`
+* Core sleep is tracked on the **day you wake up**
+* Any legacy day-start data not fitting structured fields is folded into `day_start.notes`
+
+---
+
+## 3. `activities` Normalization
+
+### 3.1 Activity Shape
+
+Each activity entry must include **at minimum**:
+
+* `time`
+* `type`
+* `description`
+
+Optional fields:
+
+* `notes`
+* `tags`
+
+Extra fields are allowed **only** if explicitly listed above.
+
+---
+
+### 3.2 Time Normalization
+
+Preferred formats:
+
+* `"HH:MM"`
+* `"HH:MM-HH:MM"`
+
+Descriptive / fuzzy times (e.g., `"night"`, `"evening"`) are allowed **only if**:
+
+* They already appear in the source data
+* They are not invented during normalization
+
+Post-midnight times:
+
+* Are preserved as-is
+* Remain associated with the same day
+
+Ordering:
+
+* Activity order is preserved exactly
+* Overlaps and duplicate timestamps are allowed
+
+---
+
+### 3.3 Parsing Unstructured Activities
+
+When activities are provided as unstructured strings:
+
+1. Extract time or time range → `time`
+2. Extract primary category → `type`
+3. Remaining text → `description`
+
+If no descriptive remainder exists:
+
+* `description` duplicates `type`
+
+Example:
+
+```text
+"18:30-19:10. Sleep. Nap"
+→ type: "Sleep"
+→ description: "Nap"
+```
+
+---
+
+## 4. Activity Semantics Rules
+
+### Meals
+
+* `type` must be `"Meal"`
+* Meal name goes in `description`
+
+  * `"Breakfast"`, `"Lunch"`, `"Dinner"`, etc.
+
+---
+
+### Sleep and Naps
+
+* `type: "Sleep"`
+* Naps are represented via:
+
+  ```yaml
+  type: "Sleep"
+  description: "Nap"
+  ```
+* `Nap` is **not** a valid type
+
+---
+
+### InBed
+
+* `type: "InBed"`
+* Used only to mark the time you got into bed
+* `time` **must be a single timestamp**, not a range
+
+```yaml
+- time: "02:30"
+  type: "InBed"
+  description: "In bed"
+```
+
+---
+
+### Allowed Activity Types
+
+Permitted list:
+
+* `Work`
+* `Meal`
+* `Sleep`
+* `Gaming`
+* `Relational`
+* `Maintenance`
+* `Therapy`
+* `Medication`
+* `Status`
+* `Planning`
+* `Rest`
+* `Stabilization`
+* `Stimulus`
+* `InBed`
+
+If other types are encountered in the source data, abort parsing and report it
+
+---
+
+## 5. `checklist` Normalization
+
+Rules:
+
+* Values must be booleans in output
+* Emoji coercion:
+
+  * `✅` → `true`
+  * `❌` → `false`
+  * `❓` → `false`
+* Existing booleans are preserved
+* Keys are preserved verbatim
+* No semantic interpretation is performed
+
+---
+
+## 6. `reflections`
+
+* List of strings
+* Preserved verbatim
+* No structure inferred or added
+
+---
+
+## 7. `ai_insights`
+
+* List of strings
+* Preserved verbatim
+* Field name must be exactly `ai_insights`
+* Hyphenated variants are invalid
+
+---
+
+## 8. Abort Conditions (Mandatory)
+
+Normalization **must abort** if:
+
+* An unexpected root field is present
+* Root field order is violated
+* `day_start` contains invalid keys
+* `InBed` uses a duration
+* An activity in the source data has a type field that is not permitted and has no explicit rule for conversion
+
+---
+
+## 9. Explicit Non-Goals
+
+Normalization does **not**:
+
+* Interpret emotional content
+* Repair timelines
+* Merge or split activities
+* Infer missing data
+* Standardize taxonomy beyond explicit rules
+* Perform analysis or summarization
+
+## 10. Simple conversions
+* If the header is `type: Daily Log`, convert it to `kind: Daily Log`
+* If the top level date or kind fields have a quoted string, unquote it
+* If Nap is used as an activity type, use Sleep instead
