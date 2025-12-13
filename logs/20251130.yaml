@@ -1,0 +1,16 @@
+---
+date: 11/30/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "03:30-10:00"
+  meds: "12:30"
+
+activities:
+  - time: "10:30-11:30"
+    type: "Sleep"
+    description: "Nap"
+  - time: "17:30-20:00"
+    type: "Sleep"
+    description: "Nap"
+

@@ -1,0 +1,34 @@
+---
+date: 12/08/2025
+type: Daily Log
+
+day_start:
+  sleep_last_night: "04:15-10:30"
+  meds: "11:30"
+
+activities:
+  - time: "11:30"
+    type: "Meal"
+    description: "Breakfast"
+  - time: "11:50"
+    type: "Exercise"
+    description: "Stretch and breathe"
+  - time: "13:00-18:00"
+    type: "Work"
+    description: "Work"
+  - time: "14:10"
+    type: "Meal"
+    description: "Lunch"
+  - time: "18:00-19:00"
+    type: "Rest"
+    description: "Rest in bed"
+  - time: "19:00-20:00"
+    type: "Rest"
+    description: "Couch"
+  - time: "20:00-22:15"
+    type: "Sleep"
+    description: "Nap"
+  - time: "23:00-04:30"
+    type: "Gaming"
+    description: "Gaming"
+

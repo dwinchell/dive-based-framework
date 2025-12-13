@@ -1,0 +1,34 @@
+---
+date: 12/01/2025
+type: Daily Log
+
+day_start:
+  slept: "04:30-08:45"
+  meds: "10:15"
+
+activities:
+  - time: "08:45-09:45"
+    type: "Rest"
+    description: "Liminal state"
+  - time: "10:00-12:00"
+    type: "Work"
+    description: null
+  - time: "15:00-16:00"
+    type: "Work"
+    description: null
+  - time: "17:00-20:00"
+    type: "Sleep"
+    description: "Nap"
+  - time: "20:30-present"
+    type: "Work"
+    description: null
+
+checklist:
+  core_sleep_7h: false
+  meds: true
+  breakfast_by_11: false
+  lunch_by_1300: false
+  dinner_by_1900: false
+  vigorous_exercise: false
+  prayer_of_serenity: true
+

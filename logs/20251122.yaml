@@ -1,0 +1,37 @@
+---
+date: 11/22/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "02:45-06:00"
+  meds: "10:00"
+
+activities:
+  - time: "08:00"
+    type: "Self Care"
+    description: "Self care"
+  - time: "08:00-10:00"
+    type: "Gaming"
+    description: "AI RPG"
+  - time: "10:00-13:10"
+    type: "Sleep"
+    description: "Nap"
+  - time: "13:30-15:15"
+    type: "Relational"
+    description: "Cuddled wife"
+  - time: "15:15"
+    type: "Intimacy"
+    description: "Intimacy"
+  - time: "15:45"
+    type: "Status"
+    description: "Embodying Red; AI RPG, time with wife, music and shower helped"
+  - time: "16:00-20:00"
+    type: "Relational"
+    description: "Shopping with wife to celebrate her academic achievement"
+  - time: "21:00-22:30"
+    type: "Rest"
+    description: "Couch with wife"
+  - time: "23:00-03:00"
+    type: "Gaming"
+    description: "AI RPG"
+

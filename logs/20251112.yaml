@@ -1,0 +1,62 @@
+---
+date: 11/12/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "04:00-09:20"
+  meds: "09:20"
+  energy: "exhausted"
+
+activities:
+  - time: "10:30–12:00"
+    type: "sleep"
+    detail: "nap; still exhausted afterward"
+
+  - time: "12:15–20:00"
+    type: "work"
+    detail: "full day despite fatigue"
+
+  - time: "13:00"
+    type: "meal"
+    detail: "lunch"
+
+  - time: "17:00"
+    type: "meal"
+    detail: "dinner"
+
+  - time: "breakfast"
+    type: "meal"
+    detail: "skipped"
+
+  - time: "20:00–22:30"
+    type: "relational"
+    detail: "hang with wife"
+
+  - time: "22:30–23:00"
+    type: "maintenance"
+    detail: "trash, litter, shower"
+
+  - time: "23:00–23:30"
+    type: "relational"
+    detail: "time with wife"
+
+  - time: "23:29"
+    type: "status"
+    detail: "drowsy, starting to fall asleep before getting in bed"
+
+  - time: "23:30"
+    type: "in_bed"
+    detail: ""
+
+  - time: "23:45"
+    type: "medication"
+    detail: "5mg melatonin"
+
+  - time: "00:00"
+    type: "medication"
+    detail: "1mg Klonopin"
+
+  - time: "01:00"
+    type: "status"
+    detail: "still awake; tried to drift off with music but brain too active, likely from high stimulation before bed"
+

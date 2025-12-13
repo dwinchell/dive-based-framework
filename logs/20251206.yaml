@@ -1,0 +1,35 @@
+---
+date: 12/06/2025
+type: Daily Log
+
+day_start:
+  sleep_last_night: "03:00-12:00"
+  sleep_last_night_notes: "7 hours core sleep"
+  meds: "11:00"
+
+activities:
+  - time: "12:30"
+    activity: "Breakfast"
+    description: "Breakfast"
+  - time: "12:30-14:00"
+    activity: "Gaming"
+    description: "Gaming"
+  - time: "12:30-14:00"
+    activity: "Maintenance"
+    description: "APP: laundry, plastic, embodiment"
+  - time: "12:30"
+    activity: "Maintenance"
+    description: "Fix wobbly faucet (honeydo list)"
+  - time: "13:00"
+    activity: "Medicine"
+    description: "Pepto-Bismol for minor upset stomach (overindulgence; not worth)"
+  - time: "14:00"
+    activity: "Exercise"
+    description: "Breathe and stretch"
+  - time: "22:00-23:00"
+    activity: "Sleep"
+    description: "Nap"
+
+checklist:
+  prayer_of_serenity: true
+

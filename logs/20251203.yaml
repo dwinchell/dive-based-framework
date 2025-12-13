@@ -1,0 +1,54 @@
+---
+date: 12/03/2025
+type: Daily Log
+
+day_start:
+  sleep_last_night: "03:30-09:30"
+  meds: "10:15"
+
+activities:
+  - time: "10:00-16:00"
+    type: "Work"
+    description: "Work"
+  - time: "13:00"
+    type: "Meal"
+    description: "Lunch"
+  - time: "15:00-16:30"
+    type: "Vet"
+    description: "Vet"
+  - time: "16:30-17:15"
+    type: "Relational"
+    description: "Time with wife"
+  - time: "17:15"
+    type: "Intimacy"
+    description: "Intimacy"
+  - time: "17:15-18:45"
+    type: "Sleep"
+    description: "Nap"
+  - time: "19:20"
+    type: "Status"
+    description: "Exhausted"
+  - time: "19:30"
+    type: "Meal"
+    description: "Dinner"
+  - time: "19:45"
+    type: "BSW"
+    description: "Breathe, stretch, hydrate"
+  - time: "19:45-20:45"
+    type: "Work"
+    description: "Work"
+  - time: "21:00-23:00"
+    type: "Relational"
+    description: "Time with wife; spontaneous grocery shopping; ate ice cream and cake; sat on couch together"
+  - time: "23:00-01:45"
+    type: "Gaming"
+    description: "AI RPG"
+  - time: "01:45-02:15"
+    type: "Maintenance"
+    description: "Litter, shower, bedtime routine"
+  - time: "10:30"
+    type: "Maintenance"
+    description: "Cleaned cat puke and droppings; took out waste bag before maids arrived"
+
+checklist:
+  prayer_of_serenity: true

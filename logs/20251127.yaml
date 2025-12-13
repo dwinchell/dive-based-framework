@@ -1,0 +1,22 @@
+---
+date: 11/27/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "04:20-10:30"
+  meds: "11:00"
+
+activities:
+  - time: "12:00-20:00"
+    type: "Relational"
+    description: "Thanksgiving"
+  - time: "21:00-21:15"
+    type: "Sleep"
+    description: "Nap"
+  - time: "21:00"
+    type: "Intimacy"
+    description: "Intimacy"
+  - time: "22:30-04:30"
+    type: "Gaming"
+    description: "AI RPG"
+

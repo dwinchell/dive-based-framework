@@ -1,0 +1,22 @@
+---
+date: 11/29/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "0400-1000"
+  meds: "1030"
+
+activities:
+  - "Morning. Gaming. Ship Breaker"
+  - "1300. Said prayer of serenity"
+  - "Read all day until 0230"
+
+checklist:
+  7h_core_sleep: false
+  meds: true
+  breakfast_by_11: false
+  lunch_by_1300: false
+  dinner_by_1900: false
+  vigorous_exercise: false
+  prayer_of_serenity: true
+

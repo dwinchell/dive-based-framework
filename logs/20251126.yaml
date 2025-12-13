@@ -1,0 +1,39 @@
+---
+date: 11/26/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "02:30-10:00"
+  meds: "10:40"
+
+activities:
+  - time: "10:00-10:40"
+    type: "Rest"
+    description: "Liminal state"
+  - time: "12:00-14:15"
+    type: "Sleep"
+    description: "Nap"
+  - time: "14:15-14:45"
+    type: "Rest"
+    description: "Liminal state"
+  - time: "15:20"
+    type: "Meal"
+    description: "Lunch"
+  - time: "16:20-19:10"
+    type: "Sleep"
+    description: "Nap"
+  - time: "19:10-19:50"
+    type: "Rest"
+    description: "Liminal state"
+  - time: "22:00-03:00"
+    type: "Gaming"
+    description: "Shipbreaker"
+
+checklist:
+  7hr_core_sleep: true
+  meds: true
+  breakfast_by_1100: false
+  lunch_by_1300: false
+  dinner_by_1900: false
+  vigorous_exercise: false
+

@@ -1,0 +1,21 @@
+---
+date: 12/4/2025
+type: Daily Log
+
+day_start:
+  sleep_last_night: "03:00-06:30"
+
+activities:
+  - time: "0630-0830"
+    activity: "Rest"
+    description: "Rest in bed, some liminal state"
+  - time: "0830-0900"
+    activity: "Prep"
+    description: "Get ready for work"
+  - time: "0900-present"
+    activity: "Work"
+    description: "Work"
+  - time: "1630-1800"
+    activity: "Sleep"
+    description: "Nap"
+

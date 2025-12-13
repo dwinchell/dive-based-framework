@@ -1,0 +1,43 @@
+---
+date: 11/03/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "05:00-10:00"
+  meds: "10:00"
+
+activities:
+  - time: "10:00-12:50"
+    type: "Work"
+    description: "Work session"
+  - time: "11:00"
+    type: "Meal"
+    description: "Breakfast"
+  - time: "11:50"
+    type: "Meal"
+    description: "Lunch"
+  - time: "12:50-13:50"
+    type: "Recovery"
+    description: "Rested in bed"
+  - time: "13:50-15:10"
+    type: "Sleep"
+    description: "Nap"
+  - time: "15:30"
+    type: "Meal"
+    description: "Dinner"
+  - time: "15:50-17:00"
+    type: "Work"
+    description: "MVP prep for meeting tomorrow"
+  - time: "17:00-17:30"
+    type: "Gaming"
+    description: "V Rising"
+  - time: "17:30-18:30"
+    type: "Meal"
+    description: "Dinner"
+  - time: "18:30-19:30"
+    type: "Sleep"
+    description: "Nap"
+  - time: "22:30-01:45"
+    type: "Media"
+    description: "Anime"
+

@@ -1,0 +1,72 @@
+---
+date: 11/23/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "04:20-10:20"
+  meds: "10:30"
+
+activities:
+  - time: "10:30-12:15"
+    type: "Rest"
+    description: "Liminal; possibly some sleep"
+  - time: "12:15-13:29"
+    type: "Status"
+    description: "Fatigue discomfort; White for comfort; dopamine glow; light cleaning; significant OCD trigger; centering (White). Reached out to wife (Purple). Brief stronger Purple moment standing by her. Triggered—had to stop. Grounded with breathing + stretching (Red)."
+  - time: "14:00"
+    type: "Status"
+    description: "Fleeing into White (Dyson Sphere Program). Still heavily triggered. Tried grounding/meditation/stretch/breathing (Orange/Red/Black). Environment felt hostile—smells, trash, sink, old clothes, dust. Fatigue worsening reactivity. Planned to go somewhere safe; intended to tell wife."
+  - time: "14:00"
+    type: "Status"
+    description: "Mood dropping. Hungry; ate Lucky Charms. Only had an Ensure earlier. Avoiding kitchen due to triggers; garbage smell overwhelming."
+  - time: "14:00-15:30"
+    type: "Gaming"
+    description: "Dyson Sphere Program; White escape and relaxation. Wife entering room rebounded me into Red enough to go to restroom."
+  - time: "15:30"
+    type: "Status"
+    description: "Feeling a bit better; gaming helped"
+  - time: "15:30"
+    type: "Relational"
+    description: "Tried to cuddle wife but pulled back—her breath/shirt smell overwhelming; heightened smell sensitivity"
+  - time: "15:40"
+    type: "Medication"
+    description: "Klonopin 0.5mg"
+  - time: "15:40"
+    type: "Gaming"
+    description: "Dyson Sphere Program; resumed"
+  - time: "16:00"
+    type: "Meal"
+    description: "Lunch; wife made food to help me feel better"
+  - time: "17:00-21:00"
+    type: "Maintenance"
+    description: "Helped wife assemble furniture (relational; Red)"
+  - time: "19:50"
+    type: "Meal"
+    description: "Dinner (Chipotle)"
+  - time: "21:00-24:00"
+    type: "Gaming"
+    description: "Dyson Sphere Program"
+  - time: "24:00-00:15"
+    type: "Intimacy"
+    description: "Intimacy"
+  - time: "00:15-00:45"
+    type: "Maintenance"
+    description: "Litter, shower"
+  - time: "00:45-02:00"
+    type: "Gaming"
+    description: "Dyson Sphere Program"
+  - time: "02:00"
+    type: "Ritual"
+    description: "Prayer of Serenity"
+  - time: "02:30"
+    type: "InBed"
+    description: "In bed"
+
+checklist:
+  7_hours_core_sleep: false
+  meds: true
+  breakfast_by_1100: false
+  lunch_by_1300: false
+  dinner_by_1900: false
+  prayer_of_serenity: true
+

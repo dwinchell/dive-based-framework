@@ -1,0 +1,38 @@
+---
+date: 11/06/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 08:00-09:00
+  meds: 10:45
+
+activities:
+  - time: "09:30-09:50"
+    type: "Work"
+    description: "Called in sick"
+  - time: "11:00-12:00"
+    type: "Maintenance"
+    description: "Therapy appointment"
+  - time: "13:00"
+    type: "Medication"
+    description: "0.5mg Klonopin"
+  - time: "13:00-14:00"
+    type: "Recovery"
+    description: "Rested in bed"
+  - time: "14:00-18:00"
+    type: "Sleep"
+    description: "Nap"
+  - time: "21:00"
+    type: "Medication"
+    description: "Took Cyclobenzaprine 10mg"
+  - time: "21:15-21:30"
+    type: "Recovery"
+    description: "Listened to HFY stories on YouTube"
+  - time: "22:00"
+    type: "In Bed"
+    description: "Drowsy from Cyclobenzaprine, laying down. Slept ~9 hours through the night, earlier than typical sleep onset by 6+ hours."
+
+reflections:
+  - "This is a post-binge recovery day"
+  - "I stayed up all night last night because my SR was too low — I was tired, doing a lot of emotional regulation while trying to work, and in pain from a back spasm"
+

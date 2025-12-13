@@ -1,0 +1,38 @@
+---
+date: 11/04/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "04:00-09:30"
+  meds: "09:40"
+
+activities:
+  - time: "09:40-11:30"
+    type: "Work"
+    description: "Work session"
+  - time: "10:00"
+    type: "Meal"
+    description: "Breakfast"
+  - time: "12:30"
+    type: "Meal"
+    description: "Lunch"
+  - time: "15:00-16:00"
+    type: "Work"
+    description: "Work session"
+  - time: "17:00-17:30"
+    type: "Gaming"
+    description: "Gaming session"
+  - time: "17:30-19:30"
+    type: "Relational"
+    description: "Comforted wife"
+  - time: "21:30-02:45"
+    type: "Gaming"
+    description: "Gaming session"
+  - time: "03:00"
+    type: "In Bed"
+    description: "In bed"
+
+reflections:
+  - "Back spasm all day. Had to lay down repeatedly to recover."
+  - "Low productivity day caused by fatigue from late sleep onset."
+

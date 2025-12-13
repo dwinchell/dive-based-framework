@@ -1,0 +1,36 @@
+---
+date: 11/25/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "04:20-09:20"
+  meds: "10:00"
+
+activities:
+  - time: "10:00-14:00"
+    type: "Work"
+    description: "Work"
+  - time: "14:00-15:00"
+    type: "Therapy"
+    description: "Anger"
+  - time: "15:00-15:15"
+    type: "Break"
+    description: "Break"
+  - time: "15:15-16:00"
+    type: "Work"
+    description: "Work"
+  - time: "21:00"
+    type: "Relational"
+    description: "Talked to wife; told her I was angry"
+  - time: "00:00"
+    type: "Medication"
+    description: "Cyclobenzaprine 10mg"
+  - time: "01:15-01:45"
+    type: "Maintenance"
+    description: "Shower, litter"
+
+checklist:
+  prayer_of_serenity: true
+  meds: true
+  vigorous_exercise: false
+

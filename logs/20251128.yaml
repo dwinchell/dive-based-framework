@@ -1,0 +1,22 @@
+---
+date: 11/28/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "05:00-10:45"
+  meds: "11:15"
+
+activities:
+  - time: "11:30-17:00"
+    type: "Gaming"
+    description: "AI RPG"
+  - time: "17:00-18:00"
+    type: "Rest"
+    description: "Rest in bed"
+  - time: "18:00-03:40"
+    type: "Gaming"
+    description: "AI RPG; vacation binge; other things interleaved"
+
+reflections:
+  - "I gamed / wrote for about 16 of the last 24 hours."
+

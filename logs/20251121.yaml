@@ -1,0 +1,53 @@
+---
+date: 11/21/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "03:00-09:30"
+  sleep_last_night_notes: ""
+  meds: "10:30"
+
+activities:
+  - time: "09:30-10:30"
+    type: "Rest"
+    description: "Tried to relax and ground body"
+  - time: "10:30"
+    type: "Status"
+    description: "Upset stomach"
+  - time: "11:15"
+    type: "Meal"
+    description: "Breakfast"
+  - time: "11:15-17:15"
+    type: "Work"
+    description: "Work"
+  - time: "18:00-19:30"
+    type: "Sleep"
+    description: "Nap and cuddle wife"
+  - time: "19:30-20:00"
+    type: "Work"
+    description: "Work"
+  - time: "20:30-21:30"
+    type: "Maintenance"
+    description: "Replace cat litter"
+  - time: "21:30"
+    type: "Meal"
+    description: "Dinner"
+  - time: "22:00"
+    type: "Maintenance"
+    description: "Shower"
+  - time: "22:00-22:45"
+    type: "Relational"
+    description: "Cuddle wife"
+  - time: "22:45"
+    type: "Relational"
+    description: "Communicated to wife that I needed alone time"
+  - time: "22:45-01:40"
+    type: "Planning"
+    description: "Story planning"
+  - time: "02:15"
+    type: "Medication"
+    description: "Melatonin 5mg"
+
+checklist:
+  prayer_of_serenity: true
+

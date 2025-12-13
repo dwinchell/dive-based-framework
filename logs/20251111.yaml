@@ -1,0 +1,48 @@
+---
+date: 11/11/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 03:45-09:30
+  meds: 09:30
+  energy: "exhausted"
+  notes: "Exhausted because I stayed up watching anime. Felt drawn in around 00:00 and then kept watching too long."
+
+activities:
+  - time: "10:00-10:30"
+    type: "Work"
+    description: ""
+  - time: "10:30-11:50"
+    type: "Gaming"
+    description: "AI TRPG"
+  - time: "12:00-14:30"
+    type: "Work"
+    description: ""
+  - time: "14:30-15:15"
+    type: "Sleep"
+    description: "Nap"
+  - time: "15:15-18:15"
+    type: "Work"
+    description: ""
+  - time: "18:00"
+    type: "Meal"
+    description: "Dinner"
+  - time: "18:15-20:15"
+    type: "Gaming"
+    description: "StarCraft II"
+  - time: "20:15-20:30"
+    type: "Relational"
+    description: "Phone call with Dad"
+  - time: "20:30-22:45"
+    type: "Relational"
+    description: "Chatting and TV with wife (The Sandman)"
+  - time: "23:00-00:00"
+    type: "Exercise"
+    description: "Workout"
+  - time: "00:00-00:45"
+    type: "Maintenance"
+    description: "Shower and snack"
+  - time: "00:45-03:45"
+    type: "Gaming"
+    description: "AI TRPG"
+

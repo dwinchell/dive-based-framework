@@ -1,0 +1,29 @@
+---
+date: 12/13/2025
+type: Daily Log
+
+day_start:
+  sleep_last_night: "04:00-09:45"
+
+meds: "10:40"
+
+activities:
+  - time: "10:40-11:40"
+    activity: "Gaming"
+    description: "WoW Hardcore"
+  - time: "11:20"
+    activity: "Breakfast"
+    description: "Breakfast"
+  - time: "11:40-12:30"
+    activity: "Rest"
+    description: "Lay in bed"
+  - time: "12:30-13:30"
+    activity: "Sleep"
+    description: "Nap"
+  - time: "13:30-14:10"
+    activity: "Cuddle"
+    description: "Cuddle"
+
+checklist:
+  - prayer_of_serenity: true
+

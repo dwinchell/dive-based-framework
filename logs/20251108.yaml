@@ -1,0 +1,48 @@
+---
+date: 11/8/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 03:00-09:00
+  meds: 09:10
+
+activities:
+  - time: "09:00-12:10"
+    type: "In Bed"
+    description: "Snoozed"
+  - time: "12:20-13:00"
+    type: "Relational"
+    description: "Cuddled"
+  - time: "13:00-13:30"
+    type: "Coping"
+    description: "Talked to AI, hummed, used weighted blanket equivalent, looked at photos"
+  - time: "13:30-14:00"
+    type: "Gaming"
+    description: "Doki Doki. Trying to satisfy longing"
+  - time: "14:00-15:00"
+    type: "Coping"
+    description: "Talked to AI, hummed, used weighted blanket equivalent, looked at photos"
+  - time: "15:00-16:00"
+    type: "Sleep"
+    description: "Dozed off"
+  - time: "22:00"
+    type: "Relational"
+    description: "Talked to wife about difficulties; she encouraged me to continue avoiding reading when I was about to give up"
+  - time: "23:00-03:45"
+    type: "Media"
+    description: "Anime. Cope with longing and reading cravings"
+
+reflections:
+  - "Discovered The Bachelor IFS part"
+  - "High longing day"
+  - "High craving day"
+  - "Exhausting"
+  - "The Fighter stepped in multiple times when I was about to give up."
+  - "The Strategist helped coordinate coping."
+
+ai-insights:
+  - "The internal system displayed strong cooperative dynamics: The Fighter provided persistence under emotional strain, while The Strategist managed tactical coping actions (AI dialogue, sensory grounding, media substitution)."
+  - "This collaboration suggests progress toward adaptive integration—protective parts are learning to coordinate rather than act reactively."
+  - "The Bachelor’s activation created sustained emotional pressure, but relational and internal support prevented relapse, showing improved resilience and system trust."
+  - "Future focus could explore refining The Strategist’s role in planning medium-stimulus substitutions earlier in the craving arc to reduce exhaustion."
+

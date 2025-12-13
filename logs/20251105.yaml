@@ -1,0 +1,46 @@
+---
+date: 11/05/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "03:45-10:00"
+  meds: "10:20"
+
+activities:
+  - time: "10:00-13:30"
+    type: "Work"
+    description: "Work block"
+  - time: "10:00"
+    type: "Status"
+    description: "Still having back spasm, but it's getting better"
+  - time: "11:30"
+    type: "Meal"
+    description: "Breakfast"
+  - time: "11:45"
+    type: "Meal"
+    description: "Lunch"
+  - time: "13:30"
+    type: "Meal"
+    description: "Snack"
+  - time: "13:30"
+    type: "Status"
+    description: "Anxious and paralyzed about work; can't make progress"
+  - time: "13:30-14:00"
+    type: "Recovery"
+    description: "Rested in bed, listened to music, meditated. Helped with back spasm"
+  - time: "14:00-15:00"
+    type: "Sleep"
+    description: "Nap"
+  - time: "15:00-16:00"
+    type: "Recovery"
+    description: "Continued resting in bed"
+  - time: "16:00-19:15"
+    type: "Maintenance"
+    description: "Vet appointment and cleanup"
+  - time: "16:30"
+    type: "Status"
+    description: "Aggravated back spasm lifting cat carriers"
+  - time: "19:15-19:45"
+    type: "Maintenance"
+    description: "Shower and hygiene tasks"
+

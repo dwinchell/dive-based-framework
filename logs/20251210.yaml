@@ -1,0 +1,52 @@
+---
+date: 12/10/2025
+type: Daily Log
+
+day_start:
+  sleep_last_night: "05:00-10:30"
+  sleep_last_night_notes: |
+    Stopped gaming at 03:30. Couldn't settle down.
+    AI chat kept brain spinning.
+  meds: "11:00"
+
+activities:
+  - time: "10:30-11:15"
+    type: "Work"
+    description: "Work"
+  - time: "11:15-13:00"
+    type: "Gaming"
+    description: "Gaming"
+  - time: "13:15"
+    type: "Lunch"
+    description: "Lunch"
+  - time: "13:45-14:45"
+    type: "Sleep"
+    description: "Nap"
+  - time: "16:00-17:00"
+    type: "Work"
+    description: "Work"
+  - time: "18:30-19:30"
+    type: "Work"
+    description: "Work"
+  - time: "20:00-21:15"
+    type: "Gaming"
+    description: "Guild Wars Reforged, 3 loops"
+  - time: "00:30"
+    type: "Shower"
+    description: "Shower"
+  - time: "00:30"
+    type: "Bedtime checklist"
+    description: "Bedtime checklist"
+  - time: "00:30-01:30"
+    type: "Rest"
+    description: "Lay in bed with eyes closed"
+  - time: "01:30"
+    type: "Medication"
+    description: "Melatonin"
+  - time: "02:00"
+    type: "Awake"
+    description: "Still awake"
+  - time: "02:00-04:45"
+    type: "Media"
+    description: "YouTube"
+

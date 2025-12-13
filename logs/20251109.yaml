@@ -1,0 +1,38 @@
+---
+date: 11/9/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: 04:15-09:15
+  sleep_extension: 09:15-11:00
+  meds: Missed
+
+activities:
+  - time: "12:10"
+    type: "Meal"
+    description: "Breakfast"
+  - time: "12:45-13:45"
+    type: "Gaming"
+    description: "SC2"
+  - time: "13:45-14:30"
+    type: "Maintenance"
+    description: "Switched laundry, cleaned litter, showered"
+  - time: "14:30-15:30"
+    type: "Rest"
+    description: "Snoozed; partial sleep and liminal state"
+  - time: "15:30-17:45"
+    type: "Relational"
+    description: "Helped wife with homework"
+  - time: "17:45-22:15"
+    type: "Relational"
+    description: "Visited friends"
+  - time: "22:15-23:00"
+    type: "Relational"
+    description: "Helped wife with homework"
+  - time: "23:00-03:30"
+    type: "Media"
+    description: "Watched anime"
+
+reflections:
+  - "Reading craving and longing feelings are better today. Just barely an awareness in the back of my head. Staying focused on other things. Avoiding extensive analysis or reflection that might retrigger them."
+

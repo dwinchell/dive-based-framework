@@ -1,0 +1,52 @@
+---
+date: 11/24/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "03:00-09:30"
+  meds: "11:00"
+
+activities:
+  - time: "11:00"
+    type: "Meal"
+    description: "Breakfast"
+  - time: "11:30"
+    type: "Caffeine"
+    description: "1 cup green tea"
+  - time: "11:55"
+    type: "Status"
+    description: "Feeling the caffeine"
+  - time: "11:00-14:10"
+    type: "Work"
+    description: "Work"
+  - time: "14:10-14:30"
+    type: "BSW"
+    description: "BSW"
+  - time: "14:30-15:30"
+    type: "Work"
+    description: "Work"
+  - time: "15:30-16:00"
+    type: "Gaming"
+    description: "AI RPG"
+  - time: "16:00-16:30"
+    type: "Relational"
+    description: "Cuddle"
+  - time: "16:30-17:00"
+    type: "Intimacy"
+    description: "Intimacy"
+  - time: "17:00-17:30"
+    type: "Meal"
+    description: "Dinner with wife"
+  - time: "17:50-18:30"
+    type: "Relational"
+    description: "Cuddle"
+  - time: "18:30-19:10"
+    type: "Sleep"
+    description: "Nap"
+  - time: "19:10-04:00"
+    type: "Media"
+    description: "HFY stories (White, Purple)"
+
+checklist:
+  said_prayer_of_serenity: true
+

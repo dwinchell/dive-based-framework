@@ -1,0 +1,46 @@
+---
+date: 11/10/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "03:45-09:30"
+  meds: "11:15"
+
+activities:
+  - time: "10:30"
+    type: "Maintenance"
+    description: "Refilled pill organizer"
+  - time: "10:30-12:30"
+    type: "Work"
+    description: ""
+  - time: "11:00"
+    type: "Meal"
+    description: "Breakfast"
+  - time: "12:30-14:00"
+    type: "Media"
+    description: "Anime"
+  - time: "14:00-15:30"
+    type: "Work"
+    description: ""
+  - time: "15:30"
+    type: "Meal"
+    description: "Snack. Protein bar."
+  - time: "15:30-16:25"
+    type: "Rest"
+    description: "Snoozed"
+  - time: "16:25-17:10"
+    type: "Work"
+    description: ""
+  - time: "18:30"
+    type: "Meal"
+    description: "Dinner"
+  - time: "18:30-20:00"
+    type: "Relational"
+    description: "Help wife with homework"
+  - time: "20:30-22:30"
+    type: "Media"
+    description: "TV with wife"
+  - time: "23:00-03:30"
+    type: "Media"
+    description: "Anime"
+
