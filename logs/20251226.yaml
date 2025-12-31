@@ -1,0 +1,25 @@
+---
+date: "12/26/2025"
+kind: "Daily Log"
+
+day_start:
+  sleep_last_night: "06:00-12:00"
+  sleep_last_night_notes: ""
+  meds: "12:45"
+
+activities:
+  - time: "21:00"
+    type: "Medication"
+    description: "Muscle relaxant."
+
+  - time: "23:00"
+    type: "Gaming"
+    description: "Diablo II."
+
+  - time: "23:30"
+    type: "Status"
+    description: "Bad back spasm ongoing since ~20:00; triggered by pulling up pants. Significant discomfort and movement limitation."
+
+  - time: "23:30"
+    type: "Rest"
+    description: "Laying flat with heating pad on back for muscle spasm relief."
