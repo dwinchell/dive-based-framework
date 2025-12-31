@@ -1,100 +1,77 @@
 ---
-date: 12/22/2025
-kind: Daily Log
-
+date: "12/22/2025"
+kind: "Daily Log"
 day_start:
   sleep_last_night: "04:00-10:00"
+  sleep_last_night_notes: ""
   meds: "10:00"
-
 activities:
   - time: "10:30-12:40"
     type: "Work"
     description: "Background check paperwork"
-
   - time: "12:00"
     type: "Meal"
     description: "Breakfast"
-
   - time: "12:40-14:05"
     type: "Maintenance"
     description: "Chores and life admin"
-
   - time: "14:05"
     type: "Status"
     description: "Low on SR"
-
   - time: "14:05-14:30"
     type: "Maintenance"
     description: "Shower"
-
   - time: "14:30"
     type: "Status"
     description: "Hungry; got distracted and waited too long; feel weak"
-
   - time: "14:35"
     type: "Meal"
     description: "Snack"
-
   - time: "14:40"
     type: "Maintenance"
     description: "Ordered food (Chipotle)"
-
   - time: "14:40-15:10"
     type: "Maintenance"
     description: "Dive-based planning"
-
   - time: "15:10-15:20"
     type: "Rest"
     description: "Laid down"
-
   - time: "15:35"
     type: "Meal"
     description: "Dinner"
-
   - time: "15:40-17:40"
     type: "Sleep"
     description: "Nap (successful)"
-
   - time: "18:55-19:55"
     type: "Gaming"
     description: "SC2 (early session); intentionally didn't queue up one last time due to running hot"
-
   - time: "19:55-22:00"
     type: "Relational"
     description: "TV with wife (Wednesday and cartoon); high stimulation"
-
   - time: "22:00-23:07"
     type: "Gaming"
     description: "SC2 (nightly session)"
-
   - time: "23:10-23:55"
     type: "Relational"
     description: "Couch time"
-
   - time: "23:30"
     type: "Meal"
     description: "Snack (ramen)"
-
   - time: "23:30-23:55"
     type: "Relational"
     description: "Cartoon with wife"
-
   - time: "00:00-00:50"
     type: "Maintenance"
     description: "Laundry, litter, shower"
-
   - time: "00:50-01:25"
     type: "Misc"
     description: "Sit with music, slow bedtime checklist, pet cat"
-
   - time: "01:25-01:55"
     type: "Meditation"
     description: "Meditation"
-
   - time: "02:00"
     type: "In Bed"
     description: "In bed"
-
   - time: "02:30"
     type: "Medication"
     description: "Melatonin"
