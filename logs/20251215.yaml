@@ -1,0 +1,18 @@
+---
+date: "12/15/2025"
+kind: "Daily Log"
+day_start:
+  sleep_last_night: "05:15-09:45"
+  sleep_last_night_notes: ""
+  meds: "11:00"
+activities:
+  - time: "10:00-11:15"
+    type: "Work"
+    description: "Work"
+  - time: "11:30-03:00"
+    type: "Gaming"
+    description: "AI RPG; primary activity, frequently interrupted by cuddling, dinner, showers, and brief maintenance"
+  - time: "21:00"
+    type: "Maintenance"
+    description: "Plunged toilet, cleaned litter, showered, laundry"
+
