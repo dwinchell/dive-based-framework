@@ -1,0 +1,14 @@
+---
+date: "12/25/2025"
+kind: "Daily Log"
+day_start:
+  sleep_last_night: "03:00-10:00"
+  sleep_last_night_notes: "Brief wake at 08:00"
+  meds: "10:15"
+activities:
+  - time: "13:00-21:00"
+    type: "Relational"
+    description: "Christmas visit to mom’s with wife."
+  - time: "20:00-05:40"
+    type: "Gaming"
+    description: "Extended gaming session (AI RPG)."
