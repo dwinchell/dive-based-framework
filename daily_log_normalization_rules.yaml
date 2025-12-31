@@ -161,15 +161,15 @@ Example:
 
 ---
 
-### InBed
+### In Bed
 
-* `type: "InBed"`
+* `type: "In Bed"`
 * Used only to mark the time you got into bed
 * `time` **must be a single timestamp**, not a range
 
 ```yaml
 - time: "02:30"
-  type: "InBed"
+  type: "In Bed"
   description: "In bed"
 ```
 
@@ -192,7 +192,9 @@ Permitted list:
 * `Rest`
 * `Stabilization`
 * `Stimulus`
-* `InBed`
+* `In Bed`
+* `Reading`
+* `Coding`
 
 If other types are encountered in the source data, abort parsing and report it
 
