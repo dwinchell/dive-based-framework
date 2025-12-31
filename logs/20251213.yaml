@@ -1,29 +1,42 @@
 ---
-date: 12/13/2025
-type: Daily Log
-
+date: "12/13/2025"
+kind: "Daily Log"
 day_start:
   sleep_last_night: "04:00-09:45"
-
-meds: "10:40"
-
+  sleep_last_night_notes: ""
+  meds: "10:40"
 activities:
   - time: "10:40-11:40"
-    activity: "Gaming"
+    type: "Gaming"
     description: "WoW Hardcore"
   - time: "11:20"
-    activity: "Breakfast"
+    type: "Meal"
     description: "Breakfast"
   - time: "11:40-12:30"
-    activity: "Rest"
+    type: "Rest"
     description: "Lay in bed"
   - time: "12:30-13:30"
-    activity: "Sleep"
+    type: "Sleep"
     description: "Nap"
   - time: "13:30-14:10"
-    activity: "Cuddle"
+    type: "Relational"
     description: "Cuddle"
-
-checklist:
-  - prayer_of_serenity: true
+  - time: "14:10-16:30"
+    type: "Planning"
+    description: "Normalized and version-controlled daily logs; updated schema and normalization rules"
+  - time: "16:30-22:00"
+    type: "Relational"
+    description: "Friendsgiving party"
+  - time: "22:00-23:20"
+    type: "Media"
+    description: "YouTube on couch"
+  - time: "23:20-02:00"
+    type: "Gaming"
+    description: "Gaming"
+  - time: "03:00"
+    type: "In Bed"
+    description: "In Bed"
+  - time: "03:00-05:00"
+    type: "Gaming"
+    description: "AI gaming on phone; difficulty stopping—too much pull, not enough seams; lingers in thoughts, continual urge to write the next prompt"
 
