@@ -1,0 +1,61 @@
+---
+date: "12/27/2025"
+kind: "Daily Log"
+
+day_start:
+  sleep_last_night: "01:00-10:45"
+  sleep_last_night_notes: ""
+  meds: "12:45"
+
+activities:
+  - time: "11:00-12:00"
+    type: "Sleep"
+    description: "Nap"
+
+  - time: "12:00"
+    type: "Status"
+    description: "Back spasm still active."
+
+  - time: "13:00"
+    type: "Meal"
+    description: "Breakfast"
+
+  - time: "13:00-15:30"
+    type: "Maintenance"
+    description: "Cleaned and packed"
+
+  - time: "15:30"
+    type: "Meal"
+    description: "Lunch"
+
+  - time: "15:30"
+    type: "Medication"
+    description: "Muscle relaxant"
+
+  - time: "15:30-16:00"
+    type: "Maintenance"
+    description: "Drove in car"
+
+  - time: "16:14-19:00"
+    type: "Sleep"
+    description: "Nap"
+
+  - time: "19:00-20:00"
+    type: "Rest"
+    description: "Snoozed; liminal state between sleep and wakefulness"
+
+  - time: "20:05-21:20"
+    type: "Gaming"
+    description: "Diablo II; played until next waypoint activation; wife came home during this period; back spasming"
+
+  - time: "21:20"
+    type: "Status"
+    description: "Reflection: Successfully executed a limited gaming dive with Diablo II, using a waypoint as a deliberate seam to stop immersion before dissociation (~1.5h duration). Two soft external bounding factors were present, so this is not a clean internal-control case study. Counts as successful Externally Bounded Immersion."
+
+  - time: "01:30"
+    type: "Medication"
+    description: "Cyclobenzaprine 10 mg (muscle relaxant)"
+
+  - time: "01:30-04:00"
+    type: "Gaming"
+    description: "Mind Over Magic"
