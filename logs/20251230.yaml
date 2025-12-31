@@ -37,7 +37,7 @@ activities:
     description: "Nap with wife."
 
   - time: "00:20-03:45"
-    type: "Creative"
+    type: "Coding"
     description: "Developed personal tracking app for Dive Based Framework."
 
   - time: "03:45-04:10"
