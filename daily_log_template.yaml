@@ -62,10 +62,26 @@ day_start:
 #     • tags:
 #         - Experimental, lightweight labels (e.g., "recovery", "dive")
 #
-# Common activity types include (non-exhaustive):
-#   "Meal", "Sleep", "Work", "Gaming", "Maintenance", "Relational",
-#   "Therapy", "Medication", "Status", "Planning", "Rest",
-#   "Stabilization", "Stimulus", "Misc", "In Bed", "Reading", "Coding"
+# Allowed activity types include:
+# 
+# Coding
+# Gaming
+# In Bed
+# Maintenance
+# Meal
+# Medication
+# Meditation
+# Planning
+# Reading
+# Recovery
+# Relational
+# Rest
+# Sleep
+# Stabilization
+# Status
+# Stimulus
+# Therapy
+# Work
 #
 # Special cases:
 # - Meals:

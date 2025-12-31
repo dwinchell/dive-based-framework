@@ -30,10 +30,11 @@ Before parsing content, inspect all **root-level fields**.
 
 Rules:
 
-* Any **unexpected root field** → abort
 * Root fields must appear **in this order**
 * Optional fields are **omitted** if not present in source data
 * Empty optional fields may be preserved if explicitly present
+* If a 'meds' field appears at the root, move it under `day_start`
+* Any other **unexpected root field** → abort
 
 ---
 
@@ -87,7 +88,10 @@ Optional fields:
 * `notes`
 * `tags`
 
-Extra fields are allowed **only** if explicitly listed above.
+
+Rules:
+* Extra fields are allowed **only** if explicitly listed above.
+* If there is an `activity` field in each list item, convert them to `type`, but only if `description` fields are also present. If an `activity` field is present on a list entry but without a `description` field - *abort*.
 
 ---
 
@@ -179,22 +183,24 @@ Example:
 
 Permitted list:
 
-* `Work`
-* `Meal`
-* `Sleep`
-* `Gaming`
-* `Relational`
-* `Maintenance`
-* `Therapy`
-* `Medication`
-* `Status`
-* `Planning`
-* `Rest`
-* `Stabilization`
-* `Stimulus`
-* `In Bed`
-* `Reading`
-* `Coding`
+* Coding
+* Gaming
+* In Bed
+* Maintenance
+* Meal
+* Medication
+* Meditation
+* Planning
+* Reading
+* Recovery
+* Relational
+* Rest
+* Sleep
+* Stabilization
+* Status
+* Stimulus
+* Therapy
+* Work
 
 If other types are encountered in the source data, abort parsing and report it
 
