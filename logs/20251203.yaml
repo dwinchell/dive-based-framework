@@ -1,20 +1,22 @@
 ---
-date: 12/03/2025
-kind: Daily Log
-
+date: "12/03/2025"
+kind: "Daily Log"
 day_start:
   sleep_last_night: "03:30-09:30"
+  sleep_last_night_notes: ""
   meds: "10:15"
-
 activities:
   - time: "10:00-16:00"
     type: "Work"
     description: "Work"
+  - time: "10:30"
+    type: "Maintenance"
+    description: "Cleaned cat puke and droppings; took out waste bag before maids arrived"
   - time: "13:00"
     type: "Meal"
     description: "Lunch"
   - time: "15:00-16:30"
-    type: "Vet"
+    type: "Maintenance"
     description: "Vet"
   - time: "16:30-17:15"
     type: "Relational"
@@ -32,8 +34,8 @@ activities:
     type: "Meal"
     description: "Dinner"
   - time: "19:45"
-    type: "BSW"
-    description: "Breathe, stretch, hydrate"
+    type: "Exercise"
+    description: "BSW - Breathe, stretch, walk"
   - time: "19:45-20:45"
     type: "Work"
     description: "Work"
@@ -46,7 +48,4 @@ activities:
   - time: "01:45-02:15"
     type: "Maintenance"
     description: "Litter, shower, bedtime routine"
-  - time: "10:30"
-    type: "Maintenance"
-    description: "Cleaned cat puke and droppings; took out waste bag before maids arrived"
 

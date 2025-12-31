@@ -4,7 +4,7 @@ kind: "Daily Log"
 day_start:
   sleep_last_night: "05:15-09:45"
   sleep_last_night_notes: ""
-  meds: "09:45 (uncertain)"
+  meds: "09:45"
 activities:
   - time: "09:45"
     type: "Status"

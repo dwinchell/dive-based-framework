@@ -1,11 +1,10 @@
 ---
-date: 12/11/2025
-kind: Daily Log
-
+date: "12/11/2025"
+kind: "Daily Log"
 day_start:
   sleep_last_night: "05:30-09:45"
+  sleep_last_night_notes: ""
   meds: "11:00"
-
 activities:
   - time: "10:00-11:00"
     type: "Work"
@@ -41,6 +40,6 @@ activities:
     type: "EIP"
     description: "Name: tired, anxious. Feel: cold feeling in core for anxiety. Heaviness and pain in head and trunk for fatigue. When: anxiety similar to pre–martial arts test at age 9; appeared in 2020s without clear trigger. Observe: lying in bed after dream; dream involved multiple romantic relationships influenced by bar social situations. Adjust: accept wishing things were different; continue supporting wife's confidence; talk to her about one moment."
   - time: "04:00-05:00"
-    activity: "Daydream"
+    type: "Status"
     description: "Floating/thinking/getting ready for bed; sat at computer looking at game launcher and characters without playing; anxiety subsided until refocused; possible mild dissociation; time felt later than expected"
 

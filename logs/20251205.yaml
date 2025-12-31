@@ -1,22 +1,18 @@
 ---
-date: 12/05/2025
-kind: Daily Log
-
+date: "12/05/2025"
+kind: "Daily Log"
 day_start:
   sleep_last_night: "05:00-10:00"
+  sleep_last_night_notes: ""
   meds: "10:15"
-
 activities:
   - time: "12:00"
-    activity: "Breakfast"
+    type: "Meal"
     description: "Breakfast"
   - time: "15:30"
-    activity: "Lunch"
+    type: "Meal"
     description: "Lunch"
   - time: "17:30-19:00"
-    activity: "Sleep"
+    type: "Sleep"
     description: "Nap"
-
-checklist:
-  said_prayer_of_serenity: true
 

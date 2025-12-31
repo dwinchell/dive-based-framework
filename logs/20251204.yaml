@@ -1,21 +1,21 @@
 ---
-date: 12/4/2025
-kind: Daily Log
-
+date: "12/04/2025"
+kind: "Daily Log"
 day_start:
   sleep_last_night: "03:00-06:30"
-
+  sleep_last_night_notes: ""
+  meds: "missed"
 activities:
-  - time: "0630-0830"
-    activity: "Rest"
+  - time: "06:30-08:30"
+    type: "Rest"
     description: "Rest in bed, some liminal state"
-  - time: "0830-0900"
-    activity: "Prep"
+  - time: "08:30-09:00"
+    type: "Maintenance"
     description: "Get ready for work"
-  - time: "0900-present"
-    activity: "Work"
+  - time: "09:00"
+    type: "Work"
     description: "Work"
-  - time: "1630-1800"
-    activity: "Sleep"
+  - time: "16:30-18:00"
+    type: "Sleep"
     description: "Nap"
 

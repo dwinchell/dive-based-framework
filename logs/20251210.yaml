@@ -1,14 +1,10 @@
 ---
-date: 12/10/2025
-kind: Daily Log
-
+date: "12/10/2025"
+kind: "Daily Log"
 day_start:
   sleep_last_night: "05:00-10:30"
-  sleep_last_night_notes: |
-    Stopped gaming at 03:30. Couldn't settle down.
-    AI chat kept brain spinning.
+  sleep_last_night_notes: "Stopped gaming at 03:30. Couldn't settle down.\nAI chat kept brain spinning.\n"
   meds: "11:00"
-
 activities:
   - time: "10:30-11:15"
     type: "Work"
@@ -17,7 +13,7 @@ activities:
     type: "Gaming"
     description: "Gaming"
   - time: "13:15"
-    type: "Lunch"
+    type: "Meal"
     description: "Lunch"
   - time: "13:45-14:45"
     type: "Sleep"
@@ -32,10 +28,10 @@ activities:
     type: "Gaming"
     description: "Guild Wars Reforged, 3 loops"
   - time: "00:30"
-    type: "Shower"
+    type: "Maintenance"
     description: "Shower"
   - time: "00:30"
-    type: "Bedtime checklist"
+    type: "Routine"
     description: "Bedtime checklist"
   - time: "00:30-01:30"
     type: "Rest"
@@ -44,7 +40,7 @@ activities:
     type: "Medication"
     description: "Melatonin"
   - time: "02:00"
-    type: "Awake"
+    type: "Status"
     description: "Still awake"
   - time: "02:00-04:45"
     type: "Media"

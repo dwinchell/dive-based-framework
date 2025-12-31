@@ -1,47 +1,30 @@
 ---
-date: 12/07/2025
-kind: Daily Log
-
+date: "12/07/2025"
+kind: "Daily Log"
 day_start:
   sleep_last_night: "05:30-11:00"
   sleep_last_night_notes: "Could not wear sleep mask because it smelled"
   meds: "12:00"
-
 activities:
   - time: "12:00"
     type: "Caffeine"
     description: "0.5 cup green tea"
-
   - time: "12:30"
     type: "Meal"
     description: "Breakfast"
-
   - time: "13:30-18:00"
     type: "Relational"
     description: "Relational outing with wife"
-
   - time: "13:45"
     type: "Meal"
     description: "Lunch"
-
   - time: "17:00"
     type: "Meal"
     description: "Dinner"
-
   - time: "18:30"
     type: "Maintenance"
     description: "Shower"
-
   - time: "19:00-21:00"
     type: "Sleep"
     description: "Nap"
-
-checklist:
-  7_hours_core_sleep: false
-  meds: true
-  breakfast_by_11: false
-  lunch_by_1300: false
-  dinner_by_1900: true
-  vigorous_exercise: false
-  prayer_of_serenity: true
 
