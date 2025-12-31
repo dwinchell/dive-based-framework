@@ -92,7 +92,7 @@ activities:
     description: "Meditation"
 
   - time: "02:00"
-    type: "InBed"
+    type: "In Bed"
     description: "In bed"
 
   - time: "02:30"

@@ -1,105 +1,81 @@
 ---
-date: 12/20/2025
-kind: Daily Log
-
+date: "12/20/2025"
+kind: "Daily Log"
 day_start:
   sleep_last_night: "04:30-10:45"
+  sleep_last_night_notes: ""
   meds: "10:50"
-
 activities:
   - time: "11:15"
     type: "Status"
     description: "Elevated mood"
-
   - time: "11:25-12:00"
     type: "Maintenance"
     description: "Cook and clean"
-
   - time: "12:00"
     type: "Meal"
     description: "Breakfast"
-
   - time: "12:00"
     type: "Status"
     description: "SR waning from lots of cleaning"
-
   - time: "12:00-12:40"
     type: "Relational"
     description: "Help mom with choosing a car"
-
   - time: "13:00"
     type: "EIP"
     description: "Name: angry, resentful, disrespected. Feel: chest/spine heat, jaw clenched, elevated heart/breathing. When: triggered by mom saying something similar to past hurtful patterns. Accept: this feeling is valid; past happened; today echoed it. Observe: I spoke up in the moment; convo ended; reflected afterward. Contextualize: old pattern activated. Adjust: next time end convo calmly and revisit later; focus on present feelings + boundaries; validate her stress; set boundary against hurtful statements; avoid word 'abusive'; don’t intervene or reference past unless tactful."
-
   - time: "13:45-14:45"
     type: "Relational"
     description: "Talk to wife about feelings"
-
   - time: "14:45"
     type: "Status"
     description: "Brain depleted from processing feelings; hungry; wife making lunch"
-
   - time: "14:45-15:30"
     type: "Relational"
     description: "Time with wife; comforting"
-
   - time: "15:00"
     type: "Meal"
     description: "Lunch; wife made it"
-
   - time: "15:30-17:30"
     type: "Sleep"
     description: "Nap with wife"
-
   - time: "17:30-20:15"
     type: "Relational"
     description: "Errands and dinner out with wife"
-
   - time: "20:20-21:20"
     type: "Relational"
     description: "Talk things out with mom"
-
   - time: "20:20-22:00"
     type: "Relational"
     description: "Time with wife"
-
   - time: "21:45"
     type: "Meal"
     description: "Dinner"
-
   - time: "22:00"
     type: "Routine"
     description: "Hard stop to take time to myself, per plan"
-
   - time: "22:05-23:10"
     type: "Gaming"
     description: "SC2"
-
   - time: "23:30-00:30"
     type: "Relational"
     description: "Intimacy and rest"
-
   - time: "00:30-01:30"
     type: "Maintenance"
     description: "Litter, shower, laundry"
-
   - time: "01:30"
     type: "Meal"
     description: "Snack; PBJ"
-
   - time: "01:45-02:30"
     type: "Guitar"
     description: "Guitar"
-
   - time: "02:45"
     type: "Medication"
     description: "Melatonin"
-
   - time: "02:50"
     type: "Routine"
     description: "Bedtime checklist"
-
   - time: "02:50"
-    type: "InBed"
+    type: "In Bed"
     description: "In bed; weighted blanket and heater"
 

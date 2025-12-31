@@ -1,104 +1,80 @@
 ---
-date: 12/21/2025
-kind: Daily Log
-
+date: "12/21/2025"
+kind: "Daily Log"
 day_start:
   sleep_last_night: "03:34-08:45"
+  sleep_last_night_notes: ""
   meds: "09:30"
-
 activities:
   - time: "10:00"
     type: "Status"
     description: "Tired. Bachelor longing"
-
   - time: "10:00"
     type: "Maintenance"
     description: "Refilled pill organizer after taking pills"
-
   - time: "10:00-10:45"
     type: "Rest"
     description: "Lay in bed and rest with weighted blanket and heater"
-
   - time: "11:00"
     type: "EIP"
     description: "Name: heartache, sadness, grief, guilt. Feel: stabbing chest pain, tears, brow furrowed. When: breakup-like pattern; post-marriage grief. Accept: feelings are real; old days are gone; Bachelor did its job. Observe: many comforts failed; pressure on chest, stomach-down position, breathing helped; shame/self-judgment present. Contextualize: ~5h sleep, ER weak, emotional processing yesterday, resisted gaming, recently went cold turkey on fiction/AI RPGs. Adjust: talk to Therapist (and likely wife); find safe outlet; stick to plan—no fiction, limit games, avoid dissociative loops."
-
   - time: "11:15"
     type: "Status"
     description: "Feeling better. Writing EIP and therapy talking points helped"
-
   - time: "11:45"
     type: "Exercise"
     description: "Begin BSW (Breathe · Stretch · Walk)"
-
   - time: "11:50"
     type: "Status"
     description: "Back officially spasming today; brewing all morning, getting worse. Noticed clearly during stretching"
-
   - time: "12:20"
     type: "Exercise"
     description: "BSW (Breathe · Stretch · Walk) completed"
-
   - time: "12:50"
     type: "Meal"
     description: "Lunch"
-
   - time: "13:00"
     type: "Status"
     description: "Begin 'sit with it and express empathy and solidarity' strategy for Bachelor longing; supplement with soothing meditation for the first round"
-
   - time: "13:15"
     type: "Relational"
     description: "Cuddled wife; asked her for advice"
-
   - time: "13:15-15:00"
     type: "Sleep"
     description: "Nap"
-
   - time: "15:00-16:30"
     type: "Rest"
     description: "Dozed lightly"
-
   - time: "16:30-19:00"
     type: "Rest"
     description: "Heater in bed; dozed"
-
   - time: "19:00-19:30"
     type: "Relational"
     description: "Cuddled"
-
   - time: "21:30"
     type: "Status"
     description: "Understimulated; brain feels fuzzy; weak; things feel aversive. Tired, a little sad. Craving stimulus—boredom-adjacent but not the same"
-
   - time: "22:00-23:00"
     type: "Gaming"
     description: "SC2. Started and stopped on schedule. Glorious run; good flow, lots of wind. Felt good"
-
   - time: "23:25-00:10"
     type: "Maintenance"
     description: "Litter, laundry, and shower"
-
   - time: "00:20"
     type: "Status"
     description: "Relaxed; less understimulated and less exhausted. Underlying slightly lowered mood present"
-
   - time: "02:00-02:20"
     type: "Routine"
     description: "Completed bedtime checklist"
-
   - time: "02:20-02:35"
     type: "Meditation"
     description: "Meditation before sleep"
-
   - time: "02:45"
-    type: "InBed"
+    type: "In Bed"
     description: "In bed"
-
   - time: "02:45"
     type: "Medication"
     description: "Melatonin"
-
   - time: "03:30"
     type: "Status"
     description: "Still awake"
