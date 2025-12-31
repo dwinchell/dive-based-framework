@@ -1,0 +1,85 @@
+date: "12/19/2025"
+type: "Daily Log"
+
+day_start:
+  sleep_last_night: "04:00-06:15"
+
+meds: "14:00"
+
+activities:
+  - time: "06:15-06:45"
+    type: "Rest"
+    description: "Liminal state"
+
+  - time: "07:15-14:00"
+    type: "Relational"
+    description: "Take wife to infusion"
+
+  - time: "07:45"
+    type: "Breakfast"
+    description: "Breakfast"
+
+  - time: "10:30-12:30"
+    type: "Work"
+    description: "Work"
+
+  - time: "12:00"
+    type: "Lunch"
+    description: "Lunch"
+
+  - time: "14:00-14:30"
+    type: "Work"
+    description: "Work"
+
+  - time: "14:30-15:20"
+    type: "Rest"
+    description: "Tried to nap; did not sleep"
+
+  - time: "15:20-17:45"
+    type: "Work"
+    description: "Work"
+
+  - time: "18:30-20:30"
+    type: "Nap"
+    description: "Nap"
+
+  - time: "20:30-00:15"
+    type: "Relational"
+    description: "Couch time"
+
+  - time: "21:00"
+    type: "Dinner"
+    description: "Dinner"
+
+  - time: "00:25-01:35"
+    type: "Gaming"
+    description: "SC2"
+
+  - time: "01:35-02:30"
+    type: "Maintenance"
+    description: "Litter, laundry, shower; daydreamed in the shower"
+
+  - time: "02:30-03:00"
+    type: "Intimacy"
+    description: "Sex, cuddle, nod off"
+
+  - time: "03:00-03:10"
+    type: "Maintenance"
+    description: "Second shower"
+
+  - time: "03:10-03:30"
+    type: "Checklist"
+    description: "Bedtime checklist"
+
+  - time: "03:30"
+    type: "Medication"
+    description: "Melatonin"
+
+  - time: "03:30"
+    type: "In bed"
+    description: "Feeling relaxed; using latest sleep playlist with no earbuds; using weighted blanket"
+
+  - time: "04:00"
+    type: "Status"
+    description: "Still awake; daydreaming about plans for gaming and crafts"
+

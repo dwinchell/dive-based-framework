@@ -1,0 +1,97 @@
+---
+date: 12/18/2025
+kind: Daily Log
+
+day_start:
+  sleep_last_night: "05:10-09:45"
+  meds: "10:00"
+
+activities:
+  - time: "10:15"
+    type: "Status"
+    description: "Cyclothymic upswing in progress (euthymic). Euphoric, energetic, confident."
+
+  - time: "10:15-10:30"
+    type: "Work"
+    description: "Short work block"
+
+  - time: "11:00-12:00"
+    type: "Therapy"
+    description: "Therapy session"
+
+  - time: "13:00"
+    type: "Meal"
+    description: "Breakfast; yogurt drink"
+
+  - time: "13:40"
+    type: "Meal"
+    description: "Lunch; chips and queso"
+
+  - time: "14:15-17:20"
+    type: "Work"
+    description: "Extended work block"
+
+  - time: "17:20-18:50"
+    type: "Gaming"
+    description: "Elite Dangerous"
+
+  - time: "19:00"
+    type: "EIP"
+    description: "Name: tired, sleepy, slightly anxious, slightly sad, hungry. Feel: done. When: unsure. Accept: done. Observe: gamed and stopped when interrupted; ordered food; chose laying down as next cope. Contextualize: insufficient sleep; anxiety-producing sales task at work; gaming afterward; relational interruption. Adapt: stick to plan; Elite Dangerous may be a no-go for gaming; find a planned dive opportunity; lay down and use weighted blanket; set alarm."
+
+  - time: "19:00-19:10"
+    type: "Rest"
+    description: "Lay down with weighted blanket"
+
+  - time: "19:20"
+    type: "Meal"
+    description: "Dinner"
+
+  - time: "19:30-21:30"
+    type: "Sleep"
+    description: "Nap"
+
+  - time: "22:40-23:30"
+    type: "Gaming"
+    description: "StarCraft II"
+
+  - time: "23:30-23:50"
+    type: "Maintenance"
+    description: "Shower"
+
+  - time: "23:50-00:20"
+    type: "Relational"
+    description: "Intimacy"
+
+  - time: "00:20-00:30"
+    type: "Recovery"
+    description: "Massage gun"
+
+  - time: "00:30-01:00"
+    type: "Recovery"
+    description: "Self care"
+
+  - time: "01:00-01:30"
+    type: "Routine"
+    description: "Bedtime routine"
+
+  - time: "01:35"
+    type: "InBed"
+    description: "Lights out / settling; listening to sleep playlist; using weighted blanket"
+
+  - time: "01:35"
+    type: "Medication"
+    description: "Melatonin"
+
+  - time: "02:30"
+    type: "Status"
+    description: "Out of bed; not sleepy"
+
+  - time: "02:55"
+    type: "Recovery"
+    description: "Chamomile tea (classically conditioned to feel sedated); listening to Massive Attack"
+
+  - time: "03:25"
+    type: "Status"
+    description: "Still awake"
+
