@@ -1,6 +1,6 @@
 ---
 date: 12/10/2025
-type: Daily Log
+kind: Daily Log
 
 day_start:
   sleep_last_night: "05:00-10:30"
