@@ -1,0 +1,33 @@
+---
+date: "12/29/2025"
+kind: "Daily Log"
+
+day_start:
+  sleep_last_night: "10:00-13:30"
+  sleep_last_night_notes: "Sleepless night; fell asleep at 10 AM after being sucked into YouTube all night (mostly rap documentary videos). Likely went nocturnal due to sleeping most of the previous day from back pain and muscle relaxants."
+  meds: "10:00"
+
+activities:
+  - time: "16:00-17:00"
+    type: "Sleep"
+    description: "Nap"
+
+  - time: "17:00"
+    type: "Status"
+    description: "Woke up again; sun is going down. Body rhythm clearly shifting nocturnal."
+
+  - time: "18:30"
+    type: "Meal"
+    description: "Meal"
+
+  - time: "19:20"
+    type: "Medication"
+    description: "Ibuprofen"
+
+  - time: "23:45"
+    type: "Medication"
+    description: "Ibuprofen"
+
+  - time: "03:30"
+    type: "Medication"
+    description: "Cyclobenzaprine 10mg"
