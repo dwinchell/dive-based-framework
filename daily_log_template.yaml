@@ -65,7 +65,7 @@ day_start:
 # Common activity types include (non-exhaustive):
 #   "Meal", "Sleep", "Work", "Gaming", "Maintenance", "Relational",
 #   "Therapy", "Medication", "Status", "Planning", "Rest",
-#   "Stabilization", "Stimulus", "Misc", "InBed"
+#   "Stabilization", "Stimulus", "Misc", "In Bed", "Reading", "Coding"
 #
 # Special cases:
 # - Meals:
