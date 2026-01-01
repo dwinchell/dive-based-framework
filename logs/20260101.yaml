@@ -1,0 +1,14 @@
+---
+date: "01/01/2026"
+kind: "Daily Log"
+day_start:
+  sleep_last_night: "07:00-11:00"
+  sleep_last_night_notes: "New Year's day. Late nights happen."
+  meds: "10:30"
+activities:
+  - time: "11:00-13:15"
+    type: "Maintenance"
+    description: "Thinking and emotional processing"
+  - time: "13:15"
+    type: "Relational"
+    description: "Couch time with wife"
