@@ -1,0 +1,14 @@
+---
+date: "01/02/2026"
+kind: "Daily Log"
+day_start:
+  sleep_last_night: "09:50-12:30"
+  sleep_last_night_notes: "Up all night reading and watching YouTube"
+  meds: "13:00"
+activities:
+  - time: "12:30"
+    type: "Maintenance"
+    description: "Orkin guy came"
+  - time: "13:00"
+    type: "Rest"
+    description: "Try to get back to sleep"
